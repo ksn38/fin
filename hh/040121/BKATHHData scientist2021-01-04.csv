@@ -1,0 +1,3091 @@
+tag,count
+Python,1200
+SQL,774
+Git,480
+Data Analysis,366
+Pandas,341
+Linux,326
+Математическая статистика,263
+C++,259
+Machine Learning,242
+Английский язык,231
+Анализ данных,230
+Numpy,205
+MS Excel,192
+Data Mining,185
+MySQL,182
+MATLAB,177
+PostgreSQL,176
+Keras,157
+Big Data,155
+ООП,155
+Java,139
+Machine learning,132
+Matplotlib,132
+HTML,130
+Статистический анализ,118
+Математический анализ,114
+pandas,113
+Работа в команде,112
+R,110
+JavaScript,108
+MS PowerPoint,102
+numpy,102
+Машинное обучение,101
+Математическое моделирование,100
+MS Office,99
+PyTorch,98
+Data Science,97
+CSS,97
+Scikit-learn,96
+C#,91
+NumPy,87
+Tensorflow,85
+Bash,84
+NLP,84
+C/C++,83
+Deep Learning,83
+Sklearn,81
+Docker,81
+sklearn,78
+Mathematical Statistics,77
+Аналитическое мышление,77
+MS SQL,77
+Аналитические исследования,72
+Управление проектами,69
+TensorFlow,67
+matplotlib,64
+Latex,64
+Пользователь ПК,64
+Ответственность,63
+ML,62
+VBA,62
+Spark,61
+scikit-learn,61
+Seaborn,60
+Pytorch,59
+Flask,58
+Обучаемость,56
+Django Framework,56
+Базы данных,53
+Analytical skills,53
+Грамотная речь,52
+MongoDB,50
+machine learning,50
+Работа с большим объемом информации,50
+MS Word,50
+MS SQL Server,50
+PHP,49
+Atlassian Jira,49
+Hadoop,49
+OpenCV,48
+Организаторские навыки,48
+Tableau,47
+SciPy,45
+Oracle Pl/SQL,44
+Adobe Photoshop,44
+Deep learning,43
+HTML5,42
+Работа с базами данных,40
+Statistics,39
+XGBoost,39
+Математическое программирование,39
+Computer Vision,39
+Jupyter Notebook,39
+Прогнозирование,37
+Scipy,37
+Jupiter,37
+Scikit-Learn,36
+tensorflow,36
+Project management,36
+Статистика,36
+Mathematical Analysis,34
+MS Visual Studio,34
+Деловая переписка,34
+Presentation skills,33
+AutoCAD,33
+Теория вероятностей,32
+seaborn,31
+Power BI,30
+Qt,29
+Data science,29
+Работоспособность,29
+MS Access,29
+Mathcad,29
+CatBoost,28
+keras,28
+pytorch,28
+scipy,28
+Нейронные сети,27
+Коммуникабельность,27
+Деловое общение,26
+Написание научных статей,26
+jQuery,26
+Аналитический склад ума,26
+Mathematical Modeling,26
+Business Analysis,25
+Регрессионный анализ,25
+Time Series Analysis,25
+Ведение переговоров,25
+машинное обучение,25
+Научные исследования,24
+Neural Networks,24
+UML,24
+XML,24
+Regression Analysis,24
+CNN,23
+xgboost,23
+Sas,23
+LightGBM,23
+Wolfram Matematica,22
+C,22
+SCALA,22
+Computer vision,22
+Scrum,22
+Проведение презентаций,22
+NLTK,21
+NoSQL,21
+CSS3,21
+Jupyter,21
+Natural Language Processing,20
+A/B тесты,20
+Управление персоналом,20
+.NET Framework,19
+MS Outlook,19
+Анализ временных рядов,19
+Visual Studio C#,19
+Линейная алгебра,19
+Водительское удостоверение категории B,19
+Исполнительность,18
+Bootstrap,18
+Деловая коммуникация,17
+Statistica,17
+Hive,17
+Cистемы управления базами данных,17
+Neural networks,17
+Руководство коллективом,16
+Business English,16
+Публичные выступления,16
+ORACLE,16
+Стрессоустойчивость,16
+Unix,16
+SPSS,16
+SQLite,16
+Целеустремленность,15
+PyCharm,15
+Google Analytics,15
+Обучение и развитие,15
+Agile Project Management,15
+Аналитика,15
+SVN,15
+Бизнес-анализ,15
+Redis,14
+Internet,14
+Kaggle,14
+Подготовка презентаций,14
+Random Forest,14
+Ориентация на результат,14
+deep learning,14
+Jupyter notebook,14
+JSON API,14
+Mathematical Programming,13
+Mac Os,13
+Умение работать в команде,13
+Научная деятельность,13
+Ajax,13
+Assembler,13
+RNN,13
+PySpark,13
+Разработка ПО,13
+Data Visualization,12
+Stata,12
+Data Mining: Statistica,12
+Обучение персонала,12
+Econometrics,12
+data science,12
+Информационные технологии,12
+IBM SPSS,12
+Креативность,12
+Разработка технических заданий,12
+Android,12
+MapReduce,12
+MS Project,12
+Microsoft Visual Studio,12
+Software Development,11
+REST,11
+docker,11
+Системный анализ,11
+Maple,11
+Transact-SQL,11
+Оптимизация бизнес-процессов,11
+Data Mining: Business Analytica,11
+Теория вероятности,11
+computer vision,11
+Catboost,11
+SQL Server,11
+Octave,10
+Умение работать в коллективе,10
+CRM,10
+Delphi,10
+Грамотность,10
+MS Visual Basic,10
+Plotly,10
+PHP5,10
+hadoop,10
+RStudio,10
+Немецкий язык,9
+Financial Analysis,9
+Xgboost,9
+ETL,9
+Алгоритмы,9
+API,9
+Преподаватель,9
+MS Visual C++,9
+Adobe Illustrator,9
+Jenkins,9
+Team management,9
+AWS,9
+Визуализация данных,9
+MS Visio,9
+RabbitMQ,9
+Research,9
+STL,9
+EViews,8
+Навыки презентации,8
+Time management,8
+Компьютерное зрение,8
+Microsoft Azure,8
+Обучение,8
+R language,8
+Быстрая обучаемость,8
+ASP.NET,8
+Data Scientist,8
+Конференции,8
+Node.js,8
+opencv,8
+Компас-3D,8
+Поиск информации в интернет,8
+Веб-программирование,8
+Math,8
+Algorithms,8
+Negotiation skills,8
+React,8
+Databases,8
+Администрирование серверов Linux,8
+Teamplayer,8
+Экономический анализ,8
+Leadership Skills,8
+catboost,8
+Eclipse,8
+Финансовый анализ,8
+R programming,8
+Unit Testing,8
+neural networks,8
+Web Application Development,8
+Кластерный анализ,8
+Управление командой,8
+Cluster Analysis,8
+Atlassian Confluence,7
+Яндекс.Метрика,7
+Driving Licence B,7
+GAN,7
+1С: Предприятие 8,7
+XGboost,7
+Images Processing,7
+Reinforcement learning,7
+Risk management,7
+plotly,7
+Gradient Boosting,7
+Pycharm,7
+EDA,7
+Design Patterns,7
+СУБД,7
+Teamleading,7
+Эконометрика,7
+Управленческие навыки,7
+Windows 7,7
+GitHub,7
+SolidWorks,7
+Тестирование,7
+Adobe Premier Pro,7
+Pascal,7
+BPMN,7
+MVC,7
+Google Docs,7
+CorelDRAW,7
+Intellij IDEA,7
+iOS,6
+Data Mining: SPSS,6
+Probability Theory,6
+scikit learn,6
+Алгоритмы и структуры данных,6
+Tensor Flow,6
+word2vec,6
+Haskell,6
+Планирование,6
+Communication skills,6
+lightgbm,6
+Teradata,6
+AI,6
+Borland Delphi,6
+Arduino,6
+Oracle 11G,6
+Linear Algebra,6
+Bloomberg,6
+ERP,6
+Парсинг,6
+torch,6
+Visualisation,6
+Marketing Analysis,6
+Fortran,6
+Joomla CMS,6
+BeautifulSoup,6
+Nginx,6
+Пунктуальность,6
+Сбор и анализ информации,6
+Business intelligence,6
+Ruby On Rails,6
+Windows,6
+Исследовательский анализ данных,6
+CV,6
+нейронные сети,6
+CMS Wordpress,6
+Anaconda,6
+Logistic Regression,6
+RapidMiner,6
+Selenium,6
+Google Cloud Platform,6
+nltk,6
+BERT,6
+SAS Guide,6
+Автоматизация,6
+Предобработка данных,6
+Azure,5
+PowerBI,5
+Unity,5
+TCP/IP,5
+Kotlin,5
+CUDA,5
+База данных: Oracle,5
+Gensim,5
+теория вероятности,5
+Interpersonal skills,5
+R Programming,5
+Pyspark,5
+Text Mining,5
+SAP ERP,5
+Business Intelligence Systems,5
+Численные методы,5
+Заключение договоров,5
+statsmodels,5
+ARIS,5
+Machine Learning (ML),5
+Системное мышление,5
+визуализация данных,5
+Cross Validation,5
+Perl,5
+SAP,5
+Визуализация,5
+PyMystem3,5
+BigQuery,5
+Python 3,5
+Подготовка отчетов,5
+Письменный перевод,5
+Olap (online analytical processing),5
+Бюджетирование,5
+Statsmodels,5
+A/B тестирование,5
+Java SE,5
+ITIL,5
+Анализ рынка,5
+ANSYS,5
+Экономическое моделирование,5
+Факторный анализ,5
+SAS Miner,5
+Market Research,5
+Дискретная математика,5
+Kafka,5
+Веб-аналитика,5
+Artificial Intelligence,5
+Access,5
+OOP,5
+Information Technology,4
+QA,4
+tableau,4
+Simulink,4
+Golang,4
+Ruby,4
+R studio,4
+Forecasting,4
+JSON,4
+Airflow,4
+ClickHouse,4
+kaggle,4
+Data Cleaning,4
+Angular,4
+Знание иностранных языков,4
+Корпоративные финансы,4
+Scrapy,4
+DNN,4
+Linear Programming,4
+Spring Framework,4
+Ubuntu,4
+pytest,4
+R Studio,4
+Искусственный интеллект,4
+Autodesk Inventor,4
+Разработка проектной документации,4
+json,4
+Neural network,4
+LSTM,4
+AngularJS,4
+gensim,4
+Мотивация персонала,4
+Проектный менеджмент,4
+Probability theory,4
+Обработка естественного языка,4
+Индивидуальное обучение,4
+ERP Systems,4
+Анализ финансовых показателей,4
+Лидерские качества,4
+tidyverse,4
+Elasticsearch,4
+Gretl,4
+Математика,4
+Трудолюбие,4
+jupyter notebook,4
+Simulation Modeling,4
+Statistical Analysis System,4
+Аналитика продаж,4
+math,4
+SMM,4
+NetBeans,4
+Контроль качества,4
+FastAPI,4
+Selenium IDE,4
+Excel,4
+Financial Modelling,4
+Jira,4
+Бизнес-моделирование,4
+data visualization,4
+SEO,4
+компьютерное зрение,4
+System Analysis,4
+Vue.js,4
+QlikView,4
+Jupiter Notebook,4
+Бизнес-планирование,4
+Творческое мышление,4
+Бухгалтерский учет,4
+С++,4
+Kanban,4
+Active Directory,4
+Apache Tomcat,4
+Python3,4
+Decision Trees,4
+Android SDK,4
+Написание научный статей,4
+Spacy,4
+networkx,4
+Маркетинговый анализ,4
+VMware,4
+Shell Scripting,4
+Clickhouse,4
+Bioinformatics,3
+Computer Vision (CV),3
+DVC,3
+Reinforcement Learning,3
+Google API,3
+Имитационное моделирование,3
+QGIS,3
+Teambuilding,3
+эконометрика,3
+Web Scraping,3
+Управленческая отчетность,3
+Компьютерная лингвистика,3
+Data Analytics,3
+cuda,3
+Scikit learn,3
+HTTP,3
+BPWin,3
+ERP-системы на базе 1С,3
+Lua,3
+Apache Hadoop,3
+Lenear algebra,3
+Prezi,3
+Impala,3
+Neo4j,3
+ЕСКД,3
+Internet Marketing,3
+tensor flow,3
+Оптимизация бизнес процессов,3
+Data preprocessing,3
+Французский язык,3
+Ubuntu Server,3
+Навыки межличностного общения,3
+Data visualization,3
+Information Security,3
+WPF,3
+Mathematics,3
+Алгоритмы машинного обучения,3
+Анализ рисков,3
+Знание алгоритмов и структур данных,3
+Apache Spark,3
+Research And Development,3
+Flume,3
+Vertica,3
+IDEF0,3
+Azure ML,3
+Ansible,3
+Проектирование,3
+Entity Framework,3
+Grafana,3
+Power Query,3
+ASP.NET MVC,3
+ORM,3
+Автоматизация процессов,3
+Управление продажами,3
+Подбор персонала,3
+Организация мероприятий,3
+Numba,3
+Optimization,3
+GCP,3
+MS Power BI,3
+Внимательность к деталям,3
+Probability/Statistics,3
+SAP BI,3
+Caffe,3
+DWH,3
+Анализ инвестиционных проектов,3
+С#,3
+SAP Business Objects,3
+PowerShell,3
+Data Engineering,3
+Администрирование,3
+Prometheus,3
+reinforcement learning,3
+Adobe After Effect,3
+Google Colab,3
+SAP HR,3
+Цифровая обработка сигналов,3
+Регресcионное тестирование,3
+Анализ бизнес показателей,3
+Start-up  project,3
+Pl/Python,3
+Github,3
+Agile,3
+Clustering,3
+Легкообучаемость,3
+Hardware,3
+Робототехника,3
+Product Management,3
+Google AdWords,3
+Predictive Analytics,3
+Управление интернет-проектами,3
+Digital Marketing,3
+Управление качеством,3
+SAS Enterprise Miner,3
+Physics,3
+Тайм-менеджмент,3
+Budgeting,3
+1С: Управление Производственным Предприятием,3
+Public Speaking,3
+Redux,3
+Анализ,3
+Data Visualisation,3
+Credit Risk,3
+gradient boosting,3
+Lightgbm,3
+OpenMP,3
+линейная алгебра,3
+Go,3
+Консолидация финансовой отчетности,3
+Глубокое обучение,3
+Финансовое моделирование,3
+Самостоятельность,3
+Celery,3
+ITSM,3
+Cisco,3
+Ведение переписки на иностранном языке,3
+Работа с документами,3
+3D Моделирование,3
+Django,3
+Временные ряды,3
+градиентный бустинг,3
+Linear Regression,3
+feature engineering,3
+Проверка гипотез,3
+PyQt5,3
+Busines Valuation,3
+Dask,3
+Нейросети,3
+Embarcadero Delphi,3
+Convolutional Neural Networks,3
+AllFusion ERwin Data Modeler,3
+OpenGL,3
+Tensorflow/Keras,3
+Nltk,3
+WEB аналитика,3
+Feature Engineering,3
+VueJS,3
+ArcGIS,3
+Работа с юридическими лицами,3
+Unigraphics NX,3
+МСФО,3
+Statistical Modeling,3
+Коммуникативные навыки,3
+Google Data Studio,3
+IDEF,3
+SkLearn,3
+Torch,3
+Web scraping,2
+Networking,2
+Технический перевод,2
+Логистика поставок,2
+Management Reporting,2
+DevOps,2
+scikit,2
+Маркетинговые исследования,2
+Оптимизация логистических процессов,2
+Информационная безопасность,2
+SSIS,2
+Quik,2
+MS Dynamics NAV,2
+Основы линейной алгебры,2
+Deductor,2
+Data analytics,2
+Дифференциальные уравнения,2
+Visual Basic,2
+MS Navision,2
+Phyton,2
+Investment Analysis,2
+Unsupervised Learning,2
+DL,2
+Blockchain,2
+Natural language processing,2
+Высокая скорость печати,2
+Линейное программирование,2
+Распознавание речи,2
+Финансовое планирование,2
+Apache Maven,2
+Java EE,2
+Высшая математика,2
+метрики классификации,2
+ROC-AUC,2
+Навыки продаж,2
+Modeling,2
+ml,2
+Обработка данных,2
+Regular Expressions,2
+remote sensing,2
+Работа с людьми,2
+Ведение отчетности,2
+Octave/Matlab,2
+Matplotlb,2
+PIL,2
+Artificial Neural Networks,2
+Работа с претензиями,2
+Neural Network,2
+R (язык программирования),2
+Maths,2
+R programming language,2
+Sales Skills,2
+Консультирование,2
+Желание учиться,2
+Физика,2
+метрики регрессии,2
+SketchUp,2
+Отзывчивость,2
+TF-IDF,2
+Написание статей,2
+mathematics,2
+Групповое обучение,2
+Advanced SQL,2
+Финансовый контроль,2
+MS SharePoint,2
+Функциональный анализ,2
+Signal processing,2
+логическое мышление,2
+Тензорный анализ,2
+Slack,2
+матричные операции,2
+вычислительная сложность алгоритмов,2
+Unix Shell Scripts,2
+Game theory,2
+Java Servlets,2
+взаимосвязь данных,2
+JSP,2
+Внутренний контроль,2
+Торговля,2
+MPI,2
+ASP.NET Core,2
+Continuous integration,2
+PMBOK,2
+E-Commerce,2
+Технические средства информационной защиты,2
+Supervised Learning,2
+.NET Core,2
+selenium,2
+phpMyAdmin,2
+object detection,2
+Signal Processing,2
+linear algebra,2
+CFD,2
+cython,2
+Object Pascal/Delphi,2
+econometrics,2
+ResNet,2
+power bi,2
+Python pandas,2
+Business Consulting,2
+MicroStrategy,2
+Аналитические способности,2
+Business Planning,2
+SAP BW,2
+ElasticSearch,2
+SparkML,2
+Vkontakte Api,2
+Facebook API,2
+Laravel,2
+Data visualisation,2
+Solid Works,2
+Prolog,2
+Парсинг сайтов,2
+neural network,2
+Petrel,2
+English,2
+Клиентоориентированность,2
+C++11,2
+Strategic Planning,2
+Большие данные,2
+Порядочность,2
+Swift,2
+Data scientist,2
+Дисциплинированность,2
+Моделирование бизнес процессов,2
+Скоринговая карта,2
+Схемотехника электронного оборудования,2
+Проверка статистических гипотез,2
+python matplotlib,2
+Xcode,2
+BigARTM,2
+Artificial intelligence,2
+Упорство,2
+Ad Hoc Analysis,2
+Деревья решений,2
+Economics,2
+MSSQL,2
+Nuclear Physics,2
+Amazon Web Services,2
+Erlang,2
+Техническая поддержка,2
+Business Development,2
+Probability,2
+Classification,2
+Regression,2
+Управленческий учет,2
+Virtualization,2
+Администрирование серверов Windows,2
+Machine Learning Algorithms,2
+DeepPavlov,2
+Start-up project,2
+Conda,2
+Инвестиционный анализ,2
+IFRS,2
+Zabbix,2
+Predictive Modeling,2
+Corporate Finance,2
+1C: Бухгалтерия,2
+кластеризация,2
+Терапия,2
+elasticsearch,2
+Crystal Reports,2
+Описательная статистика,2
+Регулярные выражения,2
+MatPlotLib,2
+предобработка данных,2
+Financial Planning,2
+Классификация,2
+SciKit-Learn,2
+CNTK,2
+1С программирование,2
+Слепая печать,2
+Training,2
+SOAP,2
+ScikitLearn,2
+NLU,2
+Power Pivot,2
+Artificial Intelligence (AI),2
+Advanced mathematics,2
+Business Modeling,2
+TFS,2
+CODESYS,2
+Version Control System,2
+Фондовый рынок,2
+SCADA,2
+Lean Production,2
+Unsupervised learning,2
+pyspark,2
+Lotus Notes,2
+Написание процедур,2
+временные ряды,2
+Qlik,2
+Внутренний аудит,2
+Oracle 10G,2
+Генетические алгоритмы,2
+Jupyter Notebooks,2
+Programming,2
+GitLab,2
+Verilog HDL,2
+Написание текстов,2
+FORTRAN,2
+Algorithms and Data Structures,2
+Amazon AWS,2
+1С: CRM ПРОФ,2
+Typescript,2
+DB2,2
+Работа с данными,2
+написание аналитических текстов,2
+Dlib,2
+Управление разработкой,2
+UDPipe,2
+Рекомендательные системы,2
+Hardworking,2
+Js,2
+SAS EG,2
+A/B testing,2
+QlikSense,2
+Психология,2
+ggplot2,2
+RandomForest,2
+кредитные риски,2
+GIS,2
+Object-oriented programming,2
+Sass,2
+Составление бизнес-плана,2
+Wolfram Mathematica,2
+Организация тренинга для новых сотрудников,2
+Google Maps Api,2
+Настройка ПК,2
+Product Development,2
+Objective-C,2
+airflow,2
+clickhouse,2
+Digital Visual Fortran,2
+IBM Lotus Notes,2
+SAS Enterprise Guide,2
+DS,2
+WCF,2
+SVM,2
+sci-kit learn,2
+Работа с оргтехникой,2
+Iron Python,2
+Reporting,2
+Decision tree,2
+Analysis,2
+Аналитик,2
+HDFS,2
+requests,2
+Clojure,2
+Parsing,2
+Стратегическое мышление,2
+Predictive Modelling,2
+CentOS,2
+F#,2
+Development,2
+VGG,2
+Autodesk Maya,2
+TDD,2
+Soft skills,2
+Blender 3D,2
+Scikit Learn,2
+Economic indicators calculation,2
+Windows Server,2
+Algorithms and data structures,2
+Python Scikit-learn,2
+Computational Linguistics,2
+Looker,2
+Административное управление,2
+Python Pandas,2
+Консультант плюс,2
+Maven,2
+ADO.NET,2
+Анализ себестоимости,2
+Opencv,2
+NN,2
+Язык R,2
+Recommender systems,2
+Information Retrieval,2
+spaCy,2
+математика,2
+3ds Max,2
+JS,2
+random forest,2
+jupyter,2
+Artificial neural network,2
+Текстовый анализ,2
+COBIT,2
+С,2
+Map Reduce,2
+теория вероятностей,2
+Разработка алгоритмов CV,2
+theory of probability,2
+REST API,2
+Полевые исследования,2
+Theano,2
+Dash,2
+Digital Signal Processing,2
+1С-Битрикс,2
+Deep Learning (DL),2
+Oil And Gas,2
+Word2vec,2
+Asterisk,2
+Теория игр,2
+Интернет-реклама,2
+Программирование,2
+Investment Banking,2
+R Shiny,2
+fbprophet,2
+DRF,2
+openCV,2
+Administration Management,2
+Mathematica,2
+Qlik Sense,2
+Нагрузочное тестирование,2
+Linux/Bash,2
+Consulting,2
+XPath,2
+Ориентация на клиента,2
+Проведение тестирований,2
+InfluxDB,2
+Государственные закупки,2
+Hyperopt,2
+Language Models,2
+FEA,2
+transformers,2
+Техническая документация,2
+Стратегическое планирование,2
+django,2
+Word Embedding,2
+Vue,2
+kNN,2
+HBase,2
+Problem solving,2
+рекомендательные системы,2
+Boost,2
+Методы оптимизации,2
+Web-scrapping,2
+Логическое мышление,2
+Нацеленность на результат,2
+Телефонные переговоры,2
+Лидерство,2
+Market Segmentation,2
+Моделирование,2
+Qlikview,2
+BI,2
+GraphDB,1
+Predictive maintenance,1
+"Pandas, numpy, matplotlib, sklearn",1
+"Java, JavaScript, Delphi, C++, C#",1
+C++ - Basic level,1
+Python - Advanced level,1
+SPARQL,1
+Topological Data Analysis,1
+Neuron Network,1
+Optimal transport,1
+Plsql,1
+Опыт реализации алгоритмов машинного обучения с нуля,1
+Онтология,1
+Google SketchUp,1
+mathlab,1
+Intermediate Matplotlib,1
+навыки machine learning,1
+Навыки работы с CNN,1
+Работа с разными операционными системами,1
+Навыки работы с временными рядами,1
+Чтение технической литературы,1
+"Data science, Machine learning, Deep learning, Bayesian methods, Python, Java, Matlab",1
+"Командообразование, Управление ИТ, Программирование",1
+Знание теории вероятности и основ мат.статистики,1
+SHACL,1
+Symfony,1
+Protege,1
+Numerical Simulations,1
+"Уверенное знание Python и классического ML-стэка (scikit-learn, pandas, numpy, scipy)",1
+biotech,1
+"Отличное владение Microsoft Excel, PowerPoint",1
+Non parametric statistics,1
+Firebase Db,1
+Writing Skills,1
+CPython,1
+Управление знаниями,1
+Quality Control,1
+"MS SQL, Oracle, PostgreSQL",1
+d3.js,1
+machine Learning,1
+RDF,1
+Design Thinking,1
+audio / vibration analysis,1
+"ITSM, ITIL, BPMN",1
+Оценка инвестиционных проектов,1
+Знание базовых алгоритмов машинного обучения,1
+Понимание архитектуры нейронных сетей,1
+формирование SQL выборок данных,1
+"Теория вероятностей, линейная алгебра, математический анализ, дискретная математика",1
+Знание ПБУ и бухгалтерского учета,1
+Spectroscopy,1
+Хороший математический аппарат (успешное выступление на внутривузовских олимпиадах),1
+Инновационный менеджмент,1
+Jena,1
+Теория графов,1
+Intermediate Google Analytics,1
+адаптация к вверенным обязательствам,1
+1C: Зарплата и кадры,1
+"Python - начальный уровень, Pandas - начальный уровень",1
+построение математических моделей,1
+Опыт работы с ОС Linux,1
+HBASE,1
+GPy,1
+Опыт работы в среде MATLAB,1
+полная отдача поставленной задаче,1
+Intermediate SQL,1
+умение работы в команде,1
+Nuclear reactions,1
+высокая результативность,1
+Reduce,1
+Контроль дебиторской задолженности,1
+Привлечение банковского финансирования,1
+PyMC3,1
+высокий профессионализм,1
+Nvidia DIGITS,1
+Составление сметно-проектной документации,1
+Логистический менеджмент,1
+Оценка рисков,1
+c51,1
+"Statistical Data Analysis,",1
+seq2seq,1
+Составление договоров,1
+Microsoft PowerBI,1
+базовые навыки программирования на Python,1
+ДипИФР,1
+High energy physics,1
+Автоматизация управленческой отчетности,1
+Intermediate Pythonand Pandas,1
+Robotics,1
+Cloud Computing,1
+ACCA,1
+Консолидация международной отчетности,1
+Italian - B2 level,1
+QFT,1
+Deep Neural Network,1
+English - C1 level,1
+"Big Data,",1
+навыки deep leraning,1
+Regression Models,1
+Taaching,1
+lgbm,1
+"ML,Python,R",1
+pymorphy2,1
+"Data Manipulation and Data Visualization using SQL, Python, Plotly, Power BI and Tableau",1
+User Churn,1
+ETL-Process experience,1
+Web-crawling,1
+churn rates,1
+Internet of things,1
+Base Machine learning,1
+HyperOpt,1
+Inkscape,1
+"Machine Learning, Natural Language Processing, NumPy",1
+Autodesk 3ds Max,1
+Neo4J,1
+PLC,1
+WinCC,1
+TIA Portal,1
+Mathematical Logic,1
+MXNet,1
+организованность,1
+Методы искусственного интеллекта,1
+Scikit- learn,1
+Recommendation Engines,1
+Collaboration,1
+"Excel/Spreadsheets(pivot, vlookup)",1
+Организация и планирование рабочего времени,1
+Wonderware,1
+mapping conversion paths,1
+SQL for Analysis,1
+Digital rock analysis,1
+A/B tests,1
+scikit-,1
+fluent English,1
+Processing and interpretation seismic and well logging data,1
+Usage Funnels,1
+R Language,1
+Обслуживание покупателей,1
+Anomaly detection,1
+SparkR,1
+Predictive Maintenance,1
+Optimal control,1
+Aspen HYSYS,1
+IoT,1
+Industry 4.0,1
+Нарративная психология,1
+Trading analytics,1
+scikit-learn/Pandas,1
+Data Visualization (DataViz),1
+Topic Model,1
+ms azure ml,1
+Oxygen Xml Editor,1
+XMLSpy,1
+Data Engeneering,1
+HTML5/CSS,1
+light gbm,1
+MS teams,1
+1С: Предприятие 7,1
+"прикладная математика (теория вероятности, статистика)",1
+"Методы визуализации данных (matplotlib, seaborn)",1
+Библиотеки Numpy и Pandas,1
+алгоритмы и структуры данных,1
+теория вероятностей и математическая статистика,1
+TensorFlow/Keras/Theano/TFLearn,1
+Dataa Analysis,1
+Medical image analysis,1
+Болею за свое дело,1
+Спортивное программирование,1
+Data engineering,1
+"statsmodels, pytest, keras, tensorflow",1
+компьютерная лингвистика,1
+"1 Group Faculty of Economics, Lomonosov Moscow State University",1
+исполнение поручений руководителя,1
+DICOM,1
+IT Consulting,1
+Medical imaging,1
+Biomarkers,1
+Биологические исследования,1
+Компьютерная томография,1
+ITK,1
+NIFTI,1
+Quantitative skills (graduate Program in Quantitative Analysis in Center of Mathematical Finance),1
+histopathological imaging,1
+Система компьютерной алгебры WxMaxima,1
+Selenuim,1
+R program,1
+Общая психология,1
+Планирование продаж,1
+Predictive models,1
+Tumor,1
+Mathematical Biology,1
+Debian,1
+CFA,1
+Redhat,1
+RHEL,1
+Linux Server Administration,1
+Rlang,1
+Amazon web services,1
+Fraud Detection,1
+Credit Scoring,1
+Hyperledger Fabric,1
+Epsilon Generating Language,1
+SQLAlchemy,1
+Seleniunm,1
+figma,1
+"numpy, sklearn, matplotlib",1
+"python3; pyspark, pandas",1
+Алгоритмы и структуры данных;,1
+Модель системы принятия решений для ИИ,1
+Информационная модель Психики.,1
+Доскональное знание Психики,1
+Опыт руководства,1
+Создание творческих коллективов,1
+Цифровая Психика,1
+Система принятия решений,1
+Научное исследование,1
+C++; C,1
+Windows Server 2003,1
+Statistical Data Analysis,1
+Artifitial Intelligence,1
+NLP (Natural Language Processing),1
+Knowledge Processing,1
+Knowledge Acquisition,1
+MySQL/MariaDB/SQLite,1
+Wolfram,1
+Технический английский,1
+Мат. статистика/Теория вероятности,1
+Detection System,1
+Английский язык B1 чтение технической литературы,1
+Основы Machine learning,1
+Легко обучаюсь,1
+Нейросети для обработки изображений и текстов,1
+Основы машинного обучения,1
+PlotLy,1
+DL(TensorFlow and keras and pytorch),1
+DL(TensorFlow and pytorch),1
+MATLAB/SQL/Git,1
+"parallel computing MPI, Cuda",1
+Python and R,1
+Applied mathematics and mathematical statistics,1
+Теория Функциональных Систем,1
+Информационно-аналитические системы,1
+Anomaly Detection,1
+C#: знание базового синтаксиса и основных операций,1
+MS Acces,1
+Express,1
+React Native,1
+datascience,1
+"HTML, CSS,",1
+Менеджмент,1
+Silverlight,1
+MS SSIS,1
+Сборка ПК,1
+DialogFlow,1
+"Опыт работы с программами для автоматической обработки звучащей речи (Speech Analyzer, Cool)",1
+Опыт работы в среде STATISTICA,1
+Опыт работы с программой для дискурсивной размети (ELAN),1
+"Опыт работы с программами для автоматической обработки текста (FOMA, GATE, Tomita)",1
+"Python: использование библиотек sklearn, NumPy, SciPy, matplotlib, NLTK, spaCy, networks",1
+Выявление аномалий,1
+Английский язык (Upper-Intermediate),1
+"Python(Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Requests, Lxml, statsmodels, TensorFlow)",1
+SWIFT,1
+Разработка алгоритмов,1
+MRP,1
+scitik-learn,1
+scikit-image,1
+Когнитом,1
+Семантический поиск,1
+Извлечение знаний,1
+Игровая аналитика,1
+Обучающие системы,1
+Базы знаний,1
+Системы мониторинга,1
+Работа с клиентами,1
+Активные продажи,1
+Deep Neural Networks,1
+• Выявление эффективных закономерностей,1
+Bs4,1
+Перевод художественной литературы,1
+Arch,1
+Работа с научной литературой,1
+Коучинг,1
+• Анализ больших объемов данных,1
+• Разработка и тестирование торговых алгоритмов,1
+Higher math,1
+"• Работа с пакетом MS Office (Excel), EViews",1
+• Технический анализ,1
+• Торговля финансовыми активами,1
+алгоритмы арбитражного трейдинга,1
+Python for Data science,1
+Machine learning (на базовом уровне),1
+Telegram боты,1
+Бэк-энд разработчик,1
+Randomforest,1
+AntiFraud,1
+Embeddings,1
+Свёрточные нейронные сети,1
+Опытный пользователь ПК,1
+"Владение языками программирования Python, Fortran",1
+Работа с эмбеддингами,1
+Supervised learning,1
+T-shaped,1
+Algorithms and Data structures,1
+Software engineering,1
+Разработка нового продукта,1
+Цифровая обработка речевых сигналов,1
+MS Azure,1
+Aris Express,1
+Cron,1
+численные методы,1
+Портфельные риски,1
+Знание Deep Learning и Machine Learning,1
+Знаю статистику и теорию вероятности,1
+Знаю методы машинного обучению,1
+Усидчивость,1
+Любознательность,1
+Modelsim,1
+"Python, Tensorflow, Scikit-learn, Keras, OpenCV",1
+Обработка изображений,1
+logstash,1
+Квантовая физика,1
+Физика твёрдого тела,1
+ANOVA,1
+Подготовка презентаций на иностранном языке,1
+"MANOVA, MANCOVA, MLR",1
+Discrete Mathematics,1
+Осваиваю SQL,1
+Владею Python на 6 из 10,1
+Анализ данных в R,1
+Support Vector Machines,1
+Нейрокомпьютинг,1
+Ксластеризация данных,1
+differential equations,1
+Management Skills,1
+Hysys process simulation,1
+Сегментация рынка,1
+Distributed Data Analytics,1
+Оптимизация,1
+arduino,1
+Pentaho,1
+Способность быстро учиться,1
+перевод научной литературы,1
+Химические методы анализа,1
+BABOK 3.0,1
+numpy/scipy/matplotlib,1
+Теория машинного обучения,1
+Финансовые инструменты (рынок ценных бумаг),1
+Microsoft Office,1
+Лемматизация,1
+Обработка текстов,1
+C programming,1
+Хранилища данных,1
+Знание Exel,1
+Знание Phyton,1
+Дашборды в R,1
+Знание бухучета и бухгалтерии,1
+Умение работать в сжатые сроки,1
+Умение работать с большим объемом данных,1
+Picktochart,1
+Peewee,1
+ReactJS,1
+Эконометрическое моделирование на языке R,1
+Econometrics (R).,1
+Мотивация,1
+metrics,1
+machine learning for data science,1
+Watson Assistant,1
+Pymorphy2,1
+Паттерны проектирования,1
+Знание основных алгоритмов и структур данных,1
+"Знание принципов асинхронного, многопоточного, параллельного программирования",1
+"JS, HTML, CSS",1
+искусственные нейронные сети,1
+системный администратор,1
+Swagger,1
+Async Python,1
+ABC analysis,1
+Прямые продажи,1
+структуры данных и алгоритмы,1
+computer vision (CV),1
+технический английский,1
+"Уверенный пользователь ПК ; MS Office (Word, Exсel, Power Point, Access) ;",1
+А/В тестирование,1
+Oracle Reports,1
+IBM InfoSphere DataStage,1
+Венчурное финансирование,1
+Text Analytics,1
+Построение индивидуальных планов развития,1
+Разработка PR стратегии,1
+Comsol Multiphysics,1
+Развитие бренда,1
+Strategic Marketing,1
+Cоциальный маркетинг,1
+Sas RTDM,1
+Sas Miner,1
+Sas Guide,1
+"фундаментальные математические понятия, необходимыми для анализа данных, начальные навык программиро",1
+"Computer Vision, Machine Learning, Data Science",1
+Business Valuation,1
+Investment Project Analysis,1
+У меня бронзовая медаль в Kaggle,1
+DIALux,1
+IELTS,1
+Scientific python,1
+Image recognition,1
+Neural Networks(CNN),1
+python sklearn,1
+python scipy,1
+python-pandas,1
+python-numpy,1
+Oracle18c,1
+Oracle 12C,1
+Batch programming,1
+nodeJS,1
+ANT,1
+Hypersonic Sql,1
+Психоанализ,1
+Sympy,1
+Настольный теннис,1
+ScienceDirect,1
+R*,1
+"работа с основными пакетами машинного обучения и анализа данных (scikit-learn, pandas, numpy etc)",1
+Футбол,1
+Облицовка плиткой,1
+знание алгоритмов машинного обучения,1
+Отделка помещений,1
+Велоспорт,1
+Маткад/матлаб,1
+JupiterNotebook,1
+Advertising,1
+Организационное проектирование,1
+оптимизация,1
+Организация обучения иностранным языкам,1
+Web Scarping,1
+Unity 3D,1
+Работа с фрэймворками Yii и Yii2,1
+Debt Collection,1
+Bank Software,1
+Pricing,1
+AMF,1
+CAML Query,1
+Проведение семинаров,1
+Agile/Scrum,1
+Способность обучать других,1
+Go lang,1
+BDD,1
+Integration testing,1
+ZeroMQ,1
+Balanced Scorecard,1
+Системный подход,1
+Event Management,1
+NumPy/SciPy,1
+"Apache Spark, Cassandra",1
+Organization Skills,1
+Stress Management,1
+attention to details,1
+Neural Network NN,1
+DW/ETL/OLAP,1
+r,1
+Pandas/NumPy,1
+ROS,1
+Seaborn/Matplotlib,1
+Контекстная реклама,1
+Discrete mathematics,1
+Python/R,1
+NetworkX,1
+NLTK/TensorFlow/Keras,1
+Motivation,1
+bush,1
+Oracle Hyperion,1
+Database Marketing,1
+Инвестиционное планирование,1
+MS Lightswitch,1
+проведение тренингов,1
+автоматическая обработка естественного языка,1
+обработка речи,1
+E-Mail Marketing,1
+Customer Needs Analysis,1
+awk,1
+Marketing Strategy Development,1
+Learning & Development,1
+Легкая обучаемость,1
+Умение видеть и исправлять ошибки,1
+Актуарные расчеты,1
+Regexp,1
+Maching learning,1
+Создание и пайка электронных схем,1
+Разработка проектов на STM32,1
+Logisitic  Regression,1
+Power Bi,1
+Vlookup,1
+Power pivot,1
+Power query,1
+Pivot Charts,1
+Опыт переводческой работы,1
+Практическая медицина,1
+Pivot Tables,1
+МРТ (магнитно-резонансная томография),1
+КТ,1
+ПЭТ-исследование,1
+Нейровизуализация,1
+Квантовая механика,1
+Quandl,1
+Знание языков программирования (C# и Python),1
+Image Recognition,1
+MetaTraider,1
+Julia,1
+excel,1
+"KNN, Clustering, Decision Trees and RF, NLP, SVM",1
+ELMO,1
+"Pandas, Seaborn , Matplotlib , Plotly",1
+Logistic and Linear Regressions,1
+Adobe Lightroom,1
+LabVIEW,1
+Kerastase,1
+Чтение лекций,1
+Crawlers,1
+Владение языком программирования R,1
+Внимательность,1
+Data and Business Research,1
+Splunk,1
+CQG,1
+MetaStock,1
+Строительство,1
+Оперативный производственный учет,1
+IBM DB2,1
+Linux Novell SLES XEN,1
+SpiderProject,1
+"Wialon GPS Глонасс Мониторинг автотранспорта, контроль расхода топлива",1
+Ефрат-документооборот,1
+Знание MathLab и Octave,1
+Управление себестоимостью,1
+"Cистемы охранной и пожарной сигнализации, видеонаблюдения, контроля и управления доступом.",1
+Программирование микроконтроллеров AVR,1
+Управление строительством,1
+1С: Документооборот,1
+Разработка проектов на Arduino,1
+1С: Производство,1
+Производственное планирование,1
+Groupwise,1
+tenzorflow,1
+Редактирование текстов на иностранном языке,1
+"econometrics, mathematical economics, benefit-cost analyst and cost-effectiveness analyses",1
+IPMA,1
+VBScript,1
+Strong attention to details,1
+Experience utilizing computers and software applications to identify quality data sources,1
+1C: Accounting,1
+Experience using analytical and research techniques,1
+InterSystems Cache,1
+Mashine learning,1
+strong data and management and quantitative analysis capability,1
+IBM Watson Studio,1
+IBM Cloude,1
+Apache Zeppelin,1
+Rstudio,1
+R (начинающий),1
+XUL,1
+Hibernate ORM,1
+Google Cloud,1
+XP,1
+Functional programming,1
+Elastic Search,1
+Reactive programming,1
+Storm,1
+Recommender Systems,1
+W3C standards,1
+Zend Framework,1
+Continuous delivery,1
+ZooKeeper,1
+Ocean data view,1
+здоровый образ жизни,1
+Matrix analysis,1
+Grapher,1
+многодисциплинарность,1
+Design patterns,1
+Интервьюирование,1
+OpenCv,1
+"Работа с базами данных: MS SQL, Oracle.",1
+Code analysis and refactoring,1
+Data Munging,1
+Relational Databases,1
+Various programming paradigms in particular OOP,1
+Знание основ ООП,1
+Продвинутый пользователь Интернета и ПК,1
+"Владею языками программирования: C++, C#, Python",1
+Мобильность,1
+"Работа с библиотеками Python (scikit-learn, pandas, matplotlib)",1
+опыт решения NLP задач,1
+Отличное знание SQL,1
+Cassandra,1
+Clean code,1
+CoffeeScript,1
+Boosting,1
+Financial Mathematics,1
+Data Architecture,1
+Solr,1
+ядерная физика,1
+Lucene,1
+Программирование в R,1
+Statistical modeling,1
+R/lang,1
+Python ML Libraries,1
+pySpark,1
+UI,1
+Регрессия,1
+Pig,1
+финансовая математика,1
+Проведение обучающих лекций и занятий,1
+Основы ООП,1
+Theory of probability,1
+UX,1
+"подготовка заключений по бизнес-планам, экспертиза бизнес-плана",1
+Stochastic Control,1
+numerical analysis,1
+Compensation And Benefits,1
+Cost Analysis,1
+Cost Control,1
+Cost Management,1
+statistical data analysis,1
+inverse problem,1
+MS Axapta,1
+физика атмосферы,1
+Organizational Structure,1
+Planning,1
+Real Estate Evaluation,1
+Construction Management,1
+Topic Modeling,1
+Numerical methods,1
+Basic machine learning,1
+Анализ трафика,1
+Torch/PyTorch,1
+Pattern Recognition,1
+"Платформи: DSP (TMS320C6713B), MCU (STM32F4, AT90USB128, Intel MC S-51), FPGA (Altera MAX 7000A)",1
+Team Leadership,1
+Laboratory Investigations,1
+Data Collection & Analysis,1
+Predictive Models,1
+Systems in Animate & Inanimate Nature,1
+Fault-tolerant Systems Development,1
+"Навики: DSP,Simulations,Programming/Scripting,SPM,Image-processing algorithms, HW and Systems design",1
+Process Optimization,1
+Econometric Modeling,1
+Multithread Programming,1
+Text Processing,1
+Flurry,1
+R&D project management,1
+"ПЗ: MS Visual Studio 2010, IAR Embedded Workbench, Code Composer Studio, SPIP™, MountainsMap",1
+Economic Forecasting,1
+Graphic editors,1
+AnyLogic,1
+SQL/TSQL/NoSQL,1
+Статистический/Математический анализ,1
+1С Предприятие,1
+Java/JavaScript,1
+Action Script,1
+Legal Advice,1
+Bizagi process modeller,1
+English Law,1
+Music,1
+SAS Data Miner,1
+TSQL,1
+"Мови програмування: C/C++, С#, Assembler, MATLAB, Verilog/VHDL",1
+Venture Capital,1
+Financial Econometrics,1
+Project Documentation,1
+Навыки переговоров,1
+1C:Предприятие 8.x,1
+Scilab,1
+•	Good knowledge of package R,1
+•	Basic knowledge of MapReduce,1
+Tableau BI,1
+...,1
+Владение иностранными языками,1
+R-Studio,1
+Bioinformatic,1
+"•	Basic knowledge of Business Intelligence, Access, SPSS",1
+Event Planning,1
+Restaurant Operations,1
+Eye tracking,1
+Food Service,1
+Customer Service,1
+Mathematic,1
+•	Writing medium-level VBA macros,1
+•	Good knowledge of SQL,1
+Multivariate analysis,1
+Technical Translation,1
+MSQL,1
+Контроль исполнения  решений,1
+Writing Texts,1
+Исполнение личных поручений руководителя,1
+Turbo Pascal,1
+3D-графика,1
+openMP,1
+"•	Good knowledge of SAS (SAS Guide, SAS EM)",1
+Speech Technology,1
+"Библиотеки Python: Scikit Learn, Pandas и др.",1
+Churn Prediction,1
+Hue,1
+"•	MS Office (Word, Exсel, Power Point, Outlook) — advanced",1
+•	Good analytical skills,1
+Machine Learning with Scikit-Learn,1
+Recurrent Neural Networks,1
+IBM Cognos,1
+Deep Learning with Keras and TensorFlow,1
+Уверенный пользователь ПК,1
+Уверенный пользователь программ MS Office,1
+Реинжиниринг бизнес-процессов,1
+Catalyst,1
+Git/Svn,1
+Cuda,1
+Image processing,1
+recommender systems,1
+dlib,1
+Ценные бумаги,1
+"Fast-learning, proactivity,",1
+Strong self-motivation,1
+Оптимизация затрат,1
+The ability to work in a team,1
+caffe,1
+"Опыт решения проблем в кратчайшие сроки с минимальными затратами, крайняя мобильность.",1
+advanced english,1
+MLLib,1
+Beautiful Soup,1
+Complex networks,1
+Networkx,1
+R-programming,1
+Machine Learning (supervised and unsupervised),1
+Monte Carlo Models,1
+react,1
+Управление отношениями с клиентами,1
+Data Analyses,1
+asyncio,1
+aiohttp,1
+Терпение,1
+Вовлеченность,1
+Усердие,1
+Продажи,1
+Python (basics),1
+Управление процессами,1
+R programing,1
+"Язык C++, математическое моделирование, компьютерное зрение",1
+"Управление проектами, менеджмент (опыт руководящей работы, профессиональная переподготовка по управл",1
+Проведение курсов и тренингов в области информационного взаимодействия и автоматизации деятельности,1
+Key Account Management,1
+"Математическое моделирование, прикладная статистика",1
+"Система контроля версий Git, сервис github.com",1
+"Язык Python, Jupyter Notebook, библиотеки – для программирования прототипов, машинное обучение, нейр",1
+"Общее владение: HTML3, CSS5, Javascript, PHP, Java, С#, Prolog, VBA",1
+"Машинное обучение, нейронные сети (разные направления), построение и валидация прикладных моделей",1
+"Языки запросов: Transact SQL, PL/pgSQL (PostgreSQL), MySQL, SQLite",1
+Mathtype,1
+Image/Signal Processing,1
+высокопроизводительные вычисления,1
+bamboo,1
+Classic ML,1
+"Геостатистика (лекции, моделирование геофизических данных методами случайных процессов)",1
+"Компьютерное зрение (OpenCV), классификация изображений документов",1
+Банковское дело,1
+"Numpy, scipy, pandas",1
+Working with libraries in Python,1
+Python machine learning stack,1
+линукс,1
+Язык програмирования R,1
+Экспериментальная физика,1
+"Neural networks (keras, pytorch, TensorFlow)",1
+Basic knowledge of Java,1
+"Компьютерная лингвистика, автоматизированный перевод программного кода",1
+PR,1
+Составление семантического ядра,1
+Python scientific stack,1
+Predictive modeling,1
+Data Warehousing,1
+Statistical Analysis,1
+Texmaker,1
+Управление финансами,1
+amoCRM,1
+MS Dynamics,1
+Bug Reporting,1
+Creating test cases,1
+Участие в научных конференциях,1
+GRU/LSTM,1
+Corporate Management,1
+Financial Controlling,1
+Qlick View,1
+Black box testing,1
+Business central,1
+MS Dynamics business central,1
+Графовая аналитика,1
+Моделирование процессов,1
+EPC,1
+Windows Xp,1
+User Acceptance Testing,1
+conda,1
+PyMOL,1
+ml.net,1
+Informatica ETL,1
+Jupyter Notebbok,1
+Accord.NET,1
+SOLID,1
+Sketch,1
+Windows Forms,1
+webgl,1
+pip,1
+vue,1
+threejs,1
+flutter,1
+decomposition,1
+unsupervised learning,1
+pycharm,1
+Origin9,1
+высшая математика,1
+SSAS,1
+SSRS,1
+Дисперсионный анализ,1
+НИР,1
+Predictive modelling,1
+Zookeeper,1
+Sqoop,1
+Oozie,1
+Spark MLib,1
+MBA,1
+1С: Docflow,1
+Writing science articles,1
+Statistical analysis,1
+Experiment planning,1
+"Опытный пользователь ПК - Microsoft Office (Excel, Word, Power Point)",1
+Tiger (система ERP),1
+R Statistics,1
+Управление временем,1
+BLUP,1
+"Python, pandas, numpy, xgboost, seaborn",1
+Постановка задач разработчикам,1
+Stock market,1
+"R, Python",1
+Trading,1
+ABC-анализ,1
+1С: Предприятие,1
+Technical analysis,1
+R lang,1
+Fundamental analysis,1
+R#,1
+База данных: Olap,1
+Клиническая психология,1
+ЭЭГ (электроэнцефалограмма),1
+ТМС,1
+SLAM,1
+Prediction,1
+Odometry,1
+RenderScript,1
+Портфельная аналитика,1
+"Research, analytical and interpersonal communicational skills",1
+HUE,1
+Информационный поиск,1
+Ответственное хранение,1
+Многопоточные вычисления,1
+TenzorFlow,1
+Развитие бизнеса,1
+VR,1
+Stochastic processess,1
+R Programming Language,1
+Minitab,1
+Matlab/Octave,1
+Python (scikit-learn),1
+"Обработка изображений (openCV, scikit-image)",1
+R программирование,1
+web development,1
+numerical methods,1
+tNavigator,1
+RMS,1
+Resview,1
+Text Analysis,1
+биоинформатика,1
+Algorithmic Trading,1
+calculus,1
+c,1
+verification models,1
+Анализ макроэкономической среды,1
+Автоматизация сбора и анализа данных,1
+Управление исследовательскими проектами,1
+нейронные сети (TensorFlow),1
+R/RStudio,1
+Team player,1
+r studio,1
+"MS Office (Excel, PowerPoint, Access), Power BI",1
+1С: Управление персоналом,1
+Python( Basic ),1
+C++ (Algoritmic practice),1
+Keras\Tensorflow,1
+Pandas\Numpy\Scikit learn,1
+R programming software,1
+Linear algebra\probability theory\Calculus,1
+Формирование управленческой отчетности,1
+CAA,1
+mapreduce,1
+Lotus,1
+Tensotflow,1
+TensorRT,1
+RAPIDS,1
+Oracle Siebel CRM,1
+Hudson,1
+VHDL,1
+google dashboard,1
+pig,1
+bigquery,1
+Performance маркетинг,1
+data driven,1
+"Python (numpy, sklearn, pandas, matplotlib и т. Д.)",1
+Business Management,1
+hive,1
+TRIZ(theory of the resolution of invention-related tasks),1
+Magento,1
+apache kafka,1
+Quick learner and passionate to thrive under data science challenges,1
+"•	SQL •	Python 2 •	Python 3 •	JavaScript •	SQLAlchemy •	ExtJS •	Selenium •	Git, Mercurial •	MATLAB •",1
+Business-driven mindset,1
+Веб-парсинг,1
+SAS Enterprise guide,1
+Навык программирования,1
+базовые знания SQL,1
+САПР,1
+"Python (numpy, pandas, sklearn, opencv, matplotlib, seaborn, tensorflow, keras, pytorch)",1
+Writing Articles,1
+Mantis,1
+Bugzilla,1
+Алгоритмы глобальной оптимизации,1
+Программирование алгоритмов,1
+Параллельные вычисления (MPI),1
+"SQL (PostgreSQL, Microsoft SQL)",1
+Offshore Drilling Technology,1
+"MS Office (Excel, Power Point, Word, Outlook)",1
+"Графика (GIMP, Paint, ArchiCad, SketchUp)",1
+"Yandex Метрика, Goggle Analytics",1
+SAP HANA,1
+Прогностика,1
+"R (tidyverse, shiny, rmarkdown packages)",1
+Vensim,1
+IWork,1
+Data Optimization,1
+SIP,1
+Data quality,1
+"Tools: Python (Pandas, matplotlib, stats, skiPy, gmaps, flask, beautifulSoup), R, JavaScript( d3,Plo",1
+Adobe CS,1
+Statistical Learning,1
+Ведение аналитической работы в проекте,1
+VoIP,1
+UCaaS,1
+Strong soft skills,1
+аналитика,1
+Programming in R,1
+Конкурентная аналитика,1
+Прототипирование,1
+Перевод технической документации,1
+Economic and mathematical Modeling,1
+Design of data intensive pipelines,1
+"Python (numpy, pandas, scipy, matplotlib, scikit-learn, tensorflow libraries)",1
+"Wolfram Mathematica, SPSS, AnyLogic",1
+Высшее техническое образование,1
+"Офисный пакет Microsoft (Excel, Office, PowerPoint, Project, Visio)",1
+"Python (библиотеки Pandas, Numpy, Scipy, Scikit-learn)",1
+теоретических основ Machine Leaning,1
+OpenCL C,1
+OpenCL official C++ bindings,1
+Convolutional NN,1
+"Python (numpy, pandas, scikit-learn и т.д.)",1
+Cython,1
+молекулярная динамика,1
+C language,1
+Ananconda Navigator,1
+Spyder,1
+Xamarin Forms,1
+Python (наличие сертификата),1
+Анализ и обработка естественного языка,1
+Intel MKL,1
+Beautiful soup,1
+classic Machine Learning algorithms,1
+Computer Science,1
+Vowpal Wabbit,1
+Internet Advertising,1
+Data structures,1
+Logistic regression,1
+D3,1
+Устный перевод,1
+SSE/AVX,1
+квалификационный аттестат 5.0,1
+Yandex CatBoost,1
+Статистическое обучение,1
+квалификационный аттестат 1.0,1
+Анализ логов,1
+Regression trees,1
+Process Mining,1
+Импорт данных разных форматов в R,1
+Data Manipulation,1
+Google Tag Manager,1
+Methods and Technologies of organization and processing of data,1
+Intermediate Level of English Language,1
+Oracle Data Integrator,1
+Katalon,1
+SQL на уровне запросов,1
+py,1
+Qlick Sense,1
+Реанимация,1
+Управление,1
+Изучение новых технологий,1
+Активность,1
+NTLK,1
+Кардиология,1
+Кардиореанимация,1
+MC OFFICE,1
+3D Modeling,1
+1С programming,1
+Sclearn,1
+"Python, Keras, Tensorflow, Numpy, Pandas, Matplotlib",1
+process mining,1
+Машинное обучение (основы),1
+Groovy,1
+Oracle Developer,1
+Программирование в среде R,1
+Oracle Developer Data Modeler,1
+Транспортная логистика,1
+Логистика,1
+Системы анализа и моделирования информационных потоков,1
+Anylogic,1
+Терпимость,1
+гидродинамка,1
+Неотложная помощь,1
+Гастроэнтерология,1
+Управление работой с ключевыми клиентами,1
+Survival Analysis,1
+Многозадачность,1
+Постановка задач,1
+Анализ требований,1
+Statistics and ML models,1
+Системность,1
+Model Validation,1
+Default Loss Distributions,1
+Педиатрия,1
+Cointegration,1
+Monte Carlo Simulation,1
+Quantitative Methods in Finance,1
+Market Risk Modeling,1
+Data Visualization and Graphics,1
+Model Development,1
+Gephi,1
+Heroku,1
+Энергетика,1
+Oracle Exadata Database Machine,1
+RDBMS Oracle Enterprise Edition,1
+Oracle SOA Suite,1
+Oracle Fusion Middleware,1
+Oracle Identity and Access Management,1
+Oracle Performance Tuning,1
+Oracle Web Tier (OHS),1
+Техническая смекалка,1
+Проактивность,1
+Prosper,1
+IPSM,1
+PIPESIM,1
+Big Data Analytics,1
+Инфекциология,1
+Системная интеграция,1
+nlp,1
+работа с клиентами,1
+WTL,1
+CAD,1
+tesseract OCR,1
+tika,1
+Text parsing,1
+PyPDF2,1
+Коммуникация,1
+Visual C++,1
+Team-building,1
+WinAPI,1
+MFC,1
+GDI Plus,1
+OpenNN,1
+Основы статистики и теории вероятностей,1
+Стратегическое видение развития продукта,1
+Mercurial,1
+Image Processing,1
+Mongo,1
+Grid,1
+ES6,1
+Dax,1
+Machin learning,1
+Программирование в R studio,1
+Self-driving car,1
+Microsoft Power BI,1
+Lean Six Sigma,1
+Operations Management,1
+Base SAS,1
+Procurement and negotiating skills,1
+Statistical testing,1
+Instagram,1
+Теория автоматизации процессов,1
+Опыт в формировании команд под каждый проект,1
+"Постановка задач разработчикам, дизайнерам, контент-менеджерам, маркетологам и контроль их выполнени",1
+"Google Colaboratory, Jupyter Notebook",1
+"методы визуализации данных (matplotlib, seaborn)",1
+Составление смет,1
+Ведение документации,1
+Проектная документация,1
+Инжиниринг,1
+язык программирования Python,1
+библиотеки Numpy и Pandas,1
+инструменты парсинга,1
+Глубокое понимание каналов продвижения,1
+"прикладная математика (теория вероятностей, статистика, мат. анализ)",1
+знание основ Git’а,1
+навыки работы с bash,1
+Основы веб-разработки (Django + Vue js),1
+"• Python3, Keras, Tensorflow, numpy",1
+"OpenCV, YOLOv4",1
+Инженерные системы,1
+LighGBM,1
+OpenCV2,1
+Power User,1
+vowpal wabbit,1
+Oracle Database,1
+Навыки разрешения спорных ситуаций,1
+Умение вести переговоры,1
+Jypiter Notebook,1
+"Python(Pandas, Numpy, Sklearn)",1
+Windows 10,1
+backend,1
+backend developer,1
+Управление бюджетом,1
+Стратегический маркетинг,1
+Планирование маркетинговых кампаний,1
+Монетизация,1
+SAS Programming,1
+Support Vector Machine,1
+"R, SQL, Python",1
+Boostrap,1
+Сегментация,1
+Поиск выбросов (аномалии),1
+Генерация изображения,1
+Генерация текста,1
+Сегментация текста,1
+Сегментация изображения,1
+Желание расти и обучаться,1
+IBM Watson,1
+PL/SQL,1
+Oracle Text,1
+VSC,1
+Языки программирования: Python,1
+"Визуализация данных: matplotlib, seaborn, plotly",1
+"Базы данных: MySQL, PostgreSQL, MS SQL",1
+PostdresSQL,1
+Convolutional neural networks,1
+Skilab,1
+neural net,1
+Apache Storm,1
+Recommendation engines,1
+Text analytics,1
+advanced analytics,1
+руководство командой разработчиков,1
+convolutional neural network,1
+"3D, Autocad, T-FLEX, Microsoft Excel, Microsoft Word, Python Programming, Solidworks",1
+pre-intermediate,1
+Distributed Systems,1
+Deep Vision,1
+Выполнение задач описанных в ТЗ,1
+Логичность,1
+Быстрая усваиваемость нового материала,1
+"Библиотеки/фреймворки: pandas, scikit-learn, NumPy, SciPy, XGBoost, CatBoost, PyTorch",1
+"Python (Pandas, Numpy)",1
+"Tableau, AWS, Apache Hadoop",1
+Аналитика на Python,1
+Навыки монтажа и обслуживания СКС,1
+Настройка сетевого оборудования Cisco,1
+Знаком с Framework Django,1
+Чтение проектной документации,1
+"библиотекb Python(numpy, pandas, matplotlib, scipy)",1
+прикладная математика,1
+Программы лояльности,1
+WEKA,1
+Базовые знания SQL,1
+Работа с DB-API,1
+PyQt,1
+Regular expression,1
+Object Detection,1
+SciKit-learn,1
+Базовые знания по монтажу в области АСУ ТП,1
+Typing skills,1
+TypeScript,1
+Assembly language,1
+CMake,1
+ГОСТ,1
+Электрические сети,1
+Leapfrog,1
+Micromine,1
+Phase2,1
+Находчивость,1
+Keras / PyTorch,1
+C++ / QT,1
+Pandas / Numpy / Scipy,1
+Matplotlib / Seaborn,1
+Lightgbm / Xgboost / Catboost,1
+CodeBlocks,1
+Внимание к деталям,1
+Techlog,1
+Bitbucket,1
+Twitter Api,1
+Желание и готовность узнать новое,1
+Инициативность,1
+Scripting,1
+Troubleshooting,1
+Communication,1
+Various Technical Skills,1
+Youtrack,1
+Электромеханика,1
+TeamCity,1
+Xsolla,1
+Weblate,1
+Telegram API,1
+"Python, SQL, MATLAB, Java",1
+"Numpy, Pandas, Matplotlib, SciKit-Learn",1
+Энтузиазм,1
+Navisworks,1
+основы теории вероятности,1
+Автоматизация производства,1
+Оптимизация кода,1
+nampy,1
+FoxPro,1
+Analysis services,1
+Natural Language Processing (NLP),1
+Interbase,1
+Maplotlib,1
+Портфельный анализ,1
+Хранилище данных,1
+Microsoft Sql Server,1
+Легко нахожу общий язык с детьми,1
+My SAP ERP,1
+SAP APO,1
+"Hadoop, PySpark",1
+Python scikit-learn,1
+financial econometrics,1
+Модели без учителя,1
+Электропривод,1
+PyTest,1
+Ответсвенность,1
+Dom,1
+Самообучение,1
+Дружелюбие,1
+Настойчивость,1
+Теоретическая физика,1
+Django+selery+redis,1
+python pandas,1
+python scikit learn,1
+python beautifulsoup,1
+python requests,1
+Django REST Framework,1
+Модели с учителем,1
+статистические методы,1
+Visual Studio Code,1
+ML models,1
+Исследовательский анализ,1
+Tableau & PowerBI,1
+Владение программами SAS,1
+Опыт работы с SQL,1
+Свободные английский и немецкий языки,1
+Языки программирования R и Python,1
+Владение алгеброй,1
+Статистическое прогнозирование,1
+Аналитика Big Data,1
+CICD,1
+Prediction IO,1
+Deeppavlov,1
+Бд,1
+Обработка исходящей корреспонденции,1
+Целеустремленный,1
+Jupiter notebook,1
+Machine learning (ML/,1
+Computer vision (CV),1
+BS4,1
+LeNet,1
+lightGBM,1
+sclearn,1
+классификация,1
+numpy/scipy,1
+языки стандарта мэк 61131-3,1
+ПЛК,1
+Unity Pro,1
+iFix,1
+Обработка видео,1
+Sony Vegas,1
+Медицинское оборудование,1
+Большое желание развиваться в области Data Science,1
+Английский – Intermediate,1
+Опыт выступлений и презентации,1
+Dart,1
+DevOps (CI/CD),1
+Pega 7.2.2,1
+PCL,1
+Machine learning (ml),1
+Знание основ математической статистики и машинного обучения,1
+планирование эксперимента,1
+лемматизация,1
+описательная статистика,1
+исследовательский анализ данных,1
+Администрирование сетевого оборудования,1
+Machine Learning fundamentals,1
+"Soft skills: сроки, качество, объем",1
+Origin (обработка данных),1
+Быстро нахожу информацию,1
+LinearRegression,1
+pymystem,1
+распределение данных,1
+Договорная работа,1
+Ведение переписки,1
+Гарант,1
+Точность и внимательность к деталям,1
+Первичная бухгалтерская документация,1
+SAS EM,1
+Делаю скучную работу,1
+Теория вероятности и математическая статистика,1
+LightBGM,1
+GridSearchCV,1
+tsa,1
+Pipeline,1
+DecisionTreeRegressor,1
+классы в машинном обучении,1
+основы теории вероятностей,1
+получение срезов данных,1
+А\в тестирование,1
+Jupyther Notebook,1
+"Python for Machine Learning (keras,numpy,scipy, XGBoost,scikit-learn, tensorflow)",1
+Python начальный уровень,1
+Компас 3D,1
+Основы статистики и теории вероятности,1
+AWT,1
+Click House,1
+Solidity,1
+C#(базовый),1
+"jupyter, numpy, scipy, pandas, scikit-learn",1
+Oracle SQL(средний),1
+Python(средний),1
+Дешевая рабочая сила,1
+Multivariable Calculus,1
+bs4,1
+Neural Net,1
+Problem Solving Skills,1
+"Real, vector and complex analysis",1
+ODE,1
+Average typing speed - 80 symbols per minute,1
+Critical/Analytical Thinking,1
+Strong Communication Skill,1
+Management/Leadership Skills,1
+UIKit,1
+Python for DS,1
+OpenCV and dlib,1
+Материаловедение,1
+Наука о данных,1
+Greenplum,1
+Развитие ключевых клиентов,1
+Data Sceince,1
+Ораторские качества,1
+Поставленная речь,1
+Внешний финансовый аудит,1
+Финансовая отчетность,1
+РСБУ,1
+Контроль и анализ ценообразования,1
+СЭД,1
+Настройка серверов,1
+Серверное программирование,1
+Scikit-Image,1
+spacy,1
+PostreSQL,1
+DataTables,1
+StatSoft,1
+Analytics,1
+MS Project Expert,1
+Ceres-solver,1
+проверка статистических гипотез,1
+продуктовые метрики,1
+Jupyter-notebook,1
+DHCP,1
+Sh,1
+Joblib,1
+Траблшутинг,1
+Структуры данных,1
+Python 3.7,1
+NER,1
+feature,1
+Decision Tree,1
+Windows Os,1
+Tableau Public,1
+RPA,1
+"System Administration of Linux, Free BSD and Windows Servers",1
+Apache HTTP Server,1
+erWin,1
+React.js,1
+virtualenv,1
+Очистка данных,1
+Метрики оценки качества модели,1
+Продвижение объекта,1
+Fundamental Analysis,1
+scikit Learn,1
+QlikSence,1
+Написание документации,1
+Fasttext,1
+Statsmodel,1
+OpenCL,1
+Pretrained NN,1
+Scikit - learn,1
+Web scrapping,1
+pyinstaller,1
+RandomForestRegressor,1
+pymystem3,1
+Обучаемый,1
+Generalized linear models,1
+Фурье - анализ,1
+"AR, MA, ARIMA, SARIMA",1
+Holt-Winters method,1
+"ARIMA, SARIMA, Time series decomposition (X11, SEATS, STL), Generalized linear models, Exponential S",1
+"ARIMA, SARIMA",1
+"Time series decomposition (X11, SEATS, STL),",1
+Exponential Smoothing State Space Model,1
+XAML,1
+Regression with ARIMA errors,1
+FPGA/ASIC/PLC/MCU,1
+Работа над крупными проектами,1
+Коммуникативный,1
+Креативный,1
+Пунктуальный,1
+Вейвлет - анализ,1
+"Физика, теплофизика",1
+"Гидродинамика, газодинамика",1
+Starlette,1
+Nlp,1
+"Опыт работы с задачами машинного обучения (ML): кластеризации, классификации или регрессии;",1
+Db,1
+Управление производством,1
+НИОКР,1
+PLM,1
+MSC NASTRAN,1
+Femap,1
+CATIA,1
+Кассовые операции,1
+Бережливое производство,1
+Банковское кассовое обслуживание,1
+Краткосрочное бюджетирование и планирование,1
+Организованный,1
+Microsoft Analysis Services,1
+Windows Server 2008 R2,1
+Разработка моделей прогнозирования,1
+Skrapy,1
+arcpy,1
+ctree,1
+web mapping,1
+GeoJson,1
+Методы машинного обучения,1
+Искусственные нейронные сети,1
+Прикладная математика,1
+MatplotLIb,1
+natural language processing,1
+Обладаю аналитическими способностями,1
+"Языки программирования С++, Python, R",1
+Ответственный,1
+Работоспособный,1
+B2C продажи,1
+B2B Продажи,1
+Ремонт телефонов,1
+Ремонт ПК,1
+redash,1
+11. Power Query,1
+10. Jupyter Notebook,1
+9. Базовые знания ML,1
+"8. Pandas, NumPy, Matplotlib, Scikit-learn",1
+4. Python,1
+7. 1С:Предприятие,1
+6. Аналитический склад ума,1
+5. Знание основ математической статистики и теории вероятности,1
+3. Базовые знания SQL,1
+2. Power BI,1
+1. MS Word-Excel-Power Point/Google Sheets,1
+distributed GPU computing,1
+Ведение кассовой книги,1
+Нормирование труда,1
+Расчет себестоимости,1
+1С: Бухгалтерия и склад,1
+Reinforcement,1
+One-shot learning,1
+Investments,1
+Data Structers,1
+x86/ARM assembly,1
+Распределенные вычисления,1
+Работа с аудио,1
+jupiter-notebook,1
+"Работа с изображениями (сегментация, object detection, классификация)",1
+Adobe Design,1
+Adobe Premier,1
+Графический дизайн,1
+Гидрологические расчеты,1
+Лабораторная работа,1
+Tensorflow-serving,1
+scikitlearn,1
+Facilitation Skills,1
+XMind,1
+Autodesk СПДС Модуль,1
+Catie V5,1
+Figma,1
+Product analysis,1
+Teamcenter siemens,1
+nanoCAD,1
+APEX,1
+DBSCAN,1
+K-means,1
+Sales Management,1
+B2B Marketing,1
+Oktell,1
+Microsoft Access,1
+Автоматизация обработки данных,1
+Геодезия и картография,1
+права вождение маломерных судов,1
+clustering,1
+re,1
+collections,1
+tqdm,1
+scikit-surprise,1
+Sklearn(scikit-learn),1
+AppJar,1
+общительный,1
+Надёжность,1
+Jquery основы,1
+Assembler база,1
+Распознавание лиц и объектов на фото и видео,1
+Aiml,1
+web parsing,1
+Чат боты,1
+stacking,1
+Notepad++,1
+boosting,1
+Random forest,1
+Underfitting и overfitting,1
+математика и статистика для Data Science,1
+XLS,1
+data preprocessing,1
+Matplolib,1
+Web scrape,1
+Stochastic Processes,1
+Autoencoder,1
+U-Net,1
+LGBM,1
+Теория вер,1
+"Python, Jupyter Notebook, SQL, numpy, pandas, matplotlib, seaborn, scipy, sklearn",1
+Знание 1С,1
+lstm,1
+Consumer Lending,1
+AutoDock Vina,1
+Chemistry,1
+bioinformatics,1
+chemoinformatics,1
+pharminformatics,1
+Молекулярный докинг,1
+Openpyxl,1
+rdkit,1
+kaldi,1
+openbabel,1
+Построение моделей,1
+SQL. Агрегация. Оконные функции,1
+Автоматизация технологических процессов,1
+1С,1
+Confluence Jira,1
+Data Mining: Comcon,1
+Data,1
+ТВ,1
+MATH,1
+3D,1
+Unix/Linux.,1
+DataMining,1
+OPENCL,1
+C/С++,1
+Microsoft Windows,1
+Hyper-V,1
+Borland RAD Development Studio,1
+P Y T H O N !,1
+mikrotik,1
+apache,1
+couchdb,1
+Squid,1
+deepspeech,1
+Speech recognition,1
+нейросети это всё,1
+EEG,1
+yargy,1
+Data-Science,1
+Python Programming,1
+MxNet,1
+Clinical Research,1
+Subversion,1
+Psychophysiology,1
+ASR,1
+Business communication,1
+shiny,1
+highcharts,1
+Производство пусконаладочных работ,1
+АСУ ТП,1
+ePLAN Electric P8,1
+Natasha,1
+jupyter-notebook,1
+Jinja,1
+Знание алгоритмов машинного обучения,1
+"Знание математической статистики, комбинаторики, А/Б тестирования",1
+"Опыт работы с SQL, BLOOMBERG, Microsoft office",1
+Знание языков программирования R и Python,1
+Модели машинного обучения,1
+"Python, SQL, VBA",1
+опыт в создании программ предиктивной аналитики,1
+профессиональное знание математики,1
+Ipython,1
+Алгебра,1
+Случайные процессы,1
+Искуственные нейронные сети,1
+MsSQL,1
+wav2letter,1
+pgsql,1
+страсть как обожаю магию с нейросетями,1
+генетические алгоритмы,1
+"Креативность, творческое мышление и прочая лирика",1
+Линейная регрессия,1
+Градиентный спуск,1
+Data science Technologies:,1
+Docker/Kubernetes,1
+GraphNets,1
+ML & DL,1
+Tablue,1
+Изделия медицинского назначения,1
+Дашборд,1
+Информационная панель,1
+BI аналитика,1
+Сквозная аналитика,1
+Power bi,1
+M & DAX,1
+Jupyter noutbook,1
+robotics,1
+control theory,1
+ROWE is a +,1
+ScraPy,1
+TesnorFlow,1
+analytical,1
+streamlit,1
+time ma,1
+Основы SQL,1
+Markdown,1
+sciki-learn,1
+Predictive analysis,1
+Tensor,1
+Visdom,1
+Scikit,1
+8/10 средний балл,1
+Программирование на Python,1
+Автоматизация маркетинга и бизнес-процессов.,1
+широкий спектр знаний по it,1
+умение работать с чужим кодом,1
+WealthLab,1
+Быстрая печать,1
+Data cleaning,1
+Fuzzy logic & fuzzy sets,1
+Тренерские качества,1
+учебное соревнование на kaggle по ml с реальными данными,1
+MVVM,1
+"Big Data, цифровые платформы и агрегаторы.",1
+MangoDB,1
+Trello,1
+Convolution neural network,1
+Numerical Analysis,1
+My sql,1
+Таргетинг,1
+NamPy,1
+Финансовая математика,1
+Заинтересованность,1
+Tensorflow - академический опыт,1
+Elixir,1
+dask,1
+Базовая математическая подготовка,1
+Знание алгоритмов машинного обучение,1
+Умение работать с массивами данных,1
+CV2,1
+Skleran,1
+POWER BI,1
+Инвестиции,1
+NLTK&Pymorphy2,1
+Прямые продажи и закупочная деятельность.,1
+Реализация проектов с крупным бизнесом (B2B).,1
+Развитие бизнеса и оптимизация бизнес-процессов.,1
+Wonderware System Platform,1
+Melsoft iQ Works (Mitsubishi PLC),1
+преподавательская деятельность,1
+Willingness to learn,1
+OpenVino,1
+Уверенно владею Rstudio,1
+Испанский язык,1
+Responsibility,1
+Striving for professional development,1
+Quick learning skills,1
+Product Analysis,1
+GANs,1
+Telegram,1
+Dokku,1
+DigitalOcean,1
+культура кода,1
+Swing,1
+Oracle 12c,1
+IBM cognos,1
+IBM Rational Performance Tester,1
+CorelDRAW Photo Draw,1
+Aiohttp,1
+Asyncio,1
+Lotus Domino,1
+Знание языка Python,1
+Делопроизводство,1
+VSCode,1
+Реклама,1
+Проведение рекламных кампаний,1
+Формирование бюджета,1
+BTL,1
+Аудит,1
+Проведение промо акций,1
+Организация промо акций,1
+Основы статистики,1
+JDBC,1
+Sequelize,1
+классификация и регрессионные модели,1
+Jupyther Notebooks,1
+SAP BO,1
+Tesorflow (basic),1
+Критическое мышление,1
+Data processing,1
+Data Analyst,1
+"machine learning, ML",1
+Financial Modeling,1
+mongoose,1
+Excel VBA,1
+MLFlow,1
+Informatica Data Integration,1
+Pentaho Data Integration,1
+credit scoring,1
+Risks assessment,1
+язык R,1
+text to speech,1
+Data Structures,1
+Tenserflow,1
+YOLO,1
+Golang (Go),1
+Kubernetes,1
+Cloud Stack,1
+Разработка C#,1
+Разработка frontend,1
+Разработка на Java,1
+Pentaho DI,1
+Informatica Powercenter,1
+HTML/CSS,1
+обучаемость,1
+MLLIB,1
+randomForest,1
+Прикладное программирование,1
+парсинг данных,1
+Документальное сопровождение,1
+Алгоритмизация,1
+"SQL (MongoDB, MySQL)",1
+Модульное тестирование,1
+Тестирование пользовательского интерфейса,1
+Redmine,1
+Функциональное тестирование,1
+Test case,1
+sqlalchemy,1
+лингвистическая разметка текста,1
+git/github,1
+Beautifulsoup,1
+Robot Framework,1
+PEP8,1
+Тематическое моделирование,1
+pymorth,1
+Quasar,1
+Mas,1
+Go(Golang),1
+Confluence,1
+Folium,1
+LightGbm,1
+Linear algebra,1
+jupiter notebook,1
+Анализ сигналов,1
+padas,1
+ComputerVision,1
+ReinforcementLearning,1
+GeoPandas,1
+Codeforces,1
+python 3,1
+C++17,1
+Algorithms & Data structures,1
+mystem,1
+rnnmorph,1
+udpipe,1
+Codeigniter,1
+Pattern recognition,1
+Machine vision,1
+JupiterNotebooks,1
+технический анализ рынков,1
+"трейдинг на NYSE, CME",1
+написание аналитических обзоров,1
+knowledge graphs,1
+Data Factory,1
+Дизайн,1
+Readymag,1
+базовые знания Python,1
+язык программирования R,1
+Mobx,1
+fraud management,1
+Управление рисками,1
+LTE DataFlow,1
+Operations Research,1
+Simulation,1
+Exploratory data analysis,1
+Анализ изображения,1
+Анализ текстовых данных,1
+Многомерный анализ данных,1
+Теория вероятностей и математическая статистика,1
+Анализ конкурентной среды,1
+"Python(numpy, pandas, matplotlib)",1
+"Excel визуализация данных, ВПР, сводные таблицы",1
+Python 3.x,1
+"Репозиторий с решением задач на kaggle, и проч. https://github.com/sergbill",1
+"Постоянное совершенствование навыков, работоспособность, ответственность",1
+Apache NiFi,1
+Теория управления,1
+Параллельное программирование,1
+Финансовый менеджмент,1
+Neptune,1
+EXEL,1
+динамическое программирование,1
+распознавание образов,1
+обработка естественного языка,1
+перевод статей,1
+regex,1
+Optuna,1
+data clustering,1
+linear / logistic regression,1
+Gradient Boosted Trees,1
+Линейная Алгебра,1
+"Python (pandas, numpy, sklean, scipy, xgboost, seaborn)",1
+"c++ , qt , glsl, shaders, stl. системы контроля версий git, svn , xml, WinSock. Python , machine",1
+тематическое моделирование,1
+graph/network algorithms,1
+dynamic programming algorithms,1
+mathematical and statistical models,1
+neural network training,1
+DeepLerning,1
+TensorFLow,1
+Опыт в области машинного обучения,1
+СПАРК,1
+SWOT анализ,1
+XYZ-анализ,1
+работа со статистикой,1
+Справедливость,1
+Администрирование процесса обучения,1
+Желание развиваться,1
+Classical Machine Learning,1
+iPython,1
+Neural networks basics,1
+data classification,1
+Time series,1
+soft skills,1
+Паттерны,1
+"numpy, pandas",1
+"Основы Python, C#, C++",1
+"Python, SQL",1
+Основные алгоритмы машинного обучения,1
+"Знаю numpy, pandas, matplotlib, scikit-learn, xgboost/lightgbm.",1
+"Математическая статистика, теория вероятности",1
+pyTorch,1
+hypothesis testing,1
+Back-end,1
+Pillow,1
+Технология производства,1
+Терпиливость,1
+goal oriented,1
+hard working,1
+"Python, Матстатистика",1
+"Pandas, numpy, scipy, matplotlib",1
+DeepLearning,1
+Организованность,1
+Асинхронное программирование,1
+TelegramBotAPI,1
+Json,1
+scrapy,1
+Гидродинамика,1
+Web API,1
+Highcharts,1
+Topic Modelling,1
+баесовские сети,1
+работа с рекомендательными системами,1
+Знание основ глубинного обучения,1
+Microsoft,1
+bag-of-words,1
+Machine learning algorithm,1
+python keras pandas,1
+https://drive.google.com/file/d/10KqaJXuOmOsaoYbkTpJE0qiPC7IMASAm/view?usp=sharing,1
+трудолюбие,1
+Junior,1
+Computer troubleshooting,1
+Oracle Cloud Infrastructure,1
+Microsoft Office 365,1
+Адаптивность,1
+Чувство Юмора,1
+Самообучаемость,1
+SQL (PostgreSQL),1
+KFold,1
+Google Colaboratory,1
+Efficientnet,1
+ResNext,1
+MobileNet,1
+Скрапинг веб-сайтов,1
+Data analytic,1
+самостоятельность,1
+"Хорошие знание основных методов и алгоритмов ML,",1
+Продвижение бренда,1
+Медицинская документация,1
+трудоголик с желанием развиваться и огромным желанием работать,1
+целеустремленный,1
+Коммуникабельный,1
+Прикладная информатика,1
+Ведение клиентской базы,1
+Mathematical Optimization,1
+CLI,1
+Data Preprocessing,1
+Classification Algorithms,1
+autoencoder,1
+gan,1
+genetic algorithms,1
+Визуализация и презентация результатов,1
+Notion,1
+Настойчивость в решении задач,1
+Психология Личности,1
+Яндекс.Толока,1
+Google cloud,1
+.Net,1
+Пользователь Linux,1
+навыки работы с библиотекой scikit learn,1
+Hypothesis Testing,1
+Biopython,1
+SAP crystal reports,1
+Web Design,1
+Relationship Management,1
+Cистемы управления базами данныхMS OfficeVisual C++Анализ рисковФинансовый анализ,1
+модели скоринга,1
+предиктивные модели,1
+Проведение опросов,1
+Социологические исследования,1
+FMEA,1
+Tornado,1
+Transformers,1
+Transfer Learning,1
+Word embedding,1
+Dataflow,1
+Apache Beam,1
+Анализ данных выведение алгоритмов для улучшения показателей,1
+Свободное владение английским,1
+Способность работать с большими массивами информации.,1
+cafca,1
+beautifulsoup,1
+SpaCy,1
+Engineering,1
+Mechanical,1
+fast learner,1
+Evolutionary computing,1
+Деловая этика,1
+Personnel management,1
+LDAP,1
+load balancing,1
+Mail Server,1
+Nagios,1
+NOC,1
+OSPF,1
+snmp,1
+Программист,1
+Traffic Analysis,1
+XEN,1
+JUnit,1
+STM 32,1
+ARM,1
+databricks,1
+intrusion detection,1
+Http Server,1
+FreeBSD,1
+CMS,1
+Billing,1
+Манипуляция данными,1
+Git и контроль версий,1
+Интерактивные приложения (Shiny),1
+R Markdown,1
+Вероятностный/статистический анализ,1
+Получение и очистка данных,1
+Leadership,1
+Ensemble methods,1
+Surprise,1
+Численные исследования,1
+Дистанционное обучение,1
+Infographics,1
+Azure Data Factory,1
+Работа в соцопросах.,1
+Distributed computing,1
+"Хеджирование цен на товары, сырье, материалы",1
+Apache Pig,1
+ENVI,1
+Remote Sensing,1
+Аналоговая схемотехника,1
+Импульсные преобразователи,1
+Программирование микроконтроллеров,1
+Python programming,1
+"Владение пакетом программ MS Office (Excel на продвинутом уровне, знание VBA)",1
+Амбициозность,1
+Тактичность,1
+Predictive analitics,1
+внедрение ERP,1
+CWL,1
+Цифровизация экономики,1
+"Python, PyTorch",1
+artificial intelligence,1
+dl,1
+MXnet,1
+macOS,1
+TeX,1
+Creativity,1
+ARIMA / SARIMA,1
+Прикладная статистика,1
+Операционные системы,1
+Oracle Virtual Box,1
+Владение библиотекой Python Tensorflow,1
+"Владение программами SPSS, EViews",1
+"Знание алгоритмов машинного обучения для решения задач: классификации, кластеризации, регресии с пом",1
+Владение языком программирования Java на уровне Junior,1
+"Владение пакетом библиотек Python для анализа и визуализации данных (Numpy, Pandas, Scipy, Matplotli",1
+Владение SQL Developer на уровне выгрузки данных,1
+Text classification,1
+Аккуратность,1
+умение,1
+DBMS,1
+Autoregression,1
+ODS,1
+Zeppeline,1
+gplot,1
+Адаптация,1
+Decision And Risk Analytics,1
+Перевод,1
+Электронная почта,1
+Теория Вероятности,1
+Azure devops,1
+Origin pro,1
+linear/logistic regression,1
+artifical neural networks,1
+PCA,1
+R-project,1
+Retail,1
+Обработка сигналов,1
+Основы экономики и финансов,1
+Advanced statistics,1
+Алгоритмы ML,1
+git (github),1
+Snakemake,1
+"Начальные знания: Hadoop, HBase, Hive, Spark",1
+Command Line,1
+Ensemble Trees,1
+RShiny,1
+DSP,1
+Python Numpy,1
+Spring Boot,1
+Technical documentation,1
+Computer science,1
+Администрирование БД,1
+Администрирование сайтов,1
+Создание сайтов,1
+"CNN, RNN",1
+Слепая печать (270 зн/мин),1
+Gym,1
+SKLearn,1
+алгоритмическая торговля,1
+trading,1
+Глубинное обучение,1
+nlp (natural language processing),1
+Разработка и изготовление радиоэлектронных устройств,1
+Голосовая идентификация диктора,1
+Auction theory,1
+Angular 7,1
+Программироваие,1
+Внедрение систем информационной безопасности,1
+Администрирование linux,1
+embeddings,1
+FirebirdSQL,1
+ML algorithms,1
+NLP basics,1
+vim,1
+Documentation,1
+Docker and Docker-compose,1
+Algotrading,1
+autotests,1
+Plain C,1
+Codecs,1
+Media Infrastructures,1
+Cross-platform development,1
+Code Optimization,1
+System Integration,1
+ab-tests,1
+Hadoop/MapReduce,1

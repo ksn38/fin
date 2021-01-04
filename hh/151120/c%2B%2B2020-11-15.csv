@@ -1,0 +1,4367 @@
+tag,count
+C++,1342
+Git,928
+C/C++,842
+ООП,808
+Linux,787
+Qt,686
+SQL,670
+Python,546
+STL,522
+MS Visual Studio,481
+C#,457
+HTML,390
+MySQL,379
+Java,362
+JavaScript,343
+CSS,267
+SVN,229
+PHP,224
+MS Visual C++,216
+Английский язык,210
+PostgreSQL,195
+MS SQL,178
+Boost,177
+Adobe Photoshop,171
+Пользователь ПК,169
+Microsoft Visual Studio,167
+Assembler,166
+Разработка ПО,161
+Работа в команде,153
+XML,147
+Bash,144
+TCP/IP,135
+OpenGL,132
+.NET Framework,128
+HTML5,126
+MATLAB,125
+Android,113
+Visual Studio C#,112
+MS SQL Server,109
+Multithread Programming,109
+Delphi,102
+jQuery,96
+Visual C++,95
+C,94
+Borland C++,93
+Windows 7,91
+CSS3,91
+Design Patterns,84
+MS PowerPoint,79
+MS Office,79
+Unity,78
+Математическое программирование,76
+Базы данных,76
+Atlassian Jira,75
+SQLite,72
+Eclipse,72
+Грамотная речь,71
+Управление проектами,69
+PHP5,67
+OpenCV,65
+Ответственность,62
+WPF,61
+Pascal,61
+ASP.NET,60
+Математический анализ,57
+Cистемы управления базами данных,57
+MS Excel,56
+Unix,55
+Windows API,55
+Ajax,53
+Windows Forms,52
+Unit Testing,52
+MS Access,52
+AutoCAD,51
+Исполнительность,51
+Mathcad,51
+UML,50
+MVC,49
+Win32 Api,49
+Обучаемость,48
+Borland Delphi,48
+Организаторские навыки,47
+Android SDK,47
+Работа с базами данных,47
+Администрирование серверов Linux,46
+Internet,46
+MS Word,45
+Настройка ПК,43
+Mac Os,43
+CMake,42
+MFC,42
+Windows,42
+Oracle Pl/SQL,41
+ORACLE,41
+iOS,41
+Математическое моделирование,41
+Lua,41
+Networking,41
+QML,40
+Mercurial,40
+Веб-программирование,39
+JSON API,38
+Perl,38
+Поиск информации в интернет,37
+Django Framework,37
+Objective-C,36
+Серверное программирование,36
+Водительское удостоверение категории B,35
+Ведение переговоров,35
+GCC,35
+Java SE,34
+Bootstrap,34
+Game Programming,34
+HTTP,34
+CorelDRAW,34
+Xcode,33
+Настройка ПО,32
+Software Development,32
+C++11,32
+REST,32
+Apache HTTP Server,32
+Деловое общение,31
+Arduino,31
+Схемотехника электронного оборудования,31
+Scrum,31
+Ремонт ПК,31
+С++,31
+WinAPI,31
+ARM,31
+Object Pascal/Delphi,30
+Коммуникабельность,30
+Сборка ПК,30
+Docker,29
+Nginx,29
+MongoDB,29
+Работа с большим объемом информации,29
+Администрирование серверов Windows,29
+Unreal Engine 4,28
+Настройка сетевых подключений,28
+CMS Wordpress,27
+Unix Shell Scripts,27
+DirectX,26
+Деловая переписка,26
+Transact-SQL,26
+Аналитическое мышление,26
+Agile Project Management,25
+Администрирование сетевого оборудования,25
+Windows Os,25
+Математическая статистика,25
+Adobe Illustrator,25
+Unreal Engine,25
+3D Моделирование,25
+Node.js,25
+Turbo Pascal,24
+VBA,24
+OOP,24
+JSON,24
+Gnu C++,23
+MS Outlook,23
+Windows Xp,23
+Умение работать в команде,22
+CUDA,22
+С#,22
+FirebirdSQL,22
+SFML,21
+Администрирование,21
+Работоспособность,21
+Стрессоустойчивость,21
+Управление персоналом,21
+3D-графика,21
+Entity Framework,21
+1С: Предприятие 8,21
+Latex,20
+Intellij IDEA,20
+Целеустремленность,20
+Умение работать в коллективе,20
+Redmine,20
+Embarcadero Delphi,20
+1С программирование,20
+MS Visual Basic,20
+Spring Framework,18
+СУБД,18
+SolidWorks,18
+MS Visio,18
+OpenCL,18
+Shell Scripting,18
+Грамотность,18
+Joomla CMS,18
+COM,18
+Алгоритмы,17
+cmake,17
+Компас-3D,17
+Blender 3D,17
+Golang,17
+STM32,17
+База данных: Oracle,17
+VMware,17
+Teamleading,17
+VoIP,16
+SQL Server,16
+Разработка технических заданий,16
+Debian,16
+ATL,16
+Qt Creator,16
+Алгоритмы и структуры данных,16
+Преподаватель,16
+Cisco,16
+Тестирование,16
+Анализ данных,16
+UE4,15
+Windows 8,15
+Autodesk 3ds Max,15
+GLSL,15
+Windows Server 2003,15
+Embedded,15
+NetBeans,15
+Jenkins,15
+Redis,15
+Swift,15
+Администрирование сайтов,14
+Java EE,14
+Altium Designer,14
+Microsoft Access,14
+Web Application Development,14
+Программирование,14
+AVR Studio,14
+Обучение,14
+Atlassian Confluence,13
+Быстрая обучаемость,13
+Обучение и развитие,13
+Active Directory,13
+Информационные технологии,13
+Обработка изображений,13
+руководство командой разработчиков,13
+Креативность,13
+Работа с оргтехникой,13
+Системное мышление,13
+Ubuntu,13
+Verilog HDL,13
+3ds Max,13
+MS Dos,13
+ADO.NET,13
+Многопоточность,13
+1C: Бухгалтерия,13
+Perforce,12
+gdb,12
+Hibernate ORM,12
+AngularJS,12
+SEO,12
+Линейное программирование,12
+Техническое обслуживание,12
+Техническая поддержка,12
+Телефонные переговоры,12
+NoSQL,12
+WCF,12
+Руководство коллективом,12
+Проведение презентаций,11
+Doxygen,11
+C++17,11
+Kotlin,11
+Images Processing,11
+PowerShell,11
+Работа с документами,11
+Flask,11
+Ruby,11
+Algorithms,11
+LINQ,11
+FreeBSD,11
+POSIX,11
+Настройка DNS,10
+Project management,10
+Ruby On Rails,10
+Data Analysis,10
+Cmake,10
+P-CAD,10
+phpMyAdmin,10
+Maple,10
+TFS,10
+C++14,10
+Code Optimization,10
+Machine Learning,10
+VPN,10
+Big Data,10
+OpenMP,10
+Visual Basic,10
+GIMP,10
+Ориентация на результат,10
+React,10
+Асинхронное программирование,10
+Apache Maven,9
+TDD,9
+Qml,9
+Навыки презентации,9
+Rust,9
+Написание научных статей,9
+Разработка компьютерных Игр,9
+DHCP,9
+SIP,9
+Subversion,9
+Mathematical Programming,9
+Информационная безопасность,9
+Деловая коммуникация,9
+SDL2,9
+Системы видеонаблюдения,9
+Статистический анализ,9
+CVS,9
+WinApi,9
+Монтаж оборудования,9
+С,9
+Научные исследования,8
+Blockchain,8
+Навыки продаж,8
+Программирование 3D-графики,8
+Компас 3D,8
+UI,8
+HLSL,8
+QtCreator,8
+Yii,8
+Apache Tomcat,8
+LabVIEW,8
+Аналитический склад ума,8
+Blueprints,8
+Автоматизация технологических процессов,8
+XML/Xslt,8
+Flash Actionscript,8
+Проектирование пользовательских интерфейсов,8
+Machine learning,8
+3 группа по электробезопасности,8
+Настройка серверов,8
+TeamCity,8
+FreeRTOS,8
+UDP,8
+GitHub,8
+Keras,8
+GDB,8
+Пунктуальность,8
+Multithreading,8
+Ubuntu Server,7
+Windows 10,7
+SDL,7
+AVR,7
+Adobe Premier Pro,7
+Unity3D,7
+Разработка проектной документации,7
+MPI,7
+SOLID,7
+wxWidgets,7
+ffmpeg,7
+Data Structures,7
+Haskell,7
+Аналитические исследования,7
+Asterisk,7
+Настройка почтовых серверов,7
+Трудолюбие,7
+Virtualization,7
+Нелинейное программирование,7
+Администрирование серверов,7
+Чтение электросхем,7
+Sony Vegas,7
+JSP,7
+Письменный перевод,7
+Zabbix,7
+Android Studio,7
+Tensorflow,7
+SOAP,7
+Oracle 11G,7
+Databases,7
+Simulink,7
+Техническая документация,7
+Точность и внимательность к деталям,6
+CRM,6
+RabbitMQ,6
+Автоматизация,6
+SCALA,6
+VR,6
+Mathematical Analysis,6
+LAN,6
+Go,6
+Поиск и привлечение клиентов,6
+Мед. книжка,6
+нормативно-техническая документация,6
+Ansi C++,6
+Холодные продажи,6
+Data Mining,6
+MVVM,6
+make,6
+Системное программирование,6
+Sockets,6
+MS Project,6
+Многопоточное программирование,6
+1С-Битрикс,6
+SPI,6
+valgrind,6
+Wolfram Matematica,6
+MSSQL,6
+Autodesk Maya,6
+Wireshark,6
+Оптимизация кода,6
+1С: Зарплата и управление персоналом,6
+Линейная алгебра,6
+API,6
+Высокая скорость печати,6
+Computer Vision,6
+Reverse Engineering,6
+Helpdesk,6
+Машинное обучение,6
+Инициативность,6
+САПР,6
+Творческое мышление,6
+VBScript,6
+Autodesk Inventor,6
+Работа с людьми,6
+ANSYS,6
+Постановка задач разработчикам,6
+Научная деятельность,6
+Многозадачность,6
+XAML,6
+Написание текстов,6
+Заключение договоров,6
+Mathematical Statistics,6
+Обучение персонала,6
+Solid Works,5
+Публичные выступления,5
+Hadoop,5
+Windows Server 2008 R2,5
+Тестирование пользовательского интерфейса,5
+IoT,5
+Android NDK,5
+Автоматизированное рабочее место (АРМ),5
+с++,5
+Цифровая обработка сигналов,5
+Access,5
+Офисная техника,5
+sockets,5
+Проектно-конструкторская деятельность,5
+Xamarin,5
+Обеспечение антивирусной защиты,5
+WinDbg,5
+Экстремальное программирование,5
+Обновление конфигурации 1С,5
+Разработка концепции,5
+Adobe After Effect,5
+Рефакторинг кода,5
+пунктуальность,5
+Локальные сети,5
+Пуско-наладочные работы,5
+OOD,5
+Активные продажи,5
+C++/CLI,5
+Neural Networks,5
+Solidity,5
+Qt5,5
+gtest,5
+Unreal engine,5
+Проектирование,5
+DSP,5
+3D,5
+Vim,5
+Proteus,5
+Oracle Database,5
+ZBrush,5
+Высшая математика,5
+C++ 11,5
+Substance Painter,5
+SNMP,5
+Параллельное программирование,5
+JUnit,5
+PyCharm,5
+FPGA,5
+Электронный документооборот,5
+.NET,5
+Team management,5
+GUI,5
+reverse engineering,5
+Pandas,5
+Make,5
+Опытный пользователь ПК,5
+SCADA,5
+Visual Studio Net,5
+Усидчивость,5
+Управленческие навыки,5
+Микроконтроллеры,5
+Java Servlets,5
+NI Multisim,5
+QA,5
+Driving Licence B,5
+CAD,4
+CAN,4
+Функциональное программирование,4
+multithreading,4
+Организация мероприятий,4
+QNX,4
+Структуры данных,4
+1С: Управление Производственным Предприятием,4
+FFmpeg,4
+c++11,4
+json,4
+обучаемость,4
+1С: Бухгалтерия,4
+Французский язык,4
+R,4
+Cocos2d-x,4
+Python3,4
+Blueprint,4
+Знание C++,4
+Средства криптографической защиты информации,4
+Borland C++ Builder,4
+Pl/Python,4
+Vulkan,4
+Game Development,4
+Development,4
+DevOps,4
+Понимание принципов ООП,4
+Deep Learning,4
+UWP,4
+CLion,4
+Бизнес-анализ,4
+Численные методы,4
+QT,4
+GLFW,4
+WebRTC,4
+Проведение тестирований,4
+I2C,4
+слаботочные системы,4
+Hyper-V,4
+математика,4
+CODESYS,4
+FTP,4
+Clion,4
+JS,4
+VHDL,4
+Настройка серверов Apache,4
+QT Creator,4
+1С: Управление Торговлей,4
+Дискретная математика,4
+MS Internet Explorer,4
+WIndows Phone,4
+Физика,4
+Agile,4
+RTP,4
+Написание статей,4
+Mac OS X,4
+IPC,4
+Коммуникативные навыки,4
+Делопроизводство,4
+Копирайтинг,4
+TensorFlow,4
+UX,4
+Навыки межличностного общения,4
+Cryptography,4
+Visual Studio,4
+Digital Visual Fortran,4
+GNU Make,4
+vim,4
+ROS,4
+stm32,4
+RS232,4
+Linear Programming,4
+Технический перевод,4
+UART,4
+Ethernet,4
+Web-дизайн,4
+ЕСКД,4
+IBM Lotus Notes,4
+REST API,4
+WebGL,4
+Деловая этика,4
+Низкоуровневое программирование,4
+Ethereum,4
+Электротехнические работы,4
+Паттерны проектирования,4
+Opencv,4
+Redux,4
+Mathematical Modeling,4
+unreal engine,4
+3D Studio Max,4
+Управление командой,4
+ERP-системы на базе 1С,3
+Компас,3
+cocos2d-x,3
+1C,3
+CentOS,3
+Sass,3
+Atmel,3
+AR,3
+Ole Db,3
+Закупки,3
+Уверенный пользователь ПК,3
+Консультирование клиентов,3
+Typescript,3
+Prolog,3
+OpenSSL,3
+Communication skills,3
+Ext JS,3
+Oracle C++ Call Interface,3
+Statistica,3
+Дифференциальные уравнения,3
+IDA Pro,3
+docker,3
+Adobe Lightroom,3
+pandas,3
+Physics,3
+Визуализация,3
+Leadership Skills,3
+Curl,3
+Знание ООП,3
+TortoiseSVN,3
+Winapi,3
+SMTP/POP3/IMAP,3
+VCL,3
+программирование,3
+Объектно-ориентированное программирование,3
+Marmalade SDK,3
+Jetbrains Phpstorm,3
+Adobe Flash,3
+GIS,3
+C++ 14,3
+POSIX API,3
+BPMN,3
+Процедурное программирование,3
+Flex,3
+Разработка CMS,3
+CCNA,3
+3D Max,3
+Компьютерное зрение,3
+Ассе́мблер,3
+ORM,3
+Математика,3
+JDBC,3
+1С: Документооборот,3
+Нейронные сети,3
+Builder C++,3
+Laravel,3
+Cocos2d,3
+GameDev,3
+Copyrighting,3
+Перевод технической документации,3
+GPGPU,3
+С++ 17,3
+Теория вероятностей,3
+Bitcoin,3
+NDK,3
+Stm32,3
+.NET Core,3
+С/С++,3
+Gentoo,3
+SEO-копирайтинг,3
+GPU,3
+Qt4,3
+Tortoise SVN,3
+OpenGL ES,3
+WinForms,3
+OPC,3
+Модульное тестирование,3
+Direct3D,3
+Data Science,3
+Вычислительные методы,3
+Linux Kernel,3
+Google Chrome,3
+Прямые продажи,3
+Bugzilla,3
+Cassandra,3
+FastReport,3
+VTK,3
+Системный подход,3
+x86,3
+Oracle 10G,3
+Information Security,3
+Монтаж инженерных систем,3
+Мобильность,3
+UnrealEngine4,3
+Computer vision,3
+Unity3d,3
+Github,3
+Графические редакторы,3
+Групповые программы,3
+Gerrit,3
+PhysX,3
+Немецкий язык,3
+C++ Builder,3
+Java Database,3
+g++,3
+Erlang,3
+Gtest,3
+Adobe Audition,3
+Poco,3
+Vkontakte Api,3
+Аналитические способности,3
+MS SharePoint,3
+GDI+,3
+Cinema 4D,3
+Unreal engine 4,3
+Графика,3
+embedded,3
+RTOS,3
+NumPy,3
+Договорная работа,3
+Informix,3
+ASP.NET MVC,3
+Time management,3
+Protobuf,3
+Swing,3
+Сетевое программирование,3
+WDK,3
+Xsd,3
+VS Code,3
+Графический дизайн,3
+1С: Зарплата и кадры,3
+Atmel Studio,3
+Apex,3
+Системы контроля версий,3
+Samba,3
+Ремонтные работы,3
+Добросовестность,3
+Memcached,3
+VirtualBox,3
+AI,3
+XPath,3
+Электронная почта,3
+Google Docs,3
+gmock,3
+DNS,3
+Jira,3
+Продажи,3
+Oracle DB,3
+Amazon Web Services,3
+С++11,3
+Системы охранно-тревожной сигнализации,3
+Novell Netware,3
+Astra Linux,3
+Разработка нового продукта,3
+Функциональное тестирование,3
+Codeigniter,3
+Data structures,3
+Проектирование ЛВС,3
+DSS1,2
+Developer Express,2
+Figma,2
+Embedded Linux,2
+численные методы,2
+Pure C,2
+Знание C/C++,2
+Adaptability,2
+Ведение документации,2
+Embedded Software Development,2
+Анимация,2
+Verilog,2
+Аналитическая геометрия,2
+Биржевые торги,2
+Distributed Systems,2
+Развитие продаж,2
+Конференции,2
+1С: Предприятие,2
+С\С++,2
+Blazor,2
+awk,2
+LLVM,2
+усидчивость,2
+Hardware,2
+CAD/CAM,2
+Google SketchUp,2
+winapi,2
+Hypersonic Sql,2
+OpenOffice,2
+DirectX 9,2
+PMI,2
+оформление документации,2
+autotools,2
+Моделирование,2
+Compilers,2
+GSM,2
+FFMpeg,2
+ГОСТ,2
+LDAP,2
+PLC,2
+1С: Склад,2
+Базовые знания OpenGL,2
+Высшая алгебра,2
+QtWidgets,2
+AWS,2
+Google Test,2
+Стратегическое мышление,2
+Haxe,2
+cocos2dx,2
+G++,2
+Unity 3D,2
+Пунктуальный,2
+Тайм-менеджмент,2
+ГОСТы,2
+Video Recording,2
+Компьютерные сети,2
+Радиотехника,2
+Планирование закупок,2
+ПЛИС,2
+оформление заказов,2
+Программирование на C++,2
+Rendering,2
+Xlib,2
+Мотивация,2
+Gradle,2
+Unix Shell,2
+SSH,2
+Eagle CAD,2
+Presentation skills,2
+Data science,2
+GTest,2
+F#,2
+Socket,2
+MAXScript,2
+ADO,2
+Flutter,2
+Системный анализ,2
+Windows 95/98,2
+GDI,2
+OllyDbg,2
+Верстка,2
+Adobe InDesign,2
+ODBC,2
+Testing Framework,2
+Cross-platform,2
+PMBOK,2
+Ogre3D,2
+Ведение переписки на иностранном языке,2
+искусственный интеллект,2
+Virtual Reality,2
+network protocols,2
+Teamplayer,2
+IAR,2
+Ведение переписки,2
+Abacus,2
+Организация учебного процесса,2
+Nvidia Cuda,2
+npm,2
+Нагрузочное тестирование,2
+Выездное обслуживание,2
+MSVC,2
+Экономический анализ,2
+STM32CubeMX,2
+Шаблоны проектирования,2
+Разработка продукта,2
+CMS,2
+программирование микроконтроллеров,2
+Лидерские качества,2
+Вычислительная математика,2
+ActiveX,2
+RenderDoc,2
+Cuda,2
+Операционные системы,2
+Google API,2
+Aerospike,2
+Спортивные мероприятия,2
+Unreal,2
+Прокладка кабелей,2
+алгоритмы,2
+QMake,2
+Adobe Acrobat,2
+Автоматизация производства,2
+ReactJS,2
+LibAV,2
+stl/boost,2
+Си++,2
+ГИС,2
+Udp,2
+Bank Software,2
+Создание сайтов,2
+Фотография,2
+Разработка технической документации,2
+ArcGIS,2
+SketchUp,2
+Вождение автомобилей представительского класса,2
+Знание устройства автомобиля,2
+Консультирование клиентов по телефону,2
+Http Server,2
+Электромонтажные работы,2
+Bug Tracking Systems,2
+Rational Unified Process,2
+IDA,2
+Электроника,2
+Подготовка презентаций на иностранном языке,2
+Документальное сопровождение,2
+Организационные навыки,2
+Администрирование серверов FreeBSD,2
+Continuous Integration,2
+MVP,2
+Mercury,2
+Software Testing,2
+box2d,2
+RS232/485,2
+gSOAP,2
+SAP,2
+Интернет-реклама,2
+Си,2
+Знание языка С/С++,2
+tensorflow,2
+Подбор персонала,2
+OSI,2
+GNU/Linux,2
+C++ Standard Library,2
+Sphinx,2
+QuickFIX,2
+Metatrader API,2
+АСУ ТП,2
+FBD,2
+BASIC,2
+C++ STL,2
+gerrit,2
+Математическая подготовка,2
+SWIG,2
+protobuf,2
+gRPC,2
+ssh,2
+IDEF0,2
+Windows Vista,2
+Подготовка презентаций,2
+blockchain,2
+asm,2
+RakNet,2
+Kubernetes,2
+Raspberry,2
+arduino,2
+AllFusion ERwin Data Modeler,2
+машинное обучение,2
+Криптография,2
+Embarcadero RAD Studio,2
+Universal Windows Platform,2
+Fortran,2
+Антивирусная защита сети,2
+Cross-platform development,2
+COM/DCOM,2
+Обработка видео,2
+Selenium IDE,2
+Linear algebra,2
+emacs,2
+Желание учиться,2
+FastCGI,2
+Административное управление,2
+IAR Embedded Workbench,2
+NXP,2
+Программист микроконтроллеров,2
+ARIS,2
+asyncio,2
+Augmented reality,2
+C++/STL,2
+Cocos2dx,2
+Network programming,2
+Software Architecture,2
+Digital Signal Processing,2
+Valgrind,2
+Водительские права категории В,2
+MS Suite,2
+Ведение клиентской базы,2
+Управление интернет-проектами,2
+Дисциплинированность,2
+WinSock,2
+Умение разбираться в чужом коде,2
+1С: Торговля,2
+WinSock2,2
+ClearCase,2
+MS Office XP,2
+Системы безопасности,2
+Interbase,2
+1С: Комплексная автоматизация,2
+PyQt,2
+C++11/14,2
+DCOM,2
+GLES,2
+Network Programming,2
+B2B Продажи,2
+CI,2
+Планирование,2
+buildroot,2
+Teambuilding,2
+Водительское удостоверение категории A,2
+WTL,2
+Сбор и анализ информации,2
+Mdaemon Mail Server,2
+Crystal Reports,2
+WFP,2
+Разработка инструкций,2
+CMAKE,2
+Mono,2
+Modern C++,2
+Находчивость,2
+Основы Python,2
+1C: Зарплата и кадры,2
+computer vision,2
+qml,2
+Shell,2
+JIRA,2
+Keil,2
+C++ 11/14,2
+Желание развиваться,2
+1С: Торговля и склад,2
+MikroTik,2
+Wolfram Mathematica,2
+Знание С++,2
+ANT,2
+Json,2
+Microsoft office,2
+Gulp,2
+Symfony,2
+Инвестиции,2
+Regular Expressions,2
+cvs,2
+1С: Производство,2
+1С: Управление персоналом,2
+спокойный,2
+Chromium Embedded Framework,2
+Git/GitHub,2
+opencv,2
+многопоточное программирование,2
+c++ builder,2
+Документооборот,2
+Graphics,2
+Амбициозность,2
+Консультирование,2
+Neural networks,2
+Solaris,2
+ERP,2
+C ++,2
+Bitbucket,2
+SCons,2
+Резервное копирование,2
+YouTrack,2
+Доброжелательность,2
+QGIS,2
+Wifi networks,2
+IIS,2
+С++ 11,2
+KVM,2
+Phyton,2
+Распределенные системы,2
+Внимательность,2
+sklearn,2
+Web-разработка,2
+Любознательность,2
+Mathematics,2
+Oracle 8I,2
+WF,2
+Numpy,2
+OrCad,2
+C++ 17,2
+Diameter,2
+metaprogramming,2
+OOP/OOD,2
+Написание сценариев,2
+Внедрение систем информационной безопасности,2
+Слепая печать,2
+Административная поддержка руководителя,2
+ITIL,2
+1С-Рарус,2
+Написание научный статей,2
+Product Management,2
+Oracle Siebel CRM,2
+Пайка,2
+Электрические системы и слаботочные системы,2
+Oracle 11I,2
+Django,2
+UDP/IP,2
+Упорство,2
+Знание алгоритмов и структур данных,2
+MS Windows,2
+Урегулирование конфликтов,2
+Matplotlib,2
+линейная алгебра,2
+GoLang,2
+ansible,2
+DBMS,2
+Наставничество,2
+Умение расставлять приоритеты,2
+Math,2
+Теория автоматического управления,2
+аккуратность,2
+Системная интеграция,2
+Photography,2
+UnrealEngine,2
+RegExp,2
+Godot,2
+Программирование микроконтроллеров,2
+OCCI,2
+Linux API,2
+Reverse engineering,2
+C++98,2
+github,2
+Основы C++,2
+Знание иностранных языков,2
+MPLAB,2
+Heroku,2
+RPC,2
+Составление семантического ядра,2
+MS Publisher,2
+Sublime Text,2
+Js,2
+Проектная документация,2
+Видеомонтаж,2
+Inkscape,2
+Salesforce,2
+UMG,2
+Unigraphics NX,2
+Local IP access networks,2
+Аккуратность,2
+Блокчейн,2
+ERP Systems,2
+Знание STL,2
+Firebase,2
+Substance Designer,2
+Программирование в среде Linux u Windows,1
+Работа скомандной строкой в Linux,1
+"Базовые знания С++, PHP‚ JavaScript, HTML",1
+"языки программирования: С++, С#‚ JavaScript, Matlab, Wolfram Matematica",1
+"Небольшой опыт работы с программами: Visual Studio, NetBeans, Photophop, Adobe_Dreamweaver",1
+Базовые знания Java,1
+Хорошая математическая подготовка,1
+Программист С++ в Visual Studio на Windows и Qt и NetBeans в Linux.,1
+"Создание пользовательского графического интерфейса, для работы с БД, и текстовой информацией",1
+"знания технологий : Viisual Studio, QT, XE2, devExpress",1
+"Содание пользовательских интерфейсов с использованием Qt, Net Beans, Visual Studio.",1
+Умение создавать программы для работы с бинарными и текстовыми файлами,1
+"многопоточные, клиент-серверные приложения",1
+создание  и работа с динамическими структурами данных,1
+создание удобного интефейса,1
+Базы данных: SQL,1
+Радио,1
+x86/ARM assembly,1
+Low-level debugging & optimization,1
+Binary protection,1
+желание учится,1
+Breakpad,1
+Навыки работы с компьютерной техникой (продвинутый пользователь),1
+Векторные инструкции процессоров (SSE),1
+Написание bash-скриптов в LInux,1
+Программирование компиляторов,1
+Java (Desktop),1
+"MySQL, Oracle DB",1
+"•.NET (C#, WPF, WCF, WinForms)",1
+Знание и понимание принципов ООП,1
+"programming С/C++,  electronics",1
+"C\C++, FORTRAN, Matlab, MS Excel",1
+Git flow,1
+STL/ATL,1
+"Среды разработки: MS Visual Studio, Eclipse, MS Bland",1
+Programming Pattern,1
+WinSOCK 2.0,1
+Assembler for PC,1
+COM/ActiveX,1
+BOOST,1
+WinApi(basics),1
+"Multithreading (process.h , boost:thread)",1
+nVidia Cuda (basics),1
+threading,1
+работа с сетью,1
+"HTML/CSS, XML",1
+Разработка системы управления проектами,1
+Разработка Драйверов,1
+"Навыки программирования на языке C#, HTML 5",1
+Внедрение и тестирование специального программного обеспечения,1
+OCaml,1
+OpenGL(basics),1
+jira/git,1
+Linux on user level,1
+basic knowledge OOP/C++/Qt/STL,1
+crossplatform code,1
+Oracle PL,1
+Многозадачность и синхронизация,1
+"Программирование под Windows на языках Си++, Си, тестирование ПО",1
+OLE DB & ADO,1
+Numeric simulation,1
+"C++, STL",1
+nekoVM,1
+SOQL,1
+Kernel Drivers,1
+Version Control System,1
+Начальные навыки работы в VIM,1
+Язык R,1
+Техническая документация на английском языке,1
+1С: Розница,1
+Git (GitHub),1
+1С: Предприятие: Бухгалтерский Учет,1
+SQLite3,1
+CI/CD,1
+Навыки работы с ОС Linux,1
+Навыки разработки на С++,1
+Бухгалтерская отчетность,1
+Навыки проведения лекционных занятий,1
+Биология,1
+Навык слепой печати на клавиатуре (Английский и Русский язык),1
+english,1
+teamwork expirience,1
+Навыки составления технической документации,1
+Управление разработкой,1
+2D games,1
+"GIT, JIRA",1
+Mutlithreading,1
+Sockets API,1
+GML,1
+Биоинженерия,1
+Биоинформатика,1
+Компьютерная безопасность,1
+Windows GUI,1
+cross-platform,1
+cl/gcc/clang/mingw,1
+"TDD, boost.test/gmock",1
+"паттерны проектирования, банда четырех, Алесксандресску",1
+pqxx,1
+template,1
+client-server,1
+CEGUI,1
+VisualSVN,1
+AnkhSvn,1
+автоматическая классификация,1
+Развитые аналитические способности,1
+автоматическое обучение,1
+наукоемкое программирование,1
+обработка мультиспектральных изображений,1
+обработка сигналов,1
+обработка сложно организованных данных большого объема,1
+разработка сложных алгоритмов,1
+распознавание образов,1
+теория трансляции,1
+высокая работоспособность,1
+дисциплинированность,1
+TOR,1
+Диагностика CAN сетей через ПО CANalyzer,1
+stl,1
+Directshow,1
+Source control,1
+Windows 95 - 8.1,1
+"Windows CE 5.0, 6.0",1
+x86/x64,1
+Code Composer Studio,1
+Software Engineering,1
+C\C++,1
+Kernel Debugging,1
+Device Drivers,1
+Навыки подбора технического персонала и организации его работы,1
+libvpx,1
+Autodesk Mudbox,1
+Stl,1
+Навыки работы с офисной техникой,1
+Bsd,1
+Fedora,1
+"Навыки работы с офисными программами (OpenOffice, MicrosoftOffice)",1
+Researcher,1
+cpp,1
+Продвижение бренда,1
+Реклама,1
+"С++, Qt, OpenCV, OpenGL, распознавание изображений, программирование",1
+APU,1
+скриптор игровой логики,1
+Программирование на MATLAB,1
+Опыт работы с 2D- и 3D- графикой,1
+Программирование на С++,1
+Программирование оконных приложений на Qt,1
+Разбор чужого кода и доработка проектов,1
+Построение реляционных баз данных,1
+R Language,1
+G-Code,1
+CAM,1
+Вычислительная геометрия,1
+Теория управления,1
+"Опыт пусконаладочных, диагностических и ремонтных работ на объектах",1
+Программирование в SCADA,1
+Sybase SQL,1
+"Программирование на языках высокого уровня (C, Pascal и т.д.)",1
+Программирование панелей оператора,1
+"Программирование ПЛК (LD, STL и т.д.)",1
+Составление иллюстрированной пользовательской документации (инструкции пользователя и т.п.),1
+Чтение электрических схем,1
+ASP .NET,1
+Навыки ведения переговоров и проведения презентаций,1
+Code Collaborator,1
+cygwin,1
+Klocwork,1
+"функциональное прог., структурное прог., ООП.",1
+IT,1
+Codejock Xtreme Toolkit Pro,1
+Базовые знания паттернов программирования,1
+"Понимание паттернов проектирования, знание основных ( изучение в рамках учебного курса)",1
+Dia,1
+Open Office,1
+1С: CRM ПРОФ,1
+MBA,1
+Менеджмент организаций,1
+Оперативное планирование,1
+"RS232, RS485",1
+программирование микроконтроллеров STM32,1
+Keil MDK Version 5,1
+Знание структур данных,1
+NVIDIA OpenGL SDK,1
+raspbery pi 3,1
+embedded software,1
+программирование на С++ математических алгоритмов,1
+COM-port programming,1
+"Multithreading (boost::thread, c++11)",1
+nVidia CUDA (basics),1
+OGRE3D Engine (OpenGL/DirectX included),1
+Sockets (WinSOCK 2.0),1
+WinAPI (basics),1
+DirectX: DirectDraw,1
+Понимание объектно-ориентированного программирования,1
+"Знание *nix-систем  (консоль, основные команды, bash)",1
+"Знание C, C++, C#, sql",1
+Управление командой разработчиков,1
+"Практика программирования на С/С++, Pascal",1
+разработка тестовых программ и драйверов для встраиваемых систем,1
+умение работать в коллективе,1
+ANSI C,1
+Cross-platform Development,1
+MySQL GUI Tools,1
+"Базовые навыки HTML,CSS, JavaScript",1
+Игровые движки,1
+Разработка игрового ПО,1
+electronic design,1
+Embedded C/C++,1
+PCB design,1
+T-FLEX,1
+Программирование С/С++,1
+Qt-SDK,1
+Обслуживание ПК,1
+Работа с ПК,1
+CodeVision AVR,1
+Прогнозирование,1
+"Кроссплатформенная разработка (Windows, Linux)",1
+Стремление к развитию,1
+Автоматизация управленческой отчетности,1
+"c++,uml,design patterns, умение читать код на разл языках",1
+"Linux, Unix/Posix IPC",1
+"Знание языков C++, С#",1
+понимание принципов ООП,1
+Расчетно-кассовое обслуживание физических лиц,1
+Расчетно-кассовое обслуживание юридических лиц,1
+Составление и заключение договоров,1
+Техники продаж,1
+C++(STL),1
+Monkey X,1
+Алгоритмы работы с данными,1
+Capital Market,1
+Investment Banking,1
+Warehouse Management,1
+DirectX 9 SDK,1
+Калибровка датчиков,1
+Написание программ для датчиков,1
+Настройка приборов,1
+Разработка ПО контроллера,1
+Ремонт приборов,1
+"Java (Spring data, MVC)",1
+Matlab/Octave,1
+"статьи в хим. журналах, написание моногр., органический синтез, молекуляр. дизайн, программирование",1
+"C++, Delphi, HTML, PHP, JavaScript, MySQL, Structured Text (ST), Ladder Diagram (LD), FBD",1
+Кураторство работы сотрудников и контроль качества обслуживания клиентов,1
+знание теории баз данных,1
+"make,bash",1
+Знание регламентирующих банковскую деятельность документов,1
+базовые знания в области написания драйверов Linux,1
+"базовые знания ядра Linux, на уровне исходников",1
+Elastix,1
+Программирование C/C++,1
+могу разобраться в том что не умею быстро,1
+Collective Agreements,1
+Corporate Events Organization,1
+Financial Controlling,1
+"C, C++, Java, Object Pascal, SQL, Intel x86",1
+объекно-ориентированное программирование,1
+"системы управления версиями: SVN, Mercurial;",1
+"средства разработки: Qt, MS Visual Studio, Delphi, Eclipse;",1
+"СУБД:  MS SQL Server, PostgreSQL, BDE, Btrieve, Paradox;",1
+asm i86,1
+HTTP/HTTPS,1
+Wininet,1
+"синхронизация, потоки, OVERLAPPED",1
+Ведение и расширение клиентской базы,1
+Водительские права категории «B»,1
+Знание основ финансового анализа,1
+знание различных банковских программ,1
+практика программирования на assembler,1
+"опыт работы с интерфейсами SPI, UART, I2C, CAN, USB",1
+"навыки программирования микроконтроллеров на базе ядер AVR, ARM на языке программирования С",1
+Теоретическая механика,1
+Cppcheck,1
+"Владение оргтехникой:  принтер, сканер.",1
+"Владение языками программирования:  Pascal, C++, HTML, PHP",1
+information retrieval,1
+SGE,1
+system-verilog,1
+VMM/OVM/UVM,1
+"C++, STL, boost, OpenGL, Direct3D, MFC, CUDA,",1
+LUA,1
+MSVS,1
+Multi-threading,1
+Unix programming,1
+С/C++(STL),1
+windows presentation foundation,1
+MXML,1
+Starling,1
+Програмування мовою C,1
+Програмування мовою C++,1
+Програмування мовою Objective-C,1
+HEVC,1
+"Java SE, Multithreading, OOP, C++, C-shell, STL, javascript(jquery)",1
+"c, c++, stl, базовые знания unix, bash, sql, опыт работы с gdb, valgrind, git",1
+MySQL(Basic),1
+Java(Core),1
+"Programming languages controllers (standart IEC): LD, FBD, IL, STL",1
+"linux ос(linuxmint,altlinux,ubuntu)~2года.",1
+Опытный пользователь Windows(~15 лет),1
+"Рhotoshop cs2 и более поздних версий(опытный пользователь) и другие растр ред(mypaint,zbrush,sai...)",1
+Denwer,1
+VBA for MS OFFICE,1
+Bloomberg API,1
+bloomberg terminal,1
+crossplatform development,1
+Monte-Carlo,1
+low-level optimization,1
+metrowerks codewarrior,1
+multithreading programming,1
+posix,1
+program debugging,1
+remote work,1
+server applications,1
+tcp,1
+telework,1
+watcom c/c++,1
+x86 asm,1
+Autotest,1
+"C/C++, Java, OpenGL, Android",1
+Linux(Debian-based),1
+знание основ цифровой обработки сигналов,1
+Знание принципов ООп.,1
+Навыки работы с Интернетом.,1
+"Опытный пользователь MS Office (Word, Excel, Access).",1
+"ОС Window, Linux.",1
+Программирование на языке С++,1
+Трансляция,1
+Research,1
+Разработка ПО на C++,1
+Crypto++ 5.6.2,1
+GMP,1
+Тендеры,1
+"C++, STL, Boost, OOP, OOD, multithreading and network software, Linux",1
+GDI32,1
+"Гибкость, целеустремленность, нацеленность на результат",1
+"MS Office (Word, Excel, Visio, Access)",1
+Notepad++,1
+VS Professional (C++) 2010,1
+Базовые навыки программирования и администрирования,1
+Углублённые знания математики и физики,1
+Программирование на языке С/C++,1
+владение английским языком на уровне чтения технической документации,1
+желание и умение учиться,1
+Знание языка структурированных запросов MySQL и реляционных БД.,1
+Знание паттернов проектирования.,1
+Coffeecup HTML Editor,1
+"Знание WinApi, понимание COM технологии.",1
+C++ Software development,1
+MapInfo Professional,1
+"VxWorks, Linux user",1
+знание Photoshop,1
+"знание SQL, C++, Unity3D, OpenGL",1
+профессиональный пользователь ПК,1
+"C++: STL, WINAPI; C#: .NET, ADONET, ASP.NET; JavaScript; Xml; Php; Java: Android;",1
+Голова на плечах,1
+Intel Fortran,1
+ADT,1
+CDT,1
+Design patterns,1
+программирование С++,1
+Ценные бумаги,1
+работа с биржами,1
+Ida Pro,1
+Coherence,1
+DataSynapse Grid Computing,1
+Solace,1
+"QML, Python, PyQt",1
+"С++, С,  Object С,STL, основы Qt GUI C++,написание приложений и модулей,Delphi.",1
+"Visual Studio 2008,2012",1
+InterBase,1
+OS Windows; Debian GNU/Linux,1
+"Joomla, WordPress, Drupal, Bitrix",1
+Hudson,1
+Time Series Analysis,1
+Навыки работы с первичной документацией,1
+"Знание Unity3D, Unreal Engine 4",1
+Знание git,1
+"Знание ОС Windows, Linux",1
+Программирование микроконтроллеров PIC,1
+"PHP, HTML",1
+навыки использования XML,1
+"опыт работы с языками (C++, Ruby и др.)",1
+разработка программ для контроллеров и панелей.,1
+Cisco ITE + Hardware,1
+1С:Бухгалтерия,1
+local area network,1
+MySQL Workbench,1
+системный программист,1
+Обработка результатов испытаний,1
+2dToolKit,1
+Graphic optimization,1
+NGUI,1
+Unity3d + VK Api,1
+Amplify shader editor,1
+CAA,1
+Конфигурирование Windows,1
+Shader Forge,1
+имею значительный опыт разработки программ,1
+"•	Опыт разработки численных алгоритмов, в том числе для работы с 2D/3D объектами.",1
+•	Программирование печати сложных векторных и растровых данных.,1
+"•	Базовые знания в областях геология, геофизика, картография, микроэлектроника.",1
+•	Опыт администрирования малых сетей.,1
+"•	Сборка, обслуживание и ремонт компьютеров.",1
+•	Опыт обучения работы в системе Windows и программах Office Word и Excel.,1
+Электрик,1
+Электромонтажник,1
+P2P,1
+Cocoapods,1
+имею знания в области бухгалтерского учета,1
+odb,1
+программирование 1С,1
+EME.WMS (система складского учета),1
+FoxPro,1
+Progress 4GL,1
+autoconf,1
+Thrift,1
+kSOAP,1
+ODATA,1
+WAP,1
+Oracle Berkeley Db,1
+HTC Vive,1
+Graph theory,1
+"Графические библиотеки OpenGL, Direct3D, GDI, GDI+,",1
+Хорошее понимание и многолетний опыт решения задач (подрабатывал репетитором).,1
+QWidgets,1
+Bazaar,1
+Qt c++,1
+"Device Driver WinNT, DOS",1
+"Linux modules, Linux daemons",1
+LwIp,1
+Пожарная безопасность,1
+DCOM+,1
+MS Source Safe,1
+Опыт написания расчетных программ на c++ более двух лет.,1
+modbus,1
+Привычка доводить все до конца,1
+vXworks,1
+Python/Machine Learning,1
+Готов учиться и развиваться,1
+React.js,1
+VisualForce,1
+Работа с сетью,1
+Теория категорий,1
+Администрирование ip телефонии,1
+Системная архитектура,1
+Уверенное владение Английским языком,1
+Решительность,1
+Создание ботов мессендеров,1
+Algorithms and complexity analysys,1
+электродинамические расчеты,1
+Computer network,1
+Parallel programming,1
+MPICh,1
+OpenMPI,1
+аэродинамические расчеты,1
+кандидат физико-математических наук,1
+"Програмирую микроконтроллеры SiLabs, Atmel, Aduc и т.п.",1
+"Программирование на С/С++, Builder, WinAPI, Widows, DOS.",1
+проектирование БПЛА,1
+Составление математических моделей и алгоритмов,1
+QT C/C++,1
+Открытость,1
+Windows Mobile,1
+Управление рисками,1
+OracleSQL,1
+Машграф,1
+FSM,1
+Bash scripting,1
+JDEdwards,1
+"C++, Python, SQL, Pervasive, PHP....",1
+"QT, JavaScript",1
+Минимальная зарплата,1
+"Форматы форматы данных BMP, PNG, JPG, TIFF, векторные форматы EMF, WMF.",1
+•	Опыт создания сервисов для MS Windows 7.,1
+MatLab / Simulink,1
+"ООП, Multithreading, Патерни",1
+Знания в области криптографии,1
+Visual Basic Applications,1
+Английский за 16 уроков,1
+Английский для программистов,1
+Знание инструментов системы контроля версий Git,1
+"C/C++, близько 9 років в середовищі Visual Studio і Qt IDE",1
+JavaScript близько 3 року в Qt під QML,1
+Android на C++ (QML + JavaScript),1
+Qt5/Qt4 близько 8 років,1
+"SQLite, STL",1
+Scikit-learn,1
+Программирование С/C++,1
+QT C++,1
+Трёхмерное моделирование персонажей и окружения,1
+Владение Cinema 4D,1
+Владение Zbrush,1
+Владение Substance Painter,1
+Владение Speed Tree,1
+Владение Meshroom,1
+Знание C#,1
+Знание JS,1
+Владение Unity3D,1
+Octave,1
+Проектирование и эксплуатация узлов доступа в инет (ISP).,1
+Скелетная анимация,1
+"R&S Администрирование Maipu (роутеры 1800 - 7200, свичи 1800-6800A)",1
+с++14,1
+MS visual studio c++,1
+OPENCV,1
+Delphi (RAD Studio),1
+Вхождение в прикладную проблему и поиск методов ее решения,1
+gnu/linux,1
+rs232/485 POSIX,1
+Modbus RTU,1
+"R&S Администрирование Cisco (роутеры 1600 - 7600, свичи 520-4900)",1
+"R&S Администрирование Extreme (Alpine, Black Diamond)",1
+"R&S Администрирование Mikrotik (RB1100AHx2, x86-based)",1
+Проектирование и эксплуатация VoIP узлов.,1
+"R&S Администрирование RedBack (SE100, SE800)",1
+"R&S протоколы MPLS/VPLS, QnQ, QoS, OSPF, BGP, IPSec",1
+"VoIP Администрирование Cisco (AS5300, AS5350, AS5400)",1
+VoIP Администрирование Cisco CCM (3.1 - 7.0),1
+"VoIP Администрирование Mera MVTS (2.9, 2.10)",1
+VoIP Администрирование и программирование под Asterisk (1.2 - 1.6),1
+VoIP Администрирование и программирование под OpenSIPS (1.6 - 1.8),1
+"VoIP протоколы H.323, SIP",1
+Администрирование сеоверов Solaris,1
+Взаимодействие с RIPE,1
+Владение Unreal engine,1
+Знание Python 3,1
+•	Опыт работы в области сетевого программирования (TCP-IP и LonWorks сети).,1
+Cocos-2D,1
+WebSockets,1
+FIX Protocol,1
+DApp,1
+EOS.IO,1
+Assembler (x86),1
+VectorCast,1
+Corda,1
+VLD,1
+Технические науки,1
+ASP.NEC Core MVC,1
+Google Protobuf,1
+Visual Basic .NET,1
+C++ Qt,1
+ABAP,1
+GoF Patterns,1
+GRASP Patterns,1
+C#(WPF),1
+"C, C++, GNU C++, Pascal, Python, Java Script, SQL, Perl, JSON-RPC.",1
+"•	Работа в программных средах: Microsoft Visual Studio 2010, RAD Studio 2007 C++ Builder, Borland C+",1
+"•	Работа с базами данных SQlite, PostgreSQL, MS Acces",1
+"•	Объектно-ориентированное программирование (C++, Delphi, Python",1
+•	Создание многопоточных приложений со сложным интерфейсом пользователя,1
+Multitasking,1
+Caffe/Caffe2,1
+Дизайн,1
+"Network, Simple Module, Compound Module, Channels",1
+Selenium,1
+Слесарные работы,1
+Adobe Master Collection,1
+Дизайн интерфейсов,1
+Perl Catalyst,1
+Experienced in C/C++ utilizing Visual Studio IDE and Eclipse,1
+Ability to program with Python,1
+Experienced in writing Bourne Shell scripts,1
+OMNeT++ and INET framework-working,1
+"Ethernet, TCP/IP",1
+"NED Language, INI File, and visualizing gathered data",1
+ONNX,1
+Skillful at M-File programming and simulink with Matlab.,1
+RTL and behavioral coding using VHDL,1
+experience with Xilinx ISE Design Flow,1
+"Design Creation, Synthesis, Functional Simulation, Timing Simulation etc.",1
+Xilinx System Generator and IP Cores,1
+"Block Memory Generator, FIFO, CORDIC",1
+"DDS, FIR, ChipScope, and DSP48",1
+Stellar,1
+"Создание Windows приложений в среде MS VC++, Windows API",1
+keras,1
+Начальный уровень Java,1
+Начальный уровень C#,1
+Deployment,1
+android,1
+Навыки работы с потоками,1
+Технический английский язык,1
+BPWin,1
+Embedded systems,1
+Video processing algorithms,1
+Computer vision algorithms,1
+Computer modeling,1
+system service,1
+Facebook API,1
+Twitter Api,1
+google services,1
+Программирование для РЭА,1
+long-polling,1
+m2m телематика,1
+web-технологии,1
+высоконагруженные сервера,1
+игровое по,1
+инженер-разработчик,1
+межпроцессное взаимодействие,1
+сетевые технологии,1
+системная архитектура,1
+системная документация,1
+Программирование микропроцессоров,1
+"Опыт разработки программ с искусственным интеллектом (нейросети, генетические алгоритмы)",1
+Yii framework,1
+R2D,1
+"c++, maya dev, python",1
+TCp/IP,1
+SOLID patterns,1
+WebAPI,1
+cross-plaftorm development,1
+project architect,1
+ADSP-21xx,1
+HDLC,1
+MGCP,1
+"Усердие, ответственный подход к работе",1
+SMTP,1
+Опыт работы и разработки во многих бизнес отраслях,1
+(S)NTP,1
+SS7,1
+V5.2,1
+XScale,1
+Написание программного обеспечения для решения задач автоматизации на С++,1
+Разработки многопоточных программных систем,1
+Разработка высокопроизводительного прикладного ПО,1
+"Разработка с использованием Qt, STL, SQL, Winsock, WinAPI",1
+"Разработка, отладка и оптимизация сложных компонентов программной системы",1
+Разработка сетевых многопоточных приложений под ОС Linux,1
+С++ 14,1
+Android development,1
+СКД,1
+CodeWarrior,1
+"Experience with Direct Oracle Access (DOA), database management system Oracle, FireBird. writing SQL",1
+wmvare,1
+Squid,1
+Terminal Server,1
+Windows architecture,1
+Windows internals,1
+Windows kernel,1
+DDK,1
+Mocap,1
+Direct 3D,1
+DevTrack,1
+XHTML,1
+NintendoWare,1
+Symbian C++,1
+Finance,1
+Irrlicht,1
+Vaadin,1
+TCP Modbus,1
+Arduino IDE,1
+Embedded C/С++,1
+"Graphic Apps : Visio, CorelDraw, AutoCad, Solidworks",1
+knowledge electric schemes,1
+Smalltalk,1
+Adobe After Effects,1
+desing paterns,1
+"sockets, serial ports, pipes",1
+SVN/Perforce and etc.,1
+XML-RPC,1
+"WIN API (многопоточность,синхронизация,межпроцесс и проч.)",1
+Базовые знания Git,1
+PHP basics,1
+Опыт программирования на Qt,1
+Cygwin,1
+Eclipse RCP,1
+GCC toolchain,1
+plain C,1
+Symbian,1
+SWG,1
+ассемблерные вставки,1
+драйверы,1
+Проектирование архитектуры приложений,1
+"Работа с legacy кодом (поддержка, модификация, исправление ошибок)",1
+реверс-инжиниринг,1
+Знание принципов ООП,1
+rpm,1
+bacula,1
+Знание SQL,1
+Win Embedded,1
+Аудит безопасности,1
+"Qt4,5",1
+"Windows,Linux",1
+libXML,1
+опыт разработки многопоточных приложений,1
+опыт использования библиотеки BOOST,1
+опыт разработки под Windows,1
+знание Win API,1
+знакомство с COM,1
+базовое знание SQL,1
+"опыт работы с JavaScript, PHP, AJAX, DOM, HTML, CSS, XML;",1
+умение работать с Microsoft Visual Studio,1
+опыт использования Visual Studio Profiling Tool,1
+опыт работы с SVN,1
+POCO C++ Library - Zip,1
+знание шаблонов проектирования,1
+GLEW,1
+Libtcod,1
+ISO/OSI,1
+QT CREATOR,1
+Raspberry PI,1
+Microsoft DOS,1
+Autodesk Fusion 360,1
+Strategic Management,1
+Personnel management,1
+Индивидуальные тренировки,1
+хорошое знание основных структур данных и алгоритмов,1
+хорошое понимаение ООП,1
+"user mode,kernel mode,real time",1
+программист С,1
+Параллельное программирование многопроцессорных вычислительных систем,1
+Mail Server,1
+Инже,1
+dlib,1
+Маршрутизация статическая,1
+УЦ VipNet,1
+jscript,1
+Pthrread,1
+uClinux,1
+программирова С++,1
+Embarcadero C++,1
+"хорошое знание C++, STL",1
+MS Visual Studio C++,1
+TDI,1
+Windows Kernel,1
+Driver Development,1
+Node,1
+Trac,1
+Neo4j,1
+Max/MSP,1
+Знание С\С++,1
+Знание HTML\PHP\MySQL,1
+Бизнес-планирование,1
+Qt SQL,1
+Лидерство,1
+Microservices,1
+CortexM,1
+Git bash,1
+Указательная арифметика,1
+unreal engine 4,1
+Serialization,1
+Industrial Automation,1
+Siemens Tia Portal,1
+PLC Siemens,1
+ePLAN,1
+Tia Portal,1
+Mingw,1
+Организация обучения иностранным языкам,1
+MLT,1
+Video,1
+Brand Development,1
+devops,1
+CORBA,1
+Secuity Software,1
+Process Management,1
+RadStudio,1
+"C,C++,С#",1
+"MS SQL,ORACLE",1
+BitBucket,1
+Socket Programming,1
+Trading Programming,1
+ImGui,1
+Редактирование текстов на иностранном языке,1
+Общественные организации,1
+"Владение английским языком на уровне чтения технической документации, статей",1
+beanstalk,1
+Berkeley DB,1
+Mediawiki,1
+TBB,1
+опыт работы c Git,1
+"C++, С#, STL, boost",1
+mpi,1
+openfoam,1
+Algorithms and Data Structures,1
+Оперативный поиск информации в сети Интернет,1
+Continuous integration,1
+Kanban,1
+Augmented Reality,1
+GTests,1
+Catch2,1
+Знание языков программирования: C/C++/C#,1
+MariaDB,1
+Visual Gdb,1
+"Delphi, C++, UnrealScript, LUA.",1
+"C++, C, STL, OOP, boost",1
+"•	Experience with Unreal Engine, consoles Xbox360 and Sony PS3, components DevExpress, FIBPlus",1
+Schematic,1
+Криптоанализ,1
+Знание основ SQL,1
+Знание и применение основных паттернов проектирования,1
+MS Dynamics NAV,1
+"Энтузиазм, коммуникабельность, пунктуальность",1
+ADEM,1
+"практические навыки в разработке программ на с++,",1
+большое желание разрабатывать на Android,1
+"ASM(ARM, basic x86)",1
+Python (basic skills),1
+Microcontroller/Microprocessor software development,1
+Openstack,1
+Rich knowledge of MCU interfaces,1
+Cortex-M0-M4,1
+"GDB, JTAG, SWD",1
+Automotive,1
+Oscilloscope,1
+Measurement equipment,1
+logic analizers,1
+Продажи физическим лицам,1
+Терпиливость,1
+python tests,1
+Embedded Systems,1
+Российские поисковые системы,1
+"C (+OGL,OMP,MPI), C#, C++, HTML, SQL.",1
+Знание принципов работы транзисторных устройств,1
+Знание продуктов Microsoft MS Office 2003/ 2007/ 2010/ 2013.,1
+"Минимальные знания Java, PHP, С++, AutoCAD.",1
+Sprint Layout,1
+ПЛИС Altera,1
+Добрый,1
+нейросети,1
+MindManager,1
+SAP ERP,1
+"Object Oriented Analysis/Design, Multithreading, Java, Development experience, site testing, Microso",1
+Разработка программного обеспечения.,1
+"Платы ввода-вывода Advantech, L-CARD",1
+Intel Vtune,1
+VisualDSP++,1
+Botan Cryptographic Library,1
+Miracle Cryptographic Library,1
+ISO/IEC 14882:2011,1
+ISO/IEC 14882:2014,1
+junior c++ developer,1
+знание 3d математики,1
+Ethernet Switching,1
+Elastcisearch,1
+Блочная верстка,1
+Работа с клиентами,1
+"Разовое применение Fortran, Java, Python, DirectX, posix, asm,",1
+возможность обучения,1
+Universal Asynchronous...,1
+Уверенное знание C/C++ (C++11),1
+Опыт разработки для микроконтроллеров ARM (включая Российский MDR32F1QI) на C/C++,1
+Опыт низкоуровневого сетевого программирования в Linux,1
+Electronics,1
+Обучаемость и скрупулезность.,1
+TOAD,1
+POCO,1
+Linux Device Drivers,1
+WSUS,1
+Microcontrolers,1
+Iconics,1
+OS2000,1
+dep ДЕКОНТ,1
+Rockwell Automation,1
+Проектирование АСУ ТП,1
+Parallel Computing,1
+GRASP,1
+Java​,1
+Mobile application development,1
+Managing tight deadlines,1
+Unity3d ​,1
+MCU,1
+Самообучение,1
+Atmega,1
+Баристика,1
+WMS,1
+Психоанализ,1
+Фитнес,1
+EMBEDDED,1
+REALTIME,1
+MICROCONTROLLERS,1
+Code::Blocks,1
+Контроль поставок,1
+системное программирование,1
+POSIX threads,1
+XUL,1
+gradle,1
+"Опыт работы на: IBM PC 88-486, P5 и совместимых компьютерах, БАГЕТ (41, 62), устройствах на базе про",1
+Умение обучаться,1
+solidity,1
+быстрая обучаемость,1
+Open GLES 2,1
+Быстрая ориентация в ПО,1
+OMP,1
+быстро учусь,1
+умею работать в команде,1
+умею самостоятельно искать нужную информацию,1
+e2,1
+"• Базовые знания HTML, CSS.",1
+Желание развиваться и учиться,1
+Strong C/C++. Good C#. Game development.,1
+Tkinter,1
+"знание c#, базовые навыки в html,css,js",1
+Unity Game Engine,1
+GDAL\OGR,1
+Системы контроля версий SVN и GIT,1
+Багтрекер JIRA,1
+Работа в коллективе 50+,1
+Rider,1
+Architecture,1
+Tarantool,1
+HighLoad,1
+Image and Signal Processing,1
+WIX,1
+Windows; Linux/Unix;,1
+C#; C/C++; PHP; SQL; Assembler,1
+MS SQL; Oracle; MySql; PostgreSQL; DBF,1
+Распознавание образов,1
+MaltLab,1
+CST STUDIO SUITE,1
+Formal Languages,1
+Parsers,1
+logic programming,1
+Reverse-Engeenering,1
+MSSql,1
+Good math,1
+PNGLIB,1
+Прямолинейный,1
+Желание работать,1
+Code  Style,1
+Mantis,1
+CryEngine,1
+System Analysis,1
+Способность обучать других,1
+Быстрое усвоение информации,1
+Oracle BI,1
+Oracle ADF,1
+"C++11/14/17, Windows API, COM",1
+Умение принимать решения,1
+МСВС 3.0 МСВС 5.0 Astra Linux,1
+VB.NET,1
+GUI engine developer,1
+Nvidia CUDA,1
+Altera Quartus,1
+Performance Profiling,1
+"DirectX (Direct3D, Direct2D, DirectSound, XAudio)",1
+Component Object Model (COM),1
+Microsoft Media Foundation (MMF),1
+Windows Imaging Component (WIC),1
+Vegas Movie Studio,1
+ZLib,1
+FreeType,1
+1C: Предприятие 7.7,1
+blackberry,1
+Умение работать в Microsoft Office,1
+Знание T-SQL,1
+Клиентоориентированность,1
+SMM,1
+Мерчендайзинг,1
+Размещение POS материалов,1
+Поддержка пользователей,1
+Эмпатия,1
+remote sensing,1
+парное программирование,1
+OS: Linux,1
+Умение работать в Visual Studio любой версии,1
+"Языки программирования: C/C++, Python, Java",1
+Loki,1
+ACE,1
+JSF,1
+OWL,1
+Windows Server 2003-2008 R2,1
+RDBMS,1
+Консультант плюс,1
+Плотницкие работы,1
+Организация безопасной эксплуатации оборудования,1
+Знание игрового движка Unity 3d,1
+Знание HTML,1
+Robot Operating System,1
+GLUT,1
+ZeroMessageQueue,1
+Engineering,1
+Tortoise Git,1
+Работа с ключевыми клиентами,1
+Ориентация на клиента,1
+Open Source,1
+Auto tests,1
+Code review,1
+Emacs,1
+Parsec,1
+Coq,1
+Программирование на языках C/C++/C#/JS,1
+GDI/GDI+,1
+Embedded Automotive software development,1
+Crusible,1
+Infragistics,1
+JavaScript(VueJS),1
+Knowledge of OOP,1
+Upper-intermediate English,1
+Experience in telecommunication protocols,1
+"Experience to use Git, Jenkins, Gerrit",1
+Bush,1
+Sailfish,1
+"Generic programming: STL, WinApi, wxWidgets. Gamedev: OpenGL , SDL, PocketFrog, HGE, Ogre3d, Newton",1
+HTML (base),1
+IDE Visual Studio (console application),1
+"RTOS: Micrium uc/OS, uTasker, FreeRTOS",1
+"ARM Developer Suite, Keil, NetBeans, Eclipse, Xilinx SDK, Qt Creator, shell/bash, make, git",1
+GUI: QT,1
+Vivado,1
+ICE,1
+Oracle OCI,1
+"SQL language, Postgresql IDE",1
+QT Creator IDE (base),1
+"Protocol TCP/IP, HTTP (worked with Win and Linux socket)",1
+Work experience with Git ( github ),1
+"I have skills to work with operation systems such as Linux, Windows",1
+"x86, ARM: Atmel, NXP LPC, Xilinx Zynq, NXP/Freescale VF6xx, Raspberry Pi",1
+Work with gitlab,1
+Have deal with trello,1
+Work with zepplin,1
+Программирование на языке C++,1
+Elixir,1
+Vue.js,1
+Nuxt.js,1
+Vulkan API,1
+Основы ИБ,1
+C Programming Language,1
+"C, С++, Assembler",1
+Computer Graphics,1
+Разработчик электроники,1
+Разработка методических пособий для обучения преподавателей,1
+Ray tracing,1
+Ansi C,1
+работать  и получать деньги,1
+Dev-C++,1
+"владею языками программирования с#, c++, PHP, Java,",1
+Python на базе Minecraft,1
+Python + kivy,1
+Scratch,1
+Mindstorms,1
+Разработка детских методических пособий,1
+Робототехника,1
+Adobe Dreamweaver,1
+EV3,1
+Методист,1
+RS-232,1
+Кассовые операции,1
+Приходные и расходные кассовые ордера,1
+работа с физическими лицами,1
+составление кассовой отчетности,1
+реализация товаров и услуг,1
+Индивидуальное обучение,1
+Моделирование процессов,1
+Программист Embedded С/С++,1
+Алгоритмы и Структуры данных,1
+Davinci Resolve,1
+Яндекс.Директ,1
+"Программирование железа, pure C",1
+Deep packet inspection,1
+C Programming,1
+Embedded System,1
+Google AdWords,1
+Google Analytics,1
+Поисковая оптимизация сайтов,1
+Яндекс.Метрика,1
+SEO оптимизация,1
+Usability,1
+Аудит поисковой видимости сайта,1
+"layer 2 coding (ethernet), tcp/ip",1
+Продвижение сайтов,1
+Веб-аналитика,1
+Анализ конкурентной среды,1
+Внешняя оптимизация сайта,1
+внешний аудит сайта,1
+eSport,1
+Способность к обучению,1
+MapBox API,1
+Linear Algebra,1
+Программист C/C++,1
+"Установка,настройка Linux",1
+теория комплексной переменной,1
+Отладка,1
+Знание языка Delphi7,1
+MSC NASTRAN,1
+webstorm,1
+DirectDraw,1
+Базовые алгоритмы и структуры данных,1
+Работа с файлами,1
+Работа с большим пулом запросов,1
+Управление сменой ресторана,1
+Работа с компьютерными системами,1
+Знание языка программирования С++,1
+Знание Visual basic,1
+Умение создавать базы данных и работать с ними,1
+математический и функциональный анализ,1
+Контроль качества,1
+Web-программирование,1
+Спорт,1
+"Могу вычислить корень из двух, могу посчитать  интеграл из неизвестной функции.",1
+А могу и вовсе методом конечных элементов рассчитать какое-нибудь здание. Я вообще загадочный.,1
+Cruise Control,1
+Visual Build Pro,1
+"linux c(c++), lkmd, net drivers, skb, smp, kernel threads, work queues, x86",1
+"git, bash, make, etc.",1
+"прикладная математика, численные методы, методы математической статистики и теории вероятностей",1
+Computer graphics,1
+Intermediate english,1
+"IDE: MS Visual Studio 6,8; Xcode, Torque Game Builder, Torsion, Unity3d. Revision Control System:  S",1
+Опыт сетевого программирования (TCP/UDP),1
+Oracle 12,1
+Alhorythms,1
+СЭД,1
+Разработчик для Android,1
+"Знания C++, Java, Android API",1
+Builder C++ XE5,1
+Chromium,1
+Багфикс,1
+Modbus and many other protocols,1
+Многопоточные клиент-серверные или серверные решения,1
+Game AI,1
+QNX Momentics,1
+разработка топологии печатных плат,1
+программирование микроконтроллеров AVR MicroChip STM32,1
+Воинский учет,1
+Адекватность,1
+PHP4,1
+Корпоративная этика,1
+Purposefulness Responsibility Sociability Analytical thinking Severity Straightness Fast learner,1
+Experienced PC user and Internet Driving license category B Office work,1
+Vagrant,1
+BCGControlBar,1
+Лабораторная работа,1
+DirectX 12,1
+Комуникабельность,1
+Knowledge of Algorithms and Data Structures,1
+libGDX,1
+NI LabVIEW,1
+High Load Applications,1
+VR (HTC Vive),1
+Rx,1
+Язык программирования С++,1
+Стандартная библиотека С++,1
+Библиотека Qt 3.0,1
+Оптимизация бизнес-процессов,1
+ПК АЭМО,1
+C++ templates,1
+peewee,1
+TCL,1
+Compiler Optimization,1
+Neural Network,1
+Gentoo linux,1
+sed,1
+embedded linux,1
+openembedded,1
+Diving OWD,1
+Diving AOWD,1
+ADAPTIVE Communication Environment (ACE),1
+"C++,QT",1
+Хороший математический аппарат,1
+"C++ 11, OOP, STL, algorithms, Qt 5.7.0, basics of OpenGL, MS Visual Studio and Qt Creator as develop",1
+компьютерная графика,1
+glsl,1
+libusb,1
+pcl,1
+Объектно ориентированное программирование,1
+Системы охранной сигнализации,1
+Системы пожарной сигнализации,1
+MapReduce,1
+D3,1
+Design of data intensive pipelines,1
+Julia,1
+Оптимизация алгоритмов,1
+Владение языком С++ (Знание основных структур данных и алгоритмов работы с ними),1
+Работа с чужим кодом,1
+"Многопоточное, серверное ПО",1
+ASM,1
+high performance computing,1
+parallel computing,1
+signal processing,1
+3GPP,1
+"Установки программ, ремонт компьютеров,",1
+Переустановка компьютера,1
+Настойка интернета,1
+Prezi,1
+Comsol Multiphysics,1
+Способность креативно мыслить,1
+Lisp,1
+Adobe Premier,1
+Планирование карьеры,1
+QNX4,1
+Clang LibTooling,1
+"Работа с C++, C#, PHP, HTML",1
+"Работа с системами 1С, Эдельвейс, Госзаказ",1
+"Создание, поддержка, продвижение персональных и корпоративных сайтов, реклама",1
+"Большой опыт ведения переговоров, в т.ч. за рубежом",1
+Общение с иностранными клиентами,1
+Подбор и обучение персонала,1
+строительно-монтажные работы,1
+Базовые знания Python,1
+Технические системы и средства безопасности,1
+Производство пусконаладочных работ,1
+Электрические сети,1
+Инженерные системы,1
+Algoritms,1
+Ведение архива,1
+Контроль оформления документов,1
+Кадровое делопроизводство,1
+Рерайтинг,1
+Поисковые системы,1
+"C++  (class, struct, template, multithreading, STL, boost , OOP)",1
+SQL (base),1
+Kendo UI,1
+NSIS,1
+ScetchUp,1
+СБиС,1
+Networks,1
+cgi/fcgi,1
+drivers,1
+linux system programming,1
+OOAD,1
+Linux kernel,1
+работа с IDE codeblocks,1
+EPS,1
+3D Graphics,1
+Имею опыт работы с лабораторным оборудованием,1
+Qt GUI,1
+Базовое знание программы!!!,1
+Cocos Studio,1
+Уверенное знание языка C,1
+Базовое знание языка Python,1
+знание основ Unix/Linux,1
+Базовые навыки программирования Unix Shell,1
+Организация систем сборки на основе утилиты make,1
+Быстро обучаюсь,1
+программирование на C++,1
+Программирование встраиваемых систем,1
+"Теоретические знания VCS TFS, Mercurial",1
+Микроэлектроника,1
+Восстановление утраченной/удаленной информации,1
+"программирование на C,C++,C#",1
+"разработчик Builder C++, руководитель проекта",1
+MEL,1
+1C8.2:Предприятие: конфигуратор,1
+Delphi (на уровне учебной программы),1
+Java (Junior),1
+Pascal (на уровне учебной программы),1
+SQL (на уровне учебной программы),1
+Visual Basic (на уровне учебной программы),1
+Восстановление ОС,1
+Навыки работы с сетью,1
+"Знание и понимание структур данных, алгоритмов",1
+-Настройка/установка ОС семейства Windows (до версии Win 7 включительно),1
+Femap Nastran,1
+"Языки программирования: C++, C#",1
+Базовые знания C++.,1
+Базовые знания Assembler,1
+Операционные системы Windows/Linux,1
+"C++, GCC, MS, OOP, Multithreading, Micro Services, Clien - Server, backend.",1
+Dreamweaver,1
+Paradox,1
+Криптографические алгоритмы,1
+"C/C++, Qt, http, smtp, sockets, tcp/ip, threds, php, js, html, mysql, oracle",1
+Микропроцессорная техника,1
+C++ 11/14/17,1
+Generic Pharmaceutical Products,1
+Базовый уровень знания английского языка,1
+Clang,1
+LLVM tablegen,1
+Compiler development,1
+Technical Editing,1
+VIM,1
+perforce,1
+LLVM IR optimization,1
+Optimized Assembler generation,1
+Extreame Programming,1
+Основы программирования на C++,1
+Знание математических дисциплин,1
+Ответственный‚ целеустремлённый‚ коммуникабельный‚ аккуратный,1
+самостоятельный‚ легко и охотно обучаемый‚ без вредных привычек,1
+обязательность,1
+способность легко находить общий язык с коллегами,1
+способность нестандартно смотреть на поставленные задачи,1
+MS Infopath,1
+"C/C++, Java",1
+TimesTen,1
+OSGi,1
+RADIUS,1
+Опыт в сфере продаж: 1 год,1
+"Владение программами: 1С, MS Office",1
+"Программные среды разработки P-CAD, AUTO-CAD",1
+C++/R/Perl/BaSH/ROOT,1
+Силовая электроника,1
+Электроэнергетика,1
+КИП и А,1
+"Основные языки программирования контроллеров PLC, включая STEP7 для Siemens",1
+"Языки программирования ASM, С/С++",1
+Sdl,1
+ООАД,1
+Java (основы),1
+Основы ООП,1
+Базовый SQL,1
+1C: Далион: Управление Магазином,1
+Базы данных: MySQL,1
+Direct2D,1
+Frontol,1
+Инвентаризация,1
+Zend Framework,1
+"Степень владения ПК: продвинутый пользователь, программист",1
+"Владею языками программирования: С++(Qt4, 5, QtQuick, Qt3D OpenGL, MS Visual Studio), SQL, PHP, Java",1
+"Разрабатываю под ОС: Windows XP, Vista, 7, 8; Linux Ubuntu, Debian, CentOS",1
+"навыки делового общения, ведения переговоров, уверенное владение ПК",1
+strace,1
+"Языки программирования: C++, SQL, HTML",1
+программирование на WinAPI,1
+Информационные сети,1
+async IO,1
+Web testing automation,1
+WIndows CE,1
+Telium,1
+Ingenico,1
+C++ Software Development,1
+Payment Systems,1
+Payment Card Processing,1
+программирование c/c++,1
+Functional programming,1
+GUI Applications,1
+Performance optimization,1
+Embedded Development,1
+computer software,1
+знание принципов объектно-ориентированного программирования,1
+Coverity,1
+Operating Systems,1
+POCO Libraries,1
+mac os x,1
+сообразительность,1
+GDebbuger,1
+NSight,1
+OpenWay Way4,1
+Threads,1
+programming,1
+STMictoelectronics,1
+Язык жестов,1
+Objective-C++,1
+HTML(базово),1
+Банковское дело,1
+Программирование С++,1
+"ANSYS (ICEM CFD, CFX, Fluent)",1
+Autodesk AutoCad,1
+MechaniCS,1
+математическое моделирование теплофизических и гидродинамических процессов,1
+численное моделирование,1
+"Flash Actionscript 1, 3",1
+"Java SE, EE",1
+Разработка приложений на C++,1
+STM8,1
+Представление о программировании компьютерной графики с применением  Direct3D,1
+Разработка реляционных баз данных,1
+"Хорошее знание линейной и векторной алгебры, матриц",1
+"Опыт работы в Autocad, SCADA TRACE MODE",1
+"Знание операционных систем семейства Windows, локальных сетей, знание ЛВС.",1
+"Опыт работы с QT, CMake, Boost, OpenCV.",1
+Разработка ПО на языке C#.,1
+Базовые навыки разработки многопоточных приложений.,1
+"Разработка ПО с сетевыми функциями по протоколам TCP/IP, UDP.",1
+"Постановка задач разработчикам (программисты, схемотехники, инженеры-конструкторы)",1
+сетевое программирование,1
+"MS Word, Excel, PowerPoint",1
+"Windows, Windows Server (AD, IIS),Red Hat,CentOS,C, C++, Borland C, C++Builder , С#",1
+знание OpenGL,1
+"Среды разработки программ для микроконтроллеров: CooCox, MPLAB, Atmel Studio",1
+"Языки программирования: C/C++, QML, Assembler",1
+YANG,1
+базовые знания C# (+ WPF),1
+"Параллельно программирование с ипользованием C++11 Threads, Intel TBB",1
+Разработка под Linux,1
+ARM Cortex M0/3/4,1
+Atmel AVR,1
+RTSP,1
+GNU toolchain,1
+знание ООП,1
+"Среды разработки программ для Android: Qt Creator, Eclipse",1
+C# (базовые знания),1
+MATLAB (базовые знания),1
+MS SQL (базовые знания),1
+Win API (базовые знания),1
+Wolfram Mathematica (базовые знания),1
+3d математика,1
+SourceTree,1
+TortoiseGit,1
+Программные алгоритмы,1
+"Microsoft SQL Server 2000, 2005, 2008    Firebird, mySql    ESX, Hyper-V",1
+"Среды разработки программ для Windows: Qt Creator, Microsoft Visual Studio, Borland C++ Builder",1
+"ПО для разработки печатных плат: Altium Designer, OrCAD",1
+Язык программирования C++,1
+Чтение документации к библиотекам на английском языке,1
+"STL,WinAPI,MFC,COM\ATL,.NET(WindowsForms),WPF",1
+Продажа страховых продуктов,1
+Розничная торговля,1
+Базовые знания MATLAB,1
+Базовые знания MS SQL,1
+Базовые знания Wolfram Mathematica,1
+Базовые знания С#,1
+Уверенные знания C++,1
+Написание отчетов по работе,1
+"Опыт работы с ""чужим"" кодом",1
+Шаблоны ООП,1
+разработка высоконагруженных систем,1
+pugixml,1
+Qt Installer Framework,1
+1С: УСН,1
+"Проектирование ЛВС, Проектирование Wi-F- сетей",1
+"Директор ОАО Руководитель группы Системный администратор Web-конструктор:Denver, Joomla, Webbulder,",1
+Готовность учиться,1
+стремление к совершенству во всех действиях,1
+самодисциплина,1
+"С++ STL, Базовые алгоритмы и структуры данных. Начальные знания ООП",1
+преподавательская работа,1
+a lot of different protocols,1
+JMeter,1
+исследование вероятностных характеристик случайных процессов,1
+Базовые знания Assembler x86.,1
+"Threads (Thread, Handler, AsyncTask)",1
+"Разработка программного обеспечения на С/С++/Java , windows - IDE: Qt Creator, Visual Studio",1
+"Eclipse,Android Studio",1
+"работа с камерой под android,windows,Linux",1
+Разработка игр под android,1
+"Visual Studio (C++, MFC), Phyton(Tkinter, Qt), GitHub, Skype",1
+AIX,1
+gcc make,1
+VS 2010/12,1
+"Basic level of C#, JavaScript, Shell Script",1
+"Базовое владение инструментами OllyDBG, Hiew, Visual Studio.",1
+"Опыт работы с Activities, Fragments, Push notifications, geo-location, News Feed",1
+Знание C/C++ (основы+ООП+WinAPI),1
+"Знание ООП; принципы и этапы разработки п.о.; языки С++ \ С#; работа с БД (МуSQL), тестирование",1
+"Уверенное знание ПК, желание работать, знание 1C",1
+Visual C++/CLI,1
+Audacity,1
+Pinnacle Studio,1
+Visual Studio Code,1
+Анализ бизнес показателей,1
+Маркетинговый анализ,1
+Юридический консалтинг,1
+"Социальные сети(VK, Facebook, Twitter, Google+)",1
+"Опыт работы с библиотеками: Qt, OpenCV, STL,  Язык программирования Java под Android – 1 год",1
+Юридическое сопровождение,1
+ISO8583,1
+DOM,1
+Realtime,1
+Highload,1
+разработка программного обеспечения,1
+COBOL,1
+React/Redux,1
+системы управления производством,1
+SYBASE,1
+алгоритмы обработки данных,1
+программирование микроконтроллера AVR,1
+ATM,1
+"Протоколы: TCP, UDP, HTTP, JSON, XML  Язык программирования С/C++ – 2 года",1
+POS,1
+English,1
+"(GLFW, GLEW)",1
+"(GLM, GLSL, SOIL, Assimp)",1
+Asana,1
+Sourcetree,1
+GLKit,1
+pthread,1
+Xbyak,1
+OpenGL 3.3,1
+Юридическая поддержка,1
+Суды общей юрисдикции,1
+Google AdX,1
+"Additional experience in HTML, Php, SQL",1
+"С, С++, Qt,",1
+"Основы HTML, PHP, JavaScript, SQL",1
+Опыт работы с Drupal.,1
+ETL,1
+Data migration,1
+Good knowledge of OOP,1
+Experience in WinAPI and Windows forms programming,1
+Experience with sockets,1
+Base knowledge in multithreading,1
+Experience with Boost and STL,1
+Холодные звонки,1
+1С: Предприятие 7,1
+MS VS,1
+Silabs IDE,1
+Паттерны,1
+Machine Vision,1
+firebase,1
+LWM2M,1
+python 2,1
+Энергетика,1
+MS Visual C#,1
+статистическая обработка экспериментальных данных,1
+Qt 5.1.1,1
+разработка и применение алгоритмов,1
+Недвижимость,1
+Базовые знания SDL,1
+Административное право,1
+Претензионная работа,1
+Гражданское право,1
+Налоговое право,1
+Гражданское процессуальное право,1
+Взаимодействие с контрольными органами,1
+Взаимодействие с правоохранительными органами,1
+Базовые знания QT,1
+Базовые знания Python (в процессе изучения),1
+Cygnal x51,1
+В процессе изучения разработка приложений под Android,1
+реализация структур данных и работа с ними,1
+Основная ОС - Linux,1
+Hibernate,1
+Play framework,1
+Windows programming,1
+Multithreading programming,1
+Naive Bayesian algorithm,1
+MSYS,1
+AWK,1
+Graphviz,1
+database optimization,1
+OpenRTB,1
+VAST,1
+System Architecture,1
+"программирование на Delphi, C++",1
+"•	Среды разработки – MS Visual Studio, NetBeans, Eclipse, Android Studio.",1
+"•	написание программ для архитектур x86, x64 на С++ (MS Windows, CentOS), многопоточная обработка, т",1
+•	разработка продуктов с использованием технологии DPI,1
+написание высокопроизводительных сервисов под различные платформы,1
+Разработка ПО для интернета вещей (IoT),1
+Rational ClearCase,1
+"Владение осноными возможностями C++ (классы, наследование, шаблоны и т.д.)",1
+Небольшой опыт разработки под Linux (Qt),1
+"Опыт работы в Visual Studio (Windows, Windows Phone)",1
+Разработка методологии тестирования,1
+Создание сайтов на HTML,1
+"Eclipse, IAR, Keil, AVR Studio",1
+Работа в MSAccess (запросы на SQL),1
+установка и настройка ОС,1
+"Работа в MS Office: Word, Access, Excel",1
+Диагностика,1
+"ПК: Windows – опытный пользователь, знание на уровне администратора.",1
+"Программирование на языке С++, Базы данных MySQL, Web технологии",1
+"Сети: TCP/IP – настройка доменных имен, прокладка и управление",1
+Analytical skills,1
+JetBrains PyCharm,1
+Jupiter,1
+"•	Windows API, MFC, .Net, ADO.NET, Qt, Boost, Chilkat, T-SQL и др.",1
+"gcc, IAR, Keil",1
+Чтение технической документации и адекватная интерпретация инфрмации,1
+разработчик,1
+PowerDesigner,1
+"C++, C++11, STL, boost, SVN, git, XML, WinAPI",1
+"OO, design patterns, team projects, game programming, agile,",1
+Signal Proccesing,1
+DSP programmer,1
+Отлично владею ПК,1
+Shaders,1
+SW/HW ARM MCU,1
+"С++, Си, STL",1
+FMCG Продажи,1
+программист,1
+Cortex-A7,1
+продвинутый пользователь ПК,1
+"•	C++, C – deep knowledge",1
+"•	OpenGL, GLSL",1
+•	Qt,1
+•	OpenCV,1
+•	Collada format,1
+"•	Git, Svn",1
+"Java SE, Android - basics",1
+Python basics,1
+"Cortex-M3,M4",1
+kinnect,1
+структурный подход в обработке больших массивов информации,1
+RTB,1
+Отличное знание Microsoft Excel,1
+"Прокладка сетей, настройка АРМ клиета",1
+"C++;  - SQL;  - Pascal;  - C#;  - WinAPI;  - OLE, ActiveX  - HTML, XML;  - JavaScript;",1
+Skype,1
+Несложный Концепт Арт,1
+Геймдизайн,1
+Windows 95-10,1
+Первичная бухгалтерская документация,1
+"Знание языков С, С++ и MQL4",1
+"Опыт работы в Qt, Visual Studio, MetaEditor",1
+"Знание ООП, STL",1
+Уверенное знание математики,1
+"Ремонт и настройка ПК и ноутбуков, диагностика неисправностей",1
+Умение и желание приобретать новые навыки и осваивать новые технологии,1
+Призёр олимпиад по математике и информатике,1
+Знание Windows на уровне продвинутого пользователя,1
+Кроссплатформенность,1
+Многопоточные приложения,1
+GUI на Qt,1
+Использование COM/DCOM,1
+MS Visual Studio 2013,1
+"gcc, make, bash, sed",1
+CocosBuilder,1
+Навыки продаж компьютерной и орг техники. ведение клиента в дальнейшем,1
+"Программист С++. PHP, HTML, CSS, SQL",1
+написание технических заданий,1
+Wolfram Math,1
+навык правильной расстановки приоритетов,1
+Навык усвоения новых технологий,1
+QT4,1
+JOGL,1
+Желание учиться и развиваться,1
+Надежность,1
+Associate Producer,1
+COMSOL,1
+FIX/FAST протокол,1
+Research And Development,1
+assertive,1
+Specialized knowledge: •	Perfect mathematician and algorithmic theoretical base. •	Expert knowledge,1
+friendly,1
+"Операционные системы: Windows, Windows Mobile, Linux, Embeded (ARM, PIC33)",1
+"Языки программирования: C/C++, Object Pascal, Assembler",1
+"Средства программирования: Borland/Embarcadero Delphi, MS Visual Studio, MPLAB, IAR",1
+"Технологии: TCP\IP, SNMP, GSM, GPRS, RS232, PLC, RF, USB, VCL",1
+"СУДБ: InterBase, MySQL, SQLite",1
+"WEB: JavaScript, PHP, HTTP",1
+"Java 1.4/5/6 (SE/EE), C/C++, C#, XML, XSL, XSD, DTD, UML, SQL, Eclipse RCP, ANTLR V3, Android SDK, e",1
+BSD\Win Sockets,1
+POSIX/Win/C++11 threads,1
+с++11,1
+Опыт работы с Arduino,1
+Сопровождение аппаратных-программных комплексов - от написания ТЗ до установки у заказчика,1
+HTML/CSS/JavaScript,1
+Stm,1
+Stm8,1
+Mobile,1
+SmartGit,1
+Builder C++/Delphi,1
+разработчик программного обеспечения систем АСУ ТП,1
+Android SDK/NDK,1
+Планово-экономический отдел,1
+Экономическая безопасность,1
+C/C++11,1
+SQL/NoSQL,1
+BluePrints,1
+Watcom C++,1
+Symantec C++,1
+Умение ладить с коллективом,1
+PSTN и GSM модемы (at-команды),1
+Квантовая физика,1
+memcashed,1
+Linux/Windows,1
+libevent,1
+InterBase/FireBird,1
+cunit/cppunit,1
+soft skills,1
+https://it.avenue-pro.ru/certificates/25092020-196/,1
+Intermediate C\C++,1
+"Java relational databases: MS SQL Server, MySQL",1
+Advanced Mathematics,1
+Elementary Molecular Biology,1
+Intermediate English,1
+Умение доводить начатое до конца,1
+"UDP, TCP",1
+Английский - С1,1
+DesignSpark,1
+Protocols,1
+Multimedia,1
+WindowsForms,1
+server daemons,1
+Assembler база,1
+Микроконтроллер ATmega,1
+Цифровая обрабокта сигналов,1
+"SysInternals, Nirsoft, ProcessHacker",1
+"MS SQL Server, MySQL, T-SQL",1
+XML/XHTML,1
+Code Refactoring,1
+Jquery основы,1
+ATL/MFC,1
+"Tfs/Git, github workflow",1
+C++ 11/17,1
+COM-порты (RS-232/485),1
+API DirectX,1
+DirectShow,1
+Анализ и декомпозиция задач,1
+common lisp,1
+1c 7.7,1
+actionscript,1
+порядочный,1
+дружелюбный,1
+EPC,1
+MC Office,1
+добросовестный,1
+Умение планировать,1
+стремлюсь к совершенству в своей профессии,1
+"Построение, описание и конструирование алгоритма",1
+apache/nginx (включая разработку модулей),1
+Оценка операционной сложности алгоритма,1
+Работа с числами и данными,1
+Построение типов и состояний,1
+Управление компиляцией,1
+Планирование прикладного интерфейса (API),1
+Разработка пользовательских операций над состояниями,1
+Шаблонизация,1
+Основы разработки графического интерфейса,1
+Agile-разработка,1
+Libstdc++,1
+Отзывчивость,1
+qmake,1
+Tk/ttk,1
+boost asio,1
+Media Foundation,1
+MMO,1
+2 группа по электробезопасности,1
+Программист С++,1
+shaders,1
+Workbench MySql,1
+Отчетность,1
+ARCore,1
+CUDA C,1
+C++17 STL,1
+TCP,1
+Знание языка С++(STL),1
+"Умение работать с базами данных (MSSQL server, знания в написании SQL запросов).",1
+Навыки администрирования активного сетевого оборудования и автоматизации сетевой структуры,1
+"Знание сетевых протоколов и технологий (TCP/IP, VLAN, NAT, OSPF …).",1
+Опыт написания небольших модулей на Python,1
+Algoruthms and data structures,1
+Легко обучаемость,1
+Работа на результат,1
+ole automation,1
+boost thread,1
+Elementary Python,1
+Математическая физика,1
+"Ознакомьтесь с разделом ""Обо мне""",1
+Oxygen Xml Editor,1
+физика ионосферы,1
+распространение КВ - радиоволн.,1
+Системное администрирование,1
+Linux Daemons,1
+DPDK,1
+Windows Services,1
+Kaspersky OS,1
+"Уверенный пользователь ПК, MS Word, Excel",1
+Составление и ведение презентаций,1
+IDEF,1
+SQLyog,1
+Радиофизика,1
+Mifare,1
+Владение ABAP на уровне К1,1
+Знание основных инструментов abap,1
+"ABAP-редактор, словарь данных PDF- формуляры.",1
+Есть опыт написания интерактивных программ для ведения основных и транзакционных данных,1
+Есть опыт написания интерактивные программ для ведения основных и транзакционных данных,1
+"ALV-отчеты с редакцией на действия пользователя, сохранение вселенных пользователем данных в СУБД",1
+ABAP пересчет данных и обновление экрана.,1
+"ABAP вывод в Excel, batch-input, drill-down",1
+Unitronics,1
+радиопеленгация,1
+Directx,1
+Хорошее знание С++,1
+Зарубежные поисковые системы,1
+winforms,1
+клиент-сервер,1
+оптимизация,1
+Архитектура программных решений,1
+Gtk-3,1
+Криптовалюта,1
+Клиент-сервернаня архитектура(тонкий клиент),1
+Сервер 2-х звенка,1
+Token,1
+STM,1
+Texas Instruments,1
+mbed,1
+Поиск персонала в открытых источниках,1
+Embedded developer,1
+Основы С#,1
+Телекоммуникации,1
+Системы связи,1
+Caffe,1
+XGBOOST,1
+CANBUS,1
+KiCad,1
+Micro-Cap,1
+CMakefile,1
+Boost::asio,1
+Continious integration,1
+kotlin,1
+Чтение и анализ чужого кода,1
+"Scrum, Kanban, ScrumBan",1
+Преподавание программирования,1
+Знание Python,1
+Опыт использования SQL,1
+NodeJS,1
+NodeJS.C++Addons,1
+WebAssembly,1
+Thrust,1
+Coral Draw,1
+Опыт применения нотации IDEF0,1
+POS terminals,1
+Опыт применения нотации BPMN,1
+Опыт работы с пост,1
+CCNE,1
+Cybersecurity,1
+Умение разрешать конфликты,1
+Умение быстро усваивать новую информацию,1
+Хорошее знание С#,1
+Методы оптимизации,1
+Теория вероятностей и матстатистика,1
+Reasearch,1
+Unit-тесты,1
+GCC/Clang/MinGW,1
+Visual Studio/CLion,1
+С/С++ 11/14 STL,1
+Unreal Engine (UE4),1
+Encrypting PIN Pad,1
+WOSA\XFS,1
+cURL,1
+Linux embed,1
+WAN,1
+WiFi,1
+FIrewall,1
+NAT,1
+BGP,1
+OSPF,1
+MPLS,1
+Juniper,1
+Web,1
+Zenoss,1
+Patte,1
+C/ C++,1
+VB.Net,1
+HTML 5,1
+Jupyter Notebook,1
+Reflection API C#,1
+cppcheck,1
+clang-tidy,1
+3D geometric algorithms,1
+SQL Server Express,1
+"studying on department ""Nonlinear Dynamical systems and control processes"". ￼",1
+"Some view about control theory, finances",1
+"Knowing basically program languages: Pascal(have some view about Delphy),Assembler,C#,VBA,Java",1
+"Experience in C/C++,Python",1
+"Blockchain (Bitcoin core, Ethereum)",1
+Microsoft Power BI,1
+T-Flex,1
+JPEG,1
+Spring Boot,1
+Business Intelligence Systems,1
+"Алгоритмизация, AI структура, Trinty API, C++, Boost",1
+Radius,1
+Теория информации,1
+Glut&Glaux libraries,1
+Windows Server 2008,1
+MS CRM,1
+QtQuick,1
+MODX,1
+Unity Engine,1
+Стремление к обучению и совершенствованию,1
+Красноречивый,1
+Компетентный,1
+"Know discret mathematic,differential equations.",1
+Tesseract,1
+ТРИЗ,1
+neural networks,1
+Портирование проекта на UE4 под Android,1
+Умение писать чистый читабельный код,1
+Умение разбираться в чужих исходниках,1
+Высоконагруженные системы,1
+"ООП (паттерны GoF, принципы SOLID)",1
+Проектирование баз данных,1
+FireMonkey,1
+hadoop,1
+requests,1
+нейронные сети,1
+антивирусные средства,1
+CocoaPods,1
+терпеливость,1
+numpy,1
+Ulead VideoStudio,1
+Программирование на ЯВУ,1
+"Ответственность, усердная работа",1
+Стремление к постижению целю,1
+Высоконагруженные сетевые сервисы,1
+Опыт работы с MySQL,1
+libc,1
+qss,1
+Быстрообучаемый,1
+Web Services,1
+Sybase Power Designer,1
+"Работаю в программах: MS Office, Photoshop, Sony Vegas.",1
+Сетевые технологии,1
+Знание scada систем и основных протоколов,1
+Знание контроллеров tibbo,1
+Знание С#,1
+C - более 4 лет,1
+Разработка ПО контроллеров tibbo,1
+Среда разработки Visual Studio 2010,1
+Разработчик программного обеспечения,1
+Автоматизация предприятий,1
+C++ - менее 1 года,1
+PHP – базовый уровень.,1
+Openlink Findur/Endur,1
+c++ QT,1
+умение читать и исправлять чужой код,1
+работать по ТЗ,1
+"Освоение технических средств, интегрирование в ранее созданную систему",1
+"Тестирование, оптимизация и отладка",1
+Разработка под Unix,1
+"HTML, CSS – базовый уровень, разработка сайта банковского учета для курсовой работы.",1
+Xdebug,1
+Webix,1
+Delphi – сред. ур. Разработка приложений управления БД Access для курсовой и дипломной работы.,1
+Алгоритмы и СД,1
+Теория автоматов,1
+трудолюбивость,1
+целеустремлённость,1
+Organizational skills,1
+Redis DB,1
+Airflow,1
+MS SQL 2012,1
+Visual Basic Script,1
+Negotiation skills,1
+RHEL,1
+SDLC,1
+IBM Notes/Domino,1
+Domain Specific Languages,1
+ABBYY,1
+Video Editing,1
+MS Axapta,1
+IDA pro,1
+Библиотека SDL 1.2/2,1
+Теория вероятности,1
+Теория алгоритмов и структур данных,1
+Public Speaking,1
+Business Management,1
+Digital Marketing,1
+упорство,1
+Написание игровой логики на Blueprints,1
+Знание классических алгоритмов и структур данных,1
+Опыт работы в комманде,1
+Buildroot,1
+nat,1
+Refactoring,1
+kali,1
+wireguard,1
+Linux drivers,1
+BIOS,1
+UEFI,1
+Cross-compilation,1
+Assembler x86,1
+OS boot,1
+Gitlab,1
+Recurrent neural networks,1
+Jupyter,1
+LLVM/Clang,1
+libVLC,1
+X11,1
+NAND,1
+GStreamer,1
+libgdx,1
+Convolutional networks,1
+openCV,1
+Qt 5+,1
+upnp,1
+Legacy code,1
+Falcon,1
+NSubstitude,1
+CLI,1
+Автоматизация документооборота,1
+Автоматизация процессов управления персоналом,1
+Технические средства информационной защиты,1
+Мотивация персонала,1
+Simplygone,1
+"C# (MS VS), SQL (MySQL, MS SQL), C/C++",1
+"c++,qt,stl,EU4,VR",1
+DirectX API,1
+bitcoin,1
+Qt 5.10,1
+algorithms,1
+Одержимость,1
+Выносливость,1
+Генератор идей,1
+Знание базовых алгоритмов и структур данных,1
+"2 года программирования на C++, знание ООП",1
+"Опыт работы со средами разработки: IDEA, PYCHARM, VISUAL STUDIO",1
+https://github.com/OchirSan,1
+"Программировал на Java, Python, Php",1
+Знание sql,1
+Reviewing,1
+pytorch,1
+Опыт коммерческой разработки ПО,1
+Апгрейд пк,1
+Rational Rose,1
+Xamarin forms,1
+GNU coreutils,1
+преподавание,1
+информатика,1
+Postman,1
+Сжатие данных,1
+Дедупликация данных,1
+Оптимизация программ,1
+Помехоустойчивое кодирование,1
+Аэродинамика,1
+wiringPi,1
+Греческий язык,1
+Numeca,1
+Fluent,1
+Blueprints unreal engine,1
+Летательные и космические аппараты,1
+космос,1
+"Опыт и понимание ООП, принципов проектирования и архитектуры игрового проекта",1
+Умение работать с системой контроля версий Git,1
+Опыт разработки в UE4,1
+Опыт написания С++ классов для UE4,1
+Xamarin Forms,1
+IBM,1
+winsock,1
+XSLT,1
+AsciiDoc,1
+CISC,1
+Moodle,1
+Apache Tika,1
+Thymeleaf,1
+pycharm,1
+Modx,1
+Html/css,1
+Разработка электронных схем,1
+производство,1
+Microchip PIC10 PIC12 PIC16 PIC18 PIC24 PIC32,1
+"Ethernet, UART, RS-232, RS-485, SPI, I2C, 1-Wire",1
+Внимание к деталям,1
+English A2,1
+GCP/Azure,1
+WSL,1
+HTML/CSS,1
+работаю с увлечением над интересными задачами,1
+Python / PyQt5,1
+Algorithm,1
+CouchBase,1
+Платные тестовые задания,1
+mfc/atl/wtl,1
+Meta-Programming,1
+Оптимизация списка поставленных задач,1
+Програмирование C++,1
+Лицензирование,1
+AutoCad (2D/3D),1
+VBA macros,1
+Парус,1
+Algorithm and Date Structure,1
+Составление бизнес-плана,1
+Инновационный менеджмент,1
+Бух Корп,1
+Умение работать с большим объемом информации,1
+"1C 8.2, 8.3.",1
+Virtual box,1
+Информационные сайты,1
+Compiler,1
+MASM32,1
+TASM,1
+Static Analyzer,1
+EVC++4,1
+C++ Builder XE2,1
+"упорство, дотошность, трудолюбие, опыт, знания",1
+Event Management,1
+Cloud,1
+Государственные закупки,1
+Прием и распределение звонков,1
+dbus,1
+Crypto,1
+ASP,1
+FBML,1
+Objective C,1
+AUTOSAR,1
+VectorCAST,1
+Helix,1
+Социальные сети,1
+Мобильные приложения,1
+NVidia Jetson Nano,1
+Обязательность,1
+Trade Robot,1
+Исполнение личных поручений руководителя,1
+Core,1
+Atlassian,1
+Cи,1
+Sas,1
+sci,1
+scikt-learn,1
+Crossplatform,1
+Embedded linux,1
+Надежный член команды,1
+исполнение поручений руководителя,1
+Yaws,1
+High-Load,1
+Mnesia,1
+C/C++/C#,1
+Разработка высокоточных математических алгоритмов,1
+Математический анализ данных,1
+Научное руководство,1
+Научная этика,1
+ANSI C/C++,1
+Победа в госконкурсе авторским научным проектом,1
+Авторское и патентное право,1
+IBM MQSeries 3.5,1
+kernel mode programming (win2000/XP),1
+Audio and Video Signals Processing,1
+Embedded Control Systems,1
+DirectX11,1
+Cisco Routers/Switches/Unified Computing,1
+HTML/ JavaScript/ CSS,1
+Brocade SAN switches,1
+CCS7,1
+10GbE networking,1
+CNN,1
+Cef Sharp(Chromium),1
+SignalR,1
+Remote .NET Objects,1
+NHibertate,1
+Построение динамических математических моделей хода проектов,1
+Математическое планирование,1
+Математическая валидация данных,1
+Математическое прогнозирование,1
+OTP,1
+FinTech,1
+Crypto Currency,1
+ML,1
+AlgoTrading,1
+COBIT,1
+ITSM,1
+High Load,1
+Управление отношениями с клиентами,1
+Управление процессом разработки архитектуры по TOGAF,1
+Разработка методологии сайзингов,1
+"Знания ОС: Linux, AIX, HP-UX, Solaris, FreeBSD",1
+"Знание языков программирования: C, C++, Java/J2EE, awk, bash, lua ksh",1
+Unrean engine 4,1
+WebSphere 5.0.1-6.2,1
+"WebLogic 8,9,10",1
+Angular 7+,1
+"SAN Storages: EMC Clarion, VNX; HP X24000, EVA 5k-8k;NetApp FAS3240;Sun ZFS Arrays",1
+Oracle Database 7.x-11g,1
+"умение учиться и слушать, много изучаю",1
+OSG,1
+1C-Bitrix,1
+Gameplay Framework,1
+com,1
+Программирование промышленных контроллеров,1
+Программирование сайтов,1
+Ассемблер - язык программирования,1
+Интернет магазин и 1С,1
+Наполнение сайтов информацией,1
+Бухгалтерские программы,1
+Ремонт электроники,1
+Свои инструменты и приборы,1
+Motion Capture,1
+Компьютерная безопастность,1
+Объектно-орентированное программирование,1
+Code and Art Optimization,1
+Бухгалтерия,1
+Водительское удостоверение категории BC,1
+Art to Engine Pipeline,1
+Владение Python/C++/C#,1
+Использование ООП,1
+Навыки работы с Git,1
+"Управление ОС (Windows, Linux) и системными сервисами на уровне системного администратора",1
+Настройка сетевого оборудования Cisco,1
+"Проведение поверки, диагностики и ремонта измерительных и вычислительных устройств",1
+"Работа с различной микропроцессорной техникой и ПЛИС, включая проектирование аппаратного решения, ре",1
+Plugin Development,1
+1С,1
+И Другое,1
+Network Replication,1
+оптимальная фильтрация (фильтры Калмана),1
+"Си ( hh не дает ввести просто С, лол )",1
+Творческий подход,1
+Postix,1
+daemon/service,1
+"Преподавание истории, английского языка",1
+"Разработка web-сайтов, баз данных, Интернет-магазина",1
+Безаварийное вождение,1
+Crossplatform Programming,1
+ассемблер,1
+вычисления на видеокартах (GPU) OpenCL,1
+qtcreator,1
+Intrinsics функции,1
+Цифровая Обработка Сигналов (ЦОС),1
+"ПО, критичное к скорости выполнения",1
+основные концепции нейросетей,1
+анализ временных рядов (корреляционный),1
+User и GDI Win 32/64 API,1
+SIMD (SSE/MMX),1
+"фундаментальный Win 32/64 API (процессы, потоки,",1
+"синхронизация потоков в пользовательском режиме и с объектами ядра, пулы потоков,",1
+"различные схемы управления памятью - виртуальная память, кучи, проекции файлов,",1
+"перехват API, Структурная Обработка Исключений [SEH])",1
+Формирование проектной документации,1
+"Презентация проектов, включая написание научных статей и выступление на научно-технических конференц",1
+Высшее техническое образование,1
+GLONASS,1
+Effective decision-making,1
+Ability to learn,1
+Physical Animations,1
+Blandspaces,1
+State Machines,1
+язык C,1
+Animation Montages,1
+H.264,1
+Animation Blueprints,1
+GPS,1
+4G,1
+Умение обучаться в сжатые сроки,1
+AllWinner,1
+greenDAO,1
+Retrofit,1
+Picasso,1
+Glide,1
+Dagger 2,1
+Realm,1
+"a lot of skills in R&D, Engineering, Automation, Robotics, Support, Software development, Management",1
+openssl,1
+libevent2,1
+Effective problem solving,1
+The ability to prioritize,1
+IK,1
+"Physics(Forces, Constraints)",1
+Выполнение обязанностей в заданный срок,1
+VR Specific Development,1
+Программирование на Python,1
+Разработка игр на Unreal Engine 4,1
+Разработка приложений в Qt,1
+Умение работать с Git,1
+Понимание ООП,1
+"Работа с базами данных SQL, MySQL, SQLite",1
+исходящие звонки,1
+"знание электроники, аппаратной микроархитектуры процессорных систем, программируемых ЭВМ,",1
+"структуры и принципов организации операционных систем, поддержки сети, межпроцессного взаимодействия",1
+"методологии ООП, продуктивных программных алгоритмов;",1
+"C, ASSEMBLER x86, FreeBSD kernel, Linux kernel, Novell NetWare, DOS",1
+"InterNet domain resource, NT domain resource",1
+"IPX/SPX, 4-х уровневый стек TCP/IP, 7-ми уровневый стандарт модели OSI",1
+"PostgreSQL, Firebird, MySQL, InterBase, SQL client/server system;",1
+"Lazarus, Delphi, NetBeans IDE; Perl/CGI, PHP, JavaScript (jQuery), XHTML/CSS",1
+"Adobe PhotoShop, Adobe PageMaker;",1
+Профессиональное образование по фундаментальным и естественным наукам в их прикладном применении.,1
+Архитектор АСКУЭ.,1
+BORLAND C++ dBase PalmOS,1
+SIP VOIP,1
+TCP FTP,1
+Wix Installer,1
+использую OpenGL при разработке (визуализация),1
+Testing,1
+Железо,1
+Встраиваемые системы,1
+гидродинамка,1
+Нестандартное мышление,1
+быстро и с увлечением учусь новому,1
+"Разрабатываю ПО для Linux, Windows, Android систем.",1
+"Программирую на C++, Java, Python",1
+работаю в Android Studio,1
+работаю в фреймворке Qt,1
+имею опыт разработки сверточной нейронной сети на с++,1
+Имитационное моделирование,1
+использую многопоточную архитектуру там где это нужно,1
+использую клиент-серверную архитектуру (TCP/UDP),1
+имеется опыт программирования микроконтроллеров,1
+умею и люблю собирать и паять электрические схемы,1
+3DS Max SDK,1
+kaggle,1
+UnetLab,1
+UPD,1
+"Знание основ C++ (базовые свойства языка, синтаксис, указатели, ввод/вывод, массивы, основы STL, баз",1
+Понимание работы базовых алгоритмов и структур данных,1
+Обработка речевых сигналов,1
+Mathtype,1
+Devexpress,1
+Electromagnetic Professional,1
+Dynamodb,1
+GraphQL,1
+Excel,1
+Packet tracer,1
+Git Hub,1
+Visual Studio 19,1
+Googletest,1
+ПЛК,1
+AWR Design Environment,1
+PHP3,1
+"работа на результат, гармония, трудолюбие",1
+Базовые алгоритмы,1
+Управление,1
+Изучение новых технологий,1
+Активность,1
+Язык программирования Си,1
+Steinberg Cubase,1
+Layout,1
+Electronic Workbench,1
+Ansible,1
+docker-compose,1
+pytest,1
+"Знание языков веб-программирования (HTML5, CSS3, основы Js и JQuery, базовое знание PHP и MySQL)",1
+Коммуникабельный,1
+Ответственный,1
+Kivy / Kivy MD,1
+Litecoin,1
+Tether,1
+x86 Assembly,1
+x86-64 Assembly,1
+windows kernel development,1
+Anti-cheat software,1
+Malware Analysis,1
+Game Reversing,1
+Social Engineering,1
+PyQt 5,1
+Electron,1
+Packet Tracer,1
+Easy to learn and use new things,1
+Good problem solving skills,1
+team player,1
+information proccesing,1
+Information Networks,1
+Computational Geometry,1
+Mentor Graphics,1
+Altera Nios II,1
+Разработка библиотек,1
+Мультиплатформенная разработка,1
+Dash,1
+Block chain Data contracts,1
+Qt 5,1
+TPL,1
+Engine,1
+and etc,1
+Vue,1
+"flask-sqlalchemy, flask-migrate",1
+Reporting Services,1
+JasperReports,1
+SQLAlchemy,1
+Amazon AWS,1
+Форумы,1
+Браузерные игры,1
+Платформа для обучения,1
+Критическое мышление,1
+Умение концентрироваться,1
+Искусственные нейронные сети,1
+Обучение с подкреплением,1
+Знание алгоритмов,1
+asp .net,1
+CSS-верстка,1
+HTML-верстка,1
+Интернет-магазин,1
+Task Parallel Library,1
+Benchmarking,1
+DOD,1
+"C++, C, directx 11",1
+MinGW,1
+Intel Parallel Studio,1
+MCU Microchip,1
+MCU ARM,1
+FPGA Altera,1
+RUST,1
+Yandex Maps API,1
+TCP/,1
+Microchip pic18XX,1
+Visual studio,1
+ИНС/БИНС,1
+ЦОС,1
+openFrameworks,1
+"Уверенное программирование STM32, AVR",1
+владение теорией автоматического управления (ТАУ),1
+програмирование,1
+руководящая деятельность,1
+знание основ электротехники,1
+С99/С++,1
+kext,1
+Boost.Asio,1
+WebSocket,1
+OpenStreetMap,1
+Глубокое обучение,1
+UNIGINE,1
+sculping,1
+Blender,1
+Google,1
+разработка на PHP и JavaScript – 2 года,1
+Тренинги,1
+разработка на Python 3 – полтора года,1
+разработка на С/C++ – более 5 лет,1
+Сериализация,1
+3D Home Architect,1
+Animation,1
+Modeling,1
+Unwraping,1
+Texturing,1
+Substance Alchemist,1
+Marvelous Designer,1
+Verge3d,1
+Yocto,1
+Gtac,1
+Hand Painting,1
+ITK,1
+DCMTK,1
+"SQL, PL/SQL, XML, Borland Delphi, C++ Builder, С++ RAD Studio, Oracle, FastReport, SVN",1
+DirectX 11,1
+Compass 3D,1
+Веб-скрэппинг,1
+Glad,1
+математические методы,1
+PATRAN,1
+Inventor,1
+"Разработка и внедрение нормативных документов, правил и запретов для пользователей",1
+knockout js,1
+"Проектирование, планирование и построение IT инфраструктуры, выбор компонентов",1
+Контроль эксплуатации и сопровождения IT инфраструктуры,1
+Контроль сроков и качества работы сотрудников отдела,1
+Прекрасное знание английского языка,1
+Знание многих языков программирования,1
+Быстрое и качественное самообучение.,1
+.Net,1
+MS Dynamics CRM,1
+Капитальный ремонт,1
+Составление плана работ и отчетов о работе отдела,1
+"Разработка инструкций, технических требований, технических заданий для сотрудников отдела",1
+"Разработка планов развития, обучения и сертификации сотрудников",1
+Желание узнавать и изучать новое,1
+Программирование на языке С/С++,1
+Трассировка печатных плат,1
+Проектирование в Autocad,1
+Английский язык на уровне чтения ТД,1
+Стратегическое планирование и развитие отдела,1
+"Обеспечение информационной безопасности, централизованной антивирусной защиты (Kaspeskiy Antivirus)",1
+"Программирование, сетевое администрирование, ремонт электроники",1
+"Опыт работы с современными RDBMS (Interbase/Firebird, Oracle)",1
+Тактичность,1
+Мини-АТС,1
+UE C++,1
+C# Junior,1
+"Установка, настройка и администрирование ОС Windows/MacOS",1
+Администрирование клиент-серверных ИС,1
+"Поиск неисправностей в охранной сигнализации, СКУД, СОТ",1
+"Организация СКУД на базе  ПО ""Орион про""",1
+Ведение конфиденциального делопроизводства,1
+Участие при организации удостоверяющего центра,1
+Организация аналоговых и ip СОТ,1
+Ведение офисной работы,1
+"Продвинутый пользователь ПК (смогу установить ПО с 0, настроить сеть)",1
+"Программирование на C++ Builder ( БД, клиент-серверные прирожения)",1
+Написание ЗП и ТТ ( ИТСО),1
+"Сопровождение банк-клиентов Сбербанка,Газпробанка (в части ЭЦП)",1
+Выявление и устранение неисправностей современных ПК,1
+физика,1
+Успешный опыт управления проектами в области разработки и внедрения ПО,1
+Travis CI,1
+"Владение перспективными языками и средствами разработки (Object Pascal, C++, C#, Objective-C [iOS])",1
+Radare2,1
+Assembler – базовый уровень.,1
+Jetpack,1
+IBM WebSphere MQ,1
+Более 20 лет работы программистом,1
+esp-idf,1
+kikad,1
+Организация производства,1
+3d печать,1
+ESP32,1
+Монтаж плат и электронных компонентов,1
+K,1
+Алгоритмизация,1
+Управленческий учет,1
+Multithreaded Programming,1
+4 место на олимпиаде по физике по Республике Татарстан,1
+visual studio code,1
+ежегодные первые места в районных олимпиадах по математике,1
+умение читать чужой код,1
+высокий IQ,1
+Managed C++,1
+ecmascript 2019,1
+Искать решение,1
+Microsoft Windows,1
+Финансовый анализ,1
+ASF NetBeans IDE,1
+Oxygine,1
+platformio,1
+rtos,1
+Payments,1
+Готовность работать сверхурочно если проект интересный,1
+English language,1
+cryptography,1
+rfid,1
+https://github.com/BadMachine,1
+Финансовое планирование,1
+TensorflowJS,1
+Поиск объектов,1
+"C,C++",1
+Логическое мышление,1
+Доведение до конца начатой работы - любой ценой,1
+DATASNAP,1
+Telegram API,1
+MODBUS,1
+English upper-intermmediate,1
+C# unity.engine,1
+ssl,1
+WjnSock2,1
+Разработка архитектуры,1
+Разработка ПО на языке C++,1
+Разработка ПО с применением библиотек Qt и QML,1
+Разработка автоматического тестирования,1
+Git/Svn,1
+Autodesk AutoCAD Mechanical,1
+АСКОН КОМПАС-3D,1
+Siemens PLM Software NX Nastran/Femap,1
+Concurrent programming,1
+WinCC,1
+PCS7,1
+LAD,1
+SCL,1
+Wonderware,1
+RS-485,1
+МЭК 61131-3,1
+SQL Native client,1
+ОС Astra Linux,1
+PowerTV,1
+Разработка графических интерфейсов,1
+ANSYS Mechanical APDL,1
+Разработка сетевых протоколов,1
+RaspberryPi,1
+Distributed Interactive Simulation,1
+Darktable,1
+Алгоритмика,1
+MCBC,1
+"Понимание алгоритмов и структур данных, принципов ООП",1
+Олимпиадная математика,1
+Олимпиадное программирование,1
+Материальная отвественность,1
+Simatic WinCC flexible,1
+C++11/C++17,1
+Xen,1
+Статистика,1
+PTC Mathcad,1
+Maplesoft Maple,1
+"Уверенный пользователь ПК (Word, Excel, Power Point, Arduino, Visual studio",1
+"Altium Designe, P-CAD, Microsoft Visio",1
+ElasticSearch,1
+RESTheart,1
+Dlib,1
+HoudiniFX,1
+Autotools,1
+Gdb,1
+Drupal API,1
+Embarcadero Builder,1
+Apache Cordova,1
+CG,1
+Embarcadero,1
+Сильное желание развиваться,1
+Interpersonal skills,1
+Discrete mathematics,1
+Theory of probabilities,1
+rest api,1
+ActiveMQ-CPP,1
+EMV,1
+nfc,1
+Darwin Streaming Server,1
+Restheart,1
+Психоакустика,1
+Техническая эксплуатация,1
+Сканер,1
+Сова,1
+"Знание и работа с библиотеками Qt, ZeroMQ, libpq, Google Protobuf",1
+"Работа с svn, mantisBT",1
+Разработка и отладка кроссплатформенного ПО,1
+Опыт работы в ОС linux/windows,1
+Сборка программ с использованием утилиты cmake,1
+"HLA, RRTI",1
+Elasticsearch,1
+Face recognition,1
+Звукорежиссура,1
+Мерчандайзинг,1
+Блочная выкладка товара,1
+Пополнение товарных запасов,1
+Современная розница,1
+Выкладка товаров,1
+Звукозапись,1
+Опыт продаж,1
+Компьютерная помощь,1
+Разборка ПК,1
+Промышленная электроника,1
+PyTorch,1
+node-red,1
+JavaEE,1
+MPEG TS T-STD,1
+MP4/fMP4,1
+Ведение отчетности,1
+AviSynth,1
+Intel Video Metadata Framework SDK,1
+root-cern,1
+windows,1
+KISS (паттерн разработки),1
+"OSI,TCP/IP",1
+Spring,1
+Стажёр,1
+КИПиА,1
+Опыт разработки на Lua.,1
+Опыт ручного тестирования сервисов и приложений,1
+Опыт подготовки сценариев для тестирования.,1
+"Опыт использования СУБД PostgreSQL, MySQL",1
+Опыт технической поддержки ПО,1
+Опыт планирования работ по развитию ПО,1
+"Базовые знания C++, C#, Java, PHP, SQL, HTML, CSS",1
+Опыт использования Selenium WebDriver,1
+Использование SOAP в целях тестирования ПО,1
+"Опыт работы с продуктами Jira, Confluence.",1
+Чистка ПК,1
+English: Elementary,1
+аналитическая геометрия,1
+NB-IoT,1
+"Владение языками разработки C++, Matlab, Python, JavaScript, HTML, Pascal",1
+IAR EW,1
+IndraLogic,1
+IndraWorks,1
+Structured Text (ST),1
+wiki-разметка,1
+Codesys v3,1
+ModBus,1
+wM-Bus,1
+LoRaWAN,1
+AtmelStudio,1
+3d modelling,1
+Уверенное владение ПК,1
+Навыки программирования,1
+GitLab CI,1
+diptrace,1
+avr,1
+Финансовый менеджмент,1
+Знание MATLAB,1
+Базовые знания Linux,1
+Знание программ Microsoft Ofiice,1
+Базовые знания HTML (самостоятельное изучение),1
+LibGDX,1
+php php7,1
+Изобретательность,1
+Баннерная реклама,1
+Внутренние коммуникации,1
+оперативность,1
+Сопровождение НИОКР,1
+"C++, JavaScript, HTML 5, SQL server",1
+Электротехника.,1
+Умение читать чужой код,1
+Modelsim,1
+RTL,1
+ASIC,1
+Xilinx,1
+"c++, algorithm",1
+MPI и OpenMP,1
+MicroCAP,1
+UNIX сокеты,1
+Dallas(1-Wire),1
+Управленческая отчетность,1
+CURL,1
+libuv,1
+Основы С++,1
+Shop Script,1
+LARAVEL,1
+Paint,1
+Установка ОС и драйвера,1
+очистить компьютер от вирусов,1
+ядро ОС,1
+JQuery UI,1
+Back-End разработка,1
+PHP7,1
+Laravel PHP framework,1
+control theory,1
+model predictive control,1
+numerical optimization,1
+"C++, Boost, Intel SGX, openssl",1
+Active Direrctory,1
+COM-объекты,1
+драйверист,1
+Восстановление сайтов,1
+windbg,1
+CodeBlocks,1
+"WinAPI, MFC",1
+GDIPlus,1
+COM-порты,1
+proximity-карты,1
+ddk,1
+sdk,1
+"MsSql, Postgres",1
+"c++, winapi, driver development",1
+Обслуживание сайтов,1
+Контекстная реклама,1
+Тренер,1
+"Внедрение DLL в процессы, перехват функций.",1
+Debuging,1
+Node-RED,1
+ARM Linux,1
+OpenWRT,1
+Торговля,1
+Signal processing,1
+Основные алгоритмы и структуры данных,1
+"Программирование C/C++, Assembler, реверс-инжиниринг, тестирование по на ошибки и уязвимости.",1
+IDAPro,1
+WinDBG,1
+Работа с COM портом через порты ввода/вывода.,1
+Gnu lib C,1
+Reversing,1
+Debugging,1
+Управление продажами,1
+"C++, ассемблер, OpenCV, FFmpeg, GDI+, WinAPI, Asterisk",1
+"Raspberry PI,",1
+rtmidi,1
+Jade,1
+SCSS,1
+Webpack,1
+Babel,1
+"ntfs, fat32, exFat",1
+"Huawei, Zte",1
+"камера, aero-мышь",1
+Техник-программист,1
+разработка кросс-платформенного программного обеспечения,1
+программирование C++  Qt,1
+XEN,1
+Корпоративные продукты Red Hat,1
+Регулярные выражения,1
+Администрирование Windows,1
+Администрирование Linux,1
+ОС QNX,1
+winpcap,1
+RISC архитектура,1
+Знание Unreal Engine 4,1
+"Windows, Debian",1
+Преподавание,1
+D,1
+asm/x86,1
+Concurrency,1
+Competitive programming,1
+HP Loadrunner,1
+Adobe Animate,1
+Arch,1
+OpenVPN,1
+ISO-8583,1
+"системное администрирование Windows, Linux",1
+Preparing Presentations,1
+Business English,1
+clang,1
+"git, tortoise",1
+"InnoSetup, Final Builder",1
+"Crypto Api, Alladin eToken, Vasco",1
+Уверенное владение MS Office,1
+"Практика работы в Photoshop, AutoCAD, MathCAD, MatLab, Electronics Workbench",1
+Знание программы С++ Buider,1
+Знание языка PROLOG,1
+Базовое знание языка assembler,1
+Знание принципов работы и архитектуры компьютера,1
+Понимание принципов работы и строения периферийных устройств,1
+"Опыт разборки, чистки, устранения мелких поломок ноутбуков, телефонов и периферийных устройств",1
+Уверенный пользователь компьютера с ОС Windows,1
+Практика работы с ОС Linux(Ubuntu),1
+Понимание устройства сети,1
+SOSL,1
+Хорошее знание геометрии,1
+Хорошее знание алгебры,1
+Хорошее знание физики,1
+IDA PRO,1
+qt creator,1
+Функциональный анализ,1
+SVG,1
+Color science,1
+Навыки переговоров,1
+IPSec,1
+openid,1
+T-Flex Cad,1
+"Project Management, GUI Applications, Object Oriented Analysis/Design",1
+"Грамотность, грамотная речь, работа в команде, Английский язык, С++, стресоустойчивость",1
+team foundation version control,1
+sourcesafe,1
+аналоговая электроника,1
+Tokio async library,1
+цифровая электроника,1
+IPTables,1
+Работа с печатными платами,1
+Быстрая адаптация,1
+Wiegand,1
+Can,1
+Com,1
+Spi,1
+"Reverse engineering (IdaPro, WinDbg)",1
+Mesh Viewer,1
+Netgen,1
+TortoiseHG,1
+Windows Embedded,1
+Мультизадачность,1
+angular2+,1
+dotNet core,1
+Reporting,1
+NetFramework,1
+Преподаватель программирования,1
+Работа группой,1
+Написание музыки,1
+Звуковые эффекты,1
+Видео монтаж,1
+Рисование цифровой графики,1
+Создание web-сайтов,1
+"c, php, python, js",1
+Компьютерное моделирование процессов,1
+ATMega,1
+CSS/Qt,1
+JavaScript/QML,1
+Object-oriented programming,1
+Владение базовыми знаниями MySQL; Qt.,1
+Работа с командной строкой,1
+"Знание html, css, js",1
+ASP .Net,1
+COM+,1
+EF,1
+MsSQL,1
+С++ (база),1
+Коммуникативность,1
+Visual Studio code,1
+Эффективность,1
+C++ Builder 6,1
+Libre,1
+"Z80, x86, x64",1
+SSE-команды 2/3/4,1
+c++\cx,1
+Основы криптографии,1
+Desktop applications,1
+Hardware development,1
+Firmware development,1
+osgEarth,1
+C++ Builder 2009,1
+Embeded linux,1
+Threading,1
+WinCE,1
+Выполнение крупных проектов в одиночку,1
+Zigbee,1
+V-Ray,1
+SPICE,1
+Ledit (tanner),1
+Reverse ingeneering,1
+Deep learning,1
+Автомобильные перевозки,1
+GMock,1
+keil,1
+IDA / ollyDbg,1
+R (programming language),1
+Знание базы ООП,1
+Клиент-Сервер,1
+webpack,1
+Удалённая работа,1
+IPTV,1
+Встроенные системы,1
+MS Exchange,1
+java FX,1
+OpenAcc,1
+Подключение периферийного оборудования,1
+настройка необходимого ПО,1
+"Владею языками программирования Python, C++",1
+Установка операционных систем на рабочие станции пользователей,1
+TeX,1
+macOS,1
+MXnet,1
+Micros,1
+Blackberry,1
+cocos-2d,1
+Уверенное владение компьютером,1
+C++ (начальный уровень),1
+Эксплуатация,1
+H264/HEVC basic,1
+Video/Audio muxing,1
+Алгоритмический базис,1
+"Уверенный пользователь ПК (Windows, MacOS)",1
+Websocket,1
+Financial markets,1
+STL/Boost,1
+"Оптимизация кода, эвристики",1
+Сетевое взаимодействие,1
+Pythorch,1
+ООП паттерны,1
+machine learning,1
+Коллективная работа,1
+Быстрое обучения,1
+Подготовка документов для декларирования,1
+стабильные универсальные сервера,1
+Базовые навыки работы с MongoDB,1
+Навыки написания прикладных программ,1
+"Знание C++, C, Java, HTML на базовом уровне",1
+"Усидчивость, обучаемость, коммуникабельность",1
+Qt creator,1
+Разработка,1
+"C++, Qt, SQL",1
+Unigine,1
+Владение пакетом программ MS office,1
+"работа с Autocad, Civil3D",1
+универсальные парсеры,1
+MSVisualStudio,1
+"Креативный, ищу и воплощаю оригинальные решения даже для обыденных задач",1
+DRY,1
+ASIO,1
+"Обучаемый, постоянно занимаюсь самосовершенствованием",1
+"Пунктуальный, ответственный всегда выполняю задания в срок.",1
+"Работоспособный, cпособен производительно работать, сосредотачиваясь на конечных целях",1
+распределенное программирование,1
+Искусственный интеллект,1
+JUCE,1
+Audioediting,1
+.net,1
+KISS,1
+FORTRAN,1
+Esp,1
+c++ 11,1
+COM/ATL,1
+Borland RAD Stusio/VCL,1
+legacy code refactoring,1
+Знание принципов работы и построения локальных сетей передачи данных.,1
+С++ (3/11/14),1
+Уверенный пользователь ПК (Windows/Linux),1
+ipp,1
+"Быстрая обучаемость, знание английского языка, ответственность, желание развиваться",1
+Mqtt,1
+Autolisp для autocad,1
+Работа с геодезическим gps приемником,1
+Определение растений зимой и летом,1
+SolidCAM,1
+Знание C# и Java (на уровне синтаксиса),1
+Знание алгоритмов графического рендера,1
+Знание шейдерного языка GLSL,1
+Знание графического API OpenGL,1
+WFC,1
+Легко обучаем,1
+WinServices,1
+неконфликтность,1
+MaxScript,1
+MonoDevelop,1
+"Трудоспособность, заинтересованность, усидчивость",1
+"ООС2, ООС3, ППО, ПОС",1
+Стремление к новому,1
+GTK+,1
+Databases-Design,1
+RTX,1
+Shader,1
+Metal,1
+Clipper,1
+dBaseIV,1
+Объектные модели MS Office,1
+MS Excel Macros,1
+Понимание принципов работы с Unity,1
+Опыт работы с чужим кодом,1
+Опыт работы с системами контроля версий (Git),1
+Знаниеалгоритмов и ООП,1
+Быстрообучаемость,1
+Геометрия и стереометрия,1
+SSE,1
+Cisco Packet Tracer,1
+Microsoft Office,1
+OriginPro,1
+NiosII,1
+Чтение технической литературы на английском языке.,1
+Программирование с помощью библиотеки MFC C++,1
+Программирование с помощью библиотеки Qt C++,1
+Программирование с помощью WinApi C++,1
+Matpotlib,1
+Imageio,1
+Rasterio,1
+Классические алгоритмы,1
+Digital circuitry,1
+MacOS,1
+"C, C++, STL, Win API, WDK, POSIX, C#, Oracle",1
+AVR ASM,1
+Перфекционизм в работе (умеренный),1
+Умение хранить секреты,1
+Websockets,1
+Google C++ Testing Framework,1
+Smooth Streaming,1
+Tasks Tracking Sytems,1
+Axure RP,1
+Qt Quick,1
+"Пунктуальность, ответственность",1
+Java core,1
+libcurl,1
+Знаком с MySQL,1
+Нейросети,1
+CodeBlock,1
+Знаком с основными компонентами Linux,1
+Pytorch,1
+собранность,1
+микроконтроллеры,1
+внимательность,1
+эффективность,1
+математический склад ума,1
+умение анализировать,1
+знание офисных программ,1
+"C++. STL, Boost, QT",1
+опыт сборки-разборки и модернизации системных блоков,1
+опыт администрирования пользовательских ОС Windows 7-10,1
+опыт прокладки и монтажа слаботочных сетей,1
+Lib pcap,1
+клиент-серверные приложения,1
+Ubuntu/Mint,1
+"HTML,CSS,JavaScript,jQuery,C++,VB",1
+Willingness to learn,1
+PL/pgSQL,1
+Опыт олимпиадного программирования,1
+C++11 Multithreading,1
+BSD Sockets,1
+D-Bus,1
+Patience,1
+Tenacity,1
+Attentiveness,1
+Time management skills,1
+Clear communications skills,1
+GNUmake,1
+AdMob,1
+"Программирование, электроника, сервера.",1
+CCS,1
+Manjaro,1
+FFMPEG,1
+ONVIF,1
+GigeVision,1
+Ретушь,1
+Arch Linux,1
+Желание изучать что-то новое,1
+Быстро осваиваюсь в новой компании,1
+Matcad,1
+Berkeley sockets,1
+Разработка Desktop приложений на C++ QT Creator,1
+Написание роботов,1
+Желание,1
+Умение общаться,1
+Четкость,1
+Знание нескольких языков (4),1
+умение урегулировать стрессовые ситуации,1
+Желание помогать,1
+желание продвигаться,1
+Учиться новому,1
+Идти вперед,1
+React Native,1
+CA,1
+Back-End,1
+NPM,1
+EXPO,1
+Ninja Trader 7.0,1
+алгоритмы и структуры данных,1
+Lazarus,1
+Twig,1
+HostCMS,1
+Знание основных алгоритмов и структур данных,1
+Основы Assembler,1
+Основы операционных систем,1
+Компетентность,1
+Visual FoxPro,1
+Индикатор,1
+Стратегия,1
+Аndroid NDK,1
+math modeling,1
+быстрое обучаемость,1
+"Всегда стремимся узнать о новых бизнес-методологиях и новых технологиях, а также всегда стремимся пр",1
+Code Review,1
+Scripting,1
+Архитектурное мышление,1
+Ассемблерные языки,1
+"знание основ С++, знание основ ООП, опыт работы с STL, MFC",1
+Анализ,1
+GDI Plus,1
+Data Visualization,1
+OpenNN,1
+Ардуино,1
+Организационное проектирование,1
+Монтаж звука,1
+Peewee,1
+Умение решать задачи,1
+Хорошая концентрация,1
+Алгоритмизированный подход,1
+Windows Server,1
+MS Word Macros,1
+MS Power Builder,1
+Управление через COM-порт,1
+изобретательность,1
+Cloud Computing,1
+Microservice,1
+UnrealEngine 4,1
+modell,1
+Лояльность,1
+интуитивность,1
+Quixel Mixer,1
+Software testing,1
+уравновешенность,1
+VSS,1
+Разработка печатных плат,1
+Back-end,1
+Создание принципиальных схем,1
+Пожарная сигнализация,1
+Живопись,1
+рациональность,1
+microcontroller,1
+CEP,1
+Common Extensibility Platform,1
+коммуникабельнось,1
+windows 10,1
+Sklern,1
+Топографо-геодезическая деятельность,1
+Геодезия и картография,1
+PL/SQL,1
+Sklearn,1
+vue,1
+treejs(web3D),1
+pixijs(web2D),1
+OpenCV C++,1
+C#(база),1
+Микросервисы,1
+OpenAL,1
+Самостоятельность,1
+Makefile,1
+GTK+3,1
+Asynchronous Programming,1
+"Управление, отделочные работы, прораб",1
+Принципы SOLID,1
+QuarkXPress,1
+Репетитор по физике,1
+Классические алгоритмы и структуры данных,1
+ANTLR,1
+Компьютерная графика,1
+eCos,1
+GDAL,1
+Test case,1
+Фотограмметрия,1
+"Multilingualism (English, Russian, Hausa and German)",1
+Professional Translation (Simultaneous etc),1
+English Teacher (Business English (ESP) etc),1
+USB,1
+"Микроконтроллеры STM32, PIC, AVR",1
+"Среды программирования Visual Studio, Qt Creator, C++ Builder, Eclipse",1
+PatternRecognition,1
+EtherCAT,1
+ОСРВ,1
+Linux RT,1
+MotionControl,1
+UE4-blueprint,1
+FEA,1
+CFD,1
+USART,1
+"Good time management and communicative skills, punctuality.",1
+ADC DAC,1
+LCD TFT,1
+Touch button and panel,1
+проектирование PCB,1
+разработка принципиальных схем,1
+ОПП,1
+"начальные знания JS, HTML, Python, VB",1
+Не тупой,1
+MS DirectShow,1
+RTP/RTCP/RTSP,1
+"Языки программирования С++/С,",1
+Qt C++,1
+С++17,1
+С++14,1
+Work very well with a group or as an individual.,1
+Exposed to vast cultures and methods of passing message across to an audience.,1
+машинопись ru,1
+Astra Linux OS,1
+Веб-разработка,1
+Backend и Frontend разработка,1
+pgAdmin,1
+Qt 4.8,1
+Qt 5.11+,1
+"jQuery; ExtJS, AJAX, XSS, JSONP; MFC; ATL; WTL; STL; Xtreme Tool Kit; COM/ActiveX; RE, WinHTTP",1
+"NuSphere PhpEd, MS VS; C++ Builder; Delphy; Source Insight, Quartus 2/MAX+, WinCE Platform Builder",1
+"PHP Storm, Apache, PHP, MySQL, SmallProxy, Joomla, PHPMyAdmin, OpenSSL, Clear Case, SVN, GIT",1
+"WinSock, WebServices, SOAP, Windows SDK, Windows API, CSS, QT, Boost",1
+"ОС: Win32; RTOS PSOS; RTOS VxWorks; Linux, WinCE/Mobile",1
+Процесоры: IA32; ARM; MIPS; PIC,1
+"Сетевые протоколы: MAC; ARP, IP; UDP; TCP; RTP/RTCP; LLDP; DHCP; 802.1pq; HTTP; SIP",1
+"Языки программирования: C/C++; VB, PHP, javascript; Java; ассемблер, AHDL",1
+"Языки разметки: XML, HTML, WSDL, XSLT, JSP, JSON",1
+Pytest,1
+Могу разобраться в чужом коде,1
+"C++, OOP, Standard Template Library, QT",1
+Ассемблер,1
+Разработчик,1
+Программист,1
+Atlassian Rest API,1
+"Windows, Linux (Debian, Ubuntu, SuSe)",1
+Адаптация,1
+Решение проблем,1
+Управление временем,1
+C++11/14/17,1
+Понимание чужого кода,1
+"x86, Atmel, NXP, STM32, Altera FPGA",1
+ISO 8583,1
+google protobuf,1
+"MS SQL, MySQL",1
+English B1/B2,1
+some Qt libraries,1
+"DirectX (DirectDraw, Direct3D, DirectSound, DirectInput)",1
+"физические движки PhysX, Box2D",1
+Vertex/Pixel Shaders,1
+TLS/SSL,1
+"C, C++, Python, JavaScript, PHP",1
+InfluxDB,1
+Grafana,1
+OpenAPI,1
+kernel,1
+SQL базовый,1
+Проведение переговоров,1
+1C 7.7/1C 8.X,1
+"Алгоритмы обучения, оптимизации (генетические алгоритмы, нечеткая логика и пр.)",1
+"Распознавание образов, обработка изображений и сцен",1
+"ACCESS, SQLite,",1
+Borland C/C++,1
+dBaseIII,1
+структуры данных,1
+"Знание языков программирования : C++, C# ( начальный уровень) , Java (начальный уровень)",1
+Tekla BIM,1
+Windows 7/10,1
+С++11/14,1
+"Физик-экспериментатор. Программист, языки программирования Delphi(EMBArkadero), C++.",1
+Математическая грамотность,1
+ArchiCAD,1
+JPSS WORLD,1
+"C Programming Language, Git, Bash Shell, Python Programming, С++, основы ООП, JSON, XML",1
+REGEX,1
+XML Dom,1
+"JQuery, HTML/ CSS/",1
+All Offices programmes,1
+API Windows,1
+"Perl, OOP",1
+Posix,1
+Распознавание,1
+понятие о Git,1
+"небольшой опыт разработки в Qt, написание небольших программ",1
+Z80 Assembler,1
+DIrectX,1
+Программирование микроконтроллеров PIC32MX (MIPS 4K),1
+Базовые навыки программирования C++,1
+Базовые навыки Html,1
+"Работа с измерительными приборами - мультиметр, осцилограф, токовые клещи, мегаометр.",1
+Linux embedded,1
+Windows SDK & DDK,1
+Работа с паяльником.,1
+RS485,1
+"Программирование микроконтроллеров Atmel, Microchip, STM32",1
+"Программирование - Win32API, MFC. Немного C#. Также есть опыт программирования ARM - STM32.",1
+MQ,1
+Signals/Slots,1
+C++14/17,1
+swift,1
+Anaconda,1
+Pytelegrambot,1
+Pyqt5,1
+ZeroMQ,1
+J1939,1
+Conan,1
+ProtoBuf,1
+Java SWT,1
+Git (CLI),1
+Linux (user layer),1
+Assembly,1
+Dart,1
+TCAD,1
+"Windows, Linux, Delphi, PHP, Javascript, AJAX, MS SQL Server, запросы на T-SQL, запросы на MySQL",1
+компьютерное зрение,1
+dsPIC33,1
+Yii2,1
+Программирование AT91SAM7 (ARM7),1
+"С++, C#, Unity",1
+Испанский язык,1
+Программирование с использованием библиотеки Qt,1
+Основы MATLAB,1
+Fossil SCM,1
+Плата STM32F746G-DISCO,1
+Make/Cmake,1
+Raspberry Pi,1
+SDR transceiver,1
+Linux-kernel,1
+POS терминалы,1
+СИ,1
+QML/Qt Quick,1
+"STM32 (Cortex-M3, M4, M7)",1
+Рисование схем в P-CAD,1
+Организация встреч,1

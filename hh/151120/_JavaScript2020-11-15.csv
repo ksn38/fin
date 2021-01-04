@@ -1,0 +1,630 @@
+tag,count
+JavaScript,835
+Node.js,393
+Git,388
+CSS,272
+HTML,232
+HTML5,220
+CSS3,170
+React,158
+PostgreSQL,141
+Английский — B1 — Средний,118
+MongoDB,112
+MySQL,103
+SQL,101
+PHP,98
+Английский язык,96
+jQuery,94
+TypeScript,93
+AngularJS,92
+Английский — B2 — Средне-продвинутый,76
+Vue.js,68
+Redux,66
+ООП,62
+Linux,60
+Java,57
+react,54
+React.js,53
+Bootstrap,48
+vue.js,47
+REST,44
+Python,43
+Atlassian Jira,42
+Redis,41
+Docker,39
+Less,39
+Scrum,38
+Agile Project Management,34
+Sass,33
+MS SQL,29
+C#,28
+Vue,28
+Работа в команде,24
+Typescript,23
+Angular,23
+AWS,23
+Ajax,22
+redux,21
+XML,20
+Golang,20
+Английский — C1 — Продвинутый,19
+ASP.NET,19
+GraphQL,19
+Spring Framework,18
+ReactJS,17
+Elasticsearch,17
+Webpack,17
+Laravel,17
+SVN,16
+Английский — A1 — Начальный,16
+ES6,16
+Atlassian Confluence,16
+HTTP,15
+Nginx,15
+SPA,14
+.NET Framework,13
+API,13
+C++,13
+Symfony,12
+React Native,12
+Английский — A2 — Элементарный,12
+Yii,12
+1С-Битрикс,11
+WebGL,11
+NoSQL,11
+Design Patterns,11
+Базы данных,11
+JS,11
+typescript,10
+Web Application Development,10
+Unity,10
+VueJS,10
+MVC,10
+PixiJS,10
+RabbitMQ,10
+vue,10
+Java SE,9
+Веб-программирование,9
+webpack,9
+Java Script,9
+Управление временем,9
+Unix,9
+PHP5,9
+Express,8
+Frontend,8
+Adobe Photoshop,8
+JSON API,8
+Тестирование,8
+JSON,8
+Разработка нового продукта,8
+Phaser,8
+QA,8
+Entity Framework,7
+Cocos2d,7
+UI,7
+Kubernetes,7
+Express.js,7
+Управление проектами,7
+playable adds,7
+Разработка ПО,7
+BIRT,7
+Jasper Reports,7
+Django Framework,7
+Aspose,7
+Pentaho,7
+REST API,6
+CI/CD,6
+Angular 2+,6
+Ruby On Rails,6
+СУБД,6
+Lavarel,6
+Креативность,6
+nuxt,6
+Немецкий язык,6
+Разработка технических заданий,6
+Gitlab,6
+*NIX,6
+RESTful web services,6
+Software Development,6
+Vuex,6
+Android,5
+Bash,5
+Jest,5
+Ruby,5
+NPM,5
+Gulp,5
+CMS Wordpress,5
+Работа с базами данных,5
+WebSockets,5
+Nest.js,5
+Nuxt.js,5
+CRM,4
+Тайм-менеджмент,4
+Мобильность,4
+WebRTC,4
+PHP7,4
+React.JS,4
+QA Automation,4
+ExpressJS,4
+Hibernate ORM,4
+ECMAScript,4
+Backbone,4
+socket.io,4
+ORACLE,4
+Преподаватель,4
+MobX,4
+Flexbox,4
+Обучение и развитие,4
+react.js,4
+Vue.JS,4
+laravel,4
+Jenkins,4
+Unit Testing,4
+C/C++,4
+microservices,4
+docker,4
+Grunt,4
+Redmine,4
+vuejs,4
+iOS,4
+MS Access,4
+UX,4
+SCSS,4
+frontend,4
+Кроссбраузерная верстка,4
+MS SQL Server,4
+Адаптивная верстка,4
+1С программирование,4
+Умение принимать решения,3
+Cистемы управления базами данных,3
+VoIP,3
+Инженер-программист,3
+Backend,3
+Apache Tomcat,3
+Reselect,3
+Грамотная речь,3
+Teamplayer,3
+ORM,3
+Analytical skills,3
+Английский — C2 — В совершенстве,3
+ES5,3
+D3.js,3
+Next.js,3
+Electron,3
+Умение работать в команде,3
+Ориентация на результат,3
+Leaflet,3
+es2016,3
+Selenium IDE,3
+vuex,3
+Пользователь ПК,3
+FrontEnd,3
+Русский — B2 — Средне-продвинутый,3
+Sequelize,3
+RESTful API,3
+Ramda,3
+SignalR,3
+Terrasoft CRM,3
+ReactNative,3
+Canvas,3
+Agile,3
+Databases,3
+Apache HTTP Server,2
+Front-end,2
+Recompose,2
+Функциональное программирование,2
+HOC,2
+MS Dynamics CRM,2
+Immutable.JS,2
+Kanban,2
+Mobx,2
+Graphql,2
+Algorithms and Data Structures,2
+TCP/IP,2
+TS,2
+JUnit,2
+TeamCity,2
+Apollo,2
+JSX,2
+Figma,2
+Svelte,2
+Elastic Search,2
+Nuxt,2
+PWA,2
+SOLID,2
+Teamleading,2
+Objective-C,2
+Creatio,2
+Информационные технологии,2
+web3.js,2
+JNA,2
+express,2
+Apache,2
+Firebase,2
+kotlin,2
+Управление командой,2
+Немецкий — A1 — Начальный,2
+Leadership Skills,2
+Внутренний контроль,2
+Обучение,2
+DevOps,2
+Meteor,2
+RESTful,2
+Mac Os,2
+Ethereum,2
+Eclipse,2
+Ответственность,2
+clickhouse,2
+Умение работать в коллективе,2
+Работа с большим объемом информации,2
+Highload,2
+Аналитическое мышление,2
+swagger,2
+my sql server,2
+Xsd,2
+Memcached,2
+Первичные документы,2
+Android SDK,2
+Swift,2
+Kafka,2
+Microsoft Access,2
+Публичные выступления,2
+Mercurial,2
+Bootstrap 4,2
+Code review,2
+GitLab,2
+canvas,2
+системная аналитика,2
+Node.js Unit Testing PostgreSQL RabbitMQ Redis Git ClickHouse Kubernetes HashiCorp Vault,2
+SVG,2
+Планирование карьеры,2
+React JS,2
+Transact-SQL,2
+GitHub,2
+Тестирование пользовательского интерфейса,2
+Веб-дизайн,2
+WCF,2
+MSSQL,2
+JIRA,2
+koa,2
+Zend Framework,2
+ReactJs,2
+SOAP,2
+Cypress,2
+Ext JS,2
+WebPack,2
+Организация презентаций,2
+ASP.NET MVC,2
+Redux.js,2
+figma,2
+MS Publisher,2
+Teambuilding,2
+VUE,2
+TCP/UDP,2
+SSR,2
+Solidity,2
+Bower,2
+Quasar Framework,2
+BEM,2
+pixi.js,2
+Angular 9,2
+Деловое общение,2
+ES6+,2
+Grids,2
+Developer Express,2
+REST APIs,2
+Высокая скорость печати,1
+OpenOffice,1
+RESTAPI,1
+Cardova,1
+Laravel 5,1
+Elastisearch,1
+Cytoscape.js,1
+Администрирование,1
+front-end,1
+XML/JSON,1
+ActiveMQ,1
+XHTML,1
+REST-API,1
+Web API,1
+Windows Os,1
+GIS,1
+AMQP,1
+HTML\CSS,1
+Senior JavaScript Engineer,1
+Apollo 3,1
+Full Stack Engineer,1
+JavaScript Developer,1
+Front-End Engineer,1
+Ionic Framework,1
+Владение английским языком,1
+PHPUnit,1
+IndexedDB,1
+Laravel Framework,1
+RxJS,1
+OOP,1
+Ревью кода,1
+Microsoft Office FrontPage,1
+Kompas (Erp),1
+LAMP,1
+Web extension,1
+userscript,1
+Koa,1
+mongoose,1
+Async / Await,1
+WebSocket,1
+Composer,1
+HTML5 API,1
+.Net Core,1
+ECMA6/7,1
+Apache Cordova,1
+flutter,1
+TDD,1
+DDD,1
+Kotlin,1
+Full stack,1
+SIP,1
+Backbone.js,1
+TypeORM,1
+английским,1
+lambda,1
+js,1
+Native.js,1
+asp.net core,1
+Yarn,1
+Thymeleaf,1
+mobx,1
+Back-End Engineer,1
+1С: CRM ПРОФ,1
+angular,1
+Django,1
+Blockchain,1
+FreeTON,1
+Testing Framework,1
+Three.js,1
+WDIO,1
+TypeScrip,1
+Математическое моделирование,1
+Спортивные мероприятия,1
+Линейная алгебра,1
+Регресионное тестирование,1
+Jasmine2,1
+Protractor,1
+OpenGL,1
+Test case,1
+unit-тесты,1
+Internet,1
+Api тестирование,1
+Lua,1
+ClojureScript,1
+JanusGraph,1
+Apache NIFI,1
+Postgres,1
+Подготовка презентаций,1
+Spring,1
+HIbernate,1
+UI тестирование,1
+руководство командой разработчиков,1
+IIS,1
+Автоматизация,1
+CLI,1
+Selenium WebDriver,1
+автоматизация тестирования,1
+Администрирование серверов Linux,1
+Java EE,1
+NestJS,1
+Ember.js,1
+Google Cloud,1
+Automation QA,1
+UI/API tests,1
+SDET,1
+ScyllaDB,1
+1C: Бухгалтерия,1
+Rust,1
+Nigthwatch,1
+С,1
+ElasticSearch,1
+GraphQl,1
+FastReport,1
+Delphi,1
+QUnit,1
+Firestore,1
+С#,1
+Team management,1
+apollo react,1
+javaskript,1
+"уверенные знания C#, .Net Framfork 4.0, 4.5, ASP NET",1
+Заключение договоров,1
+JSP,1
+Software Engineer,1
+vuetify,1
+apollo graphql,1
+Планирование,1
+vue2,1
+Adobe Illustrator,1
+Русский — C1 — Продвинутый,1
+Team leadership,1
+Websocket,1
+English,1
+умение работать в команде,1
+blockchain,1
+Оперативный поиск информации в сети Интернет,1
+Ant Design,1
+БЭМ,1
+SQLite,1
+Review Board,1
+Maven,1
+WebSocets,1
+Конференции,1
+веб-анимация,1
+адаптивная верстка,1
+web-разработка,1
+Tailwind,1
+Анимация,1
+sketch,1
+JavaScript Engineer,1
+Software Developer,1
+Yii2,1
+Angular 7,1
+Angular 6,1
+Confluence,1
+OSS,1
+Технический английский,1
+1C: Финансы,1
+Heroku,1
+aws,1
+MS Outlook,1
+CSS3/SASS,1
+Frontend-разработка,1
+Bitrix D7,1
+CSS/SCCS,1
+DRY,1
+REACT,1
+Audacity,1
+GSAP,1
+Pug,1
+Code Review,1
+Создание сайтов,1
+extjs,1
+react native,1
+.net core,1
+Karma,1
+JSONRPC,1
+Написание статей,1
+Копирайтинг,1
+Rollup,1
+MS PowerPoint,1
+Анализ конкурентной среды,1
+Рефакторинг кода,1
+"Pixi.js / Cocos2d-js, Three.js - Middle+",1
+JavaScript (ES6+) - Senior,1
+React hooks,1
+express.js,1
+gamedev,1
+Game Programming,1
+Картография,1
+JavaScript(Jquery),1
+EntityFramework,1
+npm,1
+ECMAS6,1
+vanilla JS,1
+Nest,1
+Salesforce,1
+Ubuntu Server,1
+VueJs,1
+Vue 3,1
+Canvas API,1
+(2D/3D) графика,1
+Webpack - Junior+,1
+"HTML, CSS - Senior",1
+Sales Management,1
+enzyme,1
+WASM,1
+WebAssembly,1
+Cordova,1
+Pixi,1
+Vue-Router,1
+Ведение документации,1
+Функциональное тестирование,1
+Проведение тестирований,1
+jest,1
+MVC knowledge,1
+SPA frameworks,1
+Jetbrains Phpstorm,1
+Magento,1
+SASS/SCSS,1
+Vuejs,1
+Webpack 4,1
+Верстка,1
+разработка пользовательских интерфейсов,1
+Adobe Dreamweaver,1
+Angluar,1
+Websockets,1
+Сanvas,1
+Flow.js,1
+Styled-components,1
+Redux-saga,1
+HTML5+,1
+CSS3+,1
+TailwindCSS,1
+Flask,1
+Scss,1
+Vue-router,1
+Debian,1
+Mongo,1
+Vue js,1
+amoCRM,1
+Information Technology,1
+node,1
+3D printing,1
+Development,1
+SmartTV,1
+Celery,1
+React native,1
+ClickHouse,1
+HashiCorp Vault,1
+Точность и внимательность к деталям,1
+Angular7,1
+nestjs,1
+Деловая коммуникация,1
+Организаторские навыки,1
+Babylon.js,1
+THREE.js,1
+VueNative,1
+Loopback,1
+"CSS, верстка сайтов и приложений",1
+Middle,1
+Написание процедур,1
+Pascal,1
+‌ ‌‌REST,1
+Webpack‌,1
+TypeScript‌‌,1
+"CSS», «HTML5», «CSS3», «HTML», «React», «PHP», «Less»",1
+Vue.Js,1
+es6+,1
+java script,1
+MS Visual Studio,1
+NestJs,1
+Гибкость,1
+Full-Stack,1
+Time management,1
+Наставничество,1
+Business English,1
+Organization Skills,1
+MS Internet Explorer,1
+TFS,1
+Bitbucket,1
+vue-cli,1
+Vue-route,1
+Next.JS,1
+Обеспечение жизнедеятельности офиса,1
+Effector,1
+reactjs,1
+loopback,1
+meteor,1
+bpm'online,1
+Codeigniter,1
+Selenium,1
+UML,1
+Системное мышление,1
+NativeJS,1
+websockets,1
+Аналитические способности,1
+Google Docs,1
+Microsoft Visual Studio,1
+увлеченность программированием,1
+желание обучаться,1
+reactnative,1
+React js,1
+Express js,1
+redux-saga,1
+Карты,1
+es6,1
+Управленческие навыки,1
+rxjs,1
+JavaScrip,1
+twig,1
+JDBC,1
+Java Servlets,1
+Start-up project,1
+SASS / LESS,1

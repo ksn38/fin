@@ -1,0 +1,4506 @@
+tag,count
+Python,3087
+Git,2021
+Django Framework,1630
+Linux,1581
+SQL,1367
+HTML,1188
+CSS,1098
+PostgreSQL,1074
+JavaScript,1043
+MySQL,1007
+ООП,919
+HTML5,652
+Flask,622
+CSS3,472
+Docker,456
+jQuery,424
+C++,421
+Bootstrap,382
+Английский язык,354
+Nginx,299
+Bash,291
+MongoDB,271
+Java,269
+REST,264
+Работа в команде,249
+Redis,245
+C#,244
+PHP,239
+Ajax,223
+Adobe Photoshop,216
+Пользователь ПК,196
+SQLite,183
+C/C++,175
+Администрирование серверов Linux,167
+XML,155
+Pandas,154
+MS SQL,150
+Обучаемость,149
+Celery,149
+Ответственность,138
+RabbitMQ,128
+Веб-программирование,127
+MS Excel,123
+Atlassian Jira,122
+API,119
+Управление проектами,115
+JSON API,110
+Грамотная речь,108
+Django,107
+Qt,106
+Базы данных,102
+MS PowerPoint,102
+Unit Testing,102
+MS Office,89
+CMS Wordpress,89
+Организаторские навыки,88
+Работоспособность,84
+Node.js,84
+MVC,83
+MATLAB,83
+Data Analysis,82
+Исполнительность,82
+Unix,81
+Numpy,80
+React,78
+AngularJS,77
+PHP5,76
+TCP/IP,75
+Apache HTTP Server,73
+SVN,73
+Коммуникабельность,72
+MS Visual Studio,72
+HTTP,69
+Django Rest Framework,68
+Ведение переговоров,67
+MS Word,67
+Работа с базами данных,66
+Windows 7,65
+Анализ данных,64
+SQLAlchemy,64
+MS SQL Server,63
+AutoCAD,63
+Работа с большим объемом информации,62
+Scrum,62
+Mac Os,61
+Аналитическое мышление,59
+Деловая переписка,59
+aiohttp,58
+Математическая статистика,57
+Разработка ПО,57
+Настройка ПК,56
+Selenium,55
+DRF,54
+Администрирование серверов Windows,54
+PyCharm,53
+asyncio,52
+pandas,52
+Ubuntu,51
+Стрессоустойчивость,51
+C,51
+Водительское удостоверение категории B,51
+Keras,51
+Big Data,50
+NumPy,50
+Управление персоналом,49
+Математический анализ,48
+OpenCV,48
+Golang,47
+Администрирование сетевого оборудования,47
+Machine Learning,47
+Web Application Development,47
+Android,47
+Oracle Pl/SQL,47
+Деловое общение,46
+JSON,46
+Поиск информации в интернет,45
+.NET Framework,45
+Matplotlib,45
+Visual Studio C#,45
+Cистемы управления базами данных,43
+Internet,43
+Data Mining,42
+AWS,42
+Ubuntu Server,41
+Selenium IDE,41
+Scrapy,41
+Администрирование,41
+Настройка сетевых подключений,40
+Mercurial,40
+numpy,39
+Настройка ПО,39
+Ремонт ПК,39
+Agile Project Management,39
+Sass,38
+NoSQL,38
+Active Directory,38
+docker,37
+ORACLE,37
+Умение работать в команде,36
+Adobe Illustrator,35
+Unity,35
+Pascal,35
+Django REST Framework,35
+Vue.js,35
+ORM,35
+CorelDRAW,34
+Деловая коммуникация,34
+Delphi,33
+Debian,33
+Телефонные переговоры,33
+Сборка ПК,33
+Tensorflow,32
+Целеустремленность,31
+Python 3,31
+Администрирование сайтов,31
+SEO,31
+Machine learning,31
+Assembler,31
+MS Access,31
+Cisco,30
+Обучение и развитие,30
+Тестирование,30
+Грамотность,30
+Jenkins,30
+Tornado,30
+Intellij IDEA,30
+Mathcad,30
+Microsoft Visual Studio,29
+STL,29
+Креативность,29
+matplotlib,28
+Windows,28
+Проведение презентаций,27
+Yii,27
+Обучение персонала,27
+Design Patterns,27
+1С: Предприятие 8,27
+Java SE,27
+VBA,27
+Математическое моделирование,27
+Ruby,27
+Android SDK,26
+MS Outlook,26
+Latex,26
+Go,26
+Less,26
+Машинное обучение,26
+Математическое программирование,25
+Информационные технологии,25
+Python3,25
+Обучение,25
+Ориентация на результат,24
+REST API,24
+Ansible,24
+Аналитический склад ума,24
+Информационная безопасность,24
+Статистический анализ,24
+Redmine,24
+1С программирование,24
+Joomla CMS,24
+TensorFlow,24
+PyQt,24
+pytest,24
+Asyncio,24
+VMware,23
+Atlassian Confluence,23
+ASP.NET,23
+Spring Framework,23
+phpMyAdmin,23
+FastAPI,23
+Умение работать в коллективе,23
+Vkontakte Api,23
+PyTorch,23
+GitHub,22
+DHCP,22
+scikit-learn,22
+Perl,22
+Pytest,22
+Django REST framework,21
+Ruby On Rails,21
+Навыки презентации,21
+Elasticsearch,21
+Transact-SQL,21
+Создание сайтов,21
+Aiohttp,21
+1С-Битрикс,20
+Unix Shell Scripts,20
+celery,20
+Руководство коллективом,20
+Data Science,20
+TDD,20
+Компас-3D,20
+Networking,20
+Pycharm,20
+Shell Scripting,20
+Gunicorn,19
+SolidWorks,19
+Настройка DNS,19
+ML,19
+Серверное программирование,19
+PyQt5,18
+Vue,18
+Техническая поддержка,18
+Быстрая обучаемость,18
+Алгоритмы и структуры данных,18
+Scikit-learn,18
+CRM,18
+Redux,18
+Deep Learning,18
+BeautifulSoup,18
+UML,18
+VueJS,17
+Асинхронное программирование,17
+Функциональное тестирование,17
+SciPy,17
+3D Моделирование,17
+Jupyter,17
+PowerShell,17
+Zabbix,17
+CentOS,17
+docker-compose,17
+Windows Os,17
+TypeScript,17
+Преподаватель,17
+Heroku,17
+Системное мышление,17
+sklearn,17
+Алгоритмы,17
+Настройка серверов,16
+1C: Бухгалтерия,16
+Docker-compose,16
+CoffeeScript,16
+MS Visual C++,16
+Borland Delphi,16
+VoIP,16
+ReactJS,16
+Управление командой,16
+Arduino,16
+Программирование,16
+iOS,15
+FreeBSD,15
+Symfony,15
+Software Development,15
+R,15
+Databases,15
+Техническое обслуживание,15
+Project management,15
+Memcached,15
+SOAP,15
+QA,15
+Организация мероприятий,14
+Mathematical Statistics,14
+Requests,14
+Kotlin,14
+JS,14
+Точность и внимательность к деталям,14
+GraphQL,14
+Jupyter Notebook,13
+Google Analytics,13
+Автоматизация,13
+WPF,13
+Postman,13
+Высокая скорость печати,13
+requests,13
+Computer Vision,13
+Навыки продаж,13
+Пунктуальность,13
+Windows 10,13
+Analytical skills,13
+Публичные выступления,13
+Github,13
+Заключение договоров,13
+MS Visual Basic,13
+Object Pascal/Delphi,13
+Усидчивость,13
+Разработка технических заданий,13
+Apache Maven,13
+Eclipse,12
+Adobe InDesign,12
+Jupiter,12
+Pytorch,12
+OOP,12
+machine learning,12
+Системы видеонаблюдения,12
+Аналитические исследования,12
+Lua,12
+Teamleading,12
+Backbone,12
+Microsoft Access,12
+Webpack,12
+Asterisk,12
+Figma,12
+Angular,12
+Windows Server 2003,12
+Поиск и привлечение клиентов,12
+Ведение отчетности,11
+Sklearn,11
+Telegram API,11
+ElasticSearch,11
+Hibernate ORM,11
+Мотивация персонала,11
+VPN,11
+Тестирование пользовательского интерфейса,11
+Blender 3D,11
+B2B Продажи,11
+Работа с документами,11
+Парсинг,11
+FirebirdSQL,11
+sqlalchemy,11
+Локальные сети,11
+Helpdesk,11
+XPath,11
+Wolfram Matematica,11
+С#,11
+SQL Server,11
+Autodesk Inventor,11
+Слепая печать,11
+Яндекс.Метрика,11
+Rest API,11
+Kubernetes,10
+XML/Xslt,10
+Прямые продажи,10
+Laravel,10
+Gulp,10
+Яндекс.Директ,10
+Управление продажами,10
+Написание научных статей,10
+Администрирование серверов,10
+Django REST,10
+Интернет-реклама,10
+SMM,10
+Kivy,10
+Django rest framework,10
+PyTest,10
+Seaborn,10
+Навыки межличностного общения,10
+СУБД,10
+Apache Tomcat,10
+Spark,10
+Проектирование,10
+Офисная техника,10
+Data science,10
+SOLID,10
+Работа с оргтехникой,10
+Работа с людьми,10
+Java EE,10
+MS Visio,10
+Тайм-менеджмент,10
+Visual C++,10
+CI/CD,10
+Компас 3D,10
+Team management,10
+Algorithms,10
+Управление интернет-проектами,10
+Multithread Programming,10
+Google AdWords,10
+Постановка задач разработчикам,10
+Статистика,10
+GIMP,9
+Adobe Premier Pro,9
+Windows Forms,9
+Системный подход,9
+Технический перевод,9
+NLP,9
+CSV,9
+Web-дизайн,9
+ClickHouse,9
+1С: Бухгалтерия,9
+Hadoop,9
+Творческое мышление,9
+Google API,9
+Boost,9
+Схемотехника электронного оборудования,9
+Visual Basic,9
+Автоматизация процессов,9
+GitLab,9
+Verilog HDL,9
+Подбор персонала,9
+Tableau,9
+Peewee,9
+Mathematical Analysis,8
+Холодные продажи,8
+Scipy,8
+Веб-дизайн,8
+Google Docs,8
+Objective-C,8
+Sas,8
+Разработка нового продукта,8
+Подготовка презентаций,8
+Tkinter,8
+Gitlab,8
+Автоматизация технологических процессов,8
+Развитие продаж,8
+Sqlalchemy,8
+Sanic,8
+scipy,8
+Google Maps Api,8
+Уверенный пользователь ПК,8
+Проектно-конструкторская деятельность,8
+React.js,8
+Vim,8
+Бизнес-анализ,8
+Windows Server 2008 R2,8
+Верстка,8
+LAN,8
+tensorflow,8
+Нейронные сети,8
+Communication skills,8
+Системный анализ,8
+Adobe After Effect,8
+Обработка изображений,8
+Information Security,8
+Power BI,8
+Sony Vegas,8
+Оптимизация бизнес-процессов,8
+Driving Licence B,8
+Настройка серверов Apache,8
+Активные продажи,8
+Многозадачность,8
+Virtualization,8
+Turbo Pascal,8
+Windows Xp,8
+Монтаж оборудования,8
+selenium,8
+обучаемость,8
+Windows Server,8
+Jetbrains Phpstorm,7
+django rest framework,7
+Регресcионное тестирование,7
+CI,7
+Научные исследования,7
+Проектирование ЛВС,7
+Odoo,7
+Бюджетирование,7
+Pygame,7
+Техническая документация,7
+aiogram,7
+Делопроизводство,7
+Линейное программирование,7
+Trello,7
+Back-end,7
+Internet Marketing,7
+uWSGI,7
+ansible,7
+Kafka,7
+NetBeans,7
+Письменный перевод,7
+Django ORM,7
+VirtualBox,7
+Entity Framework,7
+Analysis,7
+vuejs,7
+Разработка инструкций,7
+Немецкий язык,7
+Внимательность,7
+Time management,7
+Beautiful Soup,7
+uwsgi,7
+Консультирование клиентов,7
+AI,7
+Управленческие навыки,7
+Anaconda,7
+Инициативность,7
+Аналитические способности,7
+virtualenv,7
+Ext JS,7
+Selenium WebDriver,7
+Java Servlets,7
+Перевод,6
+Windows 8,6
+AsyncIO,6
+Test case,6
+Business Analysis,6
+Subversion,6
+Scikit-Learn,6
+Borland C++,6
+DevOps,6
+Slack,6
+Документальное сопровождение,6
+Sphinx,6
+pytorch,6
+tkinter,6
+Clickhouse,6
+NI Multisim,6
+Jira,6
+gunicorn,6
+Cassandra,6
+Компас,6
+PEP8,6
+Swagger,6
+Консультант плюс,6
+lxml,6
+Presentation skills,6
+3 группа по электробезопасности,6
+Wifi networks,6
+Расстановка приоритетов,6
+Pyramid,6
+Jinja2,6
+Подготовка коммерческих предложений,6
+Mathematical Programming,6
+vue.js,6
+Коммуникативные навыки,6
+Swift,6
+Контроль качества,6
+Grafana,6
+Json,6
+csv,6
+SEO оптимизация,6
+Vue js,6
+База данных: Oracle,6
+Наполнение контентом,6
+Консультирование,6
+Организованность,6
+Инженерные системы,6
+json,6
+Ведение документации,6
+3ds Max,6
+Трудолюбие,6
+Business English,6
+Computer vision,6
+LabVIEW,6
+Unittest,6
+ЕСКД,6
+Parsing,6
+Vuex,6
+Обновление конфигурации 1С,6
+1С: Управление Торговлей,6
+Клиентоориентированность,6
+Hyper-V,6
+Pl/Python,6
+руководство командой разработчиков,6
+React JS,5
+Scripting,5
+Самообучаемость,5
+Flutter,5
+Активность,5
+Supervisor,5
+QGIS,5
+Проектный менеджмент,5
+Конференции,5
+Pillow,5
+Falcon,5
+Drupal API,5
+opencv,5
+Сопровождение клиентов,5
+Бизнес-моделирование,5
+ARM,5
+pycharm,5
+Критическое мышление,5
+Erlang,5
+Aiogram,5
+PyQT,5
+IoT,5
+Altium Designer,5
+ETL,5
+Планирование продаж,5
+Ведение переписки,5
+Рефакторинг кода,5
+YAML,5
+data science,5
+Game Programming,5
+Oracle Database,5
+программирование,5
+LAMP,5
+react,5
+1C,5
+Jupyter notebook,5
+Websocket,5
+Административное управление,5
+JUnit,5
+Deep learning,5
+unittest,5
+GIS,5
+JWT,5
+Аналитика,5
+Водительское удостоверение категории BC,5
+Визуализация,5
+Neural Networks,5
+Windows Server 2012,5
+Настройка VPS/VDS серверов,5
+Prometheus,5
+Знание Python,5
+ERP,5
+LINQ,5
+Flask Framework,5
+Autodesk 3ds Max,5
+Oracle 11G,5
+Adobe Premier,5
+Чтение электросхем,5
+Разработка проектной документации,5
+Веб-аналитика,5
+tornado,5
+KVM,5
+Управление временем,5
+Regex,5
+Электронная почта,5
+django,5
+Plotly,5
+Обработка видео,5
+Rust,5
+MS Project,5
+Typescript,5
+Анализ рынка,5
+Embarcadero Delphi,5
+P-CAD,5
+keras,5
+OpenGL,5
+Neo4j,5
+SQLalchemy,5
+Нагрузочное тестирование,4
+Проведение тестирований,4
+Js,4
+NLTK,4
+Системное администрирование,4
+BPMN,4
+Yii2,4
+Честность,4
+bs4,4
+SAP,4
+TFS,4
+DNS,4
+1С: Производство,4
+Прокладка кабелей,4
+Web-разработка,4
+WebSocket,4
+vim,4
+deep learning,4
+Adobe Flash,4
+Планирование,4
+Express.js,4
+Водительское  удостоверение категории BC,4
+JDBC,4
+SQL Alchemy,4
+Проектирование пользовательских интерфейсов,4
+STM32,4
+Flash Actionscript,4
+Kanban,4
+Деловая этика,4
+Разработка концепции,4
+backend,4
+Gnu C++,4
+ANSYS,4
+Backend,4
+Китайский язык,4
+Telegram bot,4
+Консультирование клиентов по телефону,4
+Testing Framework,4
+Autodesk Maya,4
+Puppet,4
+TeamCity,4
+SIP,4
+gRPC,4
+Web,4
+PHP7,4
+Работа с клиентами,4
+Структуры данных,4
+Haskell,4
+WEB аналитика,4
+Стратегическое мышление,4
+SCALA,4
+English,4
+Django Channels,4
+Пуско-наладочные работы,4
+Python 3.x,4
+R-Keeper,4
+HTML/CSS/JS,4
+Организация встреч,4
+JSP,4
+С++,4
+Bottle,4
+Аудит,4
+Французский язык,4
+Telegram Bot,4
+FastApi,4
+Знание иностранных языков,4
+VBScript,4
+supervisor,4
+MariaDB,4
+Twisted,4
+Общительность,4
+Организация учебного процесса,4
+Продвижение сайтов,4
+Agile,4
+GCP,4
+Telegram Bot API,4
+gevent,4
+Дисциплинированность,4
+Bitbucket,4
+Умение принимать решения,4
+Аккуратность,4
+Мобильность,4
+Socket,4
+GUI,4
+OpenCart,4
+RPA,4
+elasticsearch,4
+Vagrant,4
+1С: Предприятие,4
+devops,4
+Контекстная реклама,4
+Java Script,4
+Закупки,4
+MPI,4
+HTML-верстка,4
+blockchain,4
+pyTelegramBotAPI,4
+Vuetify,4
+Facebook API,4
+Alembic,4
+Amazon Web Services,4
+AVR Studio,4
+Адаптация,4
+Анализ бизнес показателей,4
+Opencv,4
+САПР,4
+Проектная документация,4
+QML,4
+Azure,4
+Skype,4
+Навыки переговоров,4
+Упорство,4
+Beautifulsoup,4
+Wagtail,4
+Организационные навыки,4
+ELK,4
+PyQT5,4
+Adobe Lightroom,4
+Умение планировать,4
+Навыки работы с первичной документацией,4
+YouTrack,4
+Устный перевод,4
+Web Scraping,4
+Telegram,4
+Time Series Analysis,3
+neural networks,3
+производство,3
+IPython,3
+нормативно-техническая документация,3
+Java script,3
+pyTelegramBotApi,3
+Ведение переписки на иностранном языке,3
+SSH,3
+Docker-Compose,3
+Cinema 4D,3
+Предметная фотосъемка,3
+Интернет маркетинг,3
+Написание научный статей,3
+Работа с жалобами клиентов,3
+парсинг,3
+Channels,3
+PostGIS,3
+разработка чертежей,3
+Travis CI,3
+Zend Framework,3
+Black box testing,3
+Фотография,3
+SketchUp,3
+Raspberry Pi,3
+arduino,3
+Обеспечение антивирусной защиты,3
+computer vision,3
+CherryPy,3
+алгоритмы и структуры данных,3
+Обслуживание покупателей,3
+1С: Предприятие 7,3
+машинное обучение,3
+Java core,3
+Scratch,3
+усидчивость,3
+AVR,3
+Технические системы и средства безопасности,3
+Riak,3
+Дизайн,3
+Maple,3
+Google Chrome,3
+beautifulsoup4,3
+Vue JS,3
+FPGA,3
+Negotiation skills,3
+Highload,3
+RESTful API,3
+BeautifulSoup4,3
+Vuejs,3
+Composer,3
+Навыки составления отчетности,3
+Парсинг сайтов,3
+WCF,3
+SOA,3
+Inkscape,3
+Google Compute Engine,3
+Websockets,3
+Дружелюбность,3
+SAP ERP,3
+Visual Studio Code,3
+Электронный документооборот,3
+GO,3
+laravel,3
+.NET Core,3
+Start-up  project,3
+Phyton,3
+mikrotik,3
+Sales Skills,3
+SCSS,3
+Яндекс.Облако,3
+GCC,3
+frontend,3
+Индивидуальное обучение,3
+ArcGIS,3
+С,3
+Геодезия и картография,3
+Внутренний контроль,3
+Technical Translation,3
+Java Core,3
+flake8,3
+webpack,3
+Бухгалтерский учет,3
+Business Intelligence Systems,3
+Анализ посещаемости сайтов,3
+MatPlotLib,3
+Высшая математика,3
+MikroTik,3
+GINO,3
+Подготовка отчетов,3
+gitlab,3
+scrapy,3
+Оптимизация бизнес процессов,3
+Подготовка презентаций на иностранном языке,3
+InfluxDB,3
+kivy,3
+Tornado Framework,3
+Http Server,3
+Autodesk Revit,3
+1С: Бухгалтерия и склад,3
+Ethereum,3
+FIrewall,3
+PowerBI,3
+Лидерство,3
+Базовые знания SQL,3
+Organization Skills,3
+Написание статей,3
+1С: Комплексная автоматизация,3
+1С: Зарплата и управление персоналом,3
+1С: Управление Производственным Предприятием,3
+Yandex Direct,3
+Химические методы анализа,3
+Электротехнические работы,3
+3D-графика,3
+twisted,3
+Эксплуатация,3
+Django CMS,3
+Составление отчетности,3
+Simulink,3
+OSI,3
+Mikrotik,3
+Самообучение,3
+amoCRM,3
+Terraform,3
+Microservices,3
+ES6,3
+ASP.NET MVC,3
+XGBoost,3
+Корпоративные финансы,3
+быстрая обучаемость,3
+Желание учиться,3
+SCADA,3
+Редактирование текстов на иностранном языке,3
+Выездное обслуживание,3
+Reinforcement Learning,3
+Compass 3D,3
+Teamplayer,3
+Знание C#,3
+ERP Systems,3
+Hardworking,3
+Настройка почтовых серверов,3
+Социальные сети,3
+Финансовый анализ,3
+алгоритмы,3
+Vegas Pro,3
+Scraping,3
+Робототехника,3
+Async,3
+react.js,3
+MasterCAM,3
+Технические средства информационной защиты,3
+Инвентаризация,3
+Средства криптографической защиты информации,3
+Teambuilding,3
+Групповое обучение,3
+Kibana,3
+Научная деятельность,3
+kubernetes,3
+Computer Science,3
+Drupal,3
+CMD,3
+Перфекционизм,3
+Robot Framework,3
+Docker Compose,3
+Управленческая отчетность,3
+Grunt,3
+GitHub Actions,3
+Firebase,3
+KISS,3
+Графический дизайн,3
+Компьютерное зрение,3
+React Native,3
+Технический английский,3
+Сетевые технологии,3
+CCNA,3
+Оперативный поиск информации в сети Интернет,3
+c,3
+Twig,3
+1С: Торговля и склад,3
+Монтаж инженерных систем,3
+Энергетика,3
+Telethon,3
+Cloud Computing,3
+Windows API,3
+multiprocessing,3
+WebSockets,3
+Elixir,3
+IDEF,3
+Системы безопасности,3
+Доброжелательность,3
+Добросовестность,3
+1C: Зарплата и кадры,3
+Random Forest,3
+Xcode,3
+Кроссбраузерная верстка,3
+Контроль исполнения решений,3
+внимательность,3
+Глубокое обучение,3
+ZeroMQ,3
+Android Studio,3
+Контроль исправности оборудования,3
+PySide2,3
+ASP.NET Core,3
+pypyodbc,2
+shelve,2
+python 3,2
+sockets,2
+Управленческий учет,2
+Навыки коммуникации,2
+Vue.JS,2
+.Net Core,2
+Terminal,2
+IDA,2
+Reverse engineering,2
+Adobe Design,2
+Qt5,2
+Теория вероятностей,2
+Заинтересованность,2
+Data Mining: Business Analytica,2
+Конкурентная аналитика,2
+RHEL,2
+Thrift,2
+ГИС,2
+spaCy,2
+Administrating Skills,2
+Beatiful Soup,2
+Управление бизнес процессами,2
+Citrix,2
+Selenoid,2
+TestNG,2
+Appium,2
+Deployment,2
+Амбициозность,2
+Research And Development,2
+TortoiseSVN,2
+Проведение семинаров,2
+pygame,2
+Внутренняя оптимизация сайта,2
+RegEx,2
+Product Development,2
+UMTS,2
+AWS EC2,2
+ZBrush,2
+Swing,2
+Iron Python,2
+Olap (online analytical processing),2
+Dash,2
+Прототипирование,2
+ROS,2
+MS Dos,2
+React native,2
+Web Design,2
+ARIS,2
+Последовательный перевод,2
+Prestashop,2
+Smarty,2
+Marketing Analysis,2
+Unigraphics NX,2
+Code Optimization,2
+Организация презентаций,2
+Нелинейное программирование,2
+Prolog,2
+SqlAlchemy,2
+Shell,2
+Django-channels,2
+Составление договоров,2
+Bootstrap4,2
+Windows Server 2016,2
+Понимание ООП,2
+КИПиА,2
+MapInfo Professional,2
+Docker Swarm,2
+1С: Торговля,2
+English intermediate,2
+Canvas,2
+Строительство,2
+Самостоятельность,2
+Маркетинговые исследования,2
+reactjs,2
+drf,2
+make,2
+ERP-системы на базе 1С,2
+1С: Предприятие: Бухгалтерский Учет,2
+Django Rest Api,2
+Opencart,2
+Google App Engine,2
+Управление лояльностью потребителей,2
+Start-up project,2
+pipenv,2
+Python Django,2
+UI,2
+Адаптивная верстка,2
+слаботочные системы,2
+Sqllite,2
+Stripe,2
+Электрические сети,2
+sqlAlchemy,2
+Natural Language Processing,2
+Анализ продаж,2
+Управление производственным персоналом,2
+Financial modeling,2
+Банк-клиент,2
+Terminal Server,2
+Scrapy Framework,2
+Windows Server 2008,2
+Tasks Tracking Sytems,2
+3D Studio Max,2
+Чтение чертежей,2
+Аутсорсинг,2
+BEM,2
+KivyMD,2
+Data structures,2
+1С: Документооборот,2
+Высокая обучаемость,2
+Scikit Learn,2
+junior,2
+Red Hat,2
+AioHTTP,2
+nltk,2
+CUDA,2
+GitFlow,2
+Gitlab CI,2
+HighLoad,2
+uvicorn,2
+ArchiCAD,2
+Электрические системы и слаботочные системы,2
+neo4j,2
+Usability,2
+Спокойный,2
+Автоматизированное рабочее место (АРМ),2
+Внешняя оптимизация сайта,2
+Биржевые торги,2
+Mail Server,2
+Организационное проектирование,2
+Прогнозирование,2
+Административная поддержка руководителя,2
+Диагностика,2
+SWOT анализ,2
+TeX,2
+Линейная алгебра,2
+Impala,2
+Внутренний аудит,2
+SPSS,2
+WebGL,2
+Unity3D,2
+WSUS,2
+Знание C++,2
+Engineering,2
+Коммуникабельный,2
+Графические редакторы,2
+openpyxl,2
+Стратегическое планирование,2
+Программирование Python,2
+Разработка приложений,2
+Bottle Framework,2
+Telegram Api,2
+django-rest-framework,2
+Financial Analysis,2
+Version Control System,2
+Копирайтинг,2
+работа с физическими лицами,2
+перевод статей,2
+Умение общаться с людьми,2
+GoLang,2
+трудолюбие,2
+FTP,2
+Техническая смекалка,2
+BitBucket,2
+Написание текстов,2
+Антивирусная защита сети,2
+Моделирование,2
+Business Planning,2
+Дистанционное обучение,2
+Risk management,2
+English language,2
+Trading,2
+JetBrains PyCharm,2
+Организация конференций,2
+R (programming language),2
+Управление разработкой,2
+Анализ финансовых показателей,2
+Graphite,2
+Flask-SQLAlchemy,2
+Flex,2
+Аналитика продаж,2
+JavaFX,2
+Axure RP,2
+Базовые знания C/C++,2
+Системы мониторинга сетей,2
+Микроконтроллеры,2
+преподавание,2
+Nagios,2
+Маркетинговые коммуникации,2
+async,2
+Моделирование бизнес процессов,2
+ГОСТ,2
+Инвестиции,2
+Allure,2
+Gerrit,2
+F#,2
+Affinity Designer,2
+Знание компьютера,2
+LDAP,2
+BASIC,2
+Ведение проектов,2
+Steinberg Cubase,2
+Веб-разработка,2
+Mocha,2
+Beta-тестирования,2
+Chai,2
+OCR,2
+pip,2
+Капитальный ремонт,2
+XAML,2
+Billing,2
+IDEF0,2
+jupyter notebook,2
+VHDL,2
+Чистый код,2
+Материальная ответственность,2
+Embedded,2
+Neural Network,2
+Math,2
+angular,2
+LightGBM,2
+Statistica,2
+Умение решать задачи,2
+Японский язык,2
+Производственное планирование,2
+Testing,2
+Оперативное планирование,2
+CSS-верстка,2
+Быстрая Обучаемость,2
+Proteus,2
+CATIA,2
+Kubernates,2
+Рерайтинг,2
+Bower,2
+Apache,2
+Управление процессами,2
+фронтенд,2
+Dart,2
+Neural networks,2
+clickhouse,2
+Linux Ubuntu,2
+Codelgniter Framework,2
+MVVM,2
+VLAN,2
+DB2,2
+Hardware,2
+CMake,2
+Парсинг данных,2
+OpenStack,2
+Web scraping,2
+NHibernate,2
+SQLALCHEMY,2
+Биоинформатика,2
+Программирование микроконтроллеров,2
+Спокойствие,2
+Express,2
+Koa,2
+Стрессоустойчив,2
+Leadership Skills,2
+Знание алгоритмов,2
+Опытный пользователь ПК,2
+FL studio,2
+Rest Api,2
+Drawing,2
+Оптимизация кода,2
+Internet Server Api,2
+Groovy,2
+Junior,2
+Видеомонтаж,2
+Raspberry,2
+GNU/Linux,2
+Pyside,2
+CAD,2
+Dialogflow,2
+Tarantool,2
+Испанский язык,2
+Закупка оргтехники и оборудования,2
+OpenOffice,2
+IBM SPSS,2
+Unreal Engine 4,2
+Способность обучать других,2
+Jmeter,2
+Боты,2
+Photoshop,2
+Автоматизация процессов управления персоналом,2
+Неконфликтность,2
+MQL,2
+Digital Marketing,2
+MSSQL,2
+Problem Solving,2
+1С-Рарус,2
+Visualisation,2
+Работа с ТМЦ,2
+Rest api,2
+jinja2,2
+System Integration,2
+VS Code,2
+Yii 2,2
+Разработка электросхем,2
+Студийная фотосъемка,2
+Ретушь,2
+vue,2
+MS SharePoint,2
+Development,2
+Behave,2
+Java Database,2
+Business intelligence,2
+SAP R/3,2
+knockout js,2
+Любознательность,2
+Проведение инвентаризаций,2
+Sqlite3,2
+RegExp,2
+Youtube Api,2
+Yandex Maps API,2
+ADO.NET,2
+python-telegram-bot,2
+Материальная отвественность,2
+AllFusion ERwin Data Modeler,2
+Экономический анализ,2
+Мотивация,2
+tarantool,2
+socket,2
+Понимание сетевых технологий,2
+CVS,2
+Gherkin,2
+Операционный менеджмент,2
+PHPUnit,2
+работа с VIP клиентами,2
+АСУ ТП,2
+Travis-CI,2
+Антикризисное управление,2
+Внимание к деталям,2
+Gitlab CI/CD,2
+BlockChain,2
+Visual FoxPro,2
+Django Rest API,2
+Responsibility,2
+Agile/Scrum,2
+web-scraping,2
+Zoom,2
+Telegram Bots,2
+Oracle C++ Call Interface,2
+Комуникабельность,2
+Финансовая отчетность,2
+Web2Py,2
+Tensor Flow,2
+php7,2
+OAuth,2
+WMS,2
+Договорная работа,2
+DDD,2
+Работа с юридическими лицами,2
+Основы Python,2
+Работа с претензиями,2
+Web API,2
+Pyqt5,2
+Первичная бухгалтерская документация,2
+SQL запросы,2
+Системное программирование,2
+Работа с возражениями,2
+Численные методы,2
+Apache2,2
+MyTarget,2
+Основы SQL,2
+Yaml,2
+2 группа по электробезопасности,2
+vagrant,2
+BS4,2
+Jupiter Notebook,2
+web scraping,2
+Объектно-ориентированное программирование,2
+Doker,2
+Терпеливость,2
+CasperJS,2
+Финансовое планирование,2
+Scss,2
+Модульное тестирование,2
+Final Cut,2
+Знание алгоритмов и структур данных,2
+pyinstaller,2
+Programmatic,2
+Бизнес-планирование,2
+Regular expressions,2
+Poetry,2
+MQL4,2
+Sentry,2
+Pyautogui,2
+Маркетинговый анализ,2
+Аудит поисковой видимости сайта,2
+pyside2,2
+DataScience,2
+scikit learn,2
+pyqt5,2
+БЭМ,2
+.NET,2
+Functional programming,2
+Chef,2
+cuda,2
+dramatiq,2
+Анализ рисков,2
+threading,2
+CI CD,2
+regular expressions,2
+ExpressJS,2
+Логика,2
+Unreal Engine,2
+peewee,2
+Mac,2
+Внутренние коммуникации,2
+Flask-RESTful,2
+Threading,2
+Проектирование и монтаж пожарной сигнализации,2
+E-Commerce,2
+Adobe Acrobat,2
+Решительность,2
+Чат-боты,2
+Консультативные продажи,2
+C++11,2
+GitLab CI,2
+Быстрообучаемость,2
+Дискретная математика,2
+Maven,2
+Spring MVC,2
+Microsoft Power BI,2
+Дизайн интерфейсов,2
+Cross-platform,2
+DjangoORM,2
+jupyter,2
+PyGame,2
+Паттерны проектирования,2
+cmd,2
+Team work,2
+Поисковая оптимизация сайтов,2
+PR,2
+Angular2,2
+PostgresSQL,2
+Государственные закупки,2
+Nltk,2
+pyTorch,2
+Object-oriented programming,2
+SEO-копирайтинг,2
+couchdb,2
+Functional Programming,2
+OpenVPN,2
+Django REST API,2
+Spark AR,2
+p5.js,2
+MS Power BI,2
+Event Management,2
+VCS,2
+Продвинутый пользователь ПК,2
+Bloomberg,2
+IDE PyCharm,2
+Request,2
+5 группа по электробезопасности,1
+База данных: Olap,1
+Exim,1
+Барное ремесло,1
+AIOPicka,1
+Знание основ бухгалтерского учета,1
+программирование контроллеров,1
+Ssh,1
+Basic web development tools,1
+Postfix,1
+Проектирование бизнес-процессов,1
+Трехмерная графика,1
+Object-Oriented Programming (OOP),1
+Apple ARKit,1
+Pyaudio,1
+Математика,1
+Game AI,1
+Google ARCore,1
+firebase,1
+Selery,1
+Трейдинг,1
+qcluster,1
+SDL2,1
+Python3 Django,1
+Amazon S3/Minio,1
+Backbone.js,1
+Корпоративная этика,1
+"Python - Понимание принципов ООП. Базовые знание Django Framework, SQL, HTML, CSS",1
+Энтузиазм,1
+Python Programming,1
+RPC,1
+Трассировщик лучей,1
+Asynchronous programming,1
+Геопространственный анализ,1
+Кредитные договоры,1
+WSGI,1
+Графовые базы данных,1
+dashboard,1
+leaflet,1
+api google sheets,1
+jinja,1
+Строгость к методике,1
+Желание узнавать что-то новое,1
+Знание основ ООП,1
+RDF,1
+Умение работать с API,1
+Находчивость,1
+Решение проблем,1
+SQLAlchemy core,1
+English level intermediate,1
+Доброта,1
+Apache Jena,1
+Web Sockets,1
+Оптимизация работы,1
+windows 7-XP,1
+Разработка терминалов для бронирования отелей.Создание сайтов и приложений.,1
+Tenserflow,1
+Промышленный альпинизм,1
+Промышленное строительство,1
+Станки ЧПУ,1
+Dynamo,1
+BIM,1
+RebbitMQ,1
+NymPy,1
+Embedded software,1
+pymorphy,1
+"Знание VBA(Макросы) Знание MS Excel продвинутый уровень (сводные таблицы, формулы, ВПР и пр.)",1
+MS SQL Server Management Studio,1
+SQL Server Profiler,1
+"Python 3.7+ (Pandas, SQLAlchemy, DASH, SMTPLib, pyodbc, CherryPy, Flask_login, xml.etree, logging)",1
+ETL by Python,1
+Transact-SQL jun,1
+Целеустремлённость и трудолюбивость,1
+Быстро учусь,1
+PostGis,1
+DCHP,1
+Должностные инструкции,1
+panda3d,1
+Django/Flask,1
+HTML/CSS/Javascript,1
+cocos2d,1
+VueJS & Vuex,1
+терпеливость,1
+постоянное желание изучать что-то,1
+"Storage System Engineer (EMC, NetApp) , Hadoop, Claudera, Hortonworks, Hive, Spark, Pig. DWDM, Data",1
+авантюризм,1
+mql-4/mql-5,1
+создание приложений под Windows,1
+нейросети,1
+"Шаблоны архитектуры, шаблоны проектирования",1
+Emmet,1
+CMS MODX,1
+"Обучаемость, трудолюбивость, вовлеченность.",1
+Ms Exchange Server,1
+Foundation,1
+XPO,1
+XAF,1
+"Профессиональное владение Autocad, Dialux Evo.",1
+DevExpress,1
+Применение средств автоматизации при проектировании (lisp),1
+Владение Revit.,1
+"Владение winelso, ps electrica. Проектирование ТП, жилых комплексов и др.",1
+Владение методами деловой переписки и жестких переговоров.,1
+Полная автоматизация процесса проектирования,1
+"Опыт работы с топосъемкой города Москвы (в рамках реализации проекта ""Моя Улица"")",1
+"Опыт работы с оборудованием KNX, Crestron",1
+Гранд-смета,1
+Сметы,1
+SPARQL,1
+СП,1
+РД,1
+ПБ,1
+"F.I.R.S.T, S.O.L.I.D, DDD, TDD, BDD",1
+COMSOL Multiphysics,1
+"составление счет-фактур,актов",1
+Tickets,1
+1С:бухгалтерия,1
+системная архитектура,1
+C++ в процессе изучения,1
+"Word, Exel;)",1
+Yandex Compute Cloud,1
+Yandex Object Storage,1
+Amazon,1
+Amazon S3,1
+AWS Lambda,1
+Охрана труда и техника безопасности,1
+Yandex Cloud Functions,1
+Preparing Presentations,1
+Yandex Message Queue,1
+Nipo,1
+javacore,1
+QtPy5,1
+Python/Scrapy,1
+"знание пк, англ. язык., autocad.",1
+SAP PP,1
+ASP .NET Core,1
+Mandrill,1
+skimage,1
+PayPal API,1
+plotly,1
+Коммуникативность и коммункабельность,1
+верность,1
+Личный автомобиль,1
+GTK,1
+Релейная защита и автоматика,1
+pixelmator pro,1
+Передача и распределение электроэнергии,1
+Имитационное моделирование,1
+архитектура систем,1
+спектральный анализ,1
+reinforcement learning,1
+Topic modeling,1
+оптимизация процессов конвертирования данных,1
+ГИС системы,1
+Разработка схем обработки данных,1
+QA automation,1
+PhotoScan,1
+Rest-full api,1
+Редакторская деятельность,1
+сеть,1
+Стремление к профессиональному развитию,1
+User Acceptance Testing,1
+Test design,1
+Plone,1
+CLI,1
+threading python,1
+Stripe API,1
+grab,1
+скрипты,1
+Data Engineering with Google Cloud,1
+ML\AI,1
+"Django,Django Rest Framework,GIT,",1
+Баннерная реклама,1
+Cоциальная реклама,1
+Теория графов,1
+SWOT,1
+Маркетинг,1
+бэкенд,1
+scss,1
+MGCP,1
+Face recognition,1
+Tekla,1
+RLang,1
+Neural network,1
+Deeplearn,1
+Deeplern,1
+Трудоспособность,1
+PyContracts,1
+Landing Page,1
+PSTN,1
+ISUP,1
+redux,1
+"Github, gitlab",1
+type script,1
+SQLLITE,1
+Бренд-менеджмент,1
+"Знание языков C/C++, Python",1
+Разработка маркетинговой стратегии,1
+Реклама,1
+Медиапланирование,1
+Планирование рекламных кампаний,1
+Проведение рекламных кампаний,1
+Linux системы,1
+Ведение мобильных рекламных кампаний,1
+Virtualbox,1
+Групповые программы,1
+"Монтаж, настройка, ремонт КИПиА",1
+Знание основ автоматизации тепловых пунктов,1
+Монтаж слаботочных систем,1
+Планирование маркетинговых кампаний,1
+Работа с контроллерами и модулями ОВЕН,1
+Продвижение бренда,1
+Навыки работы с паяльным и контрольно-измерительным оборудованием,1
+Notebook,1
+VScode,1
+Flower,1
+RESTful APis,1
+Xtext,1
+Xtend,1
+Bocad-3D,1
+Анализ поведения пользователей,1
+Social Media Marketing,1
+Google APIs,1
+Массаж,1
+Telegram api,1
+Сети мобильной связи,1
+python3,1
+Creo Elements/Pro,1
+oauth2,1
+django2,1
+clustering,1
+network security,1
+VueJs/NuxtJs,1
+Transport Logistics,1
+C programming language,1
+Logistics Management,1
+elixir,1
+ADAPTIVE Communication Environment (ACE),1
+MSC,1
+Аудит SMM,1
+SQL (базовые знания),1
+Монтаж металлоконструкций,1
+Vegas Movie Studio,1
+Kali-linux,1
+djangorestframework,1
+API Rest,1
+Software,1
+Аварийно-восстановительные работы,1
+PhantomJs,1
+Windows family,1
+Vhdl,1
+Siemens NX,1
+LOGO!SoftComfort,1
+Chromium Embedded Framework,1
+J1939,1
+CAN,1
+Conan,1
+ProtoBuf,1
+Bash (базовые знания),1
+C++ (базовые знания),1
+gulp,1
+WebPack,1
+Blockchain,1
+to be updated,1
+"Монтаж и настройка СКЗИ КОНТИНЕНТЯ, VipNet, ПАК Соболь",1
+QtPy,1
+Автоматизация управленческой отчетности,1
+Слесарные работы,1
+Подбор сотрудников,1
+Заменял на время отсутствия\отпуска начальника участка.,1
+Участие в АВР,1
+Эксплуатация ВОЛС,1
+Взаимодействие с техподдержкой,1
+Организация послегарантийного ремонта оборудования,1
+Sklern,1
+Vertica,1
+Чат боты,1
+Gui,1
+Solidity,1
+V-Ray,1
+Lotus Notes,1
+База данных: MySQL,1
+GO Lang,1
+Kivy (python),1
+Android dev,1
+Администрирование PLM систем,1
+Ремонтные работы,1
+Работа с видео хостерами,1
+Solid,1
+Продвижение мероприятий компании в социальных сетях,1
+IDE,1
+Java SWT,1
+Angular 2,1
+Z80 Assembler,1
+Люблю создавать десктопные приложения на Python,1
+Ansi C++,1
+Semantic UI,1
+Https,1
+Quartus,1
+Django Template,1
+Оценка потребностей клиентов,1
+Пользователь ПК профессионал,1
+Собственное видение,1
+PWA,1
+PyKDE,1
+G-code,1
+GoogleAds API,1
+Yandex Direct API v4,1
+Yandex Direct API v5,1
+Design thinking,1
+FATCA,1
+Telegram Bot Api,1
+HTML на поверхностном уровне,1
+Django Rest Franework,1
+LTE,1
+PHP Hypertext Preprocessor,1
+ZEMAX,1
+fastapi,1
+Стремление довести дело до конца,1
+Python HTML Django,1
+Знание SQL запросов,1
+Проектирование и монтаж систем оповещения,1
+Django api,1
+"Python, Flask, falcon, PostgreSQL, SQLAlchemy, AWS, docker, docker-compose, git, Linux",1
+Cоциальный маркетинг,1
+Создание презентационных материалов о компании,1
+Развитие бренда,1
+Итальянский язык,1
+Вводный инструктаж о мерах пожарной безопасности,1
+robot framework,1
+Clojure,1
+Caffe,1
+Cuda,1
+"bases of high math, bases of algorithms & data structures",1
+Легкая обучаемость,1
+DeepFake,1
+"JS, HTML, CSS",1
+Flexibility,1
+Умение читать и анализировать чужой код,1
+Любитель рисовать UML-диаграммы,1
+"Быстро обучаюсь, если потребуется",1
+Люблю узнавать что-то новое,1
+Умею читать тех документацию,1
+Ведение активных клиентов,1
+B2C Marketing,1
+структуры данных,1
+"Знание принципов асинхронного, многопоточного, параллельного программирования",1
+Berkeley sockets,1
+Знание основных алгоритмов и структур данных,1
+Linux/GIT/Python 3.* / Django.,1
+Основы C++,1
+PonyORM,1
+Желание изучать что-то новое,1
+Быстро осваиваюсь в новой компании,1
+elastic,1
+Posix,1
+BurpSuite,1
+GAN,1
+Aris Express,1
+Nemetschek AllPlan,1
+Автоматизация деятельности компании,1
+Flask-socketio,1
+Deploying,1
+Adobe XD,1
+soft skills,1
+Обслуживание клиентов,1
+Основы Django,1
+slack api,1
+Дополнительный анализ и участие в выборе информационных систем,1
+Принятие управленческих решений в компании,1
+Slack API,1
+Проектирование ПО,1
+"Python, JavaScript, VBA, VBScript, FoxPro, HTML.",1
+Развитие IT в компании,1
+Business communication,1
+python core,1
+clean code,1
+Python 3.6.8,1
+Time,1
+Random,1
+OpenCV-Python,1
+Systemd,1
+Умение разбираться в чужом коде,1
+Весёлый,1
+Всегда нахожу чего не так,1
+Терпеливый,1
+pygtk,1
+Prototype Js,1
+Solaris,1
+"Senior Oracle Application DBA , Oracle DBA, PL/SQL , Linux Administration , Python , Shell scripting",1
+"Python, Flask/Django, Git, Linux, MySQL/SQL, Excel/Word",1
+Аналитека,1
+работа с компьютерами,1
+Пожарная сигнализация,1
+Желания внедрения новых технологий,1
+"Разработка программ на языке программирования Python как в процедурном, так и в ООП",1
+Монтаж звука,1
+Git Bash,1
+структуры данных и алгоритмы,1
+computer vision (CV),1
+Gradient Boosting,1
+"Работа с файлами, базой данных MySQL и SQLite Знание основ синтаксиса языка SQL и проектирования БД",1
+Владение HTML5 и CSS3. Разработка с использованием Twitter Bootstrap,1
+"Опыт работы с JSON, HTTP",1
+Socketserver,1
+Ability to work in a team,1
+Fast-learning,1
+Google Data Studio,1
+Python 3 /django,1
+Outlook,1
+Scrapy framework,1
+Optimize Windows,1
+Canva,1
+Avocode,1
+Желание и способность к обучению,1
+MS Office: Power Point,1
+Собранность,1
+Програмирую в 1с,1
+laravel5,1
+Autotask PSA SOAP API,1
+VUE.JS,1
+MS Office: Excel,1
+навыки настройки сетевого оборудования,1
+Знание устройства ПК,1
+Знание ОС линейки Windows на уровне администратора,1
+Базовые знания и навыки по работе с front-end,1
+Умение работать с GitHub и системой контроля версий git,1
+Python (ver.3) - junior,1
+Опыт администрирования локальных сетей,1
+MS Office: Word,1
+ConnectWise Manage API,1
+freeswitch,1
+Знание JavaScript,1
+Умение работать с большим объемом информации,1
+Готовность к обучению,1
+Rabit,1
+Организованность и легкообучаемость,1
+Спорт,1
+Sqllite3,1
+Frontend,1
+"Начальные знания: Hadoop, HBase, Hive, Spark",1
+Java Android,1
+VK API,1
+Kaseya BMS API,1
+основы assembler,1
+Vusual Basic,1
+Знание Pascal,1
+Графический редактор: Picture Manager,1
+PaintNet,1
+MS Office: WordPad,1
+Microsoft Graph,1
+Jira API,1
+Gitlab API,1
+"Языки: JavaScript, SQL, Python.",1
+Знание ООП,1
+БД: MySQL.,1
+"Опыт работы с компьютерами более 15 лет. 1С 7/8, Вся линейка Windows в том числе Server, Unix,  наст",1
+GTM,1
+Schema. org,1
+Databricks,1
+"Python, Django, Bootstrap, CSS, HTML, SQL, Git, WordPress, Linux, Bash, Ansible, Jenkins, Docker",1
+"TCP/IP, GCP",1
+load balansing,1
+SaaS,1
+Windows Vista,1
+Windows Server 2016 R2,1
+1С: Управление предприятием,1
+"Графика: GIMP, Adobe Photoshop.",1
+1С: Управление персоналом,1
+highload,1
+Расчет зарплаты,1
+Налоговая отчетность,1
+Знание аппаратной части ПК,1
+Базовые навыки программирования,1
+Командообразование,1
+jsonschema,1
+yaml,1
+nuxt.js,1
+Способен к самообучению,1
+Целеустремлённость,1
+"Ориентация на конкретный результат деятельности,",1
+"Frontend: HTML5, CSS3, Bootstrap, React, адаптивная верстка",1
+"Прочее: Git, OS Linux, OS FreeBSD,",1
+Selenium webdiver,1
+Dokku,1
+Водительские права категории В,1
+Опыт продаж,1
+логирование,1
+"Умение писать красивый код, следование стандартам PEP-8, SOLID, парадигмам программирования",1
+умение чувствовать людей и располагать их к себе,1
+целеустремлённость,1
+Basics of JavaScript,1
+Углубленное знание Python,1
+Знание фреймворка Django,1
+Работа с СУБД,1
+Работа с Django ORM,1
+"linux работа в терминале, по SSH",1
+python3.7 ООП средний уровень,1
+"HTML, CSS, Javascript",1
+zennoposter,1
+fuzzy wuzzy,1
+tesseract,1
+math,1
+навыки самостоятельного принятия решений,1
+Digital circuitry,1
+https://github.com/HenryM975,1
+Опыт настройки локальной сети,1
+Python на базе Minecraft,1
+C++ (на уровне программирования микроконтроллеров),1
+работа с аппаратной частью,1
+математика не напугает,1
+основы ML + небольшй опыт,1
+управление проектом,1
+способность работать в команде,1
+Rasterio,1
+английский язык pre intermediate,1
+Саморазвитие,1
+lavarel,1
+flexbox,1
+App Engine,1
+Artlantis Studio,1
+CadWork,1
+Финансовое моделирование,1
+Слепой набор текста,1
+Классические алгоритмы,1
+Imageio,1
+Pyqt,1
+Разработка детских методических пособий,1
+современный китай,1
+Influx,1
+Bullmq,1
+influxdb,1
+ISO 9001:2008,1
+Методист,1
+EV3,1
+Разработка методических пособий для обучения преподавателей,1
+Microservice,1
+Windows 95-2010,1
+Matpotlib,1
+Mindstorms,1
+Django 3.0.8,1
+Python + kivy,1
+Python 2.0,1
+Python 3.8,1
+Python Telegram bot api.,1
+Python Discord bot api.,1
+A/B тесты,1
+SpecFlow,1
+Спортивные мероприятия,1
+"Git, HTML5, Linux, PostgreSQL, Python Programming, Django, Ubuntu",1
+pyQT,1
+Знание компьютерных сетей. CISCO CCNA courses,1
+Lumen,1
+PyTelegramBotAPI,1
+Отличное понимание ПК(software и hardware),1
+UnderscoreJS,1
+"Программирование на c# и python,разработка android приложений на java,базовое знание html,javascript",1
+Быстрое освоение нового материала,1
+Python/ Django,1
+Laravel Framework,1
+NativeScript,1
+Английский язык(intermediate),1
+SOAP (basic knowledges),1
+Unity3d,1
+базовые знания Django,1
+базовые знания Python 3.x,1
+базовые знания JS,1
+"начальные знания php, c++",1
+Comsol Multiphysics,1
+MIPS Assembly Language,1
+Базовые знания Python,1
+Microsoft Dynamics AX,1
+Яндекс.Карты,1
+UMI.CMS,1
+Spatial DB extentions,1
+Full stack PHP developer.,1
+REST (basic knowledges),1
+Позитивность,1
+Стремление к цели,1
+Git/GitHub,1
+Легкость на подьем,1
+Не конфликтный,1
+Знание английского языка,1
+Swift (basic knowledges),1
+Внутренняя документация,1
+django-rest,1
+AML,1
+compliance,1
+Enterprise risk management,1
+Enzyme,1
+Credit Risk,1
+Market Risk,1
+operational risk,1
+Django (basic knowledges),1
+Rstudio,1
+jqgrid,1
+OBIEE,1
+Apache Beam,1
+GitLabCi,1
+Images Processing,1
+Nokogiri,1
+Statgraphics,1
+Information Technology,1
+Statistics,1
+Electronics,1
+deploy,1
+websocket,1
+Английский язык на уровне тех. документации,1
+Consulting,1
+Linix,1
+Django Rest,1
+прикладное программирование,1
+linkedin,1
+"Proficient: Python (особенно TensorFlow, OpenCV, Keras, NumPy, Matplotlib), SQL, математика, статист",1
+численные методы,1
+Зарубежные поисковые системы,1
+QlikSense,1
+logstash,1
+Django-Rest Framework,1
+Telegram/Viber/Vk API,1
+sublime,1
+icinga2,1
+Visual Build Pro,1
+Замотивированность развиваться,1
+python keras pandas,1
+Mobile Application Developement,1
+"Усидчивость, обучаемость, коммуникабельность",1
+ESXi,1
+OpenCV(читаю док-ю),1
+"Python(pandas, numpy, keras, sklearn, scypy)",1
+VMWare ESX,1
+PYTelegramBotApi,1
+Iohttp,1
+Data Mining: SPSS,1
+object-oriented programming,1
+Cruise Control,1
+"Python. Также имел дело с C++, Java и Matlab, но они немного подзабылись.",1
+graphic user interface,1
+NX_Open,1
+linear algebra,1
+theory of probability,1
+differential equations,1
+Mathematical Modeling,1
+Бызы Данных,1
+быстрообучаемость,1
+мотивированность,1
+"базовые знания UNIX, Windows",1
+Возможность работы сверхурочно,1
+Jade,1
+React Saga,1
+"Знание c++, java, phyton, delphy, php",1
+Мед. книжка,1
+python celery,1
+"установка, настройка, администрирование 1С ERP",1
+построение защищенных сетей,1
+react js,1
+Arch,1
+Навыки командной работы,1
+Программирование на Python,1
+FireBird,1
+Telegram Bot Developer,1
+Ionic,1
+Cache,1
+Openshift,1
+Коучинг,1
+Боты на питон,1
+перевод научной литературы,1
+Умение владеть собой,1
+Нацеленность на результат,1
+Оценка эффективности PR кампаний,1
+Template Toolkit,1
+Понимание ценности для клиента,1
+Гибкость,1
+OOD,1
+Sinatra,1
+Стратегический анализ,1
+Комплектация,1
+Angular 2+,1
+Lisp,1
+DRY,1
+Bootsrtap4,1
+Битрикс24,1
+bitbucker,1
+CMS,1
+Эффективность,1
+Математический склад ума,1
+MicroCAP,1
+SciLab,1
+InnoSetup,1
+nanoCAD,1
+Threadind,1
+GItLab CI,1
+WebAPI,1
+Python 2.7/3.0,1
+English Upper-intermediate,1
+Biopython,1
+geopy,1
+"HTML, CSS, XML, JSON, JavaScript",1
+"Java (Java Core, Servlet API, JSP, JDBC)",1
+Минимальная зарплата,1
+Открытость,1
+Создание ботов мессендеров,1
+Привычка доводить все до конца,1
+ci,1
+"Frameworks: Django 1.7, Flask",1
+delivery automation,1
+cloud management software,1
+Язык программирования C++,1
+"MS Word, Excel, PowerPoint",1
+интернет,1
+windows,1
+aws,1
+PC,1
+gce,1
+Поя,1
+Tools: PyCharm Git MS SQL Server,1
+odoo10,1
+GSM,1
+"Математическая подготовка: Линейная алгебра, Теория вероятностей, мат статистика, матанализ",1
+GDB,1
+Экономико-математическое моделирование,1
+"Теоретическая физика: Механика, гидродинамика",1
+awk,1
+Linux  ubuntu на уровне администрирования,1
+Django-rest framework,1
+умение работать на результат,1
+Operating System: Linux Ubuntu Windows,1
+Ericsson,1
+Function programing,1
+"Databases: MSSQL, MySQL",1
+Siemens,1
+AXE,1
+MySQL Cluster,1
+MapReduce,1
+"Python sql-немного sqlalchemy, метаклассы",1
+"Дескрипторы, декораторы",1
+"Логгирование, потоки",1
+Сокеты,1
+distributed computing,1
+Business Management,1
+Надежность,1
+Управление рисками,1
+REST Django Framework,1
+Jinja2 templates,1
+Junior Python/Django,1
+"Владение базовыми знаниями C, С++, Python:основы программирования,  быстродействие и память, ООП.",1
+Css3/html5,1
+Twitter Bootstrap,1
+HTML/CSS,1
+Финансовый контроль,1
+Python/python 3/django framework/flask,1
+Творческий подход,1
+MicroTik,1
+"Python, Git, HTML, CSS, Javascript",1
+computer-vision2,1
+Санитарный контроль,1
+Python Multiprocessing/threading,1
+Python Frameworks: Django,1
+"Linux, Windows",1
+"Database Management: MySQL, PostgreSQL, MsSQL, MongoDB",1
+Опрятность,1
+Chart.js,1
+VMware ESX/vSphere Client,1
+Cisco Catalyst 3800,1
+bash scripting,1
+Администрирование Oracle 9I,1
+Разрабатывала шаблоны на фреймворке Django.,1
+Криптовалюта,1
+Ознакомлена с основами ООП.,1
+Изучила основы работы с XML и HTML.,1
+Знаю синтаксис языка и основные алгоритмы программирования.,1
+email,1
+imaplib,1
+Администрирование ip телефонии,1
+проектирование СКС,1
+Python syntax,1
+Cisco Catalyst 3600,1
+telebot,1
+1С: УПП,1
+Cisco 7200,1
+Cisco 800,1
+OSI/DOD model,1
+MS Windows,1
+C/C++ syntax,1
+Cisco Catalyst 2900,1
+Selenium WebDriber,1
+"Базы данных: PostgreSql, MySQL, Neo4j, MongoDB",1
+strace,1
+"Языки программирования c/c++, python, matlab/octave, php",1
+PHP(базовый уровень),1
+CouchDB,1
+Quick learner,1
+Analytical mind-set,1
+Ambitious,1
+etc,1
+Журналистика,1
+"Python, Beautiful soup, Flask, requests",1
+"Сертификаты: Moscow Python, CISCO CCENT",1
+https://github.com/osotovs/,1
+базовые знания SQL,1
+Jasmine,1
+Навыки программирования Java,1
+Менеджмент,1
+pyQt5,1
+"Ответственный, трудолюбивый, коммуникабельный.",1
+Back-End,1
+VAPT,1
+Административная поддержка иностранного сотрудника,1
+python junior,1
+mechatronics and robotics,1
+Kivy Framework,1
+Разработка кросплатформенных приложений,1
+valgrind,1
+ISO 14000,1
+coolux pandorasbox,1
+adobe media encoder,1
+ONNX,1
+LibreOffice,1
+Caffe/Caffe2,1
+владение ПК,1
+Djangp,1
+Программист Python,1
+GeoServer,1
+ISO 9001,1
+golang,1
+OpenStreetMap,1
+владение английским языком (уровень Intermediate),1
+Spatialite,1
+География,1
+Мониторинг,1
+владение MS Office,1
+Обработка ДДЗЗ,1
+Пространственный анализ,1
+Экологическая безопасность,1
+Microcontrollers,1
+Serverless,1
+написание скриптов,1
+Уверенное знание языка C,1
+Организация систем сборки на основе утилиты make,1
+Yandex API,1
+Базовые навыки программирования Unix Shell,1
+Speech recognition,1
+знание основ Unix/Linux,1
+Yandex Speech Kit,1
+Speech synthesis,1
+Базовое знание языка Python,1
+программирование python,1
+Многопоточность,1
+Windows 95/98,1
+Apache Kafka,1
+Работа с сетью,1
+Теория категорий,1
+angularJS 1,1
+mq,1
+coreapi,1
+НСД Dallas Lock,1
+Scheme lisp,1
+"НСД ""SecretNet""",1
+основы HTML,1
+Apache + mod_wsgi,1
+Fedora,1
+OS X,1
+слепая печать в обеих раскладках,1
+concurrency,1
+Tcl/tk,1
+zeromq,1
+pylons,1
+pyramid,1
+OSS,1
+Symfony2,1
+pyside,1
+pyqt4,1
+non-blocking,1
+Amazon Cloud,1
+Amazon EC2,1
+bdd,1
+CloudStack,1
+Doorway,1
+Дорвеи,1
+Flask framework,1
+Meteor.js,1
+Atlassian Jira (basic familiarity),1
+"пунктуальность,самоконтроль,саморазвитие,целеустремленность",1
+re,1
+mpd5,1
+pwntools,1
+"MS Access, Oracle, SQL, PL/SQL, VBA, обработка массивов данных, POS-терминалы",1
+Бережливое производство,1
+интеллектуальные системы,1
+ipfw,1
+Массовое производство,1
+системы вентиляции и кондиционирования,1
+Техническая эксплуатация,1
+Непрерывное производство,1
+активное оборудование,1
+яндекс карты,1
+KnockoutJS,1
+ОС Windows,1
+asyncio/aiohttp,1
+Knockoutjs,1
+основы программирования,1
+"Знание фреймворка bootstrap, django, а также знание html, css.",1
+MEDOC,1
+Английский (технический),1
+Print Production,1
+angr,1
+gdb,1
+Макетирование,1
+python 3.x,1
+Fabrication And Installation,1
+Разработка Драйверов,1
+Программирование компиляторов,1
+Декоратор,1
+итератор,1
+генератор,1
+PySide,1
+Даже с coreDRAW работал.,1
+Умею пользоваться PyCharm,1
+SignalR,1
+SAT/SMT-solvers,1
+3.6,1
+3.7,1
+Программирование 3D-графики,1
+Logging,1
+config,1
+tornado.testing,1
+dtt,1
+MagicMock,1
+radare2,1
+Язык R,1
+Биоинженерия,1
+Concurrent programming,1
+Многопоточные (multithread) приложения,1
+Test Cases,1
+TestLink,1
+Drones,1
+DLL библиотеки,1
+android,1
+google services,1
+long-polling,1
+m2m телематика,1
+Шифрование данных,1
+Фоновые приложения,1
+Manual Testing,1
+web-технологии,1
+Клиентские приложения,1
+высоконагруженные сервера,1
+игровое по,1
+инженер-разработчик,1
+межпроцессное взаимодействие,1
+Серверные приложения,1
+Экстремальное программирование,1
+сетевые технологии,1
+Разработка служб Windows,1
+QA Engineering,1
+Memcache,1
+Автоматизация производства,1
+Биология,1
+iiko,1
+Twisted Matrix,1
+Умение работать в Django,1
+Знания языка программирования Python,1
+Преподавание,1
+Исследовательская деятельность,1
+Художественный перевод,1
+MediaWiki,1
+Adaptation,1
+Проектирование реляционных БД,1
+Миграция данных ИС,1
+Съемочный процесс,1
+Unmanned aerial vehicle,1
+Test Automation,1
+Разработка и поддержка больших БД (MSSQL),1
+SQL индексы и производительность,1
+Test Planning,1
+MSSQL партиционирование,1
+Оптимизация SQL,1
+Разработка системы управления проектами,1
+Artifactory,1
+"Windows Server 2003/2008/2012 (AD, DNS, DHCP, GPO, DFS, TS)",1
+"Databases: MySQL, SQLite3, PostgreSQL",1
+Проектирование зданий и сооружений,1
+"Back-End: Django, Django Rest Framework",1
+"Front-End: Bootstrap 4, CSS, HTML5",1
+Autotest,1
+"Data Mining: Beautiful Soup 4, Selenium",1
+Version control system: Git,1
+x86 asm,1
+watcom c/c++,1
+telework,1
+Deployment: Docker,1
+"Basic knowledge Python, Node.js, MongoDb, SVN, GIT",1
+Математический и технический бэкграунд,1
+Работа с детьми,1
+tcp,1
+https://stepik.org/users/311125/certificates,1
+"Python (numpy, pandas, matplotlib, scikit-learn)",1
+"R, SQL",1
+server applications,1
+Eiffel,1
+remote work,1
+Взаимодействие с заказчиком,1
+Netmap,1
+Process Management,1
+Rhinoceros 3D,1
+Web-scraping,1
+Таможенное ПО,1
+Performance optimization,1
+DVCS,1
+Database design,1
+EmguCV,1
+"Написание ""чистого"" кода",1
+Концентрация,1
+ReactJs,1
+Raspberry PI,1
+Сети,1
+Microsoft DOS,1
+Си,1
+MSA,1
+PhoneGap,1
+Защита от DDoS,1
+Full-stack python developer,1
+C C++,1
+"HTML/CSS, Javascript",1
+Experience in MsSQL/Oracle,1
+NewSQL,1
+ФП,1
+x86,1
+bloomberg terminal,1
+ffmpeg,1
+Make,1
+Mingw,1
+Fortran,1
+crossplatform development,1
+MLT,1
+Mono,1
+SDL,1
+stm32,1
+SWIG,1
+MIPS,1
+Video,1
+Bloomberg API,1
+Emberjs,1
+back-end,1
+Brand Development,1
+CORBA,1
+COM,1
+Django Framework (изучаю),1
+Secuity Software,1
+business negotiations,1
+low-level optimization,1
+metrowerks codewarrior,1
+System Thinking,1
+Аудит безопасности,1
+Внешняя безопасность,1
+Проведение внутренних расследований,1
+program debugging,1
+Организация службы безопасности с «0»,1
+posix,1
+Построение систем защиты информации,1
+Средства защиты от несанкционированного доступа,1
+Производство пусконаладочных работ,1
+Ориентация на клиента,1
+Разработка индивидуальной CRM системы для предприятия,1
+Внедрение и сопровождение ПО,1
+Perforce,1
+Novell Netware,1
+network protocols,1
+Создание сайтов под ключ,1
+Rx,1
+OpenWrt,1
+multithreading programming,1
+resolume arena,1
+Flash-анимация,1
+Adobe Flash Professional,1
+NuxtJS,1
+Ethical Hacking,1
+Легко обучаем,1
+Пишу ботов для Telegram,1
+Google Excel,1
+Django DRF,1
+Инжиниринг,1
+Cordova,1
+Oozie,1
+WebRTC,1
+Проектная деятельность,1
+Водительское удостоверение категории A,1
+Hardware development,1
+HUE,1
+Firmware development,1
+underscore.js,1
+terraform,1
+Опыт создания парсеров,1
+OrientDB,1
+Презентация проектов,1
+Опыт тестирования,1
+System Administration,1
+Предприимчивость,1
+Коммуникативность,1
+Английский язык pre intermediate,1
+dry,1
+Блочная верстка,1
+kanban,1
+MySQL EE,1
+Just In Time,1
+Pandas(Python),1
+Mobx,1
+Алгоритмика,1
+Mach 3D,1
+Интеграционное тестирование,1
+Яндекс.Карты API,1
+Тестирование API,1
+Юнит тестирование,1
+Cimco,1
+Surefire,1
+postman,1
+Genie,1
+Adobe Genie,1
+OpenCv,1
+ArtCAM,1
+Czech,1
+Английский — B1 — Средний,1
+Python 2.7,1
+SKLearn,1
+Провайдер,1
+Руководитель IT,1
+программист Python,1
+POSIX,1
+SNMP,1
+Клиент-Сервер,1
+Curl,1
+Краткость,1
+Zipline1.3,1
+Server,1
+Excellent communication (incl. negotiating & conflict resolution),1
+Architecture,1
+Docker SWARM,1
+Realm,1
+Cocoa Pods,1
+bitbucket pipelines,1
+MS Internet Explorer,1
+"Linux, настройка сети",1
+Работа с иконочными шрифтами,1
+SVG,1
+1 year of experience in Python-developing.,1
+Управление производством,1
+Python 2.X,1
+Умение находить нестандартные решения,1
+Python 3.X,1
+Програ,1
+"Python, MySQL, API, Linux, GitHub",1
+Разработка веб приложений,1
+Math background,1
+Data Privacy,1
+node.js express framework,1
+MERN,1
+Twisted Framework,1
+Public Speaking,1
+Навык быстрой печати вслепую (20 лет),1
+Cefsharp,1
+TKinter,1
+Разработка графического интерфейса,1
+Автоматизация торговли,1
+CQL,1
+Работа с API,1
+Blender3d,1
+UX,1
+cassandra,1
+Временные ряды,1
+Опыт судебных разбирательств,1
+Flask (6 months),1
+системная документация,1
+Percona,1
+mdadm,1
+Регрессионный анализ,1
+TEXT mining,1
+LVM,1
+High load,1
+Django RestAPI,1
+Amazon AWS,1
+Внутренняя логистика,1
+Google Script,1
+Сетап,1
+Управление товарными запасами,1
+Планирование запасов,1
+PeeWee,1
+MongoEngine,1
+NATS,1
+NATS Streaming,1
+GRPC,1
+BDD,1
+ChatBot,1
+python tests,1
+риггинг,1
+"Django (1,5 years)",1
+rspec,1
+Холодные звонки,1
+Performance analysys,1
+haproxy,1
+1C: Финансы,1
+activemq,1
+XNA,1
+Тендеры,1
+"python, sql",1
+Underscore,1
+Перевод технической документации,1
+webapp2,1
+Nette Framework,1
+MVP,1
+ABC-4 Windows,1
+3D аниматор,1
+Elastic Search,1
+Unyty,1
+Анимация,1
+анимация персонажей,1
+geospatial data,1
+умный,1
+jira,1
+Windows Server 2003-2012,1
+Good mathematical background,1
+Bowtie,1
+Critical Thinking,1
+QIIME,1
+analysis in R,1
+proxmox,1
+FreePBX,1
+AD,1
+RapberryPI,1
+Work with a large amount of information,1
+CRUD,1
+ESP32,1
+Урегулирование конфликтов,1
+Concourse CI,1
+Meteor,1
+Место_для_навыков_из_вашего_стека,1
+Работа в Linux Ubuntu,1
+Docker swarm,1
+Background in algorithms and data structures,1
+Python (2 ),1
+Python (2 years),1
+Таргетинг,1
+Адаптация трейд-маркетинговой стратегии,1
+Bowtie2,1
+heroku,1
+1С: Склад,1
+Polish,1
+Embedded Systems,1
+VB,1
+PINE,1
+Openstack,1
+IPTables,1
+Capture the flag (CTF),1
+jade,1
+Solidity (ETH Blockchain Language),1
+Готов к любому обучению,1
+Steganography,1
+Ценные бумаги,1
+ОПП,1
+Фондовый рынок,1
+Освоил базу python,1
+ITIL,1
+docker swarm,1
+Cap'n'Proto,1
+чтение кода на С и python,1
+знаком с ООП,1
+Yolo,1
+ember,1
+Язык программирования C,1
+Интерфейсы/периферия,1
+pywinauto,1
+TestComplete,1
+Bush,1
+REST Django,1
+Work with Documentation,1
+Deploy,1
+Ресторанный менеджмент,1
+UCS,1
+Многопоточные вычисления,1
+emacs,1
+Apache Spark,1
+Apache Hadoop,1
+Cocos2d,1
+Django-Rest-Framework,1
+Bioinformatics,1
+Luigi framework,1
+"Python, R, SQL, Excel, bash",1
+Genetics,1
+Keil,1
+cython,1
+Разработка ботов,1
+Владение Speed Tree,1
+Phalcon,1
+Synopsis,1
+Несборочное производство,1
+tmux,1
+Основы Linux,1
+Трёхмерное моделирование персонажей и окружения,1
+Владение Cinema 4D,1
+Владение Zbrush,1
+Владение Substance Painter,1
+Владение Meshroom,1
+taxonomy,1
+Hudson,1
+Знание JS,1
+Bugzilla,1
+Владение Unity3D,1
+SWAPY,1
+Владение Unreal engine,1
+Скелетная анимация,1
+MS UI Automation,1
+Знание Python 3,1
+Molecular biology,1
+Optimization,1
+Data Structures,1
+DevTools,1
+Знание C/C++,1
+PyCharm/Sublime2,1
+Tornado Web Server/framework,1
+PHP4,1
+WAN,1
+PKI,1
+Digital Certificates,1
+Торговля,1
+Kompas 3D,1
+gamedev,1
+Spring Security,1
+WEB,1
+web программист,1
+Mathematic,1
+Customer Service,1
+Food Service,1
+Artificial Networks,1
+Restaurant Operations,1
+Adobe Audition,1
+Event Planning,1
+Robotframework,1
+Rkeeper,1
+Знание STL,1
+54-фз,1
+Mixpanel,1
+Financial Modeling,1
+gitlab ci,1
+Investment Analysis,1
+PUG,1
+Основная ОС - Linux,1
+В процессе изучения разработка приложений под Android,1
+Базовые знания SDL,1
+Investment Planning,1
+Qlik,1
+Базовые знания OpenGL,1
+Базовые знания Python (в процессе изучения),1
+Alteryx,1
+Perl Catalyst,1
+Оптово-розничное кассовое обслуживание,1
+Store House,1
+StoreHouse,1
+онлайн кассы,1
+Базовые знания QT,1
+Топология ИС,1
+Анализ трафика,1
+Google Collab,1
+Linux systems administration,1
+JavaScript (Jquery),1
+"Знакомство с mysql, html5, css3;",1
+Программирование C#,1
+"Python  (включая Django, PyQt4)",1
+IPython Notebook,1
+"Real-time Embedded Systems Software Design, Development, Testing, Debugging",1
+allure-report,1
+Начало карьеры,1
+Procedural programming,1
+Teradata,1
+Python 3.7,1
+Sikuli,1
+MPLS,1
+Full-stack Web,1
+Delphi 7,1
+Разработка и внедрение политик и процедур,1
+folium,1
+Ad Hoc Analysis,1
+Grab,1
+MatreshkaJS,1
+prometheus,1
+система контроля версий Git,1
+КМС,1
+Stylus CSS,1
+LabelIMG,1
+тут нет интерфейса чтобы разместить их как мне нравится поэтому оставлю вот так,1
+macOS,1
+MXnet,1
+3D Max,1
+Next.js,1
+Анализ текущей ситуации,1
+Jade HTML,1
+IDA / ollyDbg,1
+регулярные выражения,1
+базовые навыки настройки Apache,1
+Знание базы ООП,1
+Creativity,1
+Желание изучать JAVA,1
+владение OS Linux (Ubuntu),1
+Ассе́мблер,1
+Linux - базовые знания,1
+ETS5,1
+Fusion 360,1
+SqlAchemy,1
+PL/I,1
+HLASM,1
+Travis,1
+1 группа по электробезопасности,1
+Browser DOM/BOM/API,1
+python web-server,1
+Distributed File Systems,1
+Concurrency,1
+GIL,1
+IPC,1
+Deadline,1
+Core JavaScript,1
+libXML,1
+PyCharm IDE,1
+Junior Java,1
+Администрирование сети и компьютеров,1
+Ruby nad Rails,1
+Expert PC user,1
+Python advanced level,1
+Yii Framework,1
+Репортажная фотосъемка,1
+Python/Django,1
+РСЯ,1
+Схемотехника,1
+ECMAScript,1
+python-dns,1
+Zimbra,1
+python email server,1
+Ведение групп в социальных сетях,1
+ERD,1
+Написание пресс-релизов,1
+Ceph DFS,1
+QFS,1
+"Python, Django, Flask, SQL, JS, HTML, CSS, Git",1
+Restful,1
+Непрерывное самообразование,1
+"C# (веб/windows службы, 8 лет)",1
+"Python (IronPython — скрипты, 7 лет)",1
+"Java (GUI на Swing, 2 года)",1
+Hadoop DFS,1
+"WPF (GUI-приложения для работы со службами, 3 года)",1
+Knockout,1
+Знание OS Windows,1
+понимание модели OSI,1
+базовые знания стека протоколов TCP/IP,1
+Hypertable,1
+Algorithms & Data structures,1
+Высокая степень ответственности,1
+Gradle,1
+Проницательность,1
+Теория вероятности,1
+"ПАКЕ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ 3ds Max | 3D-моделирование и рендеринг, AutoCAD;",1
+Пакет программного обеспечения Microsoft Office и т. д.,1
+Пакет программного обеспечения АМТ-121,1
+Пакет программного обеспечения Леуза,1
+"Ремонт компьютеров, установка и настройка программного обеспечения;
+Владение любой оргтехникой.",1
+"Программирование на языке Python 3.6, Visual Basic, MetaQuotes Language 4",1
+Vanila JS,1
+Fire,1
+Bash scripting,1
+Матстастистика,1
+Kaggle,1
+ArcMap,1
+Sales Management,1
+Kivy (framework),1
+Английский — B2 — Средне-продвинутый,1
+Assembler база,1
+Jquery основы,1
+Умение решать сложные задачи,1
+CURL,1
+pgAdmin,1
+3D geometric algorithms,1
+Установка и,1
+Владение компьютером на уровне специалиста.,1
+"Усидчивость при изучении материала, коммуникабельность, опыт работы в команде",1
+Reliable,1
+Friendly,1
+TelegramBotAPI,1
+curl,1
+mock,1
+aiopg,1
+fast-api,1
+Unity 3D,1
+Хорошее знание С++,1
+Хорошее знание С#,1
+Умение быстро усваивать новую информацию,1
+Умение разрешать конфликты,1
+Опыт работы с пост,1
+Опыт применения нотации BPMN,1
+Опыт применения нотации IDEF0,1
+Опыт использования SQL,1
+Сбор и анализ информации,1
+YII2,1
+Dbeaver,1
+Grachql,1
+RedBeanPHP,1
+Fast learner,1
+Executive,1
+Установка и настройка веб-сервера,1
+С/С++,1
+MatplotLib,1
+Микросервисная архитектура,1
+Yocto,1
+Godot,1
+kaggle,1
+гидродинамка,1
+Gitkraken,1
+intern,1
+chatbot,1
+знание стандартных алгоритмов и структур данных,1
+VM Ubuntu Server,1
+FileZilla,1
+RESTful,1
+Базовые знание Python,1
+SQLAclhemy,1
+Компьютерная лингвистика,1
+лингвистическая разметка текста,1
+Написание Telegram-ботов,1
+английский язык свободно,1
+TRADOS,1
+Trados (Система Перевода),1
+Memsource,1
+Multitrans,1
+RESTfull API,1
+professional integrity,1
+Virtual Box,1
+Source tree,1
+многозадачность,1
+Базовые знания Jango,1
+Avaya Call Management Systems,1
+python requests,1
+python beautifulsoup,1
+python scikit learn,1
+python pandas,1
+python matplotlib,1
+Django+selery+redis,1
+Теоретическая физика,1
+PostgeSQL,1
+"Back-end: Django, Flask, Django Rest Framework",1
+"Databases - PostgreSQL, SQLite, MySQL",1
+"Front-end: Bootstrap, HTML, CSS, JavaScript",1
+Electronic Workbench,1
+Electromagnetic Professional,1
+AWR Design Environment,1
+Адаптивное планирование,1
+"Алгоритмы CS(сортировка, поиск)",1
+Exploratory data analysis,1
+Data preprocessing,1
+способность работать в стрессовых ситуациях,1
+hadoop,1
+нейронные сети,1
+Spring Boot,1
+"Самообучаемость, работоспособность,дисциплина",1
+Основы MS SQL,1
+"Аналитик данных (python, SQL)",1
+Full Stack developer,1
+FrontEnd,1
+BackEnd,1
+Linux(базовые знания),1
+Основные алгоритмы и структуры данных,1
+Julia,1
+SAP S/4HANA,1
+graphQL,1
+Algorithms and Data Structures,1
+js,1
+Statistical analysis,1
+Analytical thinking,1
+Patterns,1
+Result orientation,1
+Повышение конверсии,1
+Py,1
+оформление документации,1
+44-ФЗ,1
+Маршрутизация,1
+Аналитика данных,1
+Scylla db or Cassandra db,1
+yandex tank,1
+siege,1
+micro services,1
+знаком с asyncio,1
+Burp Suite,1
+nmap,1
+pdb++,1
+Архитектура программных решений,1
+Платные тестовые задания,1
+"Ознакомьтесь с разделом ""Обо мне""",1
+Мультиплатформенная разработка,1
+Разработка библиотек,1
+Низкоуровневое программирование,1
+Kivy / Kivy MD,1
+PyQt 5,1
+Qt 5,1
+Интернет-магазин,1
+Платформа для обучения,1
+Браузерные игры,1
+Форумы,1
+"flask-sqlalchemy, flask-migrate",1
+sunic,1
+uviloop,1
+locust,1
+Pure C,1
+WinApi,1
+Moodle,1
+Способность принимать решения,1
+Управление затратами,1
+SecOps,1
+Google Cloud Platform,1
+Google Cloud Pub/Sub,1
+Google Big Query SQL,1
+VueCLI,1
+Умение программировать на языке Python,1
+Умение распределять время,1
+Django restful api,1
+Парсер,1
+Исследовательский анализ,1
+GoF паттерны проектирования,1
+Win32 Api,1
+CISC,1
+Recurrent neural networks,1
+Convolutional networks,1
+Airflow,1
+DynamoDB,1
+Bitbucket Pipelines,1
+OpenAPI 3,1
+Tk/ttk,1
+Умение договариваться с клиентами,1
+Мотивация к достижению целей,1
+Google Drive,1
+VSCode,1
+gunicron,1
+aws ecosystem,1
+Работа в cms,1
+Знание 1С,1
+работа с клиентами,1
+Программирание микроконтроллеров,1
+built-in modules and its methods,1
+Third-party libraries,1
+Data Types,1
+Functions and Comprehension,1
+Iterators and generators,1
+OOP and its principles,1
+client/server architecture,1
+"HTTP, HTTPS, HTML5",1
+"Linux, terminal and bash",1
+debugging and logging,1
+token authentication,1
+virtual environment,1
+Использование Гугла - эксперт,1
+Materialize,1
+Continuous Integration,1
+Pydantic,1
+Алгоритмизация,1
+Программирование микропроцессоров,1
+Cи,1
+featurecam,1
+Unreal engine 4,1
+Colaboratory,1
+Solid Edge,1
+Full Stack,1
+Numba,1
+FEA,1
+seaborn,1
+Django 3.0,1
+Social media,1
+sci,1
+теория вероятности,1
+scikt-learn,1
+"Стремление учиться новому, ответственность.",1
+Лицензирование,1
+Планирование закупок,1
+Парус,1
+Цифровая схемотехника,1
+Разработка CMS,1
+Bitrix24 CMS,1
+Relational Database,1
+basic math analysis,1
+Фотомонтаж,1
+Портретная фотосъемка,1
+Product Management,1
+Опыт управления коллективом,1
+Quick,1
+Tableu,1
+Decision-making,1
+MQTT,1
+Restful API,1
+Владение Python/C++/C#,1
+Использование ООП,1
+Навыки работы с Git,1
+"Управление ОС (Windows, Linux) и системными сервисами на уровне системного администратора",1
+Настройка сетевого оборудования Cisco,1
+"Проведение поверки, диагностики и ремонта измерительных и вычислительных устройств",1
+"Работа с различной микропроцессорной техникой и ПЛИС, включая проектирование аппаратного решения, ре",1
+Формирование проектной документации,1
+"Презентация проектов, включая написание научных статей и выступление на научно-технических конференц",1
+Высшее техническое образование,1
+Умение обучаться в сжатые сроки,1
+Audioediting,1
+Tensoflow basics,1
+Graphql,1
+Ariadne,1
+Опыт разработок в сфере IT,1
+Dramatiq,1
+Поисковые системы,1
+Windows OS Family,1
+Любовь к своему делу,1
+Личная мотивация,1
+Без вредных привычек,1
+Дружелюбный,1
+Общительный,1
+Парсинг веб-сайтов,1
+легко и быстро обучаюсь новым навыкам,1
+JavaScript (средний),1
+Linux (базовый),1
+jQuery (средний),1
+Blender,1
+C++ (базовый),1
+Supervisor (базовый),1
+Nginx (базовый),1
+PHP (базовый),1
+Tekla Structures,1
+Общественное питание,1
+Ведение кассовой книги,1
+Стандарты гостеприимства,1
+оформление виз,1
+Международный туризм,1
+Добровольное медицинское страхование,1
+Способность к самообучения,1
+нацеленность на решение задач,1
+ChromDevTools,1
+Bitrix24,1
+"Основы SQL, postgre",1
+Общие представления о фронтенде,1
+"Базовые знания JS и фреймворков(Vue,Express)",1
+wxPython,1
+Deductor,1
+CA Erwin Process Modeler,1
+CA Erwin Data Modeler,1
+Libre Office,1
+Django API,1
+Манекенщик,1
+Gino,1
+FFmpeg,1
+GSTreamer,1
+Микросервисная,1
+FoxPro,1
+nampy,1
+"Комунекабельность , целеустремленность",1
+CDN,1
+DLE,1
+Domain Names,1
+Мини-АТС,1
+Dashboard,1
+Market Research,1
+Обслуживание компьютеров,1
+GitHub Flow,1
+teamworck,1
+MySQL Workbench,1
+Substance Painter,1
+Unit tests,1
+разработка на С/C++ – более 5 лет,1
+разработка на Python 3 – полтора года,1
+разработка на PHP и JavaScript – 2 года,1
+Организация экспертной деятельности,1
+R Language,1
+s3,1
+Trace mode,1
+CPA,1
+Centum VP,1
+Exel,1
+Чертежи,1
+TIA Portal,1
+Office,1
+широкий спектр знаний по it,1
+страсть как обожаю магию с нейросетями,1
+нейросети это всё,1
+pgsql,1
+Squid,1
+Relationship Management,1
+Retail,1
+Customer Relationship Management,1
+Product Marketing,1
+Alchemy,1
+70+ WPM,1
+"SQL на уровне сложных запросов, транзакций, триггеров",1
+GLPI,1
+Bots,1
+Fast api,1
+Обязательность,1
+Теория автоматического управления,1
+NVidia Jetson Nano,1
+Python Pandas,1
+Python NumPy,1
+Python Flask,1
+Python Matplotlib,1
+unreal engine,1
+spark AR,1
+Проектирование баз данных,1
+Разработка баз данных,1
+"python, django",1
+postgres,1
+React js основы,1
+C++ основы,1
+apache,1
+P Y T H O N !,1
+Katalon,1
+Numy,1
+Внимательность к деталям,1
+Работа с документацией,1
+готовность учиться и переучиваться,1
+деловые переговоры,1
+Исполнение личных поручений руководителя,1
+Учет товаров,1
+исполнение поручений руководителя,1
+Проведение опросов,1
+Продажи через интернет,1
+The ability to prioritize,1
+Effective problem solving,1
+Effective decision-making,1
+Ability to learn,1
+XML Dom,1
+Parser,1
+PostrgeSQL,1
+Алгоритмы и структуры данных на Python,1
+Логирование,1
+"Си ( hh не дает ввести просто С, лол )",1
+Digital Planning,1
+Adobe Omniture,1
+Music Theory,1
+упорство,1
+Программирование на VBA ( обработка больших объемов информации),1
+умение анализировать проблему,1
+MS Excel (Power Query),1
+Xamarin.Forms,1
+SoapUI,1
+dbForge Studio,1
+xUnit,1
+Навыки работы в Linux,1
+Навыки составления простых SQL-запросов,1
+Уверенный пользователь Windows,1
+"АПКШ ""Континент""",1
+Атликс-VPN,1
+ViPNet,1
+Модель OSI,1
+"Python, Asyncio, Django, FastAPI, Aiogram",1
+"Установка, настройка, администрирование ОС семейства Windows",1
+"Delphi, SQL",1
+Python 3.7.4,1
+умение работать в,1
+24/7,1
+фреймворк,1
+РСУБД,1
+1С 7.7,1
+pyserial,1
+"shelve, pickle",1
+Самодостаточность,1
+Pip,1
+Формирование бюджета,1
+Движение денежных средств,1
+Годовой баланс,1
+Железнодорожные перевозки,1
+TkInter,1
+Telebot,1
+NN,1
+Queue,1
+"Docker, Ubuntu, Tensorflow 1.14",1
+опыт руководства,1
+Желание учится новому,1
+ReDoc,1
+AngularCLI,1
+Требовательность к себе,1
+Kerberos,1
+Docker compose,1
+Реляционные базы данных,1
+Знания принципов ООП,1
+Инженерия знаний,1
+Базовые знание математической статистики,1
+Знание линейной алгебры,1
+Организованность рабочего времени и ресурсов,1
+банковские гарантии,1
+Анализ рентабельности и эффективности продуктов и маркетинговых акций,1
+AWS S3,1
+Web reverse,1
+Conflict solving,1
+Virtual communication,1
+Машиностроение,1
+Djangorestframework,1
+Работа с аппаратурой связи,1
+Работа со звуком,1
+Могу выйти из Vim,1
+Site Parsing,1
+Odoo12,1
+Уверенный пользователь ПК с элементами программирования,1
+Macintosh,1
+Zulu,1
+websockets,1
+EDA,1
+Pyside2,1
+Linux shell,1
+InflaxDB,1
+Telegraf,1
+"Python/Django, CSS, HTML, JS",1
+Pep-8,1
+Metabase,1
+Ответственность к рабочему процессу,1
+Отсутствие вредных привычек,1
+google cloud API,1
+"Другое: уверенное владение Microsoft office(Word, Excel, Power Point)",1
+Средства разработки: Jupyter Notebook/Google Colab,1
+"Дополнительно: HTML, CSS, JavaScript",1
+Имеется опыт работы с vk_api,1
+telegram,1
+Web technologies,1
+wxpython,1
+subprocess,1
+requests.auth,1
+HTTPBasicAuth,1
+Timer,1
+webbrowser,1
+Oracle DB,1
+Openpyxl,1
+matplot,1
+Библиотеки Python,1
+Командная Строка,1
+Умение работать в режиме многозадачности,1
+JS базово,1
+"HTML, CSS",1
+threads,1
+DeepLearning,1
+"Английский язык - разговорный, технический",1
+"Базы данных: SQL (базовые знания), PosgreSQL (базовые знания)",1
+ast,1
+"Языки программирования: Python 3.x, C++(базовые знания)",1
+CPython internals,1
+Service desk,1
+Кассовые документы,1
+Кассовые операции,1
+Работа с кассой,1
+Opera,1
+Контроль сроков годности,1
+Учет остатков,1
+"Телефонные переговоры, прием и обработка заказов",1
+Starlette,1
+TON,1
+FASTApi,1
+B2C продажи,1
+Телемаркетинг,1
+Bit,1
+Составление бизнес-плана,1
+Краткосрочное бюджетирование и планирование,1
+Angular 7,1
+Skimage,1
+PIL,1
+Pulp,1
+Способность изучать все самостоятельно,1
+Математический основы методов шифрования,1
+Thread,1
+Git контроль версий,1
+Поиск и устранение неисправностей.,1
+Simatic WinCC flexible,1
+SIMATIC STEP 7,1
+CODESYS,1
+RSLogix 5000,1
+Highcharts,1
+Гидродинамика,1
+Физика,1
+CFD,1
+AIOHTTP,1
+Разработка на Python,1
+ГОСТы,1
+Написание скриптов на JavaScript,1
+ERPNext,1
+Frappe,1
+Реверс инжиниринг,1
+Ida pro,1
+Elastic search,1
+coffescript,1
+socket.io,1
+nativescript,1
+django-channel,1
+JavaScript Basic,1
+pickle,1
+Основы компьютерных сетей,1
+Cluster Analysis,1
+JPA,1
+Spring boot,1
+Spring Rest,1
+GitKraken,1
+BesutifulSoup,1
+Обработка данных,1
+Нейросети,1
+"Web Scraping (BS4, Selenium)",1
+UnitTest,1
+Поддержка Flask фреймворка и языков Mako и Jinja2,1
+"Поддержка IronPython, Jython",1
+"Поддерживаемые языки: Python (Versions: 2.x, 3.x), Jython, Cython, IronPython, PyPy, Javascript, Cof",1
+visual studio code,1
+PyQt5 (+WebKit),1
+QSS,1
+"xlsx, xlsb, csv",1
+Windows 95/98/Me/Nt/2000/Xp/Vista,1
+Системы охранно-тревожной сигнализации,1
+Bitcoin,1
+Regression Analysis,1
+Factor Analysis,1
+SphinxSearch,1
+BigQuery,1
+WSDL,1
+Adriver,1
+Vk,1
+FB,1
+Системы аналитики,1
+"могу работа и создавать api,",1
+могу работать с docker.,1
+есть опыт с django,1
+есть опыт работы с mysql,1
+есть опыт работы с postgresql,1
+есть опыт работы с bootstrap4,1
+Ответственный,1
+SQL(Базовые знания),1
+Telegram APIs / API Вконтакте,1
+СЭД,1
+Деловая корреспонденция,1
+Умение выстраивать эффективные и доверительные отношения с клиентами,1
+Хорошее чувство юмора)),1
+Опытный пользователь MS Office,1
+Старательность,1
+Компьютерная графика,1
+Цифровая обработка сигналов,1
+Клиент-сервер,1
+DV360,1
+Weborama,1
+EF Core,1
+Хорошее понимание тз,1
+Microsoft SQL Server,1
+Gunicorn/Nginx/Ubuntu Server,1
+Legacy-code,1
+Админ-панель,1
+Dynaconf,1
+Ability to work with large amounts of information,1
+Сompetence in somebody else's code,1
+MicroServices,1
+Django-rest-framework,1
+GeoDjango,1
+GraphQl,1
+Концепция ООП,1
+Язык — Python,1
+"Фреймворки - Django, Django rest framework",1
+"Базы данных - SQLite, MySQL, PostgreSQL, MongoDB",1
+"Основы HTML, CSS, Bootstrap, Java Script",1
+Системы для контроля версий — Git,1
+"Навыки развертывания проекта на сервере на базе серверной ОС, Linux Ubuntu",1
+Навыки написания модульных тестов - библиотека Unittest,1
+Навыки разработки GUI – библиотека PyQt,1
+Навыки работы с Docker,1
+Telegrambotapi,1
+Google Cloud,1
+NestJs,1
+Grey box testing,1
+Интеллектуальный анализ данных,1
+high mathematics,1
+hard work,1
+self-learning,1
+Collection and analysis of information,1
+QBasic,1
+Spyder IDE,1
+Бронирование туров,1
+Системы бронирования,1
+Vue router,1
+HostCMS,1
+Blockchain/P2P,1
+Pythorch,1
+Cmake,1
+Своевременное выполнение поставленных задач,1
+Python (базовый уровень),1
+SQL (базовый уровень),1
+Kompas (Erp),1
+XCD,1
+XML/XCD,1
+Есть опыт руковоства,1
+FORTRAN,1
+BeatifulSoup,1
+matpoltlib,1
+SSL,1
+Регулярные выражения,1
+Фотограмметрия,1
+C++14,1
+GDAL,1
+Djnago,1
+Bootstrap 4,1
+MDBootstrap,1
+Самообучаем,1
+TelegramAPI,1
+Умение принимать решения прямо сейчас,1
+Открыт для новых навыков,1
+Люблю изучать новое,1
+iso/osi,1
+Apache Solr/Lucene,1
+"обязательность, исполнительность",1
+VBA Excel,1
+Работа в системах UNIX/Linux,1
+PostreSQL,1
+SQLlite,1
+Реинжиниринг бизнес-процессов,1
+Use Case Analysis,1
+Базовое знание Python,1
+Gitlab-CI,1
+ODBC,1
+power bi,1
+ScyllaDB,1
+- Python,1
+- CSS - HTML 5,1
+- GIT,1
+py,1
+"C, C++, Python, JavaScript, PHP",1
+"MS SQL, MySQL",1
+"x86, Atmel, NXP, STM32, Altera FPGA",1
+"Windows, Linux (Debian, Ubuntu, SuSe)",1
+"Perl, OOP",1
+"JQuery, HTML/ CSS/",1
+"ACCESS, SQLite,",1
+Databases-Design,1
+Hardware engineer,1
+"Опыт работы с: OC Windows, Linux.",1
+Pewwe,1
+Сообразительность,1
+Естественные языки в программировании,1
+pymystem3,1
+A/B тестирование,1
+CPython,1
+marshmallow,1
+srs,1
+Нереляционные базы данных,1
+time ma,1
+Technical English,1
+streamlit,1
+analytical,1
+ELMA,1
+telegram-api,1
+black,1
+typescript,1
+Networkx,1
+UI design,1
+Oracle Siebel CRM,1
+Скрапинг,1
+MEAN,1
+проектирование СКУД,1
+Wireguard,1
+k8s,1
+gRPS,1
+GItLab,1
+Arch Linux,1
+Astra Linux,1
+Manjaro,1
+Умение вести переговоры,1
+Умение самостоятельно принимать решения,1
+Топографо-геодезическая деятельность,1
+Начинающий программист python,1
+Адаптивная Верстка,1
+Базовые знания о реверс-инжиниринге,1
+Стремление получать новые знания и применять их на практике,1
+mssql server,1
+Docker-Compouse,1
+Hateos,1
+Гарант,1
+R programming language,1
+Основы C/C++,1
+Dev c++,1
+pyCharm,1
+Уровень A2 владения английским языком,1
+Высокий уровень компьютерной грамотности,1
+Echo,1
+Уверенное использование ОС Linux,1
+Понимание проблем жизненного цикла ПО,1
+"Знакомство с различными языками программирования (Prolog, Pascal, VBasic, Python, JS)",1
+Опыт составления требований к разрабатываемому ПО,1
+"Знакомство с Web-технологиями (HTML/CSS, JS)",1
+Знакомство с различными методологиями программирования (в т.ч. ООП),1
+DBeaver,1
+Code formatting according to PEP8,1
+Testing own code,1
+"Threading, multiprocessing",1
+Вычислительная математика,1
+Компьютерное моделирование,1
+"• настройка различного рода подключений VPN, proxy",1
+"• знание аппаратной части ПК, ноутбуков, пайка радиоэлектронных компонент",1
+Компьютерное железо,1
+CSS Flexbox,1
+системы массового обслуживания,1
+starlette,1
+Chrome Dev Tools Protocol,1
+"Oracle PL/SQL, Python, git",1
+Metasplotlib,1
+Gensim,1
+Word2vec,1
+Кроссплатформенная верстка,1
+DFD,1
+Основы программирования,1
+Python Junior,1
+Составление электрических схем,1
+Испытания и отладка авиационных двигателей,1
+Разработка технической литературы,1
+Опыт управления рабочей группой до 10 человек,1
+Sagemaker,1
+Mongo,1
+• среда программирования промышленных контроллеров siemens «Step7»,1
+"• разработка ПО на основе СУБД Interbase, Firebird,",1
+decimal,1
+Умение слушать,1
+Слепой метод набора,1
+1С: CRM ПРОФ,1
+Django RestFramework,1
+"• Уверенный пользователь ПК — 1С:Предприятие 8.2,MS Office (Word, Excel, Outlook), Internet",1
+Модернизация ПК,1
+подключение сети,1
+устранение неисправностей,1
+Консультирование пользователей,1
+Simple-JWT,1
+Selenium WD,1
+Язык программирования СИ,1
+PIC,1
+Python data structure algorithms,1
+Профилирование,1
+Beautiful soup,1
+Стрессоустойчевость,1
+Key Collector,1
+Bootstrap 3,1
+Mariadb,1
+Язык Си,1
+ASYNC,1
+protocol parsing,1
+Junior python,1
+"Разработка тестов, опросников",1
+Lotus Domino,1
+Владею базовыми навыками программирования Python3,1
+Oracle 10G,1
+Знание пакета Microsoft Office,1
+JSON-RPC,1
+FastCGI,1
+Axios.js,1
+podman,1
+Phoenix,1
+Testrail,1
+CMD/BAT,1
+Stm32,1
+SCons,1
+ASP.NEC Core MVC,1
+Cross Validation,1
+Математическо,1
+Data Scientists,1
+CA ERWin Process Modeler,1
+Умение работать в условиях сжатых сроков,1
+Прием и распределение телефонных звонков,1
+Pytelegrambot,1
+Open Stack SDN,1
+NetworkX,1
+Знание языков программирования на базовом уровне.,1
+1С: Управление нашей фирмой,1
+Системная интеграция,1
+умение читать документацию,1
+"Высокая обучаемость, целеустремлённость.",1
+Работа с аудиторией,1
+"Опытный пользователь MS Word, MS Excel, MS Access, MS Power Point",1
+Знание MS Visio,1
+"Знание IBM SPSS, gretl",1
+"Знание нотаций IDEF0, IDEF1, BPMN",1
+"Знание HTML, CSS; PHP, SQL; Wolfram Mathematica; C++, Python, Java",1
+"Опыт работы в QlikView, MicroStrategy, PowerBI, Slemma (создание BI-приложений)",1
+Опыт работы в Matlab и AnyLogic (создание моделей),1
+Опыт работы в 1C,1
+Работа с виртуализацией (VMWare),1
+Опыт работы с OC Linux,1
+Loadrunner,1
+Знание основных концепций информационной безопасности,1
+Анализ кода,1
+IVR,1
+Chocolatey,1
+Патент на промышленные образцы,1
+Согласование КД с ВП МО РФ,1
+VMWare ESXi,1
+python3 typing,1
+PEP-8,1
+Ubuntu/Debian/Centos,1
+Продажи физическим лицам,1
+"Уверенное пользование ПК, навыки Word/Excel-VBA/PP",1
+Менторинг,1
+Проактивность,1
+Geant4,1
+Ядерная физика и электроника,1
+Анализ конкурентной среды,1
+Scypy,1
+Jiro,1
+IBM Lotus Notes,1
+Dlib,1
+Tensorlow,1
+Работать с git,1
+Писать код в стиле ООП,1
+Соблюдать правила PIP 8,1
+Рефакторить чужой код для своих нужд,1
+Читать и искать документацию на английском языке,1
+Писать простые тесты для программ,1
+Способность к самообучению,1
+nlp (natural language processing),1
+Основы алгоритмизации,1
+Linux пользователь,1
+Django Framework(в процессе обучения),1
+asyncio(в процессе обучения),1
+Динамическое программирование,1
+Quart,1
+Performance Center,1
+Xsd,1
+WFS,1
+vb.net,1
+Резервное копирование,1
+Gentoo,1
+Gdal,1
+Ogr,1
+Postgis,1
+ДДЗ,1
+SAGA,1
+mapserver,1
+OGC,1
+PyAutoGUI,1
+Power Point,1
+Xamarin,1
+Скрипты Photoshop,1
+VirtualDub,1
+Corona 2D,1
+Android Hack,1
+Пакетная обработка,1
+Дизассемблер,1
+Cheat Engine,1
+Вёрстка FB2 ePUB PDF DJVU,1
+парсинг сайтов,1
+dotnet,1
+BI,1
+Русский язык,1
+Самостоятелен,1
+Cisco Packet Tracer,1
+Английский A2,1
+1С: Розница,1
+MinIO,1
+Torch,1
+Transformers,1
+SwiftUI,1
+"общительность, дружелюбие, умение проявлять инициативу, внимателен к мелочам, работоспособность.",1
+"Готовность к обучению, умение работать в команде, инициативность, высокий уровень самоорганизации",1
+Pthon,1
+Pandas library of Python,1
+Plotly library of python,1
+Сопровождение сделок,1
+1С: Предприятие: Розница,1
+Техники продаж,1
+Управление отношениями с клиентами,1
+Скурпулезность,1
+OpenVZ,1
+Программирование микронтролеров,1
+"Laravel-backend, PHP-7",1
+Уверенные знания Python 3+;,1
+FMCG Продажи,1
+Jupiter notebook,1
+MS Exchange,1
+Word,1
+Владение ABAP на уровне К1,1
+Знание основных инструментов abap,1
+"ABAP-редактор, словарь данных PDF- формуляры.",1
+Есть опыт написания интерактивных программ для ведения основных и транзакционных данных,1
+Есть опыт написания интерактивные программ для ведения основных и транзакционных данных,1
+"ALV-отчеты с редакцией на действия пользователя, сохранение вселенных пользователем данных в СУБД",1
+ABAP пересчет данных и обновление экрана.,1
+"ABAP вывод в Excel, batch-input, drill-down",1
+Gin,1
+CMakefile,1
+Инновационный менеджмент,1
+AMQP,1
+CCENT,1
+django rest,1
+Умение доводить начатое до конца,1
+Query Optimization,1
+tornadoweb,1
+"Java relational databases: MS SQL Server, MySQL",1
+DirectX,1
+server daemons,1
+Doxygen,1
+Администрирование систем,1
+Digital Visual Fortran,1
+Составление и ведение презентаций,1
+"Уверенный пользователь ПК, MS Word, Excel",1
+Talend,1
+telegramBotAPI,1
+Octave,1
+R language,1
+Microsoft Office,1
+rest API testing,1
+UI testing,1
+UX testing,1
+TestRail,1
+codeception,1
+Outsourcing,1
+End2End,1
+PgSQL,1
+3D печать,1
+3D принтеры,1
+Микроконтроллеры Atmega,1
+изготовление печатных плат,1
+Начальные навыки программирования на Python,1
+Монтаж и настройка локальных сетей,1
+Монтаж и настройка видеонаблюдения,1
+Solid Works,1
+Crypto,1
+"Python, Django",1
+SciKit-learn,1
+Компас Электрик,1
+Программироваие,1
+python 3.7,1
+Способность выявлять технические проблемы,1
+Умение убеждать,1
+Ораторство,1
+socket IO,1
+web-программирование,1
+windows 10,1
+Разработка сайтов,1
+Видео зрение,1
+Python Keras,1
+Python TensorFlow,1
+Python Numpy,1
+Python OpenCV,1
+RegularExp,1
+Csv,1
+K8s,1
+Flutter/Dart,1
+Linux(elementary os 5.1),1
+Усердность,1
+PHP-CPP,1
+ModbusTCP,1
+ELK stack,1
+Внедрение систем информационной безопасности,1
+WinAutomation,1
+Администрирование linux,1
+SAP BW,1
+Forex,1
+Умение ладить с коллективом,1
+Квантовая физика,1
+Plsql,1
+Sypress,1
+Базовые знания HTML,1
+Базовые знания Django,1
+1С Сопровождение,1
+ARM7,1
+"C, C++, C#",1
+Digital circuits design,1
+FreeRTOS,1
+"SVN, Perforce, VSS etc.",1
+Windbg,1
+Windows GUI,1
+Windows kernel mode drivers,1
+Windows system tools,1
+x86 and x64 assembly language,1
+ARC,1
+Regular Expressions,1
+SERM,1
+Технический аудит сайта,1
+Лидогенерация,1
+Знание EF Core,1
+Xquery,1
+ESLint,1
+Quasar Frame Work,1
+Electron,1
+SPA,1
+Django channels framework,1
+Leaflet API,1
+"Быстрая обучаемость, высокая мотивация",1
+Cython,1
+Понимание SOLID,1
+Умение разбирать чужой код,1
+OpenPyxl,1
+Правильное по стилистике написание своего кода,1
+"Знание ключевых паттернов разработки на ООП (Factory, Singleton, Builder)",1
+Internet of things,1
+Самообучаймость,1
+UI-автотесты,1
+Testcafe,1
+Тестирование web приложений,1
+Python / Flask,1
+создание telegram-ботов,1
+Cоздание back-end,1
+TelegramBotApi,1
+AlchemySQL,1
+"Разработка, программирование ПО",1
+Сбор данных,1
+scitik-learn,1
+Django tests,1
+Beatiful Soap4,1
+Коммуникабельность и умение работать в команде,1
+Инициативность и стремление к успеху,1
+Готов к решению нетиповых задач,1
+Ответственен и аккуратен,1
+"Всегда готов к обучению, рад любому фидбэку и конструктивной критике",1
+Автоматизация документооборота,1
+"Автоматизация, алгоритмизация, моделирование",1
+"Know discret mathematic,differential equations.",1
+"studying on department ""Nonlinear Dynamical systems and control processes"". ￼",1
+"Some view about control theory, finances",1
+"Knowing basically program languages: Pascal(have some view about Delphy),Assembler,C#,VBA,Java",1
+"Experience in C/C++,Python",1
+"Blockchain (Bitcoin core, Ethereum)",1
+Редактирование,1
+Keyring,1
+"Python(Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Requests, Lxml, statsmodels, TensorFlow)",1
+Алгоритмы машинного обучения,1
+Английский язык (Upper-Intermediate),1
+Анализ фоновых рынков,1
+Знание базовах фин инструментов,1
+wix,1
+JSdoc,1
+Gitlab-ci,1
+Nestjs,1
+Puppeteer,1
+RMQ,1
+telegram bot,1
+Желание развиваться,1
+Любовь к работе,1
+Увлеченность,1
+nuxtjs,1
+"работоспособность, выносливость и желание",1
+Office Administration,1
+Кластерный анализ,1
+DataGrip,1
+Microsoft office,1
+CatBoost,1
+"Уверенный пользователь ПК (MS Excel, Visio, Project Manager)",1
+Управление межфункциональными командами,1
+Внедрение бизнес-процессов,1
+Telegram bot: @Nefilmbot,1
+Парсинг сайтов (Телеграм: @Nefilmbot),1
+Django Full-Stack Developer,1
+Interfaces,1
+Оптоволокно,1
+Понимание алгоритмов и структур данных,1
+Лазерная техника,1
+Активная жизненная позиция,1
+Flash MySQL,1
+Внедрение информационных систем,1
+Оценка стоимости проектов,1
+Проведение переговоров,1
+Reactjs,1
+Концентрация на задаче,1
+Мультизадачность,1
+Erlang/Elixir,1
+Теория Игр,1
+Управление запасами,1
+Кооперативные игры,1
+Уверенные знания синтаксиса Python 2.x - 3.8,1
+Понимание основ ООП,1
+Знание классических алгоритмов Computer Science,1
+Администрирование серверов на Linux,1
+Алгоритмы Machine Learning,1
+Математика Neural Networks,1
+Устройство компьютерных сетей,1
+Архитектура ПК,1
+Квантовая радиофизика,1
+scikit-image,1
+Unittest (Python),1
+работа с биржами,1
+программирование на C++,1
+JavaScript(basic),1
+Chemistry,1
+Quality Control,1
+DOMObject,1
+"Анализ данных, С",1
+Django rest,1
+python (База),1
+SQL (база),1
+программирование на python,1
+знание алгоритмы и структуры данных,1
+программирование на JS(+vue.js),1
+Containers,1
+знание высшей математики,1
+знание дискретной математики,1
+Nuxt.JS,1
+ubuntu,1
+Постановочная фотография,1
+Работа с локальными сетями,1
+Дотошность,1
+bamboo,1
+Вводный инструктаж по охране труда и технике безопасности,1
+Google Apps Script,1
+Tables,1
+Pre-intermediate,1
+Умение работать с Microsoft office,1
+Git flow,1
+Репутационный менеджмент,1
+Составление семантического ядра,1
+Screaming Frog SEO Spider,1
+PageObject,1
+AWS/S3,1
+"3D, Autocad, T-FLEX, Microsoft Excel, Microsoft Word, Python Programming, Solidworks",1
+convolutional neural network,1
+object detection,1
+Знание английского языка на уровне Intermediate,1
+Общие знания CSS и HTML,1
+Разработка web приложений на php,1
+Разработка ПО на Pythhon/C++,1
+Настройка серверов под управлением Linux/BSD систем.,1
+Elasti,1
+Webdriver,1
+*nix,1
+GPO,1
+"Качественно, быстро, аккуратно",1
+Symfony framework,1
+Socket io,1
+Redis cache,1
+Logstash,1
+понимание ООП и функционального программирования,1
+умение работать с фреймворком flask,1
+информатика,1
+MS Office (8/10),1
+1с - Битрикс (5/10),1
+Adobe Photoshop (7/10),1
+Adobe Illustrator (7/10),1
+"База Html, Сss, JavaScript (3/10)",1
+Python (3/10),1
+Adfox (8/10),1
+Управление персоналом (5/10),1
+Знание Unix-систем,1
+Масс-спектрометрия,1
+Геномное секвенирование,1
+Протеомика,1
+Эконометрика,1
+Python (PyQt5),1
+"Python (post, get, ssh, ftp, sftp)",1
+Многопоточное программирование,1
+google-мастер,1
+Метрология,1
+Fullstack разработчик на Python,1
+Jango,1
+парсинг данных,1
+"Windows, Linux, IOS, Android (8/10)",1
+py.test,1
+базовые знания django,1
+TelegramBot,1
+умение работать с sql,1
+базовое знание frontend технологий,1
+"языки программирования c++, python",1
+Умение работать с git,1
+гугл:),1
+Visual Code,1
+Mac OS X,1
+Sublime Text,1
+python gui,1
+VVVV,1
+Numphy,1
+React js,1
+swi prolog,1
+базовые навыки работы в 1С,1
+Опыт управления людьми,1
+Навыки стратегического планирования,1
+Навыки проведения деловых переговоров,1
+ArchLinux,1
+8 лет работы в *nix стстемах,1
+Настойчивость,1
+Энергичность,1
+Ubunty,1
+Keras/Tensorflow,1
+Django/DRF,1
+Interpersonal skills,1
+RFID,1
+NFC,1
+packet tracer,1
+bartender,1
+sympy,1
+computer science,1
+Simultaneous Translation,1
+Cranban,1
+Vuforia Augmented Reality SDK,1
+Android-разработка,1
+Decision Trees,1
+Актианые продажи,1
+Model Validation,1
+Survival Analysis,1
+Statistical Modeling,1
+Artificial Intelligence,1
+Default Loss Distributions,1
+Cointegration,1
+Monte Carlo Simulation,1
+Quantitative Methods in Finance,1
+Market Risk Modeling,1
+Data Visualization and Graphics,1
+AWT,1
+реализация товаров и услуг,1
+Расчет затрат,1
+Учет ТМЦ,1
+Sciki,1
+Scikit learn,1
+Skretch,1
+Желание познавать новое,1
+erWin,1
+ArchiMate,1
+знание Excel,1
+Altea,1
+mathplot,1
+Data Scraping,1
+Переустановка windows,1
+Установка windows 10,1
+Разблокировка телефона,1
+Умение писать мини программы для компа,1
+Проф пользователь ПК,1
+Активация Windows,1
+Первичная документация,1
+Navision,1
+Основные средства,1
+ТМЦ,1
+прохождение налоговых проверок,1
+R Programming,1
+Model Development,1
+Linear Regression,1
+HIVE,1
+PySpark,1
+любовь к своему делу,1
+Servicedesk,1
+Знание основ UNIX-систем,1
+Знание компьютеров на уровне эксперта,1
+Лёгкость обучения,1
+Настоийивость,1
+Технический подход,1
+Ведение клиентской базы,1
+Документооборот,1
+Работа с дебиторской задолженностью,1
+Логистика поставок,1
+Hypersonic Sql,1
+Lazarus,1
+Arduino IDE,1
+Составление рабочей документации,1
+"Способность к обучению, умение работать в команде,",1
+Стратегический менеджмент,1
+Orm Django,1
+Python-telegram-bot,1
+Эффективное решение проблем,1
+HDFS,1
+Rubygems,1
+SAS Programming,1
+Оперативность,1
+Support Vector Machine,1
+Forecasting,1
+WinForms,1
+JS/React,1
+Решительный,1
+Открыт для новых знаний,1
+Уверенный,1
+Надежный,1
+"C, C++, C#, Java, Android, Python",1
+GLSL,1
+Django-Channels,1
+pyTelegrambotAPI,1
+qlik sense,1
+БДР БДДС,1
+"Python 3, Django, HTML (основы)",1
+DirectX 11,1
+WinAPI,1
+Параллельное программирование,1
+Опыт управления персооналом,1
+Опыт работы с международными организациями,1
+Hive,1
+Micropython,1
+Iiko,1
+Знание Python/Django,1
+Node,1
+BAS (Browser Automation Studio),1
+IT-шник,1
+python-стажер,1
+Webflow,1
+Knockout.js,1
+BLoC,1
+"Усидчивый,",1
+Люблю решать задачи.,1
+"Люблю объяснять то, что хорошо знаю сам.",1
+Python. Django. Django rest framework. Понимание реляционных баз данных. Git. OOP. UnitTest.,1
+Анализ временных рядов,1
+Quick learning,1
+Visual Basic Applications,1
+Составление чертежей,1
+Selenium Python,1
+Convolutional Neural Networks and Image Classification,1
+TICK стэк,1
+ELK стэк,1
+Kali Linux,1
+SpaCy,1
+SkLearn,1
+Phase2,1
+ESXI,1
+Jelastic,1
+Mac Os X Server,1
+cacti,1
+"Languages: Python, HTML, CSS, Javascript",1
+"DB technologies: MySQL, PostgreSQL",1
+"Tools: Git, GitLab, GitHub, Jupyter Notebook",1
+OS: Mac OS,1
+IDE: PyCharm,1
+English Proficiency: Pre-Intermediate,1
+"Frameworks: Odoo, Django, Bootstrap, Stimulus",1
+Генерация идей,1
+Навыки планирования,1
+MS Azure,1
+MS VSTS,1
+Oracle WebLogic,1
+Oracle Access Manager,1
+Oracle HTTP Server,1
+Удаленная работа,1
+SQL Server Express,1
+"Python, Django, SQL, GIT",1
+RQ,1
+ECMAScript6,1
+wowza,1
+Red hat,1
+Micromine,1
+Leapfrog,1
+"Request, Beautifull Soup, Selenium, Django",1
+Delphi system programming,1
+Наставничество,1
+Финансовый менеджмент,1
+Jinja,1
+Высоконагруженные системы,1
+"OpenCV, Pytesseract",1
+urllib,1
+sqlite3,1
+pytesseract,1
+cv2,1
+OpenFaas,1
+Sourcetree,1
+Flask-restful,1
+Верстка Div,1
+DRF (Django REST framework),1
+parsing (with BF4),1
+gitlab cd/ci,1
+Influx/telegraf/grafana,1
+apache kafka,1
+Stress resistance,1
+Resourcefulness,1
+lateral thinking,1
+Тренинги,1
+"Bootstrap , css",1
+"Open-Cv, Pyperclips, Linux",1
+Jqury,1
+Целеустремленный,1
+Упорный,1
+Дисциплинированный,1
+Пунктуальный,1
+DjangoCMS,1
+Cтремление к профессиональному росту,1
+Умение учиться нон-стоп,1
+Эмоциональный интеллект,1
+Аналитический подход,1
+Упорство и усидчивость,1
+IBM Rational,1
+MacOS,1
+MSVisio,1
+Битрикс24‎,1
+Фондовые рынки,1
+Фундаментальный анализ,1
+Технический анализ,1
+"js, React, Node.js, php, MySQL, html, css,",1
+"python, ML",1
+Delphi android,1
+Php codeigniter,1
+"Знание JavaScript, HTML5, CSS3",1
+Работа в Linux системах,1
+CryptoCurrency,1
+SparkAR,1
+Искусственные нейронные сети,1
+Обучение с подкреплением,1
+Npm,1
+GulpJS,1
+telegramm bot,1
+Бесконфликтность,1
+"Microsoft word,excel",1
+CorelDRAW Photo Draw,1
+Не боюсь ошибаться,1
+Ionic Framework,1
+Ms,1
+имею опыт разработки сверточной нейронной сети на с++,1
+Управление,1
+Изучение новых технологий,1
+Железо,1
+Встраиваемые системы,1
+Логическое мышление,1
+Регулярное обучение,1
+Умение находить общий язык,1
+Automation,1
+Object Detection,1
+Способность быстро обучаться,1
+Умение концентрироваться,1
+Page Object Model,1
+Ubuntu 20.04,1
+socketio,1
+использую клиент-серверную архитектуру (TCP/UDP),1
+имеется опыт программирования микроконтроллеров,1
+умею и люблю собирать и паять электрические схемы,1
+Мотивированность,1
+Android Jetpack,1
+thymeleaf,1
+Dagger2,1
+Retrofit2,1
+ReactNative,1
+Pinnacle Studio,1
+Умение брать ответственность,1
+Умение работать в базах данных Mysgl и им подобных,1
+Знание css и html,1
+"Работа в Git, githab",1
+Знание основ javascript,1
+Работа в linux,1
+Знание программ 1С,1
+умение работать с Figma,1
+работа по сетке bootstrap и других фреймов,1
+Python Requests,1
+Python Selenium,1
+fitnesse,1
+ci/cd,1
+EC2,1
+Stress-resistance,1
+Abstract Algebra,1
+Theory of Probabilities,1
+Computer Networks,1
+Architecture of Computer,1
+English(Upper-Intermediate),1
+Радио,1
+Легко нахожу общий язык,1
+Linux на уровне пользователя,1
+cv,1
+JIRA,1
+nlp,1
+Подключение‚ настройка и обслуживание ПК,1
+СУБД: MS SQL Server;,1
+Умение планировать работу,1
+"Хорошая обучаемость, огромное желание узнать что-то новое",1
+"Знание ЯП: C#, C++",1
+Хорошее знание Python,1
+Есть небольшой опыт в области машинного обучения,1
+Excel,1
+LiteSQL,1
+ICT Scanner,1
+Object-Oriented Programming,1
+OAuth 2,1
+Cloud Formation,1
+UVM,1
+Azure AD,1
+Test driven development,1
+Быстрая адаптация,1
+Знание языков,1
+Желание стать лучше,1
+Умение работать с деньгами,1
+Оперативный поиск в интернете,1
+Знание языков программирования,1
+Компьютерные навыки,1
+StackOverFlow,1
+Консоль разработчика,1
+Искусственный интеллект,1
+GitLab CI/CD,1
+R&D,1
+разработка чат-ботов,1
+"Технические навыки: знания Python, опыт работы с анализом и визуализацией данных.",1
+"Знаком с базой данных Postgresql, и с некоторыми библиотеками ML(PyTorch, Scikit-Learn)",1
+Знания С++/C#,1
+System Testing,1
+Integration Testing,1
+SystemVerilog,1
+использую многопоточную архитектуру там где это нужно,1
+использую OpenGL при разработке (визуализация),1
+Опыт работы с Postgresql,1
+pep8,1
+Microservice Development,1
+JavaScript основа,1
+Работа с DB-API,1
+Прекрасное знание английского языка,1
+Знание многих языков программирования,1
+Reverse Engineering,1
+Penetration testing,1
+Djangorest framework,1
+aio,1
+Telegram боты,1
+IT инфраструктура,1
+работаю в фреймворке Qt,1
+Знание механизмов работы сетей TCP/IP.,1
+"Web, mail, firewall, DNS, DHCP, AD, bash, Perl, SQL, Asterisk, FreePBX",1
+"СБР (Система безналичного расчета), POS терминалы",1
+"Vlan, VPN",1
+"IP телефония, IP камеры",1
+Готов обучаться далее,1
+Quasar,1
+git/github,1
+DVC,1
+"Python, PyCharm, основы Django, HTML, Git",1
+Написал диплом на Python,1
+Начальный навык Adobe Photoshop,1
+Продолжаю учить Python,1
+Отлично разбираюсь в компьютере,1
+Опыт работы с vagrant,1
+Опыт работы с grunt и sass,1
+Algorithm and Data Structures,1
+dd,1
+Быстрая скорость печати,1
+asyncio\aiohttp,1
+GOLang,1
+pundas,1
+scikit,1
+sqlachemy,1
+PyTelegramBotApi,1
+django-oscar,1
+odoo,1
+Умение быстро учиться,1
+Python core,1
+Знания Python на уровне Junior - разработчика,1
+Опыт работы в Photoshop,1
+Быстро обучаюсь,1
+.Net,1
+UE4,1
+Directum,1
+paddlepaddle,1
+XML-RPC,1
+Sockets,1
+Cryptography,1
+Computational Geometry,1
+Mathematics,1
+Apache Jmeter,1
+Advertising,1
+ATL,1
+Media Planning,1
+Data Mining: Gallup,1
+Data Mining: Comcon,1
+Data Mining: Espar,1
+falcon,1
+Git/ Github,1
+Sympy,1
+Международные контакты,1
+Закупка товаров и услуг,1
+С\С++,1
+Умение решать новые задачи.,1
+Анализ научной литературы,1
+быстро и с увлечением учусь новому,1
+"Разрабатываю ПО для Linux, Windows, Android систем.",1
+"Программирую на C++, Java, Python",1
+работаю в Android Studio,1
+Information Networks,1
+information proccesing,1
+ExtJS,1
+team player,1
+Open VZ,1
+github,1
+Insomnia,1
+Wireshark,1
+QNX,1
+REST-API,1
+IIS,1
+Yii 1,1
+aioHttp,1
+Qlik sense,1
+Scikit,1
+REST Framework,1
+growth hacking,1
+Web-Storm,1
+Django Rest Fraemwork,1
+VueJs,1
+Python разработка,1
+Async/await,1
+Разработка требований,1
+Easy to learn and use new things,1
+Good problem solving skills,1
+умение разобраться в чужом коде,1

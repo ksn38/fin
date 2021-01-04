@@ -1,0 +1,579 @@
+tag,count
+Python,831
+Django Framework,315
+PostgreSQL,313
+Git,296
+Linux,263
+SQL,239
+JavaScript,112
+MySQL,93
+Английский язык,81
+MongoDB,80
+ООП,78
+Redis,70
+Английский — B1 — Средний,63
+Flask,60
+C++,57
+Docker,55
+CSS,54
+Английский — B2 — Средне-продвинутый,49
+HTML,48
+RabbitMQ,36
+REST,35
+Atlassian Jira,32
+Java,29
+Nginx,23
+Работа в команде,21
+QA,21
+Bash,21
+Agile Project Management,21
+XML,20
+Celery,19
+React,19
+MS SQL,18
+Английский — A1 — Начальный,18
+AWS,18
+Scrum,16
+HTML5,16
+Unix,16
+Node.js,16
+Базы данных,15
+Django,15
+PHP,15
+asyncio,14
+jQuery,14
+Обучение и развитие,14
+Selenium IDE,14
+AngularJS,13
+Asyncio,13
+API,13
+Kubernetes,13
+Unit Testing,12
+HTTP,12
+NoSQL,12
+REST API,11
+Преподаватель,11
+kafka,11
+Go,10
+Solid,10
+GRASP,10
+TCP/IP,9
+Веб-программирование,9
+Vue,9
+Pandas,9
+CI/CD,8
+ORACLE,8
+Data Mining,8
+C/C++,8
+Tornado,8
+Ajax,8
+DRF,7
+Тестирование,7
+Mac Os,7
+Golang,7
+Автоматизированное тестирование,7
+aiohttp,7
+SOAP,7
+MATLAB,7
+Kafka,7
+Jenkins,7
+SVN,6
+python3,6
+TypeScript,6
+Английский — A2 — Элементарный,6
+CSS3,6
+Аналитическое мышление,6
+СУБД,6
+MS Access,6
+Организация учебного процесса,6
+docker,6
+Clickhouse,6
+Teamplayer,5
+JSON API,5
+Бизнес-анализ,5
+Автоматизация,5
+Проведение тестирований,5
+Django Rest Framework,5
+MS Visual Studio,5
+Анализ данных,5
+Работа с базами данных,5
+Android,5
+Test case,5
+Qt,5
+Teamleading,5
+Администрирование серверов Linux,5
+Обучение,5
+Machine Learning,5
+ML,5
+Airflow,5
+Пользователь ПК,5
+Английский — C1 — Продвинутый,5
+Data Analysis,5
+C#,5
+React Native,5
+Функциональное тестирование,5
+Selenium,5
+SQLAlchemy,5
+SCALA,4
+Разработка технических заданий,4
+Unix Shell Scripts,4
+numpy,4
+NumPy,4
+Управление проектами,4
+JSON,4
+pandas,4
+VBA,4
+Elasticsearch,4
+Web Application Development,4
+STL,4
+backend,4
+Tensorflow,4
+Математическое моделирование,4
+Управление командой,4
+FastAPI,4
+Математическая статистика,4
+ORM,4
+Big Data,4
+Разработка ПО,4
+Pyramid,4
+ElasticSearch,4
+ReactJS,4
+iOS,4
+GitLab,3
+Креативность,3
+DevOps,3
+Kibana,3
+tensorflow,3
+ES6,3
+Vuex,3
+Python 3,3
+Deep Learning,3
+Google Docs,3
+Angular,3
+Vue.js,3
+С,3
+SOLID,3
+Perl,3
+CRM,3
+Redux,3
+ClickHouse,3
+Aiohttp,3
+React.js,3
+MVC,3
+Грамотная речь,3
+Умение работать в команде,3
+NLP,3
+kubernetes,3
+pytest,3
+Greenplum,3
+Cистемы управления базами данных,3
+Oracle Pl/SQL,3
+Apache HTTP Server,3
+Computer Science,2
+Azure,2
+SaaS,2
+JWT,2
+RESTful API,2
+Расстановка приоритетов,2
+Hadoop,2
+Swagger,2
+MS SharePoint,2
+iohttp,2
+Разработка нового продукта,2
+Аналитические исследования,2
+Odoo,2
+Matplotlib,2
+MS PowerPoint,2
+Autodesk Maya,2
+PEP8,2
+.NET Framework,2
+PyTest,2
+Ubuntu,2
+Машинное обучение,2
+Twisted,2
+Управление временем,2
+Spring Framework,2
+BPMN,2
+WebGL,2
+Аналитический склад ума,2
+Ruby,2
+Visual Basic,2
+Gitlab,2
+AIOHTTP,2
+SOX,2
+it,2
+MapReduce,2
+golang,2
+автоматизация тестирования,2
+AioHTTP,2
+data science,2
+HighLoad,2
+EdgeComputing,2
+Development,2
+ComputerVision,2
+Ansible,2
+Групповое обучение,2
+Internet,2
+математика,2
+нейронные сети,2
+компьютерное зрение,2
+Управление разработкой,2
+ELK,2
+allure,2
+XML/Xslt,2
+Agile,2
+Jinja,2
+vue.js,2
+Software Architecture,2
+Spark,2
+Angular 2+,2
+руководство командой разработчиков,2
+Pascal,2
+Windows,2
+ffmpeg,2
+Умение работать в коллективе,2
+Mercurial,2
+back-end,2
+Opera,2
+Mongo,2
+aws,2
+SQLite,2
+Atlassian Confluence,2
+Документооборот,2
+sklearn,2
+Sentry,2
+Keras,2
+react,2
+Информационные технологии,2
+Микросервисы,2
+Eclipse,2
+Design Patterns,2
+Математический анализ,2
+RESTful,2
+Windows Os,2
+Networking,2
+Автоматизация тестирования,2
+JS,1
+VMware,1
+Розничная торговля,1
+Фитнес,1
+APM Civil Engineering,1
+Product Management,1
+Cubernetes,1
+Linux Shell,1
+Общая психология,1
+Groovy,1
+Fullstack,1
+terraform,1
+Ubuntu Server,1
+Аналитические способности,1
+Регресcионное тестирование,1
+Тренинги,1
+FlastAPI,1
+PostGIS,1
+webhooks,1
+Project management,1
+FastApi,1
+Ответственность,1
+Business Intelligence Systems,1
+Корпоративная этика,1
+Business English,1
+Next.js,1
+3D,1
+GCP,1
+Graphql,1
+Системная интеграция,1
+k8s,1
+Yandex Cloud,1
+Kanban,1
+Plotly by Dash,1
+DRY,1
+KISS,1
+Ruby On Rails,1
+Security Operation Center,1
+EC2,1
+SOC,1
+React NATIVE,1
+инфраструктура,1
+Objective-C,1
+swift,1
+Google Cloud Platform,1
+Администрирование,1
+openstack,1
+GCP (Good Clinical Practice),1
+Software Development,1
+облачные технологии,1
+PySpark,1
+CloudForms,1
+Проведение презентаций,1
+Коммуникативные навыки,1
+микросервисная инфраструктура,1
+K8S,1
+Языки программирования,1
+ansible,1
+Scratch,1
+Деловая коммуникация,1
+Black box testing,1
+GIS,1
+оркестраторы,1
+Amazon Web Services,1
+PyCharm,1
+Manage IQ,1
+Rabbit MQ,1
+yocto,1
+Django REST,1
+Three.js,1
+цифровая подпись,1
+web программирование Python,1
+Python/C,1
+язык C,1
+криптография,1
+Знание языков программирования,1
+Проектная деятельность,1
+Линейная алгебра,1
+TeamCity,1
+MS Excel,1
+Zabbix,1
+Elixir,1
+Cordova,1
+Системное мышление,1
+SAP,1
+CPQ,1
+Vue.JS,1
+Умение планировать,1
+криптосистемы,1
+embedded,1
+ARM,1
+Testing Framework,1
+XYZ-анализ,1
+построение моделей,1
+consumer insight,1
+клиентский путь,1
+Публичные выступления,1
+Linux/Unix,1
+posgresql,1
+kurento,1
+Управление талантами,1
+Start-up project,1
+Computer Vision,1
+Artificial Intelligence,1
+Video Processing,1
+AQA,1
+back end,1
+Организаторские навыки,1
+Ориентация на результат,1
+Грамотность,1
+MS Word,1
+Experience in custom ETL/ELT design,1
+KVM,1
+Prototype Js,1
+restapi,1
+buildroot,1
+Подготовка презентаций,1
+Embedded,1
+серверные комп,1
+беспилот,1
+Typing,1
+Сетевые технологии,1
+Автотестирование,1
+OAuth2,1
+web-scraping,1
+Parsing,1
+Scikit-learn,1
+XGBoost,1
+Debian,1
+Experience of at least one commercial BI platform e.g. Metabase,1
+implementation and maintenance,1
+RPA,1
+Роботизация,1
+Amazon S3,1
+WS,1
+Openshift,1
+php7,1
+Magento,1
+Zend Framework,1
+Коммуникабельность,1
+Обучение персонала,1
+OpenStack,1
+Тестирование пользовательского интерфейса,1
+QA Automation,1
+MS Project,1
+GRPC,1
+GO,1
+uipath,1
+VB,1
+MS Visio,1
+Delphi,1
+Back-end,1
+OpenCV,1
+Niginx,1
+Pytorch,1
+Bootstrap,1
+микросервисы,1
+Asterisk,1
+FreeSWITCH,1
+VoIP,1
+Openstack,1
+Rust,1
+бот,1
+TDD,1
+HTML5\CSS3,1
+Mathematical Modeling,1
+ES5+,1
+PostgeSQL,1
+DevOps methodology,1
+Numpy,1
+ETL,1
+koji,1
+Контроль качества,1
+Houdini,1
+Scalable Microservices,1
+OpenGL,1
+OpenCL,1
+квант,1
+UI тестирование,1
+Postgres,1
+Helm,1
+Jupyter,1
+Luigi,1
+Workflow Management,1
+Game Programming,1
+биржевые роботы,1
+криптовалюты,1
+GraphQl,1
+team leader,1
+SDLC,1
+биткоин,1
+Highload,1
+Bitcoin,1
+cryptocurrencies,1
+InfluxDB,1
+Навыки межличностного общения,1
+GWT,1
+Adobe Dreamweaver,1
+Многопоточное программирование,1
+Borland Delphi,1
+Сбор и анализ информации,1
+Fastapi,1
+Code review,1
+шаблоны проектирования,1
+AsyncIO,1
+BigQuery,1
+pytest/unittest,1
+Асинхронное программирование,1
+.Net Core,1
+Ansiible,1
+aioamqp,1
+Статистический анализ,1
+PyTorch,1
+Prometheus,1
+парсинг,1
+Grafana,1
+parsing,1
+методология тестирования,1
+работа с детьми,1
+Линейное программирование,1
+Закупка товаров и услуг,1
+Деловая этика,1
+Тайм-менеджмент,1
+Деловое общение,1
+Pymorphy,1
+Gunicorn,1
+UI,1
+Restful API,1
+Математическое программирование,1
+Оптимизация бизнес-процессов,1
+Pl/Python,1
+celery,1
+PostreSQL,1
+VUE.js,1
+GoLang,1
+С#,1
+Нейронные сети,1
+Laravel,1
+Leadership Skills,1
+Организационное проектирование,1
+word2vec,1
+OAuth,1
+Robot Framework,1
+Test automation,1
+SQL-запит,1
+Tableau,1
+Power BI,1
+DDD,1
+Web Design,1
+Web-дизайн,1
+Unity,1
+BERT,1
+Python 3+,1
+Behave,1
+Teambuilding,1
+FineReader,1
+Machine learning,1
+DockerCompose,1
+Channels,1
+RestfullAPI,1
+protobuf,1
+MS SQL Server,1
+Java Script,1
+XHTML,1
+gRPC,1
+CentOS,1
+Quality assurance,1
+Tester,1
+MS Office,1
+"«Django Framework», «SQL», «Vue», «Data science», «Redis», «Asyncio», «Ubuntu Server».",1
+clickhouse,1
+Flink,1
+Javascript (ES6),1
+ECMAScript,1
+Postgre,1
+Управление персоналом,1
+VueJS,1
+Инвестиции,1
+Управление затратами,1
+REST-API,1
+React.JS,1
+Amazon,1
+Оперативный поиск информации в сети Интернет,1
+Angular2+,1
+сверточные нейронные сети,1
+Творческое мышление,1
+MS Visual Basic,1
+Microsoft Visual Studio,1
+проведение тренингов,1
+Visual C++,1
+Visual Studio C#,1
+Java SE,1
+MS Visual C++,1
+Информационная безопасность,1
+Jinja2,1
+sanic,1
+grpc,1
+hadoop,1
+нейронка,1
+Модели машинного обучения,1
+Торговля,1
+fasttext,1
+OpenWRT,1
+computer vision,1
+Интервьюирование,1
+machine learning,1
+Английский - В1 - Средний,1
+webrtc,1
+angular,1
+drf,1
+алготрейдинг,1
+Строительство,1
+Жилая недвижимость,1
+удаленная работа,1
+нейросети,1
+GraphQL,1
+Jupyter Notebook,1
+ZooKeeper,1
+Filebeat,1
+CNN,1
+deep learning,1
+keras,1
+opencv,1
+IT,1

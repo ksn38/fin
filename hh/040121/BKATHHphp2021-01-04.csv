@@ -1,0 +1,4422 @@
+tag,count
+MySQL,2821
+PHP,2704
+JavaScript,2508
+jQuery,2126
+HTML,2024
+CSS,1949
+Git,1929
+ООП,1488
+Ajax,1435
+HTML5,1424
+CSS3,1244
+PHP5,1209
+Linux,1178
+SQL,1022
+Bootstrap,1008
+MVC,740
+CMS Wordpress,685
+Yii,679
+Laravel,634
+Adobe Photoshop,632
+PostgreSQL,562
+XML,477
+Веб-программирование,462
+Nginx,424
+phpMyAdmin,394
+Apache HTTP Server,374
+Symfony,368
+1С-Битрикс,363
+Joomla CMS,343
+Python,285
+Jetbrains Phpstorm,276
+Redis,273
+Java,272
+SVN,265
+Docker,258
+MS SQL,250
+REST,238
+Управление проектами,236
+Yii2,235
+Node.js,222
+C#,220
+MongoDB,218
+JSON API,210
+C++,200
+SEO,196
+AngularJS,179
+Zend Framework,179
+PHP7,163
+Memcached,151
+Codeigniter,143
+Администрирование серверов Linux,139
+Atlassian Jira,139
+Английский язык,137
+Работа в команде,135
+Пользователь ПК,133
+Администрирование сайтов,130
+API,127
+Sass,120
+laravel,118
+CorelDRAW,117
+Smarty,113
+RabbitMQ,107
+JSON,101
+PHPUnit,101
+Vue.js,100
+Less,97
+SOAP,96
+Создание сайтов,93
+Delphi,91
+Adobe Illustrator,91
+Design Patterns,90
+Sphinx,84
+Ведение переговоров,82
+Ответственность,82
+Drupal API,79
+Bash,78
+Управление персоналом,77
+MS SQL Server,76
+Разработка ПО,75
+Web Application Development,74
+Работа с базами данных,73
+React,72
+Gulp,71
+Composer,71
+PHP4,70
+MS PowerPoint,70
+Windows 7,69
+Scrum,67
+CRM,65
+Unix,65
+ORACLE,65
+Mercurial,64
+Cистемы управления базами данных,64
+Unit Testing,62
+Настройка ПК,62
+Vue,61
+Организаторские навыки,60
+HTTP,59
+Django Framework,59
+Базы данных,59
+Управление интернет-проектами,58
+Redmine,57
+Visual Studio C#,56
+Обучаемость,55
+MS Visual Studio,53
+Кроссбраузерная верстка,53
+MS Office,53
+C/C++,53
+SQLite,52
+Работоспособность,51
+Грамотная речь,51
+MS Access,50
+Android,50
+Oracle Pl/SQL,48
+MS Excel,47
+Администрирование,47
+Magento,46
+VueJS,46
+Borland Delphi,45
+Ubuntu Server,44
+HTML-верстка,44
+Исполнительность,44
+Debian,43
+Администрирование серверов Windows,42
+Ремонт ПК,42
+Верстка,40
+OpenCart,40
+Обучение персонала,39
+LAMP,38
+yii2,38
+Разработка CMS,38
+Ubuntu,38
+Teamleading,37
+Vkontakte Api,37
+Pascal,37
+Codelgniter Framework,37
+Facebook API,37
+ASP.NET,36
+Деловая переписка,36
+Android SDK,36
+CentOS,36
+Perl,36
+NetBeans,35
+SOLID,35
+Web-дизайн,35
+XML/Xslt,35
+NoSQL,34
+Администрирование сетевого оборудования,34
+Agile Project Management,34
+CSS-верстка,34
+Коммуникабельность,33
+MS Word,33
+Backbone,33
+Веб-дизайн,33
+ElasticSearch,33
+AutoCAD,32
+Настройка серверов Apache,32
+Internet,32
+руководство командой разработчиков,32
+Настройка сетевых подключений,32
+Golang,32
+Настройка ПО,32
+SEO оптимизация,32
+Vagrant,31
+Doctrine,31
+Phalcon,31
+Водительское удостоверение категории B,31
+Сборка ПК,31
+Ext JS,31
+Поиск информации в интернет,31
+Elasticsearch,30
+Twig,30
+JS,30
+Google API,30
+ORM,30
+MS Outlook,30
+.NET Framework,30
+FirebirdSQL,29
+Jenkins,29
+Аналитическое мышление,29
+Деловое общение,28
+Codeception,28
+Webpack,28
+TDD,28
+Unity,27
+Opencart,27
+docker,27
+MS Visual Basic,26
+Интернет-реклама,26
+Руководство коллективом,26
+Стрессоустойчивость,26
+Kohana,26
+Управление командой,26
+Mac Os,25
+Целеустремленность,25
+Web Design,25
+Умение работать в команде,25
+ReactJS,24
+Поисковая оптимизация сайтов,24
+Go,24
+1С программирование,24
+OOP,24
+Microsoft Visual Studio,24
+1С: Предприятие 8,24
+Google Analytics,23
+Assembler,23
+Продвижение сайтов,22
+Redux,22
+Грамотность,22
+php7,22
+Постановка задач разработчикам,22
+Object Pascal/Delphi,22
+Spring Framework,22
+Qt,22
+UML,22
+Яндекс.Метрика,22
+FreeBSD,22
+Turbo Pascal,21
+Angular,21
+Laravel 5,21
+Техническое обслуживание,21
+SCSS,21
+VBA,21
+Серверное программирование,20
+TCP/IP,20
+Информационные технологии,20
+СУБД,20
+Active Directory,20
+REST API,20
+Embarcadero Delphi,20
+Unix Shell Scripts,19
+vue.js,19
+Наполнение контентом,19
+Настройка DNS,19
+Ruby On Rails,18
+Yandex Maps API,18
+Visual Basic,18
+1C: Бухгалтерия,18
+TypeScript,18
+vue,17
+Project management,17
+MS Visual C++,17
+Техническая поддержка,17
+Transact-SQL,17
+Проведение презентаций,17
+Windows Xp,17
+Windows Os,17
+Google Maps Api,17
+Яндекс.Директ,17
+composer,17
+Администрирование серверов,17
+Работа с большим объемом информации,17
+Java SE,17
+iOS,17
+Adobe InDesign,17
+Google AdWords,16
+Asterisk,16
+Поиск и привлечение клиентов,16
+Eclipse,16
+VueJs,16
+Flask,16
+Адаптивная верстка,16
+js,15
+modx,15
+Intellij IDEA,15
+Twitter Api,15
+Телефонные переговоры,15
+Управление продажами,15
+Ruby,15
+Тестирование,15
+Drupal,15
+Apache,15
+CMS,15
+DHCP,14
+YII2,14
+C,14
+Умение работать в коллективе,14
+Точность и внимательность к деталям,14
+AWS,14
+Yii 2,14
+Настройка серверов,14
+Vuex,14
+ES6,14
+Копирайтинг,13
+Subversion,13
+Internet Marketing,13
+Пунктуальность,13
+Ansible,13
+Windows Server 2003,13
+Borland C++,13
+Behat,13
+Разработка технических заданий,13
+opencart,13
+Windows,13
+PDO,13
+SPA,13
+Vuejs,13
+ClickHouse,13
+twig,12
+Активные продажи,12
+Flash Actionscript,12
+Информационная безопасность,12
+База данных: Oracle,12
+Gearman,12
+MODx,12
+GitLab,12
+Bitbucket,12
+Adobe After Effect,12
+PHP 7,12
+Jira,12
+MariaDB,12
+Hibernate ORM,12
+Блочная верстка,12
+Symfony 2,12
+DDD,12
+Lumen,12
+Управление разработкой,12
+Zabbix,11
+IIS,11
+Заключение договоров,11
+Работа с оргтехникой,11
+Java EE,11
+Аналитический склад ума,11
+Selenium,11
+VoIP,11
+webpack,11
+Контекстная реклама,11
+E-Commerce,11
+XHTML,11
+Visual C++,11
+Google Docs,11
+CoffeeScript,11
+amoCRM,11
+Обучение и развитие,11
+SSH,11
+Figma,11
+Selenium IDE,11
+Настройка VPS/VDS серверов,10
+Windows Server,10
+XPath,10
+Ориентация на результат,10
+Adobe Dreamweaver,10
+Adobe Premier Pro,10
+Apache Maven,10
+Холодные продажи,10
+MODX,10
+Swagger,10
+Креативность,10
+Software Development,10
+GraphQL,10
+Apache Tomcat,10
+Bitrix,10
+React.js,10
+Atlassian Confluence,10
+Windows Server 2008 R2,10
+ModX,10
+3D Моделирование,10
+Flex,10
+Modx,10
+WPF,10
+PSR,10
+Подбор персонала,10
+UI,10
+GitHub,10
+React Native,10
+Анализ данных,10
+Js,9
+Системы видеонаблюдения,9
+Работа с людьми,9
+Навыки продаж,9
+Автоматизация,9
+Математический анализ,9
+Silex,9
+Математическое программирование,9
+highload,9
+MySQL GUI Tools,9
+Wordpress,9
+MS Dos,9
+Прямые продажи,9
+Oracle 11G,9
+Консультирование,9
+kohana,9
+Творческое мышление,9
+Kubernetes,9
+JSP,9
+Графический дизайн,9
+DLE,9
+MSSQL,9
+Поисковые системы,9
+Windows Server 2012,9
+npm,9
+Bitrix24,9
+Cisco,9
+Adobe Flash,9
+GIMP,9
+Windows Forms,9
+Team management,9
+Разработка концепции,8
+MATLAB,8
+Prestashop,8
+Doctrine 2,8
+Microsoft Access,8
+Blender 3D,8
+Обучение,8
+MS Visio,8
+Highload,8
+TeamCity,8
+Php7,8
+3ds Max,8
+ExtJS,8
+CI/CD,8
+Objective-C,8
+Big Data,8
+Развитие продаж,8
+WebSocket,8
+Проектирование,8
+Vue js,8
+Cordova,8
+vuejs,8
+Slim,8
+vagrant,8
+Laravel Framework,8
+Веб-аналитика,8
+Firebase,7
+Networking,7
+SMM,7
+Django,7
+Bitrix Api,7
+FTP,7
+WordPress,7
+DevOps,7
+October CMS,7
+golang,7
+PSR-4,7
+Autodesk 3ds Max,7
+phalcon,7
+Cassandra,7
+Gitlab,7
+С#,7
+Средства криптографической защиты информации,7
+Интернет маркетинг,7
+Twitter Bootstrap,7
+Vue.JS,7
+VMware,7
+Shell Scripting,7
+Навыки презентации,7
+CMS OpenCart,7
+SQL Server,7
+Kotlin,7
+Оптимизация кода,7
+Sony Vegas,7
+Организация мероприятий,7
+Lua,7
+Функциональное тестирование,7
+SEO-копирайтинг,7
+Анализ посещаемости сайтов,7
+drupal,7
+Слепая печать,7
+codeception,7
+Обновление конфигурации 1С,7
+Prototype Js,6
+Nuxt.js,6
+Социальные сети,6
+PHP3,6
+Java Script,6
+Расстановка приоритетов,6
+Woocommerce,6
+Деловая коммуникация,6
+Техническая документация,6
+Symfony2,6
+CakePHP,6
+Swift,6
+LARAVEL,6
+B2B Продажи,6
+SVG,6
+Laravel5,6
+Scss,6
+адаптивная верстка,6
+NPM,6
+Статистический анализ,6
+Валидная верстка,6
+Усидчивость,6
+Битрикс24,6
+Продажи через интернет,6
+Мобильность,6
+Баннерная реклама,6
+CMS Drupal,6
+Kanban,6
+Docker-compose,6
+ADO.NET,6
+Blade,6
+Vue JS,6
+Написание статей,6
+CMS Opencart,6
+Обработка изображений,6
+Проектирование пользовательских интерфейсов,6
+ReactJs,6
+Angular 2+,6
+XML Dom,6
+json,6
+KISS,6
+DRY,6
+Системное мышление,6
+1С: Управление Торговлей,6
+Java Servlets,6
+Разработка нового продукта,6
+Оптимизация бизнес-процессов,6
+Программирование,6
+Yii framework,6
+Vuetify,6
+Коммуникативные навыки,5
+Yii Framework,5
+Adobe Premier,5
+Графические редакторы,5
+Code Optimization,5
+Монтаж оборудования,5
+Тестирование пользовательского интерфейса,5
+Видеомонтаж,5
+Трудолюбие,5
+Clickhouse,5
+MS Project,5
+HTML/CSS,5
+Настройка почтовых серверов,5
+Doctrine ORM,5
+Мини-АТС,5
+JDBC,5
+Symfony 3,5
+Аналитические исследования,5
+Организационные навыки,5
+Офисная техника,5
+Делопроизводство,5
+Magento 2,5
+Windows Vista,5
+BPMN,5
+Способность обучать других,5
+Shop Script,5
+NuxtJS,5
+Adobe Lightroom,5
+PHPbb3,5
+Быстрая обучаемость,5
+Windows 8,5
+Антивирусная защита сети,5
+Дизайн,5
+Бизнес-анализ,5
+Yandex Direct,5
+Entity Framework,5
+1С: Бухгалтерия,5
+cordova,5
+Аутсорсинг,5
+Ionic,5
+LINQ,5
+Solr,5
+Typescript,5
+Обеспечение антивирусной защиты,5
+LAN,5
+Электронный документооборот,5
+Mathcad,5
+умение работать в команде,5
+Xdebug,5
+Kafka,5
+Nuxt,5
+Системное администрирование,5
+1C,5
+socket.io,5
+memcache,5
+Drupal CMS,5
+Memcache,5
+Работа с документами,5
+Оптимизация запросов,5
+ERP,5
+Компас-3D,5
+VPN,5
+Symfony 4,5
+Системный подход,5
+Планирование,5
+Локальные сети,4
+PhoneGap,4
+User Acceptance Testing,4
+STL,4
+Порядочность,4
+Немецкий язык,4
+Математическое моделирование,4
+xDebug,4
+Flexbox,4
+Консультирование клиентов,4
+PowerShell,4
+Способность к обучению,4
+MQL,4
+Drupal 7,4
+Инженерные системы,4
+Tarantool,4
+php-fpm,4
+Varnish,4
+Win32 Api,4
+1C: Зарплата и кадры,4
+Social Media Marketing,4
+CMS Simpla,4
+Оперативный поиск информации в сети Интернет,4
+Лидерские качества,4
+Blockchain,4
+Мотивация персонала,4
+MS SharePoint,4
+Проведение тестирований,4
+Zend Expressive,4
+Virtualization,4
+BEM,4
+БЭМ,4
+Документооборот,4
+нормативно-техническая документация,4
+CMS Modx,4
+Проектирование баз данных,4
+Cinema 4D,4
+Wifi networks,4
+Zend Framework 2,4
+Разработка сайтов,4
+Pug,4
+Разработка проектной документации,4
+apache,4
+Управление временем,4
+IPTables,4
+JUnit,4
+Kohana Framework,4
+Flash,4
+XDebug,4
+Государственные закупки,4
+Youtube Api,4
+UX,4
+github,4
+1С: Предприятие 7,4
+websocket,4
+NodeJS,4
+Trello,4
+Написание текстов,4
+Solid,4
+Data Analysis,4
+Преподаватель,4
+SolidWorks,4
+Упорство,4
+1С: Зарплата и управление персоналом,4
+Adobe Design,4
+1С,4
+phing,4
+Электронная почта,4
+PayPal,4
+Документальное сопровождение,4
+ASP.NET MVC,4
+Рефакторинг кода,4
+Ремонтные работы,4
+Express.js,4
+VBScript,4
+RESTful API,4
+Желание развиваться,4
+1С: Предприятие,4
+Kubernates,4
+Slack,4
+CorelDRAW Photo Draw,4
+Табличная верстка,4
+Компьютерные сети,4
+Google Chrome,4
+Payments,4
+Amazon AWS,4
+пунктуальность,4
+Telegram API,4
+Битрикс 24,4
+Laravel framework,4
+Автоматизация производства,4
+Babel,4
+Составление семантического ядра,4
+cakephp,4
+CMS ModX,4
+react,4
+АСУ ТП,4
+Developer Express,4
+Автоматизация технологических процессов,4
+3 группа по электробезопасности,4
+PWA,3
+PHP ООП,3
+OpenCart CMS,3
+FastReport,3
+Socket,3
+bower,3
+Solaris,3
+Фотография,3
+RxJS,3
+OpenCV,3
+B2C маркетинг,3
+Оперативное планирование,3
+обучаемость,3
+LEMP,3
+Тайм-менеджмент,3
+CI,3
+Agile,3
+laravel5,3
+OpenGL,3
+Командообразование,3
+1С: Документооборот,3
+Analytical skills,3
+VUE,3
+yii 2,3
+Схемотехника электронного оборудования,3
+Административное управление,3
+Angular2,3
+Mail Server,3
+Information Security,3
+RESTful,3
+YAGNI,3
+B2C продажи,3
+AMQP,3
+docker-compose,3
+Планирование продаж,3
+программирование,3
+GoLang,3
+ERP Systems,3
+Xcode,3
+angular,3
+cron,3
+Пуско-наладочные работы,3
+Бизнес-планирование,3
+Фотомонтаж,3
+BitBucket,3
+Teambuilding,3
+Инициативность,3
+Avid Media Composer,3
+Платежи / Переводы,3
+Французский язык,3
+DNS,3
+Start-up project,3
+Github,3
+1С: Бухгалтерия и склад,3
+нацеленность на результат,3
+Написание рекламных статей,3
+Самообучение,3
+Amazon S3,3
+Visual FoxPro,3
+SugarCRM,3
+Express,3
+WebRTC,3
+Databases,3
+1С: Комплексная автоматизация,3
+DHTML,3
+doctrine 2,3
+Reactjs,3
+Regular Expressions,3
+pug,3
+слаботочные системы,3
+FuelPHP,3
+InstantCMS,3
+OOD,3
+Apache Cordova,3
+PyCharm,3
+react-native,3
+Zend,3
+Adobe XD,3
+Yarn,3
+Windows 10,3
+LDAP,3
+Высокая скорость печати,3
+typescript,3
+SaaS,3
+hostcms,3
+HostCMS,3
+bitbucket,3
+Php 7,3
+elasticsearch,3
+Stylus,3
+Мед. книжка,3
+yii,3
+SemanticUI,3
+SOA,3
+doctrine,3
+Phonegap,3
+Kibana,3
+Elastic,3
+SIP,3
+Jasmine,3
+Backbone.js,3
+Moodle,3
+Laravel 7,3
+LabVIEW,3
+1С: Управление Производственным Предприятием,3
+Websocket,3
+GRASP,3
+Работа с кассой,3
+Амбициозность,3
+Simpla,3
+Умение разбираться в чужом коде,3
+Кассовые операции,3
+react native,3
+mikrotik,3
+Scrapy,3
+Http Server,3
+1С: Торговля и склад,3
+Data Mining,3
+Adobe CS,3
+Любознательность,3
+redis,3
+Business English,3
+Навыки межличностного общения,3
+React JS,3
+Json,3
+1С: Управление персоналом,3
+Drupal 8,3
+Рерайтинг,3
+twitter bootstrap,3
+Монтаж инженерных систем,3
+Uikit,3
+WebSockets,3
+OpenVPN,3
+scss,3
+Phalcon Framework,3
+Технические системы и средства безопасности,3
+Bitrix framework,3
+Видеосъемка,3
+MsSQL,3
+React native,3
+MySQLi,3
+XSLT,3
+Системная интеграция,3
+clickhouse,3
+Open Server,3
+Photoshop,3
+Backend,3
+Обработка видео,3
+Driving Licence B,3
+Test case,3
+Nagios,3
+reactjs,3
+Маркетинговый анализ,3
+KVM,3
+Mongoose,3
+Гибкость,3
+laravel 5,3
+Торговля,3
+Verilog HDL,3
+Линейное программирование,3
+Unity 3D,3
+ffmpeg,3
+PHP8,3
+AllFusion ERwin Data Modeler,3
+Разработка компьютерных Игр,3
+FoxPro,3
+Doctrine2,3
+Arduino,3
+Hyper-V,3
+Знание PHP,3
+ZBrush,2
+jQuery UI,2
+Менеджмент организаций,2
+ModX Revolution,2
+Умение принимать решения,2
+Ответственное хранение,2
+Autodesk Maya,2
+Ethereum,2
+PCRE,2
+WebStorm,2
+Дистанционное обучение,2
+qUnit,2
+Laravel 5.*,2
+Instagram API,2
+Squid,2
+OpenVZ,2
+Responsibility,2
+Ведение документации,2
+Yii1,2
+Материальная отвественность,2
+Fedora,2
+Управление процессами,2
+Анализ рисков,2
+Hardworking,2
+NestJS,2
+Mocha,2
+backend,2
+Lotus Symphony,2
+Project Documentation,2
+Eloquent ORM,2
+Require.js,2
+дисциплинированность,2
+Управленческие навыки,2
+Проектирование ЛВС,2
+React-native,2
+Автоматизированное рабочее место (АРМ),2
+Платежные системы,2
+Beanstalkd,2
+Оценка кандидатов,2
+Организация процесса разработки,2
+SCALA,2
+IPTV,2
+Meteor,2
+dry,2
+Sentry,2
+Erlang,2
+Ffmpeg,2
+Postman,2
+Adobe Acrobat,2
+SoapUI,2
+Резервное копирование Acronis,2
+Unreal Engine 4,2
+Jquery Mobile,2
+E-Learning,2
+программист php,2
+JWT,2
+Okay CMS,2
+nuxt,2
+BackboneJS,2
+Знание MySQL,2
+InterBase,2
+Hadoop,2
+Технические средства информационной защиты,2
+RequireJS,2
+kanban,2
+3D Max,2
+Knockout,2
+Выездное обслуживание,2
+CRM Мегаплан,2
+phonegap,2
+BPWin,2
+Многозадачность,2
+Паттерны,2
+1С: Торговля,2
+Шаблоны проектирования,2
+Dry,2
+Sylius,2
+solid,2
+Веб-разработка,2
+Directum,2
+Frontend,2
+Web development,2
+Symfony3,2
+Создание конфигурации 1С,2
+FFmpeg,2
+Дизайн полиграфии,2
+MS Internet Explorer,2
+Game Programming,2
+Solidity,2
+1С-Рарус,2
+Участие в Тендерах,2
+Компас,2
+Amazon SQS,2
+microservices,2
+Swoole,2
+MySQL Workbench,2
+Работа с юридическими лицами,2
+YII Framework,2
+JavaEE,2
+Laravel 6,2
+Microservices,2
+RPC,2
+HAML,2
+Angular 6,2
+regexp,2
+as3,2
+ELK,2
+Simpla CMS,2
+Toggl,2
+VUE.JS,2
+grunt,2
+Semantic-UI,2
+Vaadin,2
+NgRx,2
+Denwer,2
+Adobe AIR,2
+MS Photoshop,2
+шаблоны проектирования,2
+1С: Управление предприятием,2
+symfony2,2
+WEB аналитика,2
+web,2
+Corel Draw,2
+Yii2 framework,2
+PHP OOP,2
+Access,2
+swagger,2
+vim,2
+Взаимодействие с надзорными организациями,2
+С,2
+front-end,2
+Составление отчетности,2
+E-Mail Marketing,2
+разработка web приложений,2
+Coffeecup HTML Editor,2
+CMS DLE,2
+Apache Kafka,2
+Sybase,2
+Разработка API,2
+CS-Cart,2
+Внутренняя оптимизация сайта,2
+WebGL,2
+Ведение отчетности,2
+Менеджмент,2
+"Знание HTML, CSS",2
+Latex,2
+underscore.js,2
+Знание иностранных языков,2
+Налоговая отчетность,2
+Бюджетирование,2
+Singleton,2
+1С: Производство,2
+Bitrix Framework,2
+Технический писатель,2
+Solid Works,2
+Быстро обучаюсь,2
+Bitcoin,2
+Business Analysis,2
+mysqli,2
+Умение планировать,2
+mootols,2
+С++,2
+Architecture,2
+PHPbb2,2
+Laravel7,2
+Mootools,2
+AXIOS,2
+1С: УСН,2
+Electron,2
+Bower,2
+vb.net,2
+Machine learning,2
+UMI,2
+Знание SQL,2
+Traefik,2
+Minio,2
+Cron,2
+Git flow,2
+underscorejs,2
+PhpStorm,2
+CSV,2
+Oracle DB,2
+Работа с MySQL,2
+ActionScript 3,2
+Выездные мероприятия,2
+Java script,2
+ITIL,2
+Gitflow,2
+ExpressJS,2
+Yandex API,2
+CMS MODx,2
+Drupal7,2
+MoDx,2
+Websockets,2
+FireMonkey,2
+JQuery UI,2
+Machine Learning,2
+Аналитические способности,2
+Умение расставлять приоритеты,2
+PHP7+,2
+Холодные звонки,2
+Chef,2
+ExtJs,2
+ITSM,2
+CodeIgniter,2
+Web Services,2
+redux,2
+Bulma,2
+Vue.js2,2
+разработчик,2
+AWT,2
+Leadership Skills,2
+системный администратор,2
+Groovy,2
+Базовые знания JS,2
+Управление бюджетом,2
+Flash MySQL,2
+криптография,2
+Three.js,2
+Gnu C++,2
+WooCommerce,2
+Unity3D,2
+PrestaShop,2
+RebbitMQ,2
+Bootstrap 3,2
+Добросовестность,2
+TFS,2
+Axure RP,2
+Java Core,2
+FlashDevelop,2
+NetCat,2
+CPA,2
+проектирование СКУД,2
+Yii/Yii2,2
+GPS,2
+FIrewall,2
+Прокладка кабелей,2
+Zurb Foundation,2
+Rest API,2
+Аналитика продаж,2
+Responsive,2
+работа с VIP клиентами,2
+КИПиА,2
+Windows Server 2008,2
+Планирование маркетинговых кампаний,2
+1c,2
+Kali,2
+cakePHP,2
+Чтение электросхем,2
+Испанский язык,2
+ispmanager,2
+JQuery Mobile,2
+основы angular,2
+Знание ООП,2
+ANT,2
+PHP Reflection API,2
+Paradox,2
+Asana,2
+Наружная реклама,2
+GO,2
+gulp,2
+yarn,2
+Организация учебного процесса,2
+Domain Names,2
+Сварочные работы,2
+Jade,2
+Разработка инструкций,2
+Проектирование БД,2
+1С: Склад,2
+1С: Зарплата и кадры,2
+Microsoft Sql Server,2
+программист,2
+Postfix,2
+Plesk,2
+RegExp,2
+Tailwind,2
+HTML 5,2
+RDF,2
+ERP-системы на базе 1С,2
+ECMAScript,2
+DOMObject,2
+Саморазвитие,2
+YouTrack,2
+Spring Boot,2
+Управление отношениями с клиентами,2
+vue js,2
+Согласование договоров,2
+Meteor.js,2
+Прототипирование,2
+homestead,2
+woocommerce,2
+figma,2
+Высокая работоспособность,2
+IBM Lotus Notes,2
+Canvas,2
+Heroku,2
+Bootstrap 4,2
+Клиентоориентированность,2
+SSR,2
+Парус,2
+gearman,2
+Restful API,2
+Нацеленность на результат,2
+Разработка CRM,2
+Автоматизация документооборота,2
+Закупки,2
+PHP 7.4,2
+Beanstalk,2
+Умение решать задачи,2
+Моделирование бизнес процессов,2
+План продвижения,2
+VirtualBox,2
+HighLoad,2
+AVR Studio,2
+Kali Linux,2
+canvas,2
+frontend,2
+Curl,2
+Forth,2
+Rest api,2
+Ionic Framework,2
+RESTfull API,2
+MVP,2
+php 7,2
+Навыки переговоров,2
+Математическая статистика,2
+Вежливость,2
+Chrome Extension,2
+SSI,2
+RPA,2
+Data science,2
+Xamarin,2
+1C-Bitrix,2
+Skype,2
+Grunt,2
+web-программист,2
+Микросервисы,2
+Обучаемость.,2
+Системы автоматизации,2
+парсинг,2
+DOM,2
+Парсинг,2
+WAMP,2
+rest api,2
+jira,2
+Vertica,2
+Публичные выступления,2
+Flutter,2
+Helpdesk,2
+Поддержка пользователей,2
+Ansi C++,2
+Dart,2
+PHP-FPM,2
+TailwindCSS,2
+Framework7,2
+Подготовка презентаций,2
+Адаптивная вёрстка,2
+Отзывчивость,2
+GOLANG,2
+Ведение групп в социальных сетях,2
+Алгоритмы,2
+Front-end,2
+apache2,2
+Vue Js,2
+OctoberCMS,2
+Водительские права категории В,2
+Написание пресс-релизов,2
+Dojo,2
+Работа с клиентами,2
+Mikrotik,2
+Разработка продукта,2
+imacros,2
+three.js,2
+phinx,2
+Lazarus,2
+InnoDB,2
+Инновационный менеджмент,2
+Звукозапись,2
+Sketch,2
+ASP,2
+MacOS,2
+CorelDRAW Graphics Suite,2
+PHP 7.0,2
+stripe,2
+Grid,2
+JavaFX,2
+Eloquent,2
+быстро учусь,1
+настройка и администрирование Windows и Unix серверов;,1
+Навыки коммуникации,1
+Есть опыт в построении UML диаграмм.,1
+Настройка SMS уведомлений и двухэтапной авторизации с помощью SMS.,1
+кодер,1
+"Знаком с концепцией паттерного проектирования. Работал со следующими шаблонами: Abstract Factory, Bu",1
+codeIgniter,1
+Парадигмы программирования,1
+"Есть опыт работы в команде с использованием SVN, Git",1
+php + mysql,1
+Wap,1
+Бизнес в Интернете,1
+Adobe Photoshop начальные навыки,1
+PHP Junior(крепкий )))),1
+"HTML, CSS, JS – средний уровень.",1
+работа с форматами обмена данных XML и JSON;,1
+Programmer,1
+Сайт,1
+Программист,1
+DocBlock,1
+BackboneJs,1
+Email рассылка,1
+Ангуляр,1
+инфо бизнес,1
+themosis,1
+ASP.Net,1
+PUG (Jade),1
+"знание MVC: Codeigniter,YII,symfony2 , ZEND2 на среднем уровне;",1
+"HTML; Javascript; jQuery; XML; Php; MySQL Разработка модулей, компонетов для CMS Jooomla",1
+SQL простые запросы,1
+Vue 2,1
+Sailex Framework,1
+SailsJS Framework,1
+MaxScript,1
+Symfony Framework,1
+Оптимизация запросов к базе данных,1
+Технический склад ума,1
+Idiorm,1
+Более 3 лет опыта работы в web разработке,1
+Highload Optimization,1
+Опыт работы с phalcon,1
+Опыт работы с wordpress 2 года,1
+php7.0,1
+C++(basic knowledge),1
+"HTML, CSS, XML",1
+virtuemart,1
+ООП  на php,1
+bitrix,1
+Autodesk Inventor,1
+Composer (Dependency Manager for PHP),1
+(H)MVC,1
+Основы PHP,1
+OAuth 2.0,1
+"Работал со следующими CMS: Drupal(E-Commerce), WordPress, PrestaShop, OpenCart, Simpla.",1
+XML-RCP,1
+Электрические системы и слаботочные системы,1
+знание Adobe Flash и языка ActionScripts 3.0,1
+Drupal Framework,1
+"знание CMS: Drupal, Joomla , Wordpress , modx , bitrix на среднем уровне;",1
+"знание HTML, CSS;",1
+"владение PHP, MySQL, JavaScript, jQuery, HTML, CSS, DOM(на основе jQuery) на профессиональном уровне",1
+"знание PHP(ООП), MySQL, Ajax, javascript, jQuery;",1
+"знание графических пакетов PhotoShop, CorelDRAW, 3DsMAX",1
+Citrix,1
+Шаблонизатор Twig,1
+Jquery/ajax,1
+мультиязычность и умение работать с чужими разработками,1
+CMS StoreEngine,1
+базы данных: MySQL;,1
+Embarcadero Builder,1
+CVS,1
+Pentest,1
+management software: SVN;,1
+Assebler,1
+"WEB верстка: HTML, CSS",1
+администрирование Unix OS: Ubuntu;,1
+Знание нескольких языков программирования,1
+Sphinx Search,1
+Техника написания кода,1
+Разбор задания на части,1
+ArchiCAD,1
+"языки программирования: Visual Basic, PHP‚ JavaScript, Ext JS;",1
+Java(basic knowledge),1
+Оценка рисков,1
+Риск-менеджмент,1
+Windows 95/98/Me/Nt/2000/Xp/Vista,1
+Ubuntu Linux,1
+html+css,1
+ZFCore,1
+OroCRM,1
+Video Editing,1
+Query optimisation,1
+Linux Administrator,1
+Outlook Express,1
+Внимателтность,1
+Bluz,1
+NATS,1
+Framework,1
+Flash-анимация,1
+GDS,1
+Оценка ресурсов для выполнения задания,1
+kohana фреймворк,1
+laravel 5 Framework,1
+Flash Animation,1
+Adobe Image Ready,1
+Visual Basic Applications,1
+XAML,1
+Сметы,1
+Сборочное производство,1
+Имею опыт работы в CSS по верстке страниц со сложной блочной структурой,1
+Основы Баз Данных,1
+Имею опыт работы в JavaScript фреймворках jQuery и Knockout,1
+Имею опыт работы в создании и поддержке мультиязычной версии сайта,1
+Имею опыт работы с CMS SilverStripe,1
+Имею опыт работы с шаблонизатором XSLT,1
+Хорошо владею языком программирования C/C++ и PHP,1
+Хорошо владею языком программирования JavaScript,1
+Rubygems,1
+довожу проект до логического конца,1
+Avocode,1
+CMS PrestaShop,1
+"Создание ajax фильтров для каталогов интернет магазинов, создание и настройка различных видов акций",1
+Синхронизация баз данных 1С с базами интернет-магазинов.(PrestaShop по двусторонний через FTP) Simpl,1
+обучение сотрудников,1
+умение создать проект самостоятельно с нуля,1
+Имею опыт ООП и написания классов на языках программирования C++ и PHP,1
+MySQL Administration,1
+Video encoding,1
+instantcms,1
+Маршрутизация статическая,1
+Netcat,1
+Маршрутизация динамическая,1
+notepad++,1
+Propel,1
+Желание совершенствоваться,1
+NavStudio,1
+Oxygen Xml Editor,1
+Программист Битрикс,1
+Работа с ТМЦ,1
+Social networks,1
+System administration,1
+Macromedia Dreamweaver,1
+Video broadcast,1
+Разработка web-сайтов,1
+Монтаж звука,1
+Телефонное интервью,1
+"Javascript(MooTools, jQuery)",1
+...,1
+basic Photoshop CC,1
+VB.NET,1
+SEO-оптимизация,1
+коммуникабельный,1
+способный работать в команде,1
+Изучение и применение новых технологий,1
+Invision,1
+Zeplin,1
+php программист,1
+Высокая организованность,1
+Позитивность,1
+продуктивность,1
+CMS Webasyst,1
+Результативность,1
+Системность мышления,1
+docx,1
+Хорошо развитые коммуникативные навыки,1
+"Организаторские способности, системный подход, аналитическое мышление, инициативность, аккуратность,",1
+Back/Front End,1
+C#/C++,1
+YAML,1
+DataLifeEngine makeUp,1
+OSx,1
+CSS 2.0,1
+SSL,1
+Куки,1
+"Знание языков программирования PHP, JavaScript",1
+Разработка учетной политики,1
+"Знание основ языков программирования : c, c++, php, javascript, jquery, ajax, mysql, html, css.",1
+"php5,php4,php-gui,c#,c++(STL),ajax,javascript,jquery,jshttprequest,html,css,mvc,ООП,паттерны",1
+Сессии,1
+Программист php,1
+Adobe InDesign CS6,1
+парсинг информации с сайтов,1
+Wonderware,1
+SCADA,1
+ArcView,1
+Учет товаров,1
+ArcGIS,1
+CMS administration,1
+CMS module development,1
+CMS theme development,1
+MapInfo Professional,1
+HTML 4.01 makeup,1
+(системы управления проектами),1
+HTML5 makeup,1
+Concept Draw MindMap,1
+CSS 3.0,1
+Опыт разработки CRM,1
+Опыт работы Web-мастером,1
+"php 5 ,joomla,wordpress,MySQL",1
+Fluent English,1
+создание веб-приложений на PHP5,1
+woocomerce,1
+язык программирования Java,1
+"ООП, ориентированность на профпродукты",1
+Microsoft,1
+start up,1
+Yandex.Market api,1
+"PHP5(OOP,MVC)",1
+"C, C++,OOP, PHP5, MySQL, CSS, HTML, XML, AJAX, JavaScript,Jquery, Apache, Wordpress, PHPExcel, SEO",1
+"Linux, Mac os x",1
+Objective C,1
+bigdata,1
+большая нагрузка,1
+"php5, symfony 1.4 + doctrine, css, jquery",1
+"PHP, CSS, HTML, JAVA SCRIPT, WORDPRESS, E-SHOP MAGENTO",1
+"Администрирование, проектирование БД, разработка серверной части на PL/SQL",1
+"Знание графических пакетов: Photoshop, Gimp",1
+asp net mvc,1
+Certificate in Advanced English,1
+VisualStudio,1
+"System/Network programming(ex. threads,sockets)",1
+HTML5/ HTML5 API,1
+Skeletal animation,1
+Steam,1
+HTML / XHTML,1
+Joomla,1
+Steam API,1
+Microsoft Office 2007/2010/2013,1
+Microsoft Visual Studio 2008/2010/2012,1
+Statistical Package,1
+MS Visio 2013,1
+PHP 5 / MySQL,1
+Mathematical Statistics,1
+WebStorm/PHPStorm,1
+Virtuemart,1
+"Financial programming, scripts for traders",1
+Images Processing,1
+MMD,1
+WorlframAlpha,1
+.NET,1
+EViews,1
+Statistica,1
+Microsoft SQL Server,1
+веб-разработки,1
+"Знание основ баз данных, умение писать SQL-запросы",1
+регулярные выражения,1
+Работа с Drupal,1
+Желание постоянно развиваться,1
+Ember,1
+VMware Workstation,1
+firebug,1
+devtools,1
+Yui,1
+jQuery + ajax,1
+Разработка браузерных WEB-приложений на PHP + JavaScript+Ajax+MySQL,1
+Понимание и использование базовых принципов ООП;,1
+"Навыки написания фоновых обработчиков на PHP+*.cmd(bat), Visual Basic Net;",1
+Навыки разработки API на PHP;,1
+Навыки верстки HTML+CSS;,1
+Inkscape,1
+Jetbrains WebStorm,1
+Работа с «самописным» фреймворком;,1
+Работа с фреймворком Yii 2;,1
+Английский B1,1
+Базовые навыки работы с СУБД Oracle11g;,1
+Twitter bootstrap,1
+Использование системы контроля версий GIT;,1
+Навыки работы с чужим кодом;,1
+ОС Windows/Linux(Ubuntu12.04).,1
+Работа с ключевыми клиентами,1
+ECMAScript 6,1
+HTML/XHTML,1
+Altium Designer,1
+PHP(CodeIgniter – basic knowledge),1
+dle-news,1
+Знание php,1
+Php-программирование,1
+Ведение статистики и анализа по сайту,1
+Владение Adobe Photoshop,1
+дизайн печатной полиграфической рекламы,1
+Контроль за ассортиментом и ценами,1
+Оптимизация и продвижение сайтов в поисковых системах,1
+Знание теории баз данных и практический опыт работы с MySQL,1
+Оформление документов на покупку товара и гарантийных талонов,1
+Разработка баннеров,1
+Разработка и доработка необходимых кодов,1
+Разработка макетов сайтов,1
+Разработка полиграфии,1
+Разработка фирменного стиля,1
+Редактирование,1
+marionette,1
+underscore,1
+haml,1
+PHP5.6-PHP7.1,1
+"Базовые знания С++, Начальные знания HTML, CSS, PHP, MYSQL огромное желание развиваться.",1
+Детская психология,1
+Twitter bootstrap 3,1
+MVC (CodeIgniter),1
+"Разработка на стандартных CMS – Drupal, Joomla, Host CMS, OS Commerce и тд.",1
+Проектирование и разработка интерфейсов,1
+mercurial,1
+phoneGap,1
+twitterBootstrap,1
+"Работа с БД MySQL, MSSQL",1
+ext.js,1
+"Знание стандартов криптографии (AES, DES, MAC, RSA)",1
+"Знание языков программирования: JavaScript, PHP, Python, Delphi",1
+"Программирование на PHP, C#, Javascript, Angular2",1
+"Опыт работы с Yii2, Laravel, Wordpress, Node.js, Ext JS, jQuery, Django, Bootstrap, Git, SASS.",1
+Базовое знание С#,1
+Server administration,1
+Программирование 3D-графики,1
+Программирование компиляторов,1
+Разработка Драйверов,1
+Разработка системы управления проектами,1
+Системное программирование,1
+GroceryCRUD,1
+"html, css, php",1
+htaccess,1
+"Работа с API платежных систем и различных сервисов (карты, IP-телефония и т.д.)",1
+"Разработка на фреймворках – Yii, Code Igniter и тд.",1
+"CSS2,3",1
+Написал свою CMS,1
+"Photoshop, Illustrator",1
+"PHP, MySQL, MSSQL (T-SQL), JavaScript, jQuery, HTML, AJAX",1
+Canban,1
+"Php, mysql, javascript, ajax, xml, json",1
+Cmf kohana,1
+Cmf CodeIgnitter,1
+Cmf Laravel,1
+Операционный день банка,1
+Ведение архива,1
+Опыт программирования более двух лет;,1
+Coffee Script,1
+ФП,1
+Опыт работы с СУБД MySQL;,1
+Технический уровень знания английского языка;,1
+"•	хорошее знание PHP (ООП, MVC и т.д.), JavaScript, HTML, CSS;",1
+"Drupal 7,8",1
+Ремонт электронного оборудования,1
+Работа с Git,1
+Symfony2 framework,1
+Работа с *nix-системами,1
+MediaWiki,1
+Менеджмент продукта,1
+Nats ESB,1
+Микроконтроллеры,1
+SuiteCRM,1
+FileZilla,1
+zen cart,1
+Services API,1
+Debugging,1
+Parsing,1
+PHP LARAVEL,1
+CitectSCADA,1
+Siemens TIAportal,1
+1 год работы с фремворком laravel,1
+Simatic WinCC flexible,1
+Step7,1
+"в начальной стадии находится собственный проект, в проекте ведется работа с vkAPi.",1
+MELSoft,1
+SoMachine,1
+CODESYS,1
+TraceMode,1
+"Ответственный, пунктуальный, пользователь ПК",1
+Zend Framework 3,1
+go,1
+Периферийные устройства,1
+Raspberry Pi,1
+adr,1
+"Mysql,Postgresql",1
+mysql базовые знания,1
+React js,1
+MaterializeCSS,1
+"Знания и опыт использования: PHP, MySQL, HTML/CSS",1
+Telnet,1
+"HTML, CSS, JS, Node.js, PYTHON, SQLITE, JSON, PHP, MYSQL, SAS/BASE, ExtJS, JQuery, Apache, IIS",1
+PHP 5.3+,1
+DQL,1
+Знание алгоритмов,1
+Опыт совместной работы в команде,1
+Оценка сложности алгоритмов,1
+Yii 1,1
+PHP 7.2,1
+Symfony Flex,1
+prestashop,1
+React.Js,1
+html базовые знания,1
+php базовые знания,1
+css базовые знания,1
+Symfony 3.x,1
+js базовые знания,1
+yii2 базовые знания,1
+математика,1
+Высшая математика,1
+Английский за 16 уроков,1
+"участвовал в стартапе, доска объявлений для региона.",1
+"Работы с MS OFFICE, HTML5, CSS3.",1
+Работа на ОС Windows и macOS,1
+Управление отделом разработки,1
+"PHP (OOP / FP), MySQL, Laravel, html, js, css",1
+Навыки составления отчетности,1
+reactJS,1
+Host CMS,1
+Средства защиты от несанкционированного доступа,1
+Web.Perspective,1
+Марк  SQL,1
+DSpace,1
+OLE Objects,1
+EurekaLog,1
+Fast Report,1
+Raize Components,1
+SDAC,1
+"знание языков программирования (html, css, JavaScript(jQuery),php)",1
+"PHP7 (ООП, MVC), PHP5, MySQL, Java Script, jQuery, jQuery UI, Ajax, HTML5, CSS3, Bootstrap 4, GIT, S",1
+"SEO  CMS: Wordpress 4, Drupal 7 Frameworks: Laravel 5.8, Symfony 3, CakePHP 2.5.3",1
+"На базовом уровне: Java/J2EE, C / C++",1
+"Symfony, Yii, Phalcon",1
+Google Cloud Platform,1
+SCCM 2012,1
+опыт работы 1 год в команде.,1
+"бакалавр по специальности Программная инженерия, в качестве дипломной работы разработал микрофреймво",1
+Английский для программистов,1
+libre office,1
+vue2.0,1
+CircleCI,1
+chrome-ext,1
+Pgsql/Mysql на уровне построения не сложных запросов.,1
+"использовал SVN, ознакомлен с GIT/BitBacket.",1
+SlimFramework,1
+D7,1
+plpgsql,1
+Nuxt JS,1
+имею значительный опыт разработки программ,1
+"ознакомлен с js, использовал AJAX.",1
+имею знания в области бухгалтерского учета,1
+программирование 1С,1
+EME.WMS (система складского учета),1
+"css, bootstrap, html на уровне исправления ошибок. верстать сложные и красивые интерфейсы не умею.",1
+STM32,1
+Microcontrollers,1
+W3,1
+Semantic UI,1
+Фреймворк Codeigniter,1
+Git-flow,1
+опыт разработки back-end на php,1
+быстрообучаемость,1
+JavaScript ( ур. backend ),1
+EcmaSrcipt 6,1
+Code Review,1
+Ремонт смартфонов,1
+Jest,1
+Установка По,1
+Android studio,1
+Nuxtjs,1
+eslint,1
+prettier,1
+ddd,1
+GitlabCI,1
+Работа на результат,1
+Ведение переписки,1
+Usability,1
+Vegas Pro,1
+реализации алгоритмов и структур данных на c++,1
+Телеграм-бот и html-парсер на python,1
+Поиск решений по интернету,1
+"Опыт работы с IDEA, PYCHARM, VISUAL STUDIO",1
+cs cart,1
+Умение работать с CMS WORDPRESS,1
+Умение оценивать ситуацию,1
+VMware Virtualization,1
+Basic Unix Skills,1
+Programming Patterns,1
+Sms Services,1
+Java SE 8,1
+Java FX,1
+d3js,1
+Java Threads,1
+планирование рабочего времени,1
+MSql,1
+Базовое знание о bootstrap,1
+Базовое знание HTML & CSS,1
+xen server,1
+Работа с SQL YOG,1
+Fenom,1
+Windows Server 2000,1
+СУБД Oracle,1
+Импровизация проекта и дизайна,1
+Знание IDE PHPSTORM,1
+Найти самый короткий путь к решению задач,1
+Ответственность за качество и за сроки,1
+https://github.com/OchirSan,1
+tests,1
+2013,1
+english,1
+WebGl,1
+Creativity,1
+Багтрекинговая система Jira,1
+CMS Prestashop,1
+request optimization,1
+Vargant,1
+Jade (Pug),1
+Ведущий программист,1
+CMS Openart,1
+Drupal 6,1
+КИС,1
+Работа с технической документацией,1
+Знакомство с Linux,1
+Scratch,1
+Interpersonal skills,1
+Celery,1
+SFRA,1
+Математика,1
+Тильда,1
+Prestashop CMS,1
+CCNA,1
+Cohana Framework,1
+Базовые знания Laravel,1
+CMS Pimcore,1
+Active Record,1
+userscripts,1
+Tensorflow,1
+OcStore,1
+mql4,1
+mql5,1
+MVC / MVVM,1
+Telegram bots,1
+РНР5,1
+React/Redux,1
+XCTest / Kiwi,1
+CMS Magento,1
+CLI,1
+Понимаю структуру ООП и MVC,1
+Базовые знания Unix-систем,1
+Базовые знания Вootstrap,1
+"Developer, c#, php, yii2, framework",1
+Developer of desktop and web technology,1
+2019,1
+Базовые знания Json,1
+Базовые знания Ajax,1
+"Python, Go, Javascript",1
+InfluxDB,1
+Хорошая обучаемость,1
+hi-load,1
+AVR,1
+2Checkout,1
+Неконфликтность,1
+Оптимизм,1
+Oracle BPA,1
+Yiiframework,1
+DKLab Realplexor,1
+Высокая мотивация,1
+SailsJS,1
+Testcomplete,1
+ZF2,1
+BPEL,1
+Rest сервисы,1
+Pl/Python,1
+Twisted Matrix,1
+PHP5 MYSQL jQuery JavaScript SSH,1
+MetaTrade,1
+директ маркетинг,1
+Разработка сайтов с нуля,1
+Пример работающего сайта http://varyag-nn.ru/,1
+phpQuery,1
+ARM,1
+Php(Symfony),1
+"ООП, SOLID",1
+frameworks,1
+"Operation System: Linux, Mac OS, Windows",1
+Hive,1
+"PHP Frameworks: CodeIgniter, Zend, YII",1
+SVN system Subversion,1
+"Web Service: Apache, nginx",1
+Управление проектом,1
+Spark,1
+"Drupal 6, 7",1
+нахожу оптимальный выход из затруднительных ситуаций,1
+Продвижение в социальных группах,1
+Партнерские программы в социальных сетях,1
+Akamai,1
+dbdrive,1
+HighLoad projects,1
+интерес к сложностям,1
+Адаптация сайтов,1
+Снабжение,1
+Учет остатков,1
+Маркетинг,1
+Сопровождение клиентов,1
+SOLID Principles,1
+Cайт охранного агентства http://varyag-nn.ru/ .Caйт сделан на фреймворке yii,1
+Сайт автомагазина http://auto.varyag-nn.ru/ .Cайт сделан на yii,1
+Caйт магазина женские мелочи http://ds.varyag-nn.ru/,1
+Cайт магазина продажи одежды http://shmotka.varyag-nn.ru Caйт сделан на zend framework,1
+APC,1
+Sencha,1
+Ember.js,1
+Sails.js,1
+Koa.js,1
+Bootstrap 3.0,1
+PunBB,1
+IPBoard,1
+DokuWiki,1
+Fortran,1
+Linux (user),1
+PHP 5,1
+Формирование бюджета,1
+Знание JavaScript,1
+JOOQ,1
+Знание HTML,1
+Знание CSS,1
+Reactor,1
+Microservice architecture,1
+Domain Specific Languages (DSL),1
+Пользователь PhotoShop,1
+SmilerJS,1
+PhantomJS,1
+CasperJS,1
+"знание CMS: WordPress (мало опыта), Joomla 3.7",1
+Caйт магазина занавесок http://zanaveso4ka.priozyorn.ru/ Caйт сделан на kohana,1
+Caйт коттеджного поселка http://priozyorn.ru/ Caйт сделан на Joomla,1
+Masonry,1
+Amazon EC2,1
+Material design,1
+1c Предприятие 7.7 (мало опыта),1
+Amazon RDS,1
+Continuous integration,1
+Ajax + javascript(jQuery),1
+CodeIgniter framework,1
+Технический анализ и техническая документация,1
+Нацеленность на решение задач,1
+Понимание концепции MVC,1
+Доброжелательность,1
+Самообразование,1
+Трудолюбивость,1
+Уверенный пользователь ПК,1
+Системы контроля версий,1
+MySQL database structure design,1
+"желание работать с PHP, JS",1
+Junior Level for Java and Objective C,1
+"JavaScript Frameworks: Yii, jQuery, Google Clsoure, LimeJS",1
+"IDE: IntelliJ Idea, xCode, phpStorm, NetBeans",1
+cmake,1
+Написание научных статей,1
+3d-coat,1
+front end,1
+Администрирование Kerio Winroute Firewall,1
+Houdini,1
+Vue Router,1
+elastic search,1
+"erlang, php, mysql, javascript, rdbms, smpp",1
+VMware esxi,1
+Wowza,1
+MogileFS,1
+Symphony,1
+PgQ,1
+Вёрстка,1
+PHP фреймворки,1
+MODX Revolution,1
+Ezpublish,1
+Работа с микрофреймворками,1
+openssl,1
+libevent2,1
+Phing,1
+websockets,1
+программист jQuery,1
+программист JavaScript,1
+curl,1
+ModX CMS,1
+Docker swarm,1
+навыки ведения бухгалтерского и налогового учета,1
+Триггеры MySQL,1
+Mathematical Programming,1
+Artificial Neural Networks,1
+Parallel Computing,1
+MODX CMS,1
+"Английский язык, читаю техническую литературу",1
+evolution cms,1
+"программист java (j2se, j2me, j2ee)",1
+modx evo,1
+modx revo,1
+php-фреймворк,1
+проектирование БД,1
+Similar products,1
+программист bash,1
+Larave,1
+системный администратор linux,1
+системный администратор windows,1
+autotools,1
+Mink,1
+wmvare,1
+Бизнес-моделирование,1
+Mbuni (MMS gateway),1
+Kannel (SMS gateway),1
+Bluetooth Маркетинг,1
+Lighttpd,1
+Trac,1
+Comet-server,1
+Flux,1
+telegram bot api,1
+React Semantic UI,1
+Catalyst,1
+DBIx::Class,1
+Mojolicious,1
+Dovecot,1
+Exim4,1
+YII,1
+Администрирование процесса обучения,1
+Деловая этика,1
+Ведение деловых переговоров,1
+React..js,1
+RESPONSIVE,1
+Actionscript,1
+Team leader,1
+Hiload,1
+Lisp,1
+OnlyOffice,1
+Progress 4GL,1
+Конфликтология,1
+Bitrix D7,1
+MariaDb,1
+Parallels Automation,1
+Odin Automation,1
+Virtuozzo,1
+Parallels Server,1
+MS Publisher,1
+Битрикс D7,1
+Composser,1
+Gentoo,1
+Проведение семинаров,1
+cURL,1
+XML-RPC,1
+nodejs,1
+HTML верстальщик⁢/PHP разработчик,1
+sklearn,1
+JQuery/JavaScript,1
+Capistrano,1
+базовые знания ООП,1
+Pl/SQL,1
+"LAMP, CVS, SVN, GIT, MySQL, PostgreSQL",1
+"Git, MySQL 5,",1
+Консультирование клиентов по телефону,1
+"JetBrains PhpStorm IDE, MySQL Workbench, console",1
+"Agile (SCRUM, Jira )",1
+owncloud,1
+At least 0.5 years experience with WordPress CMS Experience with JS(JQuery) Experience in developing,1
+sugar-crm,1
+html/css,1
+Программирование на PHP,1
+1С програмирование,1
+Опыт работы с wordpress,1
+Опыт разработки ПО (windows),1
+Опыт разработки и администрирования web-систем,1
+Пользователь Ubuntu,1
+Инвентаризация,1
+Symphony 2,1
+Mantis,1
+presta shop,1
+"Php, html, css, office, работа с клиентами, менеджмент.",1
+F3,1
+Есть опыт работы с rest api,1
+"jQwery, AJAX",1
+Контроль качества,1
+наличие личного автомобиля,1
+"Базовые знания VisualBasic.NET, Lua",1
+"Symphony 2, Zend 1",1
+BBedit,1
+уверенный пользователь ПК,1
+продвижение ресурсов в сети интернет,1
+администрирование сайта,1
+"уверенно владею РНР,  Javascript, MySQL, HTML, CSS, пакет MS Office",1
+Программирование PHP/Администрирование настройка систем и оборудования,1
+Phalcon 2.0,1
+Oracle 9I,1
+Pure C,1
+jsViews,1
+Obelisk.js,1
+VirtueMart,1
+Nape,1
+создание  интернет магазинов,1
+OpenFL,1
+Haxe,1
+heroku,1
+продвинутый пользователь ПК,1
+Docker Compose,1
+"PHP, MySQL, HTML/CSS, XML, JavaScript (Ajax/jQuery)",1
+Fluxxor,1
+Qa manual,1
+"ООП, MVC",1
+Spring boot,1
+Laravel - 1.5 month,1
+Phalcon - 2 weeks,1
+Zend Framework One,1
+X-cart,1
+b2evolution,1
+Symfony2 - learning,1
+"Doctrine - 1,5 month",1
+"Backend for iPhone, Android applications",1
+https://bitbucket.org/bazaranet64/,1
+ZendFramework 3,1
+symfony 3,1
+Payment processors API,1
+zend guard,1
+ioncube,1
+SLIM,1
+paypal,1
+webmoney,1
+LARAVAL,1
+Netcat CMS,1
+qiwi,1
+steam api,1
+vanila,1
+Собеседование,1
+Аттестация персонала,1
+"Хорошее знание PHP, HTML, MySQL, CSS, Sass, MQL4",1
+Телемаркетинг,1
+parallax,1
+css transitions,1
+bootstarp,1
+"- пользователь Windows, базовые знание Linux",1
+"- HTML5, CSS3",1
+"- JavaScript, jQuery, AJAX",1
+"- PHP5, ООП, MVC",1
+- MySQL,1
+"MVC, Objective-C,  iOS SDK, Cocoa",1
+FrontEnd,1
+"PHP5, MySQL,HTML, CSS",1
+XQuery,1
+SPARQL,1
+Play Framework,1
+YUI,1
+Кредитные договоры,1
+Visual Basic .NET,1
+iMacros,1
+ExtJS - 2 week,1
+"php, html5, jquery, javascript, sql, wordpress, joomla, opencart,  media queries (адаптивный дизайн)",1
+Node.js  - 1 week,1
+Coda,1
+Ms Exchange Server,1
+smart tv,1
+более 5 лет опыта создания сайтов с нуля,1
+Amazone SQS,1
+"Вёрстка сайтов html/css(кроссбраузерно, валидно, по стандартам W3C)",1
+Знание основ юзабилити и СЕО оптимизации,1
+"Знание языков программирования php, javascript(библиотеки jQuery)",1
+Углублённые знания Adobe Photoshop,1
+Умение проектировать базы данных и реализовывать их на MySQL,1
+Amazone S3,1
+requireJS,1
+Testing methodologies,1
+high-load,1
+Умение заключать сделки,1
+Brackets,1
+XAMPP,1
+Version Control System,1
+brainfuck,1
+hex,1
+attention to detail,1
+верстка html,1
+интеграция в CMS,1
+Mockery,1
+"PHP, MySQL; HTML, CSS, JavaScript, jQuery // базовые знания",1
+Readmine,1
+"2,5 лет опыта работы в международных компаниях",1
+Terminal Server,1
+jqury,1
+Spring AOP,1
+Java-core,1
+typo3,1
+Apache Camel,1
+LSF Framework,1
+Удаленно,1
+"PHP, javascript, jquery, SQL БД, HTML. Знаком с ООП и Yii",1
+dojo,1
+Яндекс.Карты,1
+agile,1
+Ведение клиентской базы,1
+git workflow,1
+"PHP(ООП, Laravel), MySQL, AJAX, JS/jQuery, HTML/CSS, Git",1
+framework YII2,1
+MicroWin,1
+JBoss,1
+Amazon,1
+PLC Analyzer,1
+Highload системы VOIP,1
+Progressive/predictive Call,1
+Freeswitch,1
+Adobe Flash Professional,1
+Анализ VoIP трафика для обнаружения проблем,1
+"Asterisk(1.2, 1.4, 1.6, 1.8, 11, 12, 13) AGI, AMI, ARI",1
+HAProxy,1
+•	Реализация решений на уровне предприятий и организаций любого масштаба,1
+•	Лидерство команды разработчиков,1
+sybase,1
+slim2,1
+"RUBY, CGI на HTML, / CSS,  владение JavaScript, и PHP, PHYTON",1
+sublime text,1
+"Энергичность, целеустремленность",1
+Macromedia dreamweaver 8.0,1
+Paskal,1
+С++ Builder 6,1
+Visual Studio,1
+Sublime / NetBeans,1
+Delfi7,1
+fancybox technology,1
+Open Cart / ocstore,1
+GIT / Tortoise,1
+PHP 5.x+,1
+bitrix24 api,1
+Underscore,1
+Express NodeJs framework,1
+unreal engine,1
+CMS Drupal / Wordpress,1
+•	Умение вникать в потребности заказчика,1
+"•	Знания web-технологий, шаблонов и инструментов разработки, организации и контроля кол. работы.",1
+PLSQL,1
+"HTML, CSS – навыки верстки.",1
+onPHP,1
+PHP(OOP),1
+"Yii 1.15, CakePHP, AngularJs, MySQL, Doctrine 2, Jquery, Git, Jira, Redmine, PHP Storm.",1
+"PHP(ООП), JavaScript, Jquery, Ajax, JSON, XML, framework Codeignitore",1
+FireBird,1
+"Perl, Mojolicious, DBIx::Class, Mojo::IOLoop, AnyEvent, EV",1
+способность к прогнозированию,1
+настойчивость,1
+наличие коммуникационных навыков,1
+Teamplayer,1
+SimpleXML,1
+Умение объяснять,1
+"Знание языков программирования: ассемблер, си, с++, php, python",1
+"Знание SQL (запросы, триггеры, хранимые процедуры)",1
+Shipping,1
+"•	Значительный опыт и знания SQL (MySQL), NOSQL (MongoDB), разработка, оптимизация и поддержка БД",1
+"•	Существенные знания и опыт в Mojolisious, NodeJS, Zend, jQuery, ExtJS, Smarty",1
+"yii,bootstrap",1
+•	Знания и опыт работы с различными CMS,1
+danneo,1
+NetBeams,1
+PSR-1,1
+Experience of work in PhpDesigner,1
+Understanding of client-server architecture,1
+"API: Facebook, VK, EBay, Amazon",1
+Knowledge of JavaScript,1
+"php, AS3, hg, git, ООП, паттерны проектирования",1
+"Agile(Scrum),TDD",1
+"Git, GitLab (установка и настройка), Mercurial",1
+Быстрое обучение,1
+профессиональная честность,1
+дисциплина,1
+"С#(ASP.NET, WPF)",1
+"JavaScript(JQuery, AngularJS, KnockoutJS, Node.JS, CoffeeScript)",1
+Mnesia,1
+Suite CRM,1
+"PHP5(Yii, Zend Framework, Symfony)",1
+Drupal 7x,1
+Диагностика,1
+OpenServer,1
+Самостоятельное построение ссылочной структуры,1
+denwer,1
+"Java script (jquery,Ajax )",1
+1c Обмен данными,1
+Experience with CMS Joomla,1
+Knowledge of HTML and CSS,1
+"Разработка дополнительных модулей для биллинговой системы Траффпро, Ланбиллинг",1
+Experience with jQuery,1
+Организация узла доступа в сеть интернет на базе оборудования Микротик + Ланбиллинг,1
+"1С:Специалист, 1С:Профессионал для 1С:Предприятие 7.7Курсы Cisco ICND 1 и 2",1
+Удаленная поддержка функционирования узла доступа в сеть Интернет провайдераБухгалтерский учет,1
+Rational Rose,1
+Кредиты для бизнеса,1
+"Cи, С++, HTML, CSS, PHP",1
+MODx revo,1
+"PHP, HTML, CSS , Javascript, jQuery, AJAX,  работа с CSS-фреймворками (Bootstrap), SQL",1
+"Есть базовые знания SMARTY, Symfony, Yii.",1
+"Среды разработки: SQLyog, MySQLWorkbench, Net Beans, Notepad++.",1
+"Английский язык - чтение технической документации (свободно), разговорный (средний).",1
+"Разработка  сайтов   PHP ,MySQL",1
+"Написание роутеров, контроллеров, моделей, представлений, репозиториев, проектирование баз данных",1
+"Верстка  HTML, CSS, JavaScript.",1
+"Фреймворки: bootstrap , jQuery .",1
+"Knowledge of PHP, OOP",1
+Docrine 2,1
+RestFull,1
+Experience with MySQL,1
+Проектирование ERP/CRM,1
+"PHP,HTML,CSS,MySQL,JavaScript, AJAX,OOP,MVC,PDO,ORM,,GIT",1
+телефонные продажи,1
+профессиональный пользователь ПК,1
+ПК и офисные приложения на профессиональном уровне. Создание сайтов на WordPress (Для себя и друзей),1
+Unity 3d,1
+express.js,1
+"Основы html, css, javascript+jquery, ajax, php, mysql.",1
+"Языки HTML, СSS, PHP, JS, MySQL, библиотеки JQuery и Alertify, плагин JQ Validate, технологию AJAX,",1
+"CMS: 1c-bitrix, wordpress",1
+Adobe Audition,1
+anykey,1
+Elastix,1
+SMPP,1
+Jetbrains IDEs,1
+Контроль исправности оборудования,1
+UnderscoreJs,1
+Handlebars,1
+фреймворк Kohana,1
+JavaScript(JQuery),1
+"Веб-серверы: Apache, nginx",1
+Delphi(Rad Studio),1
+Выполнение аналитической работы: выполнял аналитическую работу в области СМИ,1
+опыт чтения чужого кода,1
+управленческий опыт и опыт обучения сотрудников,1
+RSS,1
+"php, sql, html (базовый уровень)",1
+sequelize,1
+R-project,1
+"Знание HTML, CSS, JavaScript, PHP, работа с СУБД MySQL. Работа с фреймворком CodeIgniter",1
+1С: Предприятие: Розница,1
+Front-end Developer,1
+Backend Developer,1
+pixijs,1
+PHP 5.5,1
+Есть знания в сфере тестирования ПО;,1
+OpenCard,1
+Управление хостингом,1
+silex framework,1
+"Работа с графическими редакторами GIMP, Photoshop (нарезка дизайна для верстки)",1
+1С: Розница,1
+"Понимание концепции ООП, MVC",1
+"Работа в ОС MS Windows, Linux.",1
+Продвижение объекта,1
+Работа с жалобами клиентов,1
+стремление,1
+интерес,1
+BerkleyDB,1
+JIRA,1
+C++/Qt,1
+PL/PGSQL,1
+"Настройка оборудования Cisco, Zyxel, UbiquitiНастройка рабочих станций и серверов под управлением ОС",1
+Программирование приложений для ОС Андроид,1
+Знание парадигмы  ООП,1
+"HTML5, CSS3 (базовые знания)",1
+Redis (базовые знания),1
+"Linux (Ubuntu, Debian), Windows",1
+"Git, SVN",1
+Знания PHP уровень junior,1
+уверенно владею HTML разметкой,1
+знания MySQL уровень junior,1
+знания javascript уровня junior,1
+"могу работать с CMS MODX Revo, MODX Evo",1
+Black box testing,1
+Руководитель IT,1
+Compatibility Testing,1
+php html javascript jquery,1
+Ведение и расширение клиентской базы,1
+Составление и заключение договоров,1
+Контроль отгрузки и доставки товара,1
+Знание 1С,1
+Server,1
+Уверенное владение ПК,1
+Умение находить общий язык с людьми,1
+Умение консультировать по вопросам,1
+дизайнер,1
+Аудит,1
+"JavaScript (JQuery, AJAX)",1
+Настройка собственных СМС-сервисом с использованием USB модемов,1
+PHP5 (Yii framework),1
+"PHP,  Laravel",1
+PSR-0,1
+"JavaScript, AJAX, JQuery",1
+"MySQL, Oracle, MS SQL Server, Interbase",1
+CMS SocialEngine,1
+Администрирование линейки серверов ОС Window,1
+php 5.4+,1
+Руководство ИТ-управлением предприятия,1
+Настройка WEB сервера,1
+Kompas 3D,1
+Организация ИТ-инфраструктуры с «ноля»,1
+"володіння PHP, HTML5, CSS3, JavaScript/jQuery(базові знання);",1
+вміння застосовувати ООП в PHP;,1
+базові знання фреймворка Yii та його MVC моделі;,1
+впевнений користувач Adobe Photoshop;,1
+знання ОС Linux;,1
+базовий рівень англійської мови;,1
+досвід верстки сайтів з нуля (HTML+CSS);,1
+"досвід роботи з базами даних (MySQL) - на рівні створення бази, написання запиту до бази та зчитуван",1
+"велике бажання учитись, розвиватись і самовдосконалюватись!!!",1
+Провайдер,1
+Google Analytics API,1
+верстальщик,1
+маркетинг,1
+Goldcut,1
+"Знание HTML, CSS, jQuery",1
+"профессиональный пользователь ПК (Microsoft Windows, Linux) знание PHP, SQL, JavaScript, FoxPro 2.0",1
+Recycling,1
+Adobe After Effects,1
+"целеустремленность, добросовестнность,",1
+"уверенные знания по html. css, php, опытный пользователь unix систем",1
+"полный рабочий день возможен удаленно, или половина дня удаленно а вторая в офисе",1
+ip networks,1
+"Программирование на языке Clipper, VBA.Обслуживание АТСК 100/2000Обслуживание аналоговой аппаратуры",1
+Pinnacle Studio 15,1
+Обслуживание аналоговой аппаратуры уплотнения,1
+php devel studio,1
+Настройка систем автоматической связи между АТС,1
+Руководство основным производствомПрограммирование однокристальных микроэвм,1
+Оптимизация БД,1
+"Программирование на АссемблерРазработка сайтов на CMS/CMF Joomla, Drupal, Webasyst, OctoberCMS",1
+Разработка скриптов на PHP с использованием чистого PHP и фреймворков,1
+Архитектура БД,1
+Архитектура веб-приложений,1
+Разработка и администрирование баз данных с использованием СУБД Mysql,1
+"Интеграция платежных систем ONPAY, QiwiИнтеграция с смс-сервисами",1
+Java junior,1
+Компас 3D,1
+Умение прочесть чужой код,1
+Сборщик проектов Grunt,1
+"Среды разработки: PhpStorm, Sublime Text 3.",1
+"Умение писать код с хорошим стилем, а также документирования в соответствие с phpDoc, JSDoc.",1
+ExtJS 4,1
+ecmascript6,1
+ClojureScript,1
+Система управления проектами и задачами JIRA.,1
+Reagent,1
+Pyramid Framework,1
+Система управления версиями Git,1
+"Препроцессоры для css, в частности Less.",1
+Ms SQL 2000,1
+Clojure,1
+"PHP(OOP), MySQL, HTML, SCC, Javascript, Sybase PowerDesigner.",1
+"WEB-разработкой занимаюсь последние 4 года. Опытный разработчик на PHP, уверенные знания БД MySQL,JS",1
+"Профессионально владею  Clipper, имею навыки  C++Builder,С#,JAVA.",1
+Практическое применение объектно-ориентированного программирования (ООП).,1
+"html,css, Bootstrap, javascript, jquery, AJAX, php, MySQL, с++",1
+Опыт работы с фреймворком Yii,1
+Опыт работы с базой данных MySQL,1
+Опыт работы с  распределённой системой управления версиями файлов GIT,1
+Spring integration,1
+Oracle Forms,1
+"PHP, JavaScript, Ruby, Ruby on Raills, HTML, XML, AJAX, Jquery, Jquery UI, OOP, Smarty",1
+Хорошие знания SQL,1
+постоянное профессиональное развитие,1
+Visual Paradigm,1
+небольшая работа с yii,1
+понимание MVC,1
+проведение переговоров с первыми лицами компании,1
+переговоры с первыми лицами компаний,1
+Разработка на magento,1
+работа с текущей базой клиентов,1
+Подготовка коммерческих предложений,1
+разработка на wordpress,1
+Разработка Cms,1
+"PHP5, Javascript",1
+"Програмирование на PHP, MySQL, HTML верстка",1
+PHP7.0+,1
+Работа с дебиторской задолженностью,1
+api integration,1
+TWIG,1
+"Bootstrap –базовые,  серьезных сайтов не писал.",1
+"CMS WordPress, Drupal, Joomla - установка, настройка, подключение сайта",1
+"FileZilla, Denwer ,  перенос  и настройка сайта на хостинг.",1
+ionic,1
+умение начинать дела и доводить до успешного завершения,1
+PHP Designer,1
+"JavaScript, JQuery — базовые знания",1
+JQuery svg,1
+German,1
+Phaser,1
+framework kohana,1
+AWS Amazon Services,1
+DbFordge Studio,1
+Ms SQL 2005,1
+"Знание HTML, Javascript, CSS, AngularJS",1
+Bugzilla,1
+"Программирование на PHP, MYSQL, HTML, CSS",1
+"фреймворки Yii1, Yii2",1
+JQery,1
+Опыт работы с СУБД,1
+X-Path,1
+"HTML, CSS,  JAVASCRIPT, БИБ.JQUERY, PHP MYSQL,  joomla",1
+CKEditor,1
+Системы ERP,1
+"Языки разметки HTML 5, CSS 3",1
+MS Axapta,1
+Oracle EBS,1
+IFS AB,1
+SAP,1
+"HTML/CSS, верстка из PSD макета, блочная и табличная верстка",1
+"Php, MySQL, Ajax — начинающий",1
+GlassFish 1.4.0,1
+Складской Учет,1
+activemq,1
+sphinxsearch,1
+October,1
+Billing,1
+traffic inspector,1
+"C#, VB .NET, VBA, C++, Java, PHP, Perl, JavaScript, CSS, HTML, OOP, UML, .NET Framework",1
+"HTML, CSS, PHP, JavaScript, Jquery",1
+нестандартный подход,1
+Corezoid,1
+Design,1
+Sender,1
+"Практические умение работы с joomla и Wordpress ,базовые навыки html,css, php 5,навыки работы MySQL",1
+"1C-bitrix CMS, имею 7 сертификата 1C-Bitrix",1
+"html5, css3, javacsript, jquery, jquery_UI",1
+"OOD, OOP in C++, C# ,2000/XP/Win7,Linux(ubuntu),knowledge of STL library, XNA,.Net frameworks",1
+API PRIVATBANK,1
+"php, mysql",1
+"Букмекер, спортивный аналитик",1
+Профессионально гуглю)),1
+JavaScript чуть-чуть,1
+AOP,1
+Понимание принципов ООП,1
+Пожарная безопасность,1
+"php5, codeigniter, html5, css3, bootstrap3 javascript, jquery,git",1
+"frameworks (cakephp, zf2 - средний уровень)",1
+SEO (поисковая оптимизация) — начинающий,1
+"Web - дизайн, создание PSD макетов сайта",1
+"Кроссбраузерность (Firefox, Opera, Chrome,  IE 7+);",1
+"Уверенный рользователь ПК, Microsoft Office;",1
+Async PHP,1
+Message Queue,1
+MQ,1
+Sweet,1
+payment api`s,1
+TTL,1
+Vanilla,1
+Асинхронное программирование,1
+php 7.1,1
+Нелинейное программирование,1
+Протоколирование,1
+функциональное программирование,1
+Экстремальное программирование,1
+ajax (средний уровень),1
+Fat Free Framework,1
+Управление складскими помещениями,1
+Закупка товаров и услуг,1
+"Php, Magento, Wordpress, Html, Css, JavaScript, jQuery",1
+Консультативные продажи,1
+Широкий спектр знаний и технический опыт в сфере IT,1
+Bash - скриптинг,1
+"php, html, css, mysql, oracle",1
+Водительское  удостоверение категории BC,1
+Проведение опросов,1
+Symfony CMF,1
+Пользователь UNIX системы,1
+Система контроля версий (Git),1
+Администрирование Oracle 9I,1
+Database design,1
+Google Analytics e-commerce tracking,1
+payment gateway integration,1
+plugins and themes development for WooCommerce,1
+S3 Api,1
+Code Igniter,1
+API Yandex Direct,1
+Node.JS,1
+"Практические умение работы с joomla и Wordpress ,базовые навыки html,css, php5,навыки работы MySQL",1
+"Php5, javascript, Jquery, ООП, Kohana, Mysql, GIT",1
+Klein,1
+Symfony2 (basics),1
+InnoDb,1
+JQueryUI,1
+Охрана труда и техника безопасности,1
+psd-to-html,1
+Marionette,1
+Личный автомобиль,1
+"Yii, Codeigniter",1
+Laravel 5.3,1
+node.js,1
+Ruby понимание основ,1
+основы http,1
+Driving Licence AB,1
+Business English Certificate,1
+PHP5 + ООП,1
+"Профессионально: PHP, MySQL, HTML (руками по стандартам и с учетом браузеров), CSS (в т.ч. блочная).",1
+memcached,1
+Symfony (начальный уровень),1
+"Навыки работы в Photoshop, adobe illustrator, Adobe Premiere Pro CS3, Adobe After Effects.",1
+Yii (начальный уровень),1
+"Знание HTML, CSS, PHP5 (с ООП), MySQL5.",1
+Ice,1
+Базовое знание CSS,1
+базовое знание HTML,1
+"Первая книга по программированию прочитанная мной Д.Кнут ""искусство программирования""",1
+Начально-базовое знание PHP,1
+немного опыта с jquery,1
+опыт составления не сложных запросов mysql,1
+own framework,1
+xul,1
+операционные системы,1
+Borland,1
+разработка веб-сервисов,1
+DLE CMS,1
+rpc,1
+torrentpier II,1
+XBTIT Engine,1
+TBDev  Torrent Engine,1
+Настройка и оптимизация ПК,1
+"Установка Windows XP, 7, 8.1, 10",1
+payment gateways,1
+Relational database,1
+Пейзажная фотография,1
+оптимизация mysql,1
+3D,1
+Maxon Cinema 4D,1
+3D анимация,1
+Ngnix,1
+Паттерны програмирования,1
+"php, linux, mysql",1
+1С: CRM ПРОФ,1
+MBA,1
+"Знания на уровне разработчика в Linux,LAMP,Apache,SQL, PHP,JAVA, JavaScript,JQuery,AJAX,XML,Android.",1
+Tasks Tracking Sytems,1
+Упрощенная Система Налогообложения,1
+KnockoutJS,1
+"php5 , MySql 5.6 , html5 , css3 , jquery",1
+amazon,1
+linked in api,1
+Scrumban,1
+PhpDesigner,1
+PyChar,1
+Fidder,1
+Firebug,1
+Xenu,1
+"PHP, MySQL, HTML, CSS, XML, JavaScript, jQuery,Ajax,SVN, Git",1
+фреймворк Symfony .,1
+Бухгалтерский учет,1
+системное программирование,1
+devexpress,1
+Oberon,1
+sfinx,1
+varnish,1
+prestashop cms,1
+SocialEngine CMS,1
+Torque Engine,1
+Trinity Vision Engine,1
+subscribe,1
+webserver,1
+Doctrine ORM/ODM,1
+"PHP5 , JavaScript , WEB , 1cv8 бухгалтерия , ПЛК (CodeSys), j,обслуживание компьютеров",1
+Планирование проектов,1
+навыки верстки HTML и CSS,1
+Планирование бюджетв,1
+Разработка веб-сайтов,1
+Sublime Text,1
+Управление веб-проектами,1
+ActiveRecord,1
+LD,1
+Mailings layout,1
+xdebug,1
+Навык разработки без применения фреймворков,1
+умение разбираться в чужом коде,1
+xhprof,1
+"OOP, LAMP(Linux Ubuntu, Apache , MySQL 4/5, PHP 4/5), Database Abstraction",1
+"PayPal API, WebMoney API, version control software  (SVN, Git)",1
+"RESTful services, JavaScript (jQuery, JSON, AJAX/XDomainRequest), C/C++",1
+"XML, RSS, HTML, CSS, FastTemplate, Smarty",1
+понимание жизненного цикла разработки с момента написания тз до прод-версий,1
+cpanel,1
+gmaps,1
+опыт разработки с ограниченными ресурсами,1
+Корректирующие и предупреждающие мероприятия,1
+Laravel5 framework,1
+"JSP coding, servlet разработка",1
+Kohana framework,1
+Умение быстро принимать решения,1
+знание Apache и Tomcat,1
+"использование ant, jUnit, Mock-object",1
+"понимание RUP, XP, опыт разработки по Scrum",1
+применение XQuery,1
+программирование под Unity,1
+программирование с применением шаблонов,1
+"работа с http, smtp протоколами",1
+Разработка маркетинговой стратегии,1
+"успешное использование OS windows, Unix, MacOS",1
+php mysql css html ajax jquery javascript,1
+Agile Metodology,1
+"Network equipment (Cisco, QNAP NAS)",1
+"TCP/IP, IPX",1
+Test Cases,1
+Testing,1
+"VMware ESXi, VirtualBox",1
+"Windows, Linux administration",1
+Unix shell,1
+"РНР, НТМL, С#, C++, Delphi. Работа с БД MySQL. Разработка WEB – приложений. Работа в средах Linux и",1
+Понимание архитектуры MVC,1
+базовое знание linux,1
+jqueryui,1
+mysql injection,1
+ucoz,1
+Web технологии,1
+Web Socket,1
+Оптоволокно,1
+"Control Version Git, Mercurial",1
+Pattern MVC,1
+CMS Bitrix,1
+Statamic CMS,1
+"Диагностика ПК, Ремонт ПК, Установка ПО, Настройка ПО",1
+"Логическое мышление, аналитический склад ума",1
+"Уверенный пользователь ПК, усидчивость, целеустремленность",1
+Bourbon,1
+Dreamweaver,1
+Compass,1
+Solo 9,1
+Научная деятельность,1
+Научные исследования,1
+volt,1
+sugar crm,1
+"PHP, Zend Framework, CodeIgniter, JQuery, Wordpress, Prestashop, SocialEngine, MySql, CSS, Linux(Ubu",1
+NodeJs,1
+java Hibernate,1
+AutoIt,1
+Google SketchUp,1
+Ecommerce,1
+x3m,1
+понимание нормальных форм проектирования БД,1
+опыт проектирования и работы с реляционными БД,1
+BitBucker,1
+extrime programming,1
+gitlabhq,1
+knockoutjs,1
+scram,1
+взаимодействие между сайтами,1
+"Выше среднего:Mathcad, Matlab (+Simulink) - Цифровая обработка сигналов,Цифровые системы автоматичес",1
+"php5,html,css",1
+Розничная торговля,1
+"Базовые:Proteus, Keil Uvision (C/C++), Quartus (VHDL,Verilog,AHDL), основные принципы программирован",1
+"Басовые знания : php,MySQL ,html, js, CSS (+ bootstrap,w3.css), Фреймворк laravel",1
+"Проектирование ЛВС, Проектирование Wi-F- сетей",1
+Hardware,1
+Computer troubleshooting,1
+LiveStreet,1
+QGIS,1
+Первичные документы,1
+"Директор ОАО Руководитель группы Системный администратор Web-конструктор:Denver, Joomla, Webbulder,",1
+Php программист,1
+Предприимчивость,1
+заправка картриджей,1
+cryptocurrencies,1
+Применение распространенных паттернов проектирования,1
+"Знание PHP, MYSQL, JAVA-SCRIPT",1
+Техническое редактирование,1
+"YII 1,2",1
+Layout,1
+"bitrix, joomla, modx, dle",1
+"php5, java, html5, SQL, css3, AJAX",1
+"JavaScript (OOP, MV*)",1
+"jQuery (M, UI)",1
+Native js,1
+Social media,1
+Underscore.js,1
+CorelXara (векторный редактор для web),1
+Informix,1
+"Java ""Android""",1
+MSSql,1
+SenchaTouch,1
+монтаж сетевого оборудования,1
+Email sending APIs,1
+Знания и понимание реляционной теории баз данных,1
+Знание структуры и механизмов работы Microsoft,1
+опыт работы с API социальных сетей,1
+Написание REST API (крайний проект – почтовый рассыльщик для проектов компании),1
+Java разработчик,1
+CodeIgniter (в кратчайшие сроки готов освоить любой MVC фреймворк),1
+ремонт оргтехники,1
+Diafan CMS,1
+Codelgniter 3,1
+Laravel 4,1
+GruntJS,1
+Обеспечение жизнедеятельности офиса,1
+CMS MODx Revolution,1
+"Навыки: PHP, HTML, CSS, SASS, MySQL - Основы Javascript, AJAX, jQuery, WordPress",1
+symfony 2,1
+Export,1
+Import,1
+Складская логистика,1
+Shopify framework,1
+WMS,1
+"MS Word, Excel, PowerPoint",1
+Язык программирования C++,1
+Jquery Ui,1
+legacy code,1
+Payment Systems,1
+Архитектура приложений,1
+Информационная логистика,1
+"Программирование СУБД SQL, C#, php, html, css",1
+"Умение разбираться в чужом коде оптимизация, написание фун-ий процедур, евентоа",1
+Cpanel,1
+HTML и CSS достаточно хорошие знания,1
+Aerospike,1
+• администрирование офисного ПО;,1
+Pixel Perfect,1
+• администрирование семейства ОС Windows;,1
+Responsive design,1
+• консультации по закупке аппаратной части;,1
+• основы JavaScript (jQuery);,1
+5 группа по электробезопасности,1
+XenForo,1
+Повышенная работоспособность,1
+Стремление к профессиональному росту,1
+"• основы PHP, MySQL;",1
+"• создание логотипов, баннеров;",1
+• техническое обслуживание компьютеров и периферии;,1
+• установка и наладка сети;,1
+"• хорошее знание Microsoft Office, Adobe Photoshop, HTML;",1
+Украинский язык,1
+Android developer,1
+Способность находить с людьми общий язык,1
+"html, xml парсеринг",1
+JavaScript кодер,1
+"Php5 – OOP, framework Symfony2",1
+Administrating Skills,1
+MySQL – orm Doctrine2,1
+написание bash скриптов,1
+"JavaScript, Jquery",1
+Web application security,1
+"PHP, Sql, Mysql, ООП",1
+с++,1
+Базовый уровень PHP/MySQL,1
+Желание постоянно учиться и совершенствоваться,1
+Payment APIs,1
+redhat Linux,1
+Samba,1
+сборка rpm,1
+VCS – Git,1
+Работа с САПР системами,1
+Cron-Job,1
+Jetbrains,1
+Rubymine,1
+TYPO3,1
+beanstalkd,1
+Pattern Design и SOLID,1
+XHProf,1
+Travis CI,1
+Базовые знания SEO,1
+"PHP7, HTML5, CSS3, JS",1
+DataLife Engine,1
+Roistat,1
+Имею немалый опыт ЛИДЕРа,1
+Легко внедряюсь в коллектив,1
+Оптимизация обмена с СУБД,1
+Стараюсь мысли выражать кратко,1
+"Умение убеждать, если считаю себя правым",1
+ASP.NET.CORE,1
+UIKIT,1
+СУБДД,1
+Дисциплина,1
+Самоорганизация,1
+REST API Bitrix24,1
+Разработка чат ботов,1
+Интеграция интернет магазинов с Bitrix24,1
+"Кроссбраузерная, адаптивная верстка",1
+"SQL запросы, работа с базами данных",1
+"SCSS, LESS",1
+легкая обучаемость,1
+"Опыт программирования отсутствует, теоретические знания на уровне выпускника.",1
+Огромное желание развиваться в области программирования,1
+ES5,1
+Angular Universal,1
+Tests Pyramid,1
+Имею большой запас терминов и слов для общения,1
+ESS6,1
+водительский стаж 23 года,1
+graphql,1
+Full Stack,1
+FullStack,1
+Под ключ,1
+Нейросети,1
+Боты,1
+Наладка ПО,1
+Наладка ПК,1
+kubernetes,1
+nuxt.js,1
+electron,1
+Arango,1
+CRM API,1
+Laravel 8,1
+Apache Solr,1
+FreeMarker,1
+PHP Twig,1
+Laravel 5.5.,1
+Jackson databind,1
+Amazon ES2,1
+PIXI,1
+CodeIntegrator,1
+Корпоративная этика,1
+Бизнес планирование,1
+Линукс,1
+Gitlab CI/CD,1
+упорство,1
+API Zabbix,1
+https://github.com/sergeykopp,1
+Интернет-СМИ,1
+Финансовый менеджмент,1
+Яндекс.Вебмастер,1
+Google.Adsense,1
+Magento 2 (junior),1
+"PHP 5 (OOP, MVC, AJAX, PDO), MySQL, PostgreSQL, MSSQL, Symfony 2 (Service Co",1
+Capacitor,1
+любознательность,1
+желание,1
+AdopePhotoshop,1
+Modx Evo,1
+Бэм,1
+Evolution CMS,1
+ориентирование на результат,1
+flex-box,1
+СЭД,1
+socket,1
+Elastic Seach,1
+GIS,1
+Chrome-extension,1
+Rest Api,1
+навыки работы с yii2 Github php mysql html css,1
+Linux Pfsense,1
+Microsoft Office,1
+Базовый HTML,1
+Базовый CSS,1
+Начальный JS,1
+Гений,1
+Чёртов гений,1
+Просто гений,1
+Организация PR кампаний,1
+Написание сценариев,1
+подготовка документов для участия в тендерах,1
+Тендеры,1
+Опыт управления персоналом,1
+Регулярные выражения,1
+умение планировать,1
+"Docker, HTML, CSS, JavaScript, JQuery, PHP, Symfony, Laravel, Yii2, Vue.js, Git",1
+High-load,1
+Mongo,1
+Yii-2.0,1
+Socket.IO,1
+Google Elasticsearch,1
+"PHP, Javascript, CSS, React, JQuery, Vue.js, HTML, React, XML, AJAX, SQL, Mongo DB, Map Gl, KR Pano",1
+Atlassian Bitbucket,1
+RegEx,1
+Желание профессионально совершенствоваться,1
+slim,1
+psr,1
+"Владения языками программирования PHP, JavaScript",1
+Helm,1
+Google cloud,1
+Mutation testing,1
+"Разработка веб сайтов, REST api, проектирование БД",1
+socketIO,1
+"JavaScript фреймворки: хорошее знание jquery, AngularJS, знакомство с YUI",1
+"PHP фреймворки: глубокое знание Symfony, Doctrine, поверхностное Zend, Yii, Symfony CMF",1
+"Базы данных: глубокое знание MySQL, знакомство с PostgreSQL, MSSQL",1
+"Верстка HTML5, CSS3, LESS, Bootstrap",1
+"Владение инструментами тестирование phpunit, behart, jasmine и их применение (когда не мешает лень)",1
+"Знание принципов ООП и шаблонов проектирования (TDD, DDD)",1
+Nomad,1
+"Системы контроля версий SVN, Git",1
+Реляционные БД,1
+Проектирование архитектуры веб-сервисов,1
+Высоконагруженные системы,1
+ELK Stack,1
+MariaDB Column Store,1
+Ajax/JSON,1
+Perfect Pixel,1
+IDE PHPStorm,1
+ООП(PHP и JS),1
+PhpMig,1
+Slim framework,1
+Связь телеграмму https://t.me/Elmurodov_Javohir,1
++ Bootstrap,1
+DAO,1
+FireDac,1
+Ehlib,1
+CN-Pack,1
+Windows all,1
+Fotoshop,1
+CoralDrew,1
+FineReader,1
+SketchUp,1
+CakePhp,1
+PHP(Symfony2/3/4/5),1
+Kotlin junior,1
+ActiveMQ,1
+Applets,1
+Системный анализ,1
+Шардинг баз,1
+Векторизация,1
+RDWorks,1
+Векторы для лазерной резки и гравировки,1
+Vue.Js,1
+"Больше Beck, Меньше Front",1
+Swagger autogen,1
+способность концентрироваться на задаче,1
+высокая самообучаемость,1
+хорошая организованность,1
+"СЭД DIRECTUM, PDM Lotsia 5.6",1
+Datagrip,1
+electron.js,1
+Целеустремлённость,1
+Открыт для новых знаний,1
+Порядочный,1
+Внимательный,1
+Уверенный,1
+Отзывчивый,1
+Общительный,1
+Собранный,1
+"linux (nginx, php-fpm, mysql, etc.)",1
+уравновешенность,1
+Dql,1
+XML технологии,1
+MogutaCMS,1
+перфекционист,1
+Огромное желание развиваться,1
+Wagtail,1
+"Разработка ПО под микроконтроллеры STM32,AVR,PIC",1
+Linux/Git,1
+HTML CSS PHP MYSQL jQuery JS BOOTSTRAP GIT,1
+SCSS SASS,1
+Laravel6,1
+"Ключевые навыки: PHP 5.5, MySQL,JS,JQuery. C#.",1
+проектирование баз данных,1
+Администрирование баз данных,1
+Rabbit,1
+разработка чертежей,1
+Nats,1
+"Опыт работы с Linux, Опыт работы с ElasticSearch",1
+"Базовый опыт работы с PHP 7, MySQL, ООП, HTML/CSS, Git, Javascript",1
+"PHP, Laravel, MySql, PostgreSql, CSS, HTML, JavaScript,Git",1
+"Asterisk, ESXi",1
+"Unix, Apache, Nginx",1
+Администрирование сетей,1
+Blueprint,1
+Самостоятельное обучение,1
+Redux Saga,1
+Создание проектов с нуля,1
+Grid верстка,1
+Базовые принципы дизайна интерфейсов,1
+gitlab,1
+java-script,1
+1C Bitrix,1
+vtiger,1
+cms modx,1
+firebird/interbase,1
+Progressive web app,1
+Broadsign Cloud,1
+ADO,1
+Программирование карточных систем RFID,1
+1C: Финансы,1
+Привлечение банковского финансирования,1
+Корпоративные финансы,1
+"Программирование на Паскале, Ассемблере, Делфи, Знание Jscript",1
+глубокое знание ОС Windows,1
+умелое ориентирование в интернете и поиск нужной информации,1
+Zend framework2,1
+SCAD,1
+Управление производственным персоналом,1
+Интеграция 1С с онлайн и прочими системами,1
+Разработка биллинговых систем,1
+Нацелен на результат,1
+PHP AGI,1
+ЕСБД,1
+Mssql,1
+Socialengine,1
+Phpfox,1
+Concrete5,1
+mootools,1
+NetBeans IDE,1
+Git Extensions,1
+LinuxDebian,1
+Общение,1
+Использую современный подход,1
+SocketIO,1
+Hibernate,1
+CSS Flex,1
+Банковские переводы,1
+Разработка неофициальных платежных систем,1
+AntDesign,1
+expressJS,1
+CDN,1
+Twilio,1
+DialogFlow,1
+Chatbot,1
+cms MODx,1
+1c-bitrix,1
+Быстро печатаю,1
+"js(функциональное ООП,прототипирование)",1
+патерны ООП,1
+работа с sql,1
+написание api(rest),1
+"Основы git(pull,push,commit)",1
+основы vue.js,1
+Умение отстаивать свою точку зрения,1
+Npm,1
+Структуры данных,1
+Паттерны проектирования,1
+VBox,1
+PHP 5/7,1
+Audioediting,1
+blockchain,1
+Битрикс24‎,1
+php Composer,1
+Интеграция amoCRM,1
+Интеграция с Roistat,1
+Работа с удаленными программистами,1
+Контроль за работой удаленных программистов,1
+Постановка задач удаленным программистам,1
+Rest full,1
+livewire,1
+Red Bean PHP,1
+ORM RedBean,1
+IBM Rational,1
+Jetstream,1
+Livewire,1
+"Yii2, php, js, jquery",1
+Metapod,1
+Ekans,1
+Ditto,1
+Vulpix,1
+WinRAR,1
+Ye Olde Curiosity Shoppe,1
+"Html, Css, Bootstrap, Php, Javascript (Jquery), Mysql. Opencart , Yii2.",1
+MSVisio,1
+tarantool,1
+Системная разработка,1
+управление,1
+Разработка модулей систем,1
+Проектирование архитектуры приложения,1
+LDAP/AD,1
+Joomla!,1
+Php 7.,1
+Ssh,1
+Magic XPI,1
+Magic XPA,1
+ES6/7/8,1
+GigaSpaces,1
+контроль,1
+быстрая обучаемость,1
+аналитика,1
+web инженер,1
+Simfony,1
+Casandradb,1
+.NET Core,1
+VUEX,1
+"Аккуратность, стабильность, качество",1
+Proxmox VE,1
+Voyager,1
+"PHP, HTML, CSS, JavaScript, MySQL, AJAX, Smarty",1
+QEMU-KVM,1
+libvirt,1
+Верстка Div,1
+Windows AD,1
+опыт исаользования MySql,1
+VPS/VDS ISPManager CPanel,1
+PHPStorm & WebStorm & Sublime,1
+Google Page Speed,1
+Adobe Photoshop & Corel Draw,1
+Zennoposter,1
+KeyCollector,1
+TCP/IP OSI 7 Layer Model,1
+IPWF,1
+NAT & Bridge,1
+Видеомонтаж профессиональная обработка видео,1
+опыт деплоить сайт,1
+видео спецэффекты,1
+1C-Битрикс WordPress Webasyst shop-script MODX...,1
+монтаж скс,1
+настройка активного сетевого оборудования L2,1
+CMS Drupal 7,1
+laravel 5.2,1
+laravel 5.3,1
+laravel 5.4,1
+laravel 5.4 web - sockets,1
+"PHP, MySQL, Design Patterns, Zend Framework, Symfony, SOLID, Doctrine 2, Unit Testing, AJAX",1
+основы работы с командной строкой,1
+основы JS,1
+csv,1
+готов обучаться новому,1
+stylus,1
+Splunk,1
+Automation QA,1
+составление тз,1
+ElastcSearch,1
+3d modelling,1
+Уверенное знание HTML5,1
+логическое мышление,1
+склад ума,1
+честность,1
+активность,1
+PHP 7+,1
+PHP (базовый),1
+"HTML, CSS (Базовый)",1
+HeidiSql,1
+Mezzio (Zend Expressive),1
+Laminas (Zend),1
+Sockets,1
+CRON,1
+1С-Битрикс. Контент-менеджер.,1
+"PHP, HTML, CSS, JavaScript",1
+Директор IT,1
+erWin,1
+Phpstorm,1
+Активное слушание,1
+"Bootstrap 3,4",1
+https://www.dropbox.com/s/124yeut4w7t7ywd/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_no_contacts.pdf?dl=0,1
+oAuth 2.0,1
+PHP 5.3,1
+Шаблон проектирования,1
+Bukkit,1
+Minecraft,1
+полный день,1
+react js,1
+"HTML, CSS, MySQL, CMS Drupal, ООП, JavaScript, PHP",1
+"CMS Modx, TYPO3",1
+Blackfire,1
+Навык работы с компьютером,1
+Коммуникативность,1
+Continuous Integration,1
+VSCode,1
+Elementary,1
+Microsoft Power BI,1
+HTML\CSS\MySQL\PHP\JS,1
+Навыки работы с lunux как GUI так и SSH,1
+Установка\настройка web сервера,1
+Php python javascript html css3 laravel Drupal c# c++ delfi symfony,1
+Ajax jomla django jQuery API Amazon microservise,1
+"PHP, C#, JS, MYSQL, CC, HTML",1
+Анализ бизнес процессов,1
+LEAN,1
+ETL,1
+Командное общение,1
+Навыки общения,1
+Умение расставить приоритеты,1
+Laravel+Vue.js,1
+Работа с большим пулом запросов,1
+Есть сертификат разработчика Битрикс,1
+laravel 5.8,1
+Тизерная Реклама,1
+gerrit,1
+Gitlab CI,1
+OrientDB,1
+Лечение и защита сайтов,1
+Методология БЭМ,1
+Инструкции по ПО,1
+LXC,1
+MySQL/MariaDB,1
+javascript (es2015),1
+selenium,1
+bootstrap 3,1
+bootstrap 4,1
+Business Intelligence Systems,1
+FibPlus,1
+"Программист, системный администратор",1
+"Html, CSS, Bootstrap",1
+knockout js,1
+Go\GoLang,1
+Headless Chrome,1
+Internet Server Api,1
+Vanilla.js,1
+Modx Revolution,1
+Создание ТЗ/Приемка по ТЗ/Поиск исполнителей,1
+Основы фотошопа,1
+curl php,1
+SOLID DRY KISS YAGNI,1
+Laravel Forge,1
+Django REST Framework,1
+CodeIntigner,1
+Docker compose,1
+Bing Maps API,1
+Yandex Partner,1
+ExpressJs,1
+Yoast Seo,1
+ACF,1
+WP Super Cache,1
+Contact Form 7,1
+Local IP access networks,1
+RestfulAPI,1
+Linux администрирование,1
+ZendFramework,1
+Php shtorm,1
+Разработка web приложений на php,1
+Youtrack,1
+Xsolla,1
+Weblate,1
+payment processing,1
+PSD to HTML,1
+Целеу,1
+Алгоритмы и структуры данных,1
+Refactoring,1
+"HTML5, CSS3, JavaScript, jQuery, Php7, SQL, Sass, Scss",1
+"Bootstrap, Git, MS Excel, CMS Wordpress",1
+Разработка ПО на Pythhon/C++,1
+pyqt5,1
+Настройка серверов под управлением Linux/BSD систем.,1
+Общение с людьми,1
+Fat-free,1
+Back-end Development,1
+Знание yii2,1
+Есть базовые знания CMS WP,1
+Имеется опыт работы с CRM системами,1
+Написание процедур,1
+Интеграция финансовых служб,1
+Angular4,1
+Kerio Mail Server,1
+GWT,1
+Договорная работа,1
+Базовое знание 1C-bitrix,1
+jsGrid,1
+ES6/Polyfills,1
+Go.js,1
+Оперативность,1
+Готов учить новое,1
+Ответственный,1
+Дружелюбный,1
+Git Actions,1
+CMS NetCat,1
+Базовое знание php,1
+OAuth2,1
+Chart.js,1
+Queue,1
+postCSS,1
+telegram-боты,1
+Разработка голосовых ботов,1
+MySQL 8,1
+ECMA Script 7,1
+CSS 4,1
+RDFa,1
+Progressive Web Application,1
+PHP 8,1
+Fancybox,1
+SMTP/POP3,1
+Struts,1
+PR,1
+Перфекционизм в работе (умеренный),1
+Умение хранить секреты,1
+Laravel 4/5,1
+Parse,1
+Neo4j,1
+Couchbase,1
+solr,1
+SpaCy,1
+"работа на результат, гармония, трудолюбие",1
+nuxtjs,1
+Tech Support,1
+Bash/PowerShell,1
+VSC,1
+1C-Bitrix / UMI.CMS,1
+Bootstrap4,1
+JSON/XML,1
+API D7,1
+AJAX/CURL,1
+Apache/Nginx,1
+CMS/CRM Bitrix,1
+ES5/jQuery,1
+SSH/SFTP,1
+Видел ABAP,1
+AWS S3,1
+JPA/Hibernate,1
+"Базовый MYSQL, SQL",1
+ООП PHP,1
+"jqvery, yii2, mysql",1
+Laminas,1
+"ПАК ""КриптоПро УЦ""",1
+pgotoshop cc,1
+верстка на основе макета psd,1
+german,1
+терпеливость,1
+"умение разбираться в чужом коде, дебагинг.",1
+Знание основ PHP,1
+Sendmail,1
+Работа с возражениями,1
+Laravel (базовые знания),1
+Gawk,1
+Sed,1
+Vim,1
+Make,1
+Boostrap,1
+Node,1
+ImageMagick,1
+Next JS,1
+PhalconPHP,1
+oAuth,1
+Проведение рекламных кампаний,1
+awk,1
+Операционное управление,1
+Познование,1
+"Yii2 (composer, migrations, codeception...)",1
+Heightcharts,1
+Ci/Cd,1
+GitlabCi,1
+аналитические навыки,1
+быстрообучаемый,1
+мотивирован,1
+многозадачен,1
+Back-end,1
+PMBOK,1
+"React, Redux",1
+MVVM,1
+ВОЛС,1
+Оптика,1
+Testing Framework,1
+XSL,1
+Parus,1
+Мегаплан,1
+Vue & Nuxt,1
+yii framework,1
+simpla,1
+electroNeek,1
+Желание развивать профессиональные навыки,1
+Управление системой дистанционного обучения,1
+A/B тесты,1
+Materializecss,1
+Laravel VueJS,1
+API-doc,1
+Проектирование API,1
+"HTML, CSS, PHP, Git, MySQL,",1
+MyISAM,1
+Знание PHP и MySQL,1
+Livestreet,1
+growth hucking,1
+B2C Marketing,1
+PHPSHTORM,1
+Oracle Application Express,1
+zeromq,1
+Github Actions,1
+retailCRM,1
+Микро-сервисная архитектура,1
+CMS MODX EVO,1
+Geddy,1
+"Программирование API на Node.js, Express",1
+hermione,1
+storybook,1
+postman,1
+kafka,1
+mqtt,1
+"Websockets, sockjs, socket.io, centrifugo",1
+"golang microframeworks (gin, ozzo-routing, gochi, gorilla, fasthttp, etc, or without)",1
+аналитические способности,1
+Легко обучаюсь,1
+Опыт организации людей,1
+отлично работаю в коллективе,1
+Управление офисами компании,1
+php 7.4,1
+Высокая обучаемость,1
+Procedural Law,1
+"Управление персоналом; хорошие ораторские, коммуникативные и межличностные навыки",1
+SQL / MySQL,1
+Unix-консоль,1
+Doctrine (DQL),1
+Битрис24,1
+Comoser,1
+deployer,1
+macOS,1
+Visual Studio Net,1
+Adobe Muse,1
+angular2,1
+"php frameworks(yii, laravel, lumen, zf, symfony, codeigniter, phalcon)",1
+AWS services,1
+Сбор и анализ информации,1
+Проверка контрагентов,1
+Легко обучаем,1
+MS Visia,1
+"Bootstrap , css",1
+Delphi system programming,1
+Planfix,1
+Plotly,1
+Tableu,1
+Loginom,1
+ML,1
+"Эрудированный, самообучаюсь, стрессоустойчевый",1
+"MO Word, MO Excel.",1
+Кадровое делопроизводство,1
+materialize,1
+Php codeigniter,1
+myphp,1
+https://github.com/Burbay/sure.git,1
+Slim Framework,1
+Racket,1
+Classic ASP,1
+DBMS,1
+WebAssyst,1
+Web Content Management,1
+Keyboard Skills,1
+Written Translation,1
+Jqury,1
+Delphi android,1
+фронтенд,1
+Reviewing,1
+VS-Code,1
+PHP-CPP,1
+ModbusTCP,1
+Kivy,1
+Pygame,1
+GOF Patterns,1
+Legacy Refactoring,1
+CORS,1
+CSRF/XSS/DDOS protection,1
+Elastic Search,1
+Python3,1
+"C++, C#",1
+умение объяснять непонятные вещи простыми словами,1
+порядочность,1
+"PHP, HTML5, CSS3, JavaScript, Adobe Photoshop",1
+Сайты с большой нагрузкой ( HighLoad ),1
+PHP7 Исключения,1
+тесты PHPUnit,1
+Работа с локальными сетями,1
+"Yii, Yii2",1
+"Memcache, Redis",1
+Опыт написания тестов,1
+фреймворк,1
+РСУБД,1
+Контроль исполнения решений,1
+Strawberry,1
+Ведение офисной работы,1
+"Продвинутый пользователь ПК (смогу установить ПО с 0, настроить сеть)",1
+"Программирование на C++ Builder ( БД, клиент-серверные прирожения)",1
+Написание ЗП и ТТ ( ИТСО),1
+"Сопровождение банк-клиентов Сбербанка,Газпробанка (в части ЭЦП)",1
+умение работать паяльником,1
+Ремонт телефонов и планшетов,1
+Прошивка телефонов и планшетов,1
+фреймворки,1
+"Bitrix24, PHP, HTML, CSS, Rest Api, MySql, Linux",1
+UIKit,1
+Участие при организации удостоверяющего центра,1
+трудолюбие,1
+"PHP 5.x, 7.x.",1
+html5 css3 bootstrap js jquery php mysql oop git,1
+"Работоспособный, cпособен производительно работать, сосредотачиваясь на конечных целях",1
+"Пунктуальный, ответственный всегда выполняю задания в срок.",1
+"Обучаемый, постоянно занимаюсь самосовершенствованием",1
+"Креативный, ищу и воплощаю оригинальные решения даже для обыденных задач",1
+Широкий кругозор,1
+Самостоятельность,1
+Готов обучаться чему то новому,1
+Организация аналоговых и ip СОТ,1
+Ведение конфиденциального делопроизводства,1
+1С 7.7,1
+windows,1
+Nmap,1
+Memcahed,1
+Supervisor,1
+Es6,1
+KeystoneCMS,1
+Graphana+netdata+prometheus,1
+vrml/x3d,1
+ecmascript,1
+babylon.js,1
+sass/scss,1
+vs code,1
+"Организация СКУД на базе ПО ""Орион про""",1
+phpdoc,1
+mindmeister,1
+Wordpress API,1
+telegram bot API,1
+JavaScript (копипаст),1
+Метрология,1
+Стандартизация,1
+QPILE,1
+Администрирование клиент-серверных ИС,1
+"Поиск неисправностей в охранной сигнализации, СКУД, СОТ",1
+openshift,1
+Slim3,1
+CI\CD,1
+devops,1
+нейронные сети,1
+tensorflow,1
+Tornado,1
+ES,1
+ngingx,1
+"Си ( hh не дает ввести просто С, лол )",1
+Terminal,1
+"C++(OMP,MPI,CUDA)",1
+require.js,1
+React-Native,1
+Maven,1
+Php css mysql html,1
+Lombok,1
+Java Spring,1
+WSDL,1
+HBase,1
+Эффективное принятие решений,1
+Креативность и творческий подход,1
+Решение сложных и конфликтных ситуаций,1
+Лицензирование,1
+Планирование закупок,1
+Составление бизнес-плана,1
+машинное обучение,1
+Архитектор АСКУЭ.,1
+kubernetess,1
+"Php, html , css , yii , mvc , sql (базовые знания)",1
+Анализ ФХД,1
+Краткосрочное бюджетирование и планирование,1
+"опыт в разработке AJAX-приложений, систем криптографии и защиты информации",1
+опыт работы с большинством известных CMS и фреймворков,1
+OsCommerce,1
+PgSQL,1
+Желаемость познавать новое,1
+Quasar Framework,1
+Портфолио:,1
+http://f0502350.xsph.ru/,1
+"Smm- Instagram , facebook. (Профессиональное продвижение с нуля)",1
+Профессиональное образование по фундаментальным и естественным наукам в их прикладном применении.,1
+"Вконтакте ( таргет , продвижение сообщества)",1
+"знание электроники, аппаратной микроархитектуры процессорных систем, программируемых ЭВМ,",1
+"структуры и принципов организации операционных систем, поддержки сети, межпроцессного взаимодействия",1
+"методологии ООП, продуктивных программных алгоритмов;",1
+"C, ASSEMBLER x86, FreeBSD kernel, Linux kernel, Novell NetWare, DOS",1
+"InterNet domain resource, NT domain resource",1
+"IPX/SPX, 4-х уровневый стек TCP/IP, 7-ми уровневый стандарт модели OSI",1
+"PostgreSQL, Firebird, MySQL, InterBase, SQL client/server system;",1
+"Lazarus, Delphi, NetBeans IDE; Perl/CGI, PHP, JavaScript (jQuery), XHTML/CSS",1
+"Adobe PhotoShop, Adobe PageMaker;",1
+Индивидуальное обучение,1
+Bitrix24 CMS,1
+Предпечатная подготовка,1
+PCI DSS,1
+Компьютерная безопастность,1
+Объектно-орентированное программирование,1
+Программирование промышленных контроллеров,1
+KOTLIN,1
+SWIFT,1
+PITHON,1
+Fastify,1
+Внимательность,1
+Соблюдение дедлайнов,1
+Адекватность,1
+"Терпеливость, целеустремленность",1
+анализ,1
+WinCC,1
+FLEXBOX,1
+"js, React, Node.js, php, MySQL, html, css,",1
+"python, ML",1
+"Создал несколько CRM с выгрузкой в exel, отправкой sms, парсерами,интеграциями с инет-сервисами",1
+vui,1
+swift,1
+"удостоверение по защите информации с помощью СКЗИ, администрирование серверов Windows, cisco icnd",1
+"Разработка php, Laravel, Vue",1
+"a lot of skills in R&D, Engineering, Automation, Robotics, Support, Software development, Management",1
+Свои инструменты и приборы,1
+Ремонт электроники,1
+Бухгалтерские программы,1
+Наполнение сайтов информацией,1
+системы управления,1
+Quasar,1
+Партнерский маркетинг,1
+Google AdSense,1
+Visual Studio Code,1
+Базовое знание vue.js,1
+Python 3,1
+Axios,1
+Jetbrains Pycharm,1
+Laravell,1
+Cobol,1
+Готов обучаться и выучить всё необходимое чтобы команда зарабатывала деньги,1
+Системы непрерывной интеграции,1
+Планирование архитектуры новых приложений,1
+Быстрый анализ кода,1
+Умение разбиратьмя в чужом коде,1
+Недокументированный и неструктурированный код,1
+Бухгалтерия,1
+Программирование сайтов,1
+Ассемблер - язык программирования,1
+Интернет магазин и 1С,1
+"PHP, MySQL",1
+ssh,1
+angular 5,1
+точность,1
+Unity3d,1
+Substance Painter,1
+Quixel Mixer,1
+Маршрутизация,1
+Программирование PHP,1
+opencart 2.3,1
+RestFull Api,1
+slim framework,1
+ansible,1
+высокий уровень мотиваци,1
+фсфр аттестат,1
+modell,1
+Финансовое моделирование,1
+Стратегическое мышление,1
+ocstore,1
+Английский язык (Pre-Intermediate),1
+Проектно-конструкторская деятельность,1
+Joomla 3,1
+WebSoket,1
+Allpositions API,1
+API Я.Метрика,1
+Laravel horizon,1
+UnrealEngine4,1
+Приходные и расходные кассовые ордера,1
+RSA,1
+Водительское удостоверение категории BC,1
+Желание профессионально развиваться,1
+Vhdl,1
+"Yii, Yii2, MVC",1
+"mySql, jQuery, Js",1
+"bootstrap, materialize, HTML",1
+"HTML5, CSS, CSS3",1
+php 7+,1
+"Базовые знание PHP, SQL. знание/понимание MVC. Работа с БД. Написание скриптов.",1
+Базовые знания JavaScript. Работа с DOM и т.п. Изучени библиотеки jQuery,1
+Базовые знание HTML/CSS. Верстка. Понимание CSS фреймворков. Изучение препроцессоров.,1
+Material Design,1
+Инкассация,1
+Single Page Application (SPA),1
+end to end,1
+самоорганизация,1
+PuPHPet,1
+CMF Modx,1
+работа с физическими лицами,1
+оформление документации,1
+Кассовые документы,1
+Ведение кассовой книги,1
+обработка входящей корреспонденции,1
+Symfony4,1
+php php7,1
+php7.2,1
+Terraform,1
+phar,1
+wordpress api,1
+"backend, frontend и дазайнер по Photoshop",1
+Сео оптимизация,1
+Ведение проектов,1
+cms-include,1
+PHP 7.22,1
+DOCKER,1
+POSIX,1
+Redux-saga,1
+gentos,1
+watchguard,1
+RemoteApp,1
+sip asterisk,1
+Обслуживание Кеосера,1
+"ТСД, TSD",1
+"Citezen, Zebra",1
+"PHP, Composer, MySQL, Laravel, Symfony, JavaScript, jQuery, VueJS, Bootstrap, HTML, CSS, Git, Jira.",1
+JS es6,1
+Nette Framework,1
+Логическое мышление,1
+Доведение до конца начатой работы - любой ценой,1
+netgear,1
+Внутренние коммуникации,1
+Честность,1
+Spring,1
+Многолетний опыт работы с чужим кодом,1
+Опыт разработки высоконагруженных систем,1
+Разработка модулей для Magento,1
+гибкость,1
+Верстка email,1
+Автоматизации бухгалтерского учёта,1
+"Вэб программирование (html, php, mysql, javascript)",1
+"Системное администрирование рабочих станций (windows) и серверов (windows, linux)",1
+Windows XP/7/8/10,1
+Iview,1
+Стажёр,1
+ReactJc,1
+Опыт разработки на Lua.,1
+Опыт ручного тестирования сервисов и приложений,1
+Опыт подготовки сценариев для тестирования.,1
+"Опыт использования СУБД PostgreSQL, MySQL",1
+Опыт технической поддержки ПО,1
+Опыт планирования работ по развитию ПО,1
+"Базовые знания C++, C#, Java, PHP, SQL, HTML, CSS",1
+Опыт использования Selenium WebDriver,1
+Использование SOAP в целях тестирования ПО,1
+"Опыт работы с продуктами Jira, Confluence.",1
+Magento2,1
+Start-up  project,1
+Акуратность,1
+Jsx,1
+Grpc,1
+Nats.io,1
+Упорство в работе,1
+C++Builder,1
+VisualBasic/VBA,1
+yupe,1
+opencart cms,1
+адаптивная кросбраузерная вёрстка,1
+html5 canvas,1
+программирование php,1
+JSF,1
+разработка,1
+ES7,1
+Открытость,1
+instantCMS,1
+Frameworks,1
+Ценные бумаги,1
+"Perl, html, php",1
+GetResponse Api,1
+JustClick Api,1
+EstisMail Api,1
+ClientBase CRM Api,1
+разработка сайтов,1
+"full-stack development, .NET Core, EF Core, MySQL",1
+vuetify,1
+"Умение разбираться в чужом коде, писать чистый код",1
+phpDaemon,1
+react+redux,1
+react-router-redux,1
+Анализ кода,1
+Бизнес-процессы битрикс 24,1
+Автоматизация продаж полного цикла в битрикс24,1
+Продвинутый пользователь ПК,1
+Doker,1
+Продвинутый уровень владения PHP,1
+Опыт REST API проектов,1
+Опыт работы с Git,1
+"Elasticsearch, Kibana",1
+"Хорошие знания jQuery, CSS, HTML",1
+"Хорошее знание SQL, и оптимизации SQL-запросов",1
+Интернет-магазин OpenCART,1
+High Load,1
+JavaScipt (jQuery),1
+Виртуализация ProxMox,1
+Облачные платформы и технологии,1
+Интеграции с сервисами,1
+C9,1
+Codiad,1
+Контроль по доставляемости писем,1
+GAE,1
+GBQ,1
+Усердность,1
+Английский: могу вести переписку.,1
+robokassa,1
+robomarket,1
+"Базовые знание PHP, HTML5, CSS3, JS/JQuery.",1
+Верстки сайтов без использования фреймворков,1
+Написания PHP скриптов,1
+"Pascal, Delphi, C, C#",1
+gitflow,1
+Big O,1
+Старательность,1
+Аналитичный склад ума,1
+Symfony (частично),1
+CREDO,1
+Knockout.js,1
+ABC-анализ,1
+FPGA,1
+bitrix 24,1
+WPA,1
+Vtiger,1
+Logstash,1
+Tomita,1
+phpshtorm,1
+"PHP, HTML+CSS, JavaScript, mysql",1
+"Yii 2, AngularJS, Laravel, Vue, HTML, Git, CSS, MySQL, PHP, bootstrap, Joomla, WordPress, Photoshop",1
+Pervasive SQL,1
+IBM DataPower,1
+CQRS,1
+Symfony Components,1
+Кадровые программы,1
+JavaScript ES5/ES6+,1
+алгоритмы,1
+pingtree,1
+affiliate,1
+RDS,1
+jQery UI,1
+Yaml.de,1
+Joomla REST API,1
+ModX REST API,1
+Drupal Commerce,1
+behat,1
+My sql,1
+Oracle Database,1
+Визуализация,1
+3D-графика,1
+WebSphere,1
+WebLogic,1
+Tomcat,1
+Готовность работать сверхурочно если проект интересный,1
+электронника,1
+Flash ActionScript 3,1
+планирование бюджета,1
+Puppeteer,1
+ReactPHP,1
+NuxtJs,1
+React.JS,1
+Tilda,1
+Solid принципы,1
+Laravel 5.2+,1
+Angular-material,1
+Angular2+,1
+Мониторинг цен,1
+социальная реклама,1
+Pu,1
+Статистика,1
+Студийная фотосъемка,1
+Самообучаемость,1
+Express.js / Node.js,1
+Резервное копирование,1
+Инжиниринг,1
+Стратегическое планирование,1
+Leadership Development,1
+QuarkXPress,1
+C/C++ без опыта,1
+Puppeter,1
+eosJS,1
+Арбитражные суды,1
+IAR,1
+Курьер,1
+Специалист,1
+Секретарь,1
+1C-bitrix,1
+Си++,1
+ExjJS,1
+"Битрикс 24 (коробка,rest api)",1
+C++ Builder 2009,1
+C++ Builder 6,1
+Embeded linux,1
+WinCE,1
+web3JS,1
+Выполнение крупных проектов в одиночку,1
+Zigbee,1
+Laravel 5.6,1
+Navicat,1
+Шведский язык,1
+Web-программист,1
+Postgres,1
+JJG,1
+AdonisJS,1
+EOS,1
+Автомобильные перевозки,1
+Строительство и ремонт,1
+принтеры,1
+Модули и компоненты,1
+cms opencart,1
+"Java core, jQuery, Linux administration,",1
+Hypersonic Sql,1
+IBA AS400,1
+анализ полётной информации,1
+Oracle XE,1
+framework phalcon,1
+CMS webasyst,1
+МойСклад,1
+Orm bitrix,1
+"Знание MS Windows, MS Office",1
+code review,1
+Знание компьютера отличное,1
+Adobe Captivate,1
+PHP5-7,1
+Шифрование,1
+Опыт разработки web приложений с нуля,1
+PHPExcel/Word/парсинг,1
+php 7.0,1
+VCS,1
+Разработка адаптивных интерфейсов,1
+Прогнозирование,1
+CMS PHPShop,1
+Эксплуатация,1
+Web разработка,1
+Angular 2,1
+"Если поставлена цель, навык будет выработан",1
+Adobe Reader,1
+active record,1
+raphael,1
+GCC,1
+Kiss,1
+Gof patterns,1
+"Flash , Flex , Flash Builder, Adobe AIR, ActionScript(2,3)",1
+Анализ,1
+Aws,1
+Laravel Nova,1
+Электротехнические работы,1
+Pusher,1
+external APIs,1
+Резиновая верстка,1
+Smart contract,1
+Vue. js,1
+PHP7.3,1
+Laralve5.4,1
+Symfony4.0,1
+Angular Material,1
+ionic framework,1
+Помощник,1
+официант,1
+Временная подработка,1
+SpringBoot,1
+Базовые и средние знания MySQL,1
+"Базовые и средние знание библиотек jQuery, Bootstrap",1
+"Хорошие знания cms CS-cart, небольшой опыт в других cms",1
+"языки программирования:  PHP‚ JavaScript ; XML‚ HTML, CSS;",1
+"management software: SVN, GIT;",1
+администрирование Unix OS: Linux Ubuntu;,1
+"базы данных: MS SQL Server, PostgreSQL, Mongo;",1
+django rest framework,1
+MyBatis,1
+Liquibase,1
+SpringCloud,1
+"Осваиваю ООП, mvc",1
+Gradle,1
+yaml,1
+sonar,1
+lombok,1
+Моделирование процессов,1
+Lean Six Sigma,1
+Бережливое производство,1
+ShopScript,1
+Cucumber,1
+SMTP/POP3/IMAP,1
+Осваиваю фреймворк Yii2,1
+"Базовые и средние знания в HTML, CSS, JS, PHP",1
+Ночная подработка,1
+SAP R/3,1
+ip камеры,1
+Dental4Windows,1
+d4w,1
+cad cam,1
+dshape,1
+New Relic,1
+Grafana,1
+Retail,1
+iot,1
+mhealth,1
+Знание принципов работы веба,1
+Программист PHP,1
+"Знание языков программирования: PHP, CSS, JS, C++, Python.",1
+"Знание языков разметки: XML, HTML.",1
+Способность быстро находить информацию,1
+Знание JQuery,1
+Знание Git,1
+Перфекционизм,1
+Совершенный код,1
+Внимание к деталям,1
+объектно-ориентированное программирование,1
+FL Studio,1
+threads (PHP),1
+"MySQL 8: JSON, Geo, MongoDB Clastering",1
+Laravel 6+,1
+netcat,1
+AMP,1
+ContextIO,1
+GitLab CI/CD,1
+Just In Time,1
+Graylog,1
+самоорганизованность,1
+AviSynth,1
+Guzzle,1
+Сomposer,1
+JS/PHP/CSS/HTML/SQL,1
+Telegram bot,1
+"Vue.js: + ecosystems, + Vuetify, Vue websocket",1
+Angular 5+,1
+VB,1
+PINE,1
+rinatsin.github.io,1
+Подработка,1
+Студент,1
+Без опыта,1
+Менеджер,1
+Продавец,1
+Вечерняя подработка,1
+Apache2,1
+Codeigniter 3,1
+Soft Skills,1
+Organization Skills,1
+Docker + Docker-compose (compolete & configuring & build),1
+"Redis 5+: queue, geospatial, clastering",1
+Neo4j (graph database),1
+slack,1
+Автоматизированные тесты,1
+классические алгоритмы и структуры данных,1
+Doctrine 2 ORM,1
+OpenC,1
+Telegram Bot,1
+"Vue.js, Vuex",1
+"базовый уровень php,",1
+базовый уровень html,1
+базовый уровень sql,1
+базовый уровень css,1
+базовый уровень JavaScript,1
+Вождение. Программирование.,1
+MQL4,1
+Управление предприятием,1
+JsonRPC,1
+Hubstaff,1
+Discord,1
+web scraping,1
+Catalyst Framework,1
+Technical English,1
+es6,1
+aws,1
+gcp,1
+jBPM,1
+photoshop,1
+PHPExcel,1
+google apps script,1
+Socket.io,1
+Заинтерисованость в обучении,1
+HMVC,1
+React-js,1
+node Express,1
+infrastructure,1
+Дружелюбность,1
+WebView,1
+Android Kotlin,1
+Java(базовые знания),1
+mvvm,1
+"SOLID, DRY",1
+Console/Shell,1
+Highload++,1
+Sphinxsearch,1
+Опыт работы в крупной компании,1
+cloud,1
+monitoring,1
+Организация собственного рабочего времени,1
+Wordpress Themosis Framework,1
+PHP7.4,1
+dotnet,1
+.Net Core,1
+API Platform,1
+MODX CMF EVO,1
+MODX CMF REVO,1
+"Продвинутый пользователь: Windows, Office, Linux(Ubuntu, Debian, Centos)",1
+"Программирование Delphi, pascal,Visual Basic, shell (bat и bash), css, html, javascript, perl, php",1
+Crypto,1
+WP-CLI,1
+Jade/Pug,1
+multi paradigm,1
+WP: Themosis,1
+WP: Bedrock/Sage,1
+WP: Redux,1
+WP: ACF,1
+C++ база,1
+Telegram,1
+Программирование микронтролеров,1
+"Laravel-backend, PHP-7",1
+X-Cart,1
+FP,1
+Опыт прямой работы с крупными компаниями,1
+Установка приоритетов и ведение графика выполнения работ,1
+Установка ПО Windows/Linux,1
+Pentesting,1
+ABAP,1
+Emmet,1
+Blockchain API,1
+Работа с технической документацией на английском,1
+react.js,1
+meteor.js,1
+1C: Enterprise,1
+Vue2,1
+JS junior,1
+Jekyll,1
+Установка ОС Windows/Linux,1
+RedBeanPHP,1
+Уничтожение данных,1
+Очистка следов пребывания запоминающих носителей информации,1
+Техническая поддержка пользователей,1
+Создание вспомогательных утилит,1
+Защита рабочих станций,1
+Развертывание xen-hypervisor,1
+Развертывание LTSP (Linux Terminal Server Project),1
+Развертывание PIXI-рабочих станций,1
+Администрирование Active Directory,1
+Сборка радиоэлектронной аппаратуры и приборов,1
+Create React App,1
+React Js,1
+Разработка сервисов с нуля,1
+avocode,1
+Архитектура,1
+"php, html5, css3, javascript",1
+"SQL, MySQL",1
+PHP7.*,1
+K8s,1
+"Начальные знание html, css, javascript ( JQuery, AJAX)",1
+Основы работы на linux,1
+Symfony framework,1
+Socket io,1
+Redis cache,1
+VK Api,1
+Криптовалюты,1
+Typo3,1
+Neos,1
+Extbase,1
+Fluid,1
+SonataAdmin,1
+Lean Development,1
+Keras,1
+Mvp,1
+Mvvm,1
+CakePHP 2,1
+Laravel 6.0,1
+SmartGit,1
+MFC,1
+elk,1
+Разработка модулей для CMS,1
+Backend development,1
+CouchDB,1
+Знание PHP.7,1
+Установка и настройка веб-сервера,1
+Разработка технического задания на проект,1
+Использование MVC,1
+Навык работы с фреймворком Laravel,1
+Умение оптимизировать собственный и чужой код,1
+AutoLisp,1
+DirectX,1
+Интеграция с внешними системами,1
+NodeJS.C++Addons,1
+PSR-2,1
+PervasiveDb,1
+BitCoin,1
+способность к обучению,1
+длительная концентрация,1
+соблюдение сроков,1
+EcmaScript 6,1
+CSS-grid,1
+Clean Code,1
+Поддержка крупных сайтов,1
+Laravel-Symphony-Components,1
+ERPS,1
+Обучаемость  и упорство в достижении результата,1
+Удалённая работа,1
+"Bootstrap, Yii2",1
+Разработка требований,1
+Структурирование и детализация задачи,1
+"Выявление возможных рисков, угроз и уязвимостей",1
+Разработка оптимально-универсальных решений,1
+"Работа с GIT, PhpStorm,  ZendStudio",1
+"Опыт работы с Framework: Yii, Zend",1
+работы в небольшой команде 5-10 чел,1
+Требовательность к качеству своей работы,1
+Open VZ,1
+SimpleXml,1
+joomla,1
+VUE JS,1
+Продажи,1
+самописные сайты,1
+reactJs,1
+Yii2 basic,1
+Yii2 advanced,1
+DOCTRINE ORM,1
+KnockOut JS,1
+Larvel,1
+Adobe Experience Design,1
+Firestore,1
+Reporting Services,1
+Активность,1
+Создание CRM,1
+Acronis,1
+Закупка оргтехники и оборудования,1
+LAPP,1
+Scripting,1
+PHP c 5.3 по 7.2,1
+Adonis js,1
+Product Development,1
+Нагрузочное тестирование,1
+Модульное тестирование,1
+Быстрое обучаемость,1
+JasperReports,1
+"PHP, AJAX, JSON, SQL, 1C BITRIX",1
+Cacti,1
+Xen,1
+Qemu-KVM,1
+Netup,1
+PBI,1
+D-Link,1
+BGP,1
+OSPF,1
+OSI,1
+Front-ended,1
+Back-ended,1
+Адаптация,1
+Unix server VM administrator,1
+CAD/CAM,1
+zmq,1
+Оптимизация бизнес процессов,1
+WCF,1
+Blazor,1
+Haproxy,1
+Drone,1
+Prome,1
+Prometheus,1
+Centrifugo,1
+NSQ,1
+jqGrid,1
+Typoscript,1
+Kendo UI,1
+TYPO3 CMS,1
+cms okay,1
+GNU C,1
+Patents,1
+Launching new products,1
+Data Mining: Business Analytica,1
+Olap (online analytical processing),1
+Монтаж/демонтаж радиоэлектронного оборудования,1
+Подбор рабочих станций под нужды пользователей,1
+elas,1
+https://github.com/VlDmVr/preview_shop.git,1
+Ребрендинг,1
+Маркетинговые коммуникации,1
+Производство рекламных роликов,1
+Медиапланирование,1
+B2B маркетинг,1
+Адаптация рекламных роликов,1
+Производство рекламных материалов,1
+Маркетинговые исследования,1
+phpstan,1
+https://github.com/VlDmVr/test_table.git,1
+http://koscomtest.ru,1
+Nexus,1
+PHP PDO,1
+Data Life Engine,1
+adobe,1
+"Typescript, nodejs, php",1
+Optimization of business processes,1
+Software Requirement Specification,1
+PHP 5.6,1
+PHP 7.*,1
+Communication,1
+Distributed Web Services,1
+Продвижение бренда,1
+"Cordova IOS, Android, Windows",1
+System Integration,1
+Разработка пользовательского интерфейса,1
+Владение Composer,1
+Стандарты PSR,1
+Что такое REST API,1
+"какие бывают уязвимости: SQL-inj, XSS и другие",1
+Работа с Linux,1
+Основы фреймворка Symfony,1
+Английский на уровне чтения технической документации,1
+Pusher Api,1
+Архитектура приложения,1
+Анализ стабильности работы приложения,1
+Креативное мышление,1
+Php-fpm,1
+pdo,1
+Graphql,1
+Базовые знания SQL,1
+Nova,1
+Полиграфический дизайн,1
+UDE Framework,1
+psd,1
+Devtools,1
+Devtools LAMP FTP Dreamweaver CC 1C Photoshop Font Awesome XHTML,1
+Mobile Application Developement,1
+System Architecture,1
+Training,1
+Удаленное управление и диагностика рабочих станций,1
+Языки JAVA/Pascal/C++,1
+Понимание ООП и MVC,1
+Верстка с Bootstrap,1
+Навыки работы с Laravel,1
+CMS ReadyScript,1
+CMS October,1
+PEAR,1
+"Основы HTML, CSS, JS, PHP",1
+Опыт работы с сетями различных видов,1
+Перманентное самообучение,1
+Знание html/php/css/javascript/SQL,1
+Администрирование Windows/UNIX систем,1
+Хорошее знание PHP,1
+Ознакомленость с системой Zabbix.,1
+Усидчивость и ответственность,1
+Работа в различных системах учета инциндентов,1
+Опыт создания Web и почтовых серверов на базе LINUX,1
+Опыт работы с Баг-трекерами,1
+Приятная внешность и коммуникабельность,1
+"PHP, Composer, MySQL, Symfony, Laravel, JavaScript, jQuery, VueJS, Bootstrap, HTML, CSS, Git, GitLab",1
+cocos2d,1
+AdonisJs,1
+Yupe,1
+Опыт написания SQL скриптов,1
+web workers,1
+Системы аналитики,1
+Puppet,1
+Автоматизация бизнес-процессов,1
+Unreal Engine,1
+HTML&CSS,1
+Materialize,1
+Общительность,1
+Restful,1
+matherial-ui,1
+cqrs,1
+IONIC,1
+youtrack,1
+майнинг криптовалют,1
+RxJs,1
+майнинг под linux,1
+майнинг экосистемы,1
+openldap,1
+"Laravel, Mysql",1
+Detectron2,1
+3CX,1
+SOLO фреймворк,1
+Yii фраймворк,1
+Vue CLI,1
+Teamwork,1
+Работа с cron,1
+Умение писать CLI,1
+Архитектура MVC,1
+CCS,1
+JavaScript (начинающий),1
+Администрирование Windows,1
+React (основы),1
+pwa,1
+ethereum,1
+Adobe Firework,1
+AWD,1
+Adaptive Design,1
+Responsive Design,1
+"Программирование, электроника, сервера.",1
+Информирование сотрудников об изменениях в компании,1
+Деловое письмо,1
+Програмирую в 1с,1
+Python 3 /django,1
+Проектная документация,1
+Строительство,1
+DevOps Prometheus Grafana ELK,1
+быстрое самообучение,1
+достижение результата,1
+гибкость и целеустремленность,1
+Умение обрабатывать большие объемы информации,1
+Умение справляться с поставленными задачами,1
+ES8,1
+Frontend developer,1
+Паттерн Singleton,1
+Могу копать,1
+"Подключение принтеров, сканеров",1
+Тестирование безопасности информационных сетей,1
+Чтение сборочных чертежей радиоэлектронного оборудования,1
+Повышение эффективности передачи информации по беспроводным сетям,1
+Восстановление утерянных данных,1
+"Мониторинг атак MiTM, arp/icmp poising, inject, metasploit framework, meterpretter, exploits",1
+"Защита от RaaS, ransomware, trojan encoder, RAT, office exploits",1
+Бизнес процессы bitrix24 (коробка и облако),1
+Электрические цепи,1
+Радиоэлектроника,1
+Знание устройства автомобиля,1
+mssql,1
+Cocos2DX,1
+JSGrid,1
+Laravel MIX,1
+Лидерство,1
+PuTTY,1
+sublime text 3,1
+Телевидение,1
+PHP5.1/7.0,1
+Yii PHP Framework Version 2,1
+Corona sdk,1
+Умение трезво оценивать сроки,1
+Eloqunet ORM,1
+RESTful web services,1
+Pwa,1
+Проектный менеджмент,1
+Управленческая отчетность,1
+Аналитика,1
+JavaScript (Basic),1
+Внешняя оптимизация сайта,1
+Информационные сайты,1
+Бумажный документооборот,1
+RequireJs,1
+Magento 1,1
+Oauth 2,1
+Cisco Pocket Tracer,1
+BPMN 2.0,1
+GNS3,1
+Sqlmap,1
+haproxy,1
+Resque,1
+Qless,1
+Webix,1
+Java core,1
+Mathematical Analysis,1
+Концепция ORM,1
+Паттерн Active Record,1
+Опыт работы с *unix системами,1
+"Опыт с MySQL, Microsoft SQL, SQLite",1
+Знания CSS,1
+Опыт работы с Node.js,1
+Базовые знания актуарной математики,1
+Аккуратность,1
+профессионализм,1
+Тактичность,1
+"Опыт работы с компьютерами более 15 лет. 1С 7/8, Вся линейка Windows в том числе Server, Unix,  наст",1
+Расчет зарплаты,1
+Консультант плюс,1
+Первичная бухгалтерская документация,1
+Boost,1
+HTK Library,1
+Juicer,1
+Kaldi,1
+OpenFST,1
+RRD,1
+IPB,1
+Amiro,1
+Shop-Script 5,1
+Shop-Script 6,1
+"php 7,",1
+Хорошие знания PHP,1
+Хорошие знания Javascript,1
+RestAPI,1
