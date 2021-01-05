@@ -1,0 +1,736 @@
+tag;val
+Java;1430
+Spring Framework;924
+Git;547
+SQL;513
+PostgreSQL;414
+Hibernate ORM;345
+Java SE;288
+Java EE;239
+Apache Maven;207
+ООП;204
+Linux;157
+REST;151
+JavaScript;125
+Английский язык;125
+Английский — B1 — Средний;111
+Atlassian Jira;106
+Docker;98
+JUnit;98
+MySQL;90
+ORACLE;85
+Kotlin;82
+HTML;79
+SOAP;76
+Английский — B2 — Средне-продвинутый;72
+MongoDB;71
+Java Servlets;68
+Spring Boot;63
+Apache Tomcat;61
+CSS;61
+Kafka;55
+JDBC;46
+MS SQL;46
+Redis;45
+Oracle Pl/SQL;44
+Python;44
+Agile Project Management;42
+Scrum;42
+Kubernetes;40
+JPA;39
+Spring;39
+JSP;38
+NoSQL;36
+Java 8;36
+Hibernate;36
+XML;35
+RabbitMQ;34
+Intellij IDEA;34
+SCALA;34
+Maven;30
+СУБД;28
+SVN;26
+Jenkins;26
+Java Core;26
+Английский — A1 — Начальный;25
+Design Patterns;25
+Android;25
+C++;24
+Английский — C1 — Продвинутый;22
+Unit Testing;22
+EJB;22
+Работа в команде;22
+База данных: Oracle;20
+AngularJS;19
+Английский — A2 — Элементарный;19
+Базы данных;19
+Android SDK;17
+docker;17
+Gradle;16
+C#;16
+Работа с базами данных;13
+JSF;13
+React;13
+Английский язык - В1 - средний;13
+jQuery;13
+AWS;13
+Java11;13
+HTTP;13
+Разработка ПО;12
+kotlin;12
+Agile;11
+API;11
+Spark;11
+Spring Cloud;11
+REST API;11
+Hadoop;11
+MS SQL Server;10
+Cassandra;10
+CI/CD;10
+Eclipse;9
+Big Data;9
+TestNG;9
+HTML5;9
+Управление разработкой;9
+SOLID;9
+Java 11;9
+SOAP WebServices;9
+ANT;9
+Spring Data;8
+Angular;8
+микросервисы;8
+JBoss;8
+SpringBoot;8
+UML;8
+Elasticsearch;8
+Spring boot;8
+Apache Kafka;8
+JMS;8
+BPMN;8
+Тестирование;8
+Struts;8
+Rabbit MQ;8
+ORM;7
+Atlassian Confluence;7
+Groovy;7
+Business English;7
+Node.js;7
+JSON;7
+JSON API;7
+Обучение и развитие;7
+Teambuilding;7
+OpenShift;6
+Работа с большим объемом информации;6
+Mockito;6
+Cистемы управления базами данных;6
+TeamCity;6
+Управление проектами;6
+Azure;6
+Spring MVC;6
+Деловое общение;6
+kafka;6
+TFS;6
+Spring Security;6
+Java core;5
+J2EE;5
+Selenium IDE;5
+spring boot;5
+Hive;5
+Swing;5
+Планирование карьеры;5
+Nginx;5
+.NET Framework;5
+Selenium;5
+WildFly;5
+Умение работать в коллективе;5
+Elastic Search;5
+ClickHouse;5
+java core;5
+Microservices;5
+MVC;5
+PHP;4
+Умение работать в команде;4
+Bootstrap;4
+QA;4
+Hazelcast;4
+gradle;4
+MS Project;4
+JavaEE;4
+Tomcat;4
+swagger;4
+Unix;4
+Go;4
+Ajax;4
+Swagger;4
+Wild Fly;4
+Разработка технических заданий;4
+Gitlab;4
+CRM;4
+GitLab;4
+Управление командой;4
+Мобильность;4
+Multithreading;4
+Teamleading;4
+XML/Xslt;4
+Helm;3
+Jetty;3
+MSA;3
+MyBatis;3
+ElasticSearch;3
+CSS3;3
+Java Spring;3
+Apache CXF;3
+Spring WebFlux;3
+Web Application Development;3
+Redmine;3
+Tarantool;3
+MS PowerPoint;3
+Пользователь ПК;3
+Apache Spark;3
+Rx;3
+TDD;3
+Wildfly;3
+Highload;3
+Java Spring Boot;3
+Организация мероприятий;3
+MSTest;3
+NUnit;3
+Agile Methodologies;3
+Product Management;3
+Architect;3
+Java8;3
+Multithread Programming;3
+Liquibase;3
+GraphQL;3
+Функциональное тестирование;3
+ActiveMQ;3
+Akka;3
+GWT;3
+Liferay;3
+Oracle Database;3
+Электронный документооборот;2
+Проведение презентаций;2
+Веб-программирование;2
+Oracle JDK 8;2
+UI;2
+Prometheus;2
+J2SE;2
+Golang;2
+Java Spring Framework;2
+react;2
+Richardson Maturity Model;2
+springboot;2
+SOA;2
+Cloud;2
+InfluxDB;2
+Ktor;2
+Backbone;2
+Bash;2
+Java 8 / 11;2
+Game Programming;2
+Kebernetus;2
+Lombok;2
+RESTful API;2
+Ansible;2
+webdriver;2
+автоматизация тестирования;2
+JavaFX;2
+Appium;2
+Web;2
+Spring Core;2
+ReactJS;2
+Redux;2
+IBM WebSphere Application Server;2
+SberCrypt;2
+k8s;2
+Collections;2
+kubernetes;2
+System Integration;2
+HighLoad;2
+Управление временем;2
+STRUTS 2;2
+JackRabbit;2
+JSON/XML;2
+Java 8-11;2
+Reactive Streams;2
+JVM;2
+Core;2
+Технический перевод;2
+PLSQL;2
+Java 8+;2
+IO;2
+Ценные бумаги;2
+Финансовое ПО;2
+CUBA Platform;2
+Apache Ignite;2
+Eclipse Birt;2
+IBM AIX;2
+JPA/Hibernate;2
+Machine Learning;2
+JS;2
+DevOps;2
+ReactJs;2
+Back-end;2
+CentOS;2
+знание REST архитектуры;2
+Spring (Boot, REST, SOAP, Hibernate);2
+YARN;2
+Swagger (автоматическая документация);2
+Oracle DB;2
+MS Access;2
+C/C++;2
+MVVM;2
+HDFS;2
+Java EE 7;2
+Team management;2
+Немецкий — B1 — Средний;2
+Преподаватель;2
+Аналитические исследования;2
+Solr;2
+asyncio;2
+HBase;2
+Ms Expert;2
+Kanban;2
+JAX-RS;2
+Weblogic;2
+SAP;2
+Шаблоны проектирования;2
+jOOQ;2
+Grails;2
+Postgres;2
+Zuul API Gateway;2
+JIRA;2
+Concurrency;2
+ExtJS, Jenkins;2
+ASP.NET;2
+Серверное программирование;2
+Mercurial;2
+Ответственность;2
+Apache Solr;2
+Teradata;2
+Software Development;2
+Openshift;2
+SAP Project;2
+Информационные технологии;2
+Spring Cloud Netflix Eureka;2
+Оптимизация бизнес-процессов;2
+Spring Boot как основа;2
+Amazon Web Services;2
+С#;2
+Деловая коммуникация;1
+1С программирование;1
+Наполнение контентом;1
+RedshiftDB;1
+Работа с возражениями;1
+Поиск информации в интернет;1
+SnowflakeDB;1
+Postgrsql;1
+Kinesis;1
+IBM WebSphere;1
+Flash MySQL;1
+Продажа страховых продуктов;1
+Разработка нового продукта;1
+DynamoDB;1
+SAP Commerce;1
+Terraform;1
+Управление рисками;1
+Reactor;1
+Serverless;1
+Творческое мышление;1
+sprig boot;1
+EclipseLink ORM;1
+Webflux;1
+Core java;1
+Spring Boot 2;1
+PrestoDB;1
+angular;1
+ERP;1
+Back-End Java;1
+Oozie;1
+Flume;1
+Sqoop;1
+java 1.8+;1
+OOP;1
+English B1;1
+MS Visio;1
+Банковское ПО;1
+Разработчик Java;1
+R programming;1
+Reactor Netty;1
+Solr/Elasticsearch;1
+Разработка приложений;1
+Elk;1
+SQLite;1
+Сообразительность;1
+Быстрая обучаемость;1
+SOLR;1
+esb;1
+Креативность;1
+aws;1
+SQL, J2EE, Java;1
+Техническая поддержка;1
+Ориентация на результат;1
+Full Stack developer;1
+OpenID;1
+Проведение тестирований;1
+Code review;1
+QA Automation;1
+DirectX;1
+Vulkan;1
+OpenGLES;1
+DevOps capabilities;1
+SQL Server;1
+go;1
+golang;1
+IBM Integration Bus;1
+WebSphere Application Server;1
+разработка мобильных приложений;1
+SWIFT Alliance;1
+Аналитическое мышление;1
+System Design;1
+data structures;1
+Waterfall methodologies;1
+Курсы по программированию;1
+Методист;1
+Написание текстов;1
+NetBeans;1
+ЦФТ;1
+Postgre SQL;1
+Code Review;1
+Биржевое ПО;1
+Бэкенд;1
+Backend;1
+Fullstack;1
+Frontend;1
+algorithms;1
+Oracle 11G;1
+Разработка;1
+Adobe Design;1
+Kotlin/Java, Tomcat/Weblogic, Oracle RDBMS.;1
+"ReactJS, Nginx;";1
+Системная интеграция;1
+Микросервисы;1
+SpringCloud;1
+ML;1
+JMetr;1
+Oracle Application Express;1
+Разработка CMS;1
+Системный анализ;1
+Разработка проектной документации;1
+SPA;1
+Angular 7;1
+Time management;1
+Верстка;1
+Highload systems;1
+Data Science;1
+Git/Mercurial;1
+Wildfly (JBoss);1
+DDD (Domain Driven Development);1
+UI тестирование;1
+Автоматизация;1
+Security;1
+Boot;1
+Data;1
+autoQA;1
+MS Visual C++;1
+JRA;1
+Фронтенд;1
+TFVC;1
+Mobile;1
+GoLang;1
+разработка нового функционала;1
+участие в разработке архитектуры;1
+WebLogic;1
+WebSphere;1
+Rest-Assured;1
+WebDriver;1
+Allure;1
+Cucumber;1
+Управление производством;1
+Java FX;1
+Алгоритмы и структуры данных;1
+Camunda;1
+Open API;1
+Unit-Testing;1
+Rabbit;1
+Spring (Core/Boot);1
+ЭЛАР;1
+ABS;1
+AML;1
+XSLT;1
+WSO2 Stream Processor;1
+WSO2 Integrator;1
+DB2;1
+IBM FileNet Content;1
+english;1
+Java 1.8;1
+Citrus;1
+Leadership Skills;1
+адаптация бизнес-требований;1
+Graphana;1
+MemcacheDB;1
+Java, Spring;1
+Vertica;1
+MS SQL Server, Cassandra;1
+руководство командой разработчиков;1
+Регресcионное тестирование;1
+NGRX;1
+RxJS;1
+OAuth;1
+RESTful;1
+WebSocket;1
+Angular Material;1
+TypeScript;1
+JavaSE;1
+hibernate;1
+Java Server Pages;1
+Selenium WD;1
+Apache POI;1
+Java CORE;1
+EIP;1
+EAP;1
+CDI;1
+HAproxy;1
+Яндекс ClickHouse;1
+Apache Cassandra;1
+BigData;1
+Телефонные переговоры;1
+Документооборот;1
+qa automation;1
+cloud;1
+Istio;1
+myBatis;1
+Spring REST;1
+Pentaho;1
+Командная работа;1
+Angular JS;1
+Немецкий язык;1
+SOAP/REST;1
+IoC;1
+Kotlin (Ktor);1
+DI;1
+Lucene;1
+IDEA;1
+HBase-;1
+NoSQL DB;1
+RDBMS;1
+Sping Framework;1
+Core Java;1
+Active MQ;1
+GlassFish;1
+Деловая переписка;1
+maven/gradle;1
+xunit;1
+Javadoc;1
+Математическое программирование;1
+Математическая статистика;1
+Подготовка документации для сертификации игровых моделей;1
+Математическое моделирование;1
+OSGi;1
+Android Studio;1
+Умение оценивать объем работ, планировать рабочее время;1
+Feign;1
+JUNIT5;1
+JAVA 11;1
+Внутренние коммуникации;1
+storage systems;1
+Open JDK 11;1
+Jaeger;1
+EFK;1
+Casandra;1
+Hypersonic Sql;1
+шаблоны проектирования;1
+spring-data;1
+spring-boot;1
+KISS;1
+Stream;1
+Lambda;1
+Nomad;1
+BPM Camunda;1
+concurrency;1
+Spring Framework MVC;1
+LibGDX;1
+Agile Development;1
+Кредиторская задолженность;1
+Jave- core;1
+Spring Integration;1
+Spring Batch;1
+Kafka Streams;1
+Kafka Connect;1
+Java developer;1
+Java Database;1
+Spring DATA;1
+Docker Swarm;1
+JUnit 5;1
+Postgresql 9;1
+Spring Data (jpa entities, repositories);1
+Jackson;1
+Spring MVC (RestControllers);1
+Docker (spring 5);1
+Spting data;1
+Linux Console;1
+Составление договоров;1
+Gitlab CI;1
+postman;1
+Software Architecture;1
+Yii;1
+Google Cloud Platform;1
+Netty;1
+Unity;1
+iOS;1
+дистанционная работа;1
+iBATIS;1
+JSTL;1
+Servlet Container;1
+Servlet API;1
+Java Web;1
+Нагрузочное тестирование;1
+Сетевые технологии;1
+Автоматизация тестирования;1
+Spring MockMvc + MockRestServiceServer + MockWebServiceServer;1
+MockServer;1
+Грамотная речь;1
+Gamedev;1
+frontend;1
+backend;1
+kotlin​​​​​​​;1
+java 8;1
+Регресионное тестирование;1
+Test case;1
+Системы управления базами данных;1
+Mac Os;1
+Vert.X;1
+Android Architecture components;1
+Retrofit2;1
+RxJava2;1
+MVP;1
+Языки программирования;1
+Управление персоналом;1
+Springboot;1
+Асинхронное программирование;1
+RocksDB;1
+Java Core (8);1
+MSSQL;1
+Micronaut;1
+Ведение переписки;1
+Teradata CIM;1
+AOP;1
+Bamboo;1
+JDK8;1
+Vue;1
+JAVА;1
+Glassfish;1
+NiFi;1
+Impala;1
+Apache Camel;1
+IBM WS MQ;1
+gitlab ci;1
+Коtlin;1
+QA Engineer;1
+Java Core 7-8;1
+Graphite;1
+react JS;1
+web services;1
+SberSign;1
+Многозадачность;1
+Apache Ant;1
+Спортивные мероприятия;1
+Java Persistence API;1
+Enterprise JavaBeans;1
+Java SE/EE;1
+Development;1
+Vert.x;1
+Умение решать сложные задачи;1
+Windows 7;1
+Фондовый рынок;1
+Camunda BPMN;1
+Json-RPC;1
+Ведение документации;1
+JDK 11;1
+OC Linux;1
+CASE- средства;1
+EPC;1
+Java, Git, Maven, Spring Framework, Spring Boot, SQL, Docker, JUnit, Hibernate;1
+PstgreSQL;1
+IBM MQ;1
+Xsd;1
+микросервисная архитектура;1
+SAP Hybris;1
+Stream API;1
+NHibernate;1
+Swift;1
+CI/CD Jenkins Docker Kebernetes;1
+fullstack;1
+gitflow;1
+автотесты;1
+Clickhouse;1
+Lua;1
+Vue-JS;1
+Навыки межличностного общения;1
+SWT;1
+AWT;1
+Eclipce;1
+Teamcenter;1
+spring Security;1
+SAP Commerce Cloud;1
+sap hybris;1
+Use Case Analysis;1
+SQL/JDBC;1
+JUnit 4+;1
+Apache Tomcat 8.5+;1
+camunda;1
+MS Movie Maker;1
+Ответственное хранение;1
+SVN/GIT;1
+spring;1
+react js;1
+Abby;1
+IBM FileNet;1
+jMeter;1
+Java Multithreading;1
+Java Collections;1
+Zookeeper;1
+Hbase;1
+ETL;1
+СУБД Oracle;1
+React JS;1
+AMQ/Rabbit;1
+Camel;1
+React.js;1
+Организация презентаций;1
+Git Flow;1
+Docker swarm;1
+GP;1
+APache Camel;1
+JSE;1
+Ubuntu Server;1
+Product Marketing;1
+hadoop;1
+Spring Framework 4+;1
+hive;1
+SpringBoot 2;1
+micronaut;1
+Java Enterprise;1
+Windows Server;1
+Веб-дизайн;1
+Dagger;1
+grpc;1
+spring boot 2;1
+PHP5;1
+Twino;1
+CamundaBPM;1
+"JavaEE: RS, WS, JMS, EJB, JDBC; Spring Boot, Spring FrameWork, JBOSS/WildFly";1
+Vaadin;1
+JOOQ;1
+Jersey;1
+Java Core 11;1
+JAVА SE;1
+Gulp;1
+Thymleaf;1
+JanusGraph;1
+ScyllaDB;1
+Cytoscape.js;1
+ClojureScript;1
+Apache NIFI;1
+HIbernate;1
+JAX-WS;1

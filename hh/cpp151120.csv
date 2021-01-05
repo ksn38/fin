@@ -1,0 +1,678 @@
+tag;val
+C++;590
+Linux;332
+Git;183
+C/C++;177
+Qt;170
+ООП;169
+Python;117
+STL;100
+SQL;67
+TCP/IP;65
+Английский язык;56
+Английский — B1 — Средний;44
+MS Visual Studio;43
+PostgreSQL;41
+Boost;36
+Java;35
+Android;35
+C#;31
+Разработка ПО;30
+JavaScript;29
+Английский — B2 — Средне-продвинутый;28
+QNX;27
+SVN;22
+СУБД;21
+MATLAB;20
+OpenGL;19
+Bash;18
+CSS;18
+QML;17
+Работа в команде;16
+Английский — A1 — Начальный;16
+HTML;16
+Game Programming;15
+iOS;15
+С++;14
+shell;13
+Unix;12
+CMake;12
+Scrum;11
+Базы данных;11
+remote;10
+Unreal Engine 4;10
+Debian;10
+XML;10
+full-time;10
+macOS;10
+CPP;10
+MS SQL;10
+MySQL;10
+DirectX;9
+Mac Os;9
+Design Patterns;9
+Android SDK;9
+Английский — A2 — Элементарный;8
+3D;8
+Unit Testing;8
+C;8
+Разработка технических заданий;8
+Multithread Programming;8
+Unity;8
+jQuery;8
+VoIP;8
+Objective-C;8
+MS Visual C++;8
+Embedded;8
+Управление проектами;7
+ML;7
+Работа с базами данных;7
+Atlassian Confluence;7
+js;7
+ORACLE;7
+Win32 Api;7
+OpenCV;7
+Windows;7
+Computer Vision;7
+Atlassian Jira;7
+Mercurial;7
+MS SQL Server;6
+Многопоточность;6
+Владение matlab\python\bash;6
+Обучение и развитие;6
+Опыт работы с MSVC\cmake;6
+REST;6
+С;6
+Уверенная работа в Windows\Linux;6
+Опыт с ML\NN и пакетами Caffe, TensorFlow, Keros, PyTorch;6
+Unreal Engine;6
+ARM;6
+Machine Learning;6
+Наличие публикаций в области обработки изображений\сигналов\видео, участие в соревнованиях по обрабо;6
+Nginx;6
+Assembler;6
+Windows 7;6
+Информационная безопасность;6
+Redmine;6
+.NET Framework;6
+SQLite;6
+Cистемы управления базами данных;6
+MFC;5
+Oracle Pl/SQL;5
+База данных: Oracle;5
+JS;5
+Agile Project Management;5
+ОСРВ;5
+GUI;5
+WebRTC;5
+Node.js;5
+Математический анализ;5
+UML;5
+BIM;5
+SIP;5
+SDK;4
+Software Development;4
+Microsoft Visual Studio;4
+Креативность;4
+UE4;4
+Delphi;4
+TFS;4
+C++11;4
+ЦОС;4
+Компьютерное зрение;4
+RTOS;4
+cmake;4
+Алгоритмы;4
+Lua;4
+CLI;4
+Rust;4
+Математическое моделирование;4
+Go;4
+HTTP;4
+Аналитическое мышление;4
+TDD;4
+Qt Widgets;4
+HTML5;3
+POSIX;3
+Eclipse;3
+Networking;3
+CSS3;3
+MongoDB;3
+Ethernet;3
+gdb;3
+Kafka;3
+RTSP;3
+Информационные технологии;3
+Математическая статистика;3
+программирование;3
+x86;3
+machine learning;3
+Публичные выступления;3
+Математическое программирование;3
+CI/CD;3
+TCP/UDP;3
+Дистанционное обучение;3
+Творческое мышление;3
+Спортивные мероприятия;3
+Машинное обучение;3
+Анализ данных;3
+unreal engine;3
+ReSharper;3
+Rider;3
+Visual Studio C#;3
+Пользователь ПК;3
+Техническая документация;3
+Docker;3
+Jenkins;3
+RTP;3
+Windows Os;3
+STM32;3
+Adobe Photoshop;3
+Astra Linux;3
+DSP;3
+Cortex;3
+Обработка изображений;3
+EdgeComputing;2
+Redis;2
+Линейная алгебра;2
+Java SE;2
+сетевое взаимодействие;2
+AllFusion ERwin Data Modeler;2
+Работа с кассой;2
+Написание научный статей;2
+MS Visual Basic;2
+WinAPI;2
+С++11;2
+Грамотность;2
+Средства криптографической защиты информации;2
+структуры данных;2
+asio;2
+Game Development;2
+телекоммуникации;2
+Нелинейное программирование;2
+Asterisk;2
+кроссплатформенность;2
+Сетевое оборудование;2
+Apache HTTP Server;2
+JSON;2
+Разработка драйверов;2
+ComputerVision;2
+GCC;2
+Графические редакторы;2
+DPDK;2
+С++14;2
+алгоритмы;2
+UI;2
+IPS;2
+Business English;2
+multithreading;2
+Pascal;2
+WebGL;2
+REST API;2
+Microcontrollers;2
+FFMPEG;2
+СMake;2
+Research;2
+многопоточность;2
+complex algorithm development;2
+Микросервисы;2
+Ответственность;2
+kernel;2
+ONVIF;2
+Умение работать в коллективе;2
+Visual Studio;2
+распределенные системы;2
+Squirrel;2
+Cocos2d;2
+Ruby;2
+Cocos;2
+Blockchain;2
+С#;2
+Golang;2
+gamedev;2
+Проектирование пользовательских интерфейсов;2
+Системный подход;2
+Английский — C1 — Продвинутый;2
+Немецкий — C1 — Продвинутый;2
+Операционные системы;2
+Грамотная речь;2
+C++14;2
+javacard;2
+Sailfish OS;2
+разработка алгоримов;2
+SOLID;2
+Spark;2
+Hadoop;2
+GStreamer;2
+3D-графика;2
+Images Processing;2
+Разработка компьютерных Игр;2
+QtWebEngine;2
+AWS;2
+Встраиваемое ПО;2
+Телекоммуникации;2
+emv;2
+Vulkan;2
+PowerShell;2
+Немецкий язык;2
+GoLang;2
+OpenCL;2
+GSM;2
+MIPS;2
+TrustZone;2
+OpenSSL;2
+C \ C++;2
+MacOS;2
+UDP;2
+Teamleading;2
+Умение работать в команде;2
+Биржевое ПО;2
+CUDA;2
+Open Source;2
+MS Excel;2
+PowerPC;2
+Системы реального времени;2
+Ansi C++;2
+Обучение;2
+GameDev;2
+The Bat;2
+I2C;2
+SPI;2
+Кроссплатформенная разработка;2
+C++03;2
+Схемотехника электронного оборудования;2
+ffmpeg;2
+Unigine;2
+CryEngine;2
+Теория вероятности;2
+english;1
+ROS;1
+работа с биржами;1
+computer science;1
+Teambuilding;1
+SQL Server;1
+MariaDB;1
+Libev;1
+Haskell;1
+English (B2);1
+English;1
+Исполнительность;1
+Обучаемость;1
+Makefile;1
+Разработка технической документации;1
+C++11/14;1
+developer;1
+Team management;1
+финтех;1
+Qt Framework;1
+Chromium Embedded Framework;1
+"C и С++;";1
+ZMQ;1
+Linux Preempt_rt;1
+ASN1;1
+Сети;1
+Django;1
+Three.js;1
+AOSP;1
+osmocom;1
+UE Blueprints;1
+UART;1
+микроконтроллеры;1
+Data structures;1
+Algorithms;1
+Mantis;1
+Customer Support;1
+Bug Reporting;1
+MS Access;1
+linux Ubuntu;1
+САПР;1
+знание библиотек QT версии 4 b версии 5;1
+Time management;1
+Linux, СУБД/SQL;1
+Unix Shell Scripts;1
+MS Word;1
+ассемблеры;1
+digital image processing;1
+Image Quality;1
+Camera HAL;1
+Prometheus;1
+Graphite;1
+Grafana;1
+redash;1
+Tarantool;1
+Clickhouse;1
+protobuf;1
+FreeRTOS;1
+Умение планировать;1
+Internet;1
+Web Application Development;1
+MS Project;1
+Direct3D;1
+Testing Framework;1
+Qt5;1
+C/C++SVNQtC++ООПGitMS Visual StudioXMLLinux;1
+Back-end;1
+HighLoad;1
+IPv4;1
+С++11/14;1
+C++/STL;1
+real time;1
+Цифровая обработка звука;1
+WWISE;1
+Sound Programming;1
+Линейное программирование;1
+компиляторы;1
+knowledge of data structures, algorithms, computer architecture;1
+Experience with MS Visual Studio or any IDE in Linux;1
+Product Management;1
+Fullstack;1
+Frontend;1
+Фуллстек;1
+Фронтенд;1
+Блокчейн;1
+TypeScript;1
+Vue;1
+Проведение семинаров;1
+Ориентация на результат;1
+tofino;1
+P4;1
+ОПП;1
+Confluence;1
+Jira;1
+Blender;1
+Python 3;1
+CUDA/OpenCL;1
+SSE/AVX;1
+OCPB QNX;1
+ОС Linux;1
+VMWare (Qemu);1
+Qt Creator;1
+CLion;1
+Make/CMake;1
+AVR, STM;1
+Storage;1
+SCALA;1
+LLVM;1
+Blueprints;1
+Erlang;1
+Leadership Skills;1
+Серверное программирование;1
+С++11/С++14;1
+Borland C++;1
+СTL;1
+Kotlin;1
+neon;1
+умение работать в команде;1
+микроядро;1
+powerpc;1
+zynq ultrascale;1
+bare-metal;1
+linux kernel;1
+Xiling Zynq;1
+ОСРВ QNX;1
+ОС Linux на C/С++.;1
+ОСРВ QNX Neutrino на C/С++;1
+Статистический анализ;1
+open source;1
+Видеопоток;1
+Unreal engine 4;1
+QtCreator;1
+C/C++C++ООП;1
+Windows API;1
+FirebirdSQL;1
+FreeSwitch;1
+Kamalio;1
+Linux API;1
+DPI;1
+VPN;1
+builder;1
+железо;1
+WinApi;1
+Преподаватель;1
+Деловая коммуникация;1
+C ++;1
+Azure;1
+машинное обучение;1
+реверс-инжиниринг;1
+системный программист;1
+Qt Mode;1
+Математика;1
+Алгоритмический базис;1
+Linux platform;1
+programming for Windows;1
+programming for Mac;1
+Reverse-engineering;1
+VLAN;1
+IP routing;1
+Local IP access networks;1
+английский технический;1
+работа со звуком (Alsa);1
+Graphics;1
+CRUD;1
+Data fusion;1
+Теория графов;1
+Autonomous driving;1
+Perception;1
+Автономный транспорт;1
+Localization;1
+Структуры данных;1
+Mathematical Programming;1
+UE;1
+Shaders;1
+OpenSceneGraph;1
+OpenGL up to 4.6;1
+COM/ATL;1
+Make;1
+инженер-программист;1
+GLSL;1
+Mali;1
+H264/H265;1
+MQ;1
+NAT;1
+VMS;1
+USB/COM;1
+Разработка проектной документации;1
+Постановка задач разработчикам;1
+ARM Cortex-M;1
+Маркетинговый анализ;1
+Cosmetology;1
+Real-time;1
+Physics;1
+Simulation;1
+MSVC;1
+RTMP;1
+Nintendo Switch;1
+Video;1
+Streaming;1
+Swift;1
+Cryptocurrency;1
+Арбитраж;1
+Биржа;1
+HLSL;1
+CG;1
+Transact-SQL;1
+game development;1
+программирование микроконтроллеров;1
+Embedded Software;1
+Enterprise Architect;1
+LabVIEW;1
+SCADA;1
+Разработка нового продукта;1
+backend;1
+RxCpp;1
+Ajax;1
+JSON API;1
+Администрирование серверов Linux;1
+Django Framework;1
+Flask;1
+SLAM;1
+MSP430;1
+CodeComposer Studio;1
+Modbus;1
+ZigBee;1
+AI;1
+DNN;1
+Microsoft Access;1
+Мобильность;1
+C++ developer;1
+Торговые роботы;1
+Алготрейдинг;1
+Криптовалюта;1
+Трейдинг;1
+Cmake;1
+С++ 14/17;1
+Mac;1
+Мобильные приложения;1
+Десктопные приложения;1
+Графический интерфейс пользователя;1
+Сбор и анализ информации;1
+Многозадачность;1
+webassembly;1
+raspberry pi;1
+Tizen OS;1
+Tizen;1
+Rest API;1
+STUN;1
+Yii;1
+P2P;1
+ceph;1
+нейронные сети;1
+openCV;1
+Vulcan;1
+Computer Graphics;1
+руководство командой разработчиков;1
+Руководство коллективом;1
+Gstreamer;1
+инженер-программист с навыками в создании прикладного ПО на С/С++ для ипользования в ОС Linux x86_64;1
+Big Data;1
+TEE;1
+WebSockets;1
+Adobe Dreamweaver;1
+Вычислительная геометрия;1
+Оптимизация алгоритмов;1
+Параллельные вычисления;1
+Вычислительная математика;1
+Уверенный пользователь Linux;1
+C/С++;1
+U-boot;1
+UnrealEngine;1
+проектирование архитектуры системы;1
+Data Mining;1
+разработка ПО верхнего уровня для устройств беспроводного широкополосного доступа;1
+ПО на C/C++;1
+Unix,Linux, RTOS ,RTEMS, VxWorks;1
+L2-коммутации, динамической маршрутизации, QoS;1
+HTTP, SNMP, NAT;1
+GIT, SVN, CVS,;1
+C++ 17;1
+Virtual Reality;1
+GIS;1
+VR;1
+Unity 3D;1
+computational geometry;1
+GUL;1
+Автоматизация тестирования;1
+MySQL GUI Tools;1
+ArcGIS;1
+MapInfo Professional;1
+Панорама;1
+АСУ ТП;1
+MS Visio;1
+Qt5.6;1
+MS Project Expert;1
+Skype;1
+ARV;1
+STM8 / STM32;1
+Game Dev;1
+Mobile games;1
+programming;1
+Unreal;1
+KDE;1
+team leader;1
+SDLC;1
+Асинхронное программирование;1
+Управление отношениями с клиентами;1
+Backend;1
+Управление командой;1
+iOS SDK;1
+Тестирование;1
+Rendering;1
+вычислительная геометрия;1
+Точность и внимательность к деталям;1
+Multithreding Programming;1
+Ansible;1
+Ceph/S3;1
+LDAP;1
+spirit;1
+KasperskyOS;1
+QA;1
+Project management;1
+cuda;1
+TensorFlow;1
+Нейросети;1
+Системы видеонаблюдения;1
+buildroot;1
+yocto;1
+Ubuntu;1
+PHP;1
+Google Chrome;1
+LTE;1
+Bluetooth;1
+Compilers;1
+Hightload;1
+Многопоточные приложения;1
+Реляционные БД;1
+Firebase;1
+Typescript;1
+Embedded developer;1
+SWIFT Alliance;1
+self-driving cars;1
+Планирование;1
+разработка;1
+planner;1
+AutoCAD;1
+Рефакторинг кода;1
+TFS/git;1
+ПЛИС(FPGA);1
+ARINC;1
+Cocos 2dx;1
+embedded;1
+Windows Server;1
+reactJS;1
+react.js;1
+AngularJS;1
+vuejs;1
+vue.js;1
+Wildfly;1
+wasm;1
+EMV;1
+NFC;1
+Yocto;1
+Первичные документы;1
+беспилотник;1
+беспилотные автомобили;1
+PON;1
+Корпоративная этика;1
+Логический склад ума;1
+Verilog HDL;1
+MSI;1
+Wix Toolset;1
+Standard Library;1
+RabbitMQ;1
+MQTT;1
+Разработка под микроконтроллеры;1
+Kubernetes;1
+Mathematical Modeling;1
+C++17;1
+Perl;1
+webRTC;1
+WinDBG;1
+Crash Dump;1
+Windows Forms;1
+DCS;1
+вооружение;1
+САОД;1
+Network;1
+Бизнес-анализ;1
+Планирование карьеры;1
+API;1
