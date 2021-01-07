@@ -1,0 +1,818 @@
+tag,count
+JavaScript,1487
+CSS,702
+Git,680
+HTML,592
+HTML5,498
+CSS3,409
+jQuery,371
+React,314
+PHP,309
+MySQL,303
+Node.js,269
+AngularJS,171
+ООП,168
+Bootstrap,131
+SQL,125
+PostgreSQL,119
+TypeScript,114
+Ajax,112
+Английский — B1 — Средний,110
+Redux,107
+Sass,104
+Less,102
+Linux,94
+1С-Битрикс,91
+PHP5,84
+REST,66
+CMS Wordpress,61
+Vue.js,60
+MongoDB,60
+Английский язык,58
+Angular,58
+Adobe Photoshop,53
+MVC,52
+Vue,51
+react,51
+Python,49
+Английский — B2 — Средне-продвинутый,49
+Веб-программирование,46
+Typescript,44
+Java,44
+Yii,42
+C#,42
+React.js,42
+Webpack,42
+MS SQL,39
+Atlassian Jira,38
+ReactJS,37
+Laravel,36
+ASP.NET,33
+Английский — A1 — Начальный,32
+Кроссбраузерная верстка,31
+Docker,29
+Работа в команде,28
+redux,28
+Redis,27
+Gulp,27
+XML,26
+Symfony,25
+Angular 2+,25
+Nginx,24
+Верстка,24
+vue.js,24
+ES6,22
+Управление проектами,21
+MS SQL Server,21
+Scrum,20
+API,19
+Английский — A2 — Элементарный,18
+SCSS,18
+Django Framework,17
+Agile Project Management,17
+webpack,16
+VueJS,16
+Английский — C1 — Продвинутый,16
+UI,16
+JSON API,15
+GraphQL,15
+RxJS,15
+SPA,15
+REST API,15
+SVN,15
+vue,15
+Joomla CMS,15
+PHP7,14
+Frontend,14
+React Native,14
+typescript,13
+Vuex,13
+.NET Framework,13
+Базы данных,12
+SEO,12
+JS,12
+Создание сайтов,11
+Пользователь ПК,11
+UX,11
+Разработка ПО,10
+Unix,10
+CRM,10
+RESTful,10
+phpMyAdmin,10
+Администрирование сайтов,10
+Figma,10
+Ext JS,9
+Redmine,9
+laravel,9
+Работа с базами данных,9
+CI/CD,9
+Design Patterns,9
+Next.js,8
+WebGL,8
+Web Application Development,7
+Entity Framework,7
+Jetbrains Phpstorm,7
+Bash,7
+HTTP,7
+UML,6
+*NIX,6
+Управление командой,6
+web-development,6
+Canvas,6
+Android,6
+Express,6
+JSON,6
+Адаптивная верстка,6
+ES6+,6
+Yii2,6
+frontend,6
+SOAP,6
+Ruby On Rails,6
+NoSQL,6
+Nuxt.js,6
+Adobe Illustrator,6
+Jenkins,6
+Drupal API,6
+Информационные технологии,6
+Backbone,6
+Vue.JS,6
+front-end,6
+Express.js,5
+Web,5
+БЭМ,5
+Mac Os,5
+Разработка нового продукта,5
+ReactJs,5
+Умение работать в команде,5
+Zend Framework,5
+Codeigniter,5
+Администрирование серверов Linux,5
+NPM,5
+SVG,5
+Jest,5
+SSR,5
+RabbitMQ,5
+Backend,5
+ES5,4
+FrontEnd,4
+figma,4
+Мобильность,4
+C++,4
+Преподаватель,4
+Русский — C2 — В совершенстве,4
+Unity,4
+nuxt,4
+Разработка технических заданий,4
+Atlassian Confluence,4
+MS Visual Studio,4
+Teamleading,4
+Грамотность,4
+Elasticsearch,4
+Spring Framework,4
+React JS,4
+Ruby,4
+WebSockets,4
+Unit Testing,4
+Kubernetes,4
+Sketch,4
+ModX,4
+Rest API,4
+es6,4
+Управление временем,4
+Apache HTTP Server,4
+Memcached,4
+CorelDRAW,3
+JavaScript ( Knockout ),3
+Front-end,3
+Angular2+,3
+VueJs,3
+Saga,3
+Hibernate ORM,3
+Nest.js,3
+BEM,3
+С#,3
+MS Movie Maker,3
+Web-дизайн,3
+ORM,3
+Mercurial,3
+ReactNative,3
+Perl,3
+npm,3
+Microsoft Visual Studio,3
+React.JS,3
+Grunt,3
+Elastic Search,3
+D3.js,3
+scss,3
+Shopify,3
+Stylus,3
+react.js,3
+Тестирование,3
+Nuxt,3
+WebPack,3
+SOLID,3
+Ubuntu Server,3
+FreeBSD,3
+yii2,3
+Teambuilding,3
+php 7,3
+MobX,3
+GSAP,3
+GitHub,3
+Vue.Js,3
+clickhouse,3
+СУБД,3
+CoffeeScript,3
+ExtJS,3
+iOS,3
+Многозадачность,3
+vuex,3
+ECMAScript 2015,3
+WebSocket,3
+Magento,3
+Agile,3
+AWS,3
+Pixi,3
+ASP.NET MVC,3
+TFS,2
+Ответственность,2
+Multithread Programming,2
+Работа с большим объемом информации,2
+Three.js,2
+Axios,2
+PUG,2
+MS Office,2
+Vuejs,2
+PostCSS,2
+LINQ,2
+React-router,2
+Reаct JS,2
+OAuth,2
+remote,2
+Vuetify,2
+reactJS,2
+Modx Revolution,2
+внимательность,2
+C/C++,2
+WCF,2
+Intellij IDEA,2
+Reace,2
+CouchDB,2
+Google Analytics,2
+MS Project,2
+Творческое мышление,2
+opencart,2
+SignalR,2
+Web Design,2
+Английский - B2 - средне-продвинутый,2
+Redux-Saga,2
+Scss,2
+React Router,2
+Jira,2
+Coffeecup HTML Editor,2
+Golang,2
+MS Outlook,2
+Аналитическое мышление,2
+Веб-аналитика,2
+SPA frameworks,2
+Bower,2
+GitLab,2
+JSX,2
+Kotlin,2
+SQL Server,2
+stylus,2
+pug,2
+OpenLayers,2
+Грамотная речь,2
+PostGIS,2
+Google Chrome,2
+.net core,2
+VUE,2
+React Js,2
+angular,2
+cs-cart,2
+Графические редакторы,2
+.NET Core,2
+Angular2,2
+WebRTC,2
+MS SharePoint,2
+"JavaScript , HTML, JQuery, CSS",2
+Документооборот,2
+Angular 5+,2
+NgXs,2
+Креативность,2
+PHP4,2
+PixiJS,2
+Bitbucket,2
+Vue 2,2
+Английский — C2 — В совершенстве,2
+Opencart,2
+vuejs,2
+rxjs,2
+Api Bitrix,2
+Ubuntu,2
+Apache Maven,2
+NodeJS,2
+Планирование карьеры,2
+Electron,2
+оформление документации,2
+PHP 7,2
+express,2
+Microsoft Access,2
+Flexbox,2
+Web API,2
+kendo,2
+Cистемы управления базами данных,2
+Rx,2
+Cordova,2
+DevOps,2
+Pascal,2
+Mobx,2
+koa,2
+OctoberCMS,2
+Transact-SQL,2
+NRWL,2
+Согласование договоров,1
+code review,1
+REACT,1
+Reselect,1
+Cypress,1
+eloquent orm,1
+Karma,1
+Анализ данных,1
+amoCRM,1
+Работа с документами,1
+php-программист,1
+работа с сайтом,1
+php-программирование,1
+GO,1
+Google Firebase,1
+Сanvas,1
+JIRA,1
+ECMAScript,1
+Наполнение контентом,1
+Laminas,1
+modx,1
+planfix,1
+Redux.js,1
+Яндекс.Метрика,1
+Webhooks,1
+ES6/ES7,1
+Javascript (ES6+),1
+QA,1
+Абсолютная верстка,1
+extjs,1
+OpenCart,1
+React hooks,1
+retina,1
+BitBucket,1
+VueNative,1
+SaaS,1
+THREE.js,1
+Babylon.js,1
+Postcss,1
+KendoUI,1
+Server Side Rendering,1
+Angular 2,1
+NativeJS,1
+Умение разбираться в чужом коде,1
+Валидная верстка,1
+Riak,1
+CMS 1С Битрикс,1
+Контроль качества,1
+разработка программного кода,1
+bitrix,1
+разработка алгоритмов,1
+DRUPAL,1
+Cassandra,1
+XHTML,1
+Nest,1
+Паттерны проектирования,1
+cs cart,1
+VR,1
+Анимация,1
+Наставничество,1
+Умение верстать сайты,1
+Поиск информации в интернет,1
+Front End web разработка,1
+Project Expert,1
+redux-saga,1
+Amazon Web Services,1
+websockets,1
+Reacr,1
+Немецкий язык,1
+разработка архитектуры решения,1
+MODX,1
+Amber,1
+web-разработчик,1
+Фотография,1
+Графический дизайн,1
+Software Development,1
+symphony,1
+elasticsearch,1
+JavaScript (ES5/ES6),1
+Butbucket,1
+go,1
+golang,1
+JavaScrip,1
+WEB Api,1
+WPF,1
+Redux/Mobx,1
+React Testing Library,1
+Enzyme,1
+удалённая работа,1
+Ретушь,1
+Adobe Lightroom,1
+разработчик web-сайта,1
+Dart,1
+TweenMax,1
+База данных: Oracle,1
+Team management,1
+Helpdesk,1
+ABAP,1
+Управление рисками,1
+Автоматизация технологических процессов,1
+Test case,1
+Time management,1
+Bug Reporting,1
+Regressive testing,1
+Тестирование пользовательского интерфейса,1
+JUnit,1
+bash scripting,1
+Business English,1
+Высоконагруженные системы,1
+it,1
+ES5+,1
+UI\UX,1
+Akita,1
+HTML 5,1
+1С: Управление Торговлей,1
+1С программирование,1
+1С: Бухгалтерия,1
+Type Script,1
+Java Sсript,1
+Ведение документации,1
+Деловая этика,1
+Деловая переписка,1
+ClickHouse,1
+Интернет-реклама,1
+Телефонные переговоры,1
+bempug,1
+gitflow,1
+TypeScript 3.5+,1
+Angular 8+,1
+Руководство коллективом,1
+Core3,1
+Azure,1
+Express.js / koa.js,1
+Nest js,1
+JSP,1
+Analytical skills,1
+XML/Xslt,1
+Razor,1
+MariaDB,1
+CI\CD,1
+Erlang,1
+Gatsby.js,1
+Video.js,1
+Rocket.Chat,1
+Netlify,1
+EmberJS,1
+Spring Boot,1
+Front End,1
+xamarin,1
+Telegram,1
+Net Core,1
+Celery,1
+VUE.JS,1
+Vue-route vue-cli,1
+CI,1
+.NET,1
+Visual Studio C#,1
+Nextjs,1
+Технический английский,1
+meteor.js,1
+программист,1
+разработка сайта,1
+IP телефония,1
+Разработка CMS,1
+vue js,1
+Веб-дизайн,1
+Обучение,1
+Администрирование,1
+PHP-разработчик junior,1
+Back-End Developer со знанием Front-End,1
+UI Kit,1
+RxJs,1
+Opera,1
+Расстановка приоритетов,1
+1С: Документооборот,1
+верстальщик,1
+Разработчик,1
+Vue-route,1
+vue-cli,1
+Adobe Dreamweaver,1
+scss/sass,1
+npm/yarn,1
+Apollo,1
+react native,1
+Flash MySQL,1
+ORACLE,1
+Dhemlx,1
+Full-stack,1
+back-end,1
+Javascriptdeveloper,1
+Frontenddeveloper,1
+Backenddeveloper,1
+Fullstack,1
+Node.js-Vue,1
+Казахский — C2 — В совершенстве,1
+redax,1
+react js,1
+Lavarel,1
+"TypeScript, MVC, Gulp, Grant, Node.js",1
+Drupal 8,1
+TypeScrypt,1
+GoLang,1
+Администрирование серверов Windows,1
+Legacy,1
+GRASP,1
+Узбекский — A2 — Элементарный,1
+full stack,1
+front end,1
+back end,1
+MVVM,1
+Clean Architecture,1
+● jQuery,1
+unit-тест,1
+Good communication skills,1
+JWT,1
+Управленческие навыки,1
+Проектирование пользовательских интерфейсов,1
+php-fpm,1
+Pixi.js,1
+программирование,1
+AEM,1
+Paper.js,1
+Internet,1
+Databases,1
+VCS Git,1
+Express JS,1
+Swift,1
+StyledComponents,1
+DOMObject,1
+ASYNC,1
+Ревью кода,1
+E-Commerce,1
+Tailwind CSS,1
+Restful API,1
+Headless CMS,1
+JavaScript Engineer,1
+Software Developer,1
+Инженер-программист,1
+RestAPI,1
+Websocket;,1
+Vue.js/Nuxt.js,1
+ES2016,1
+кроссбраузерность,1
+reactjs,1
+MS Publisher,1
+Unity3d,1
+Polymer 3.0,1
+Back-end,1
+Laravel 5.3,1
+Audacity,1
+Vue Router,1
+Material UI,1
+FirebirdSQL,1
+frontend фреймворк,1
+open source,1
+JavaScript (ES6),1
+nunjucks,1
+swagger,1
+HighCharts,1
+Angular CLI,1
+SmartTV,1
+Liferay,1
+vue native,1
+про-активность,1
+разработка пользовательских интерфейсов,1
+SEO оптимизация,1
+Управление разработкой,1
+Leadership Skills,1
+Flow,1
+Умение работать в коллективе,1
+SailsJS,1
+asp.net core,1
+Quasar Framework,1
+SASS/SCSS,1
+Webpack 4,1
+SQLAlchemy,1
+Sanic,1
+AIOHTTP,1
+Flask,1
+Business Intelligence Systems,1
+Бизнес-анализ,1
+Рефакторинг,1
+Оптимизация кода,1
+оптимизация верстки,1
+Webpack 2,1
+Аналитический склад ума,1
+single page applications,1
+Framework7,1
+блокчейн,1
+OOP,1
+Laravel Framework,1
+Навыки межличностного общения,1
+ScrollMagic,1
+GLSL,1
+Anime.js,1
+Работа с проблемными активами,1
+CMS Bitrix,1
+ElesticSearch,1
+Anime.JS,1
+Системное мышление,1
+three.js,1
+flexbox,1
+grunt,1
+Meteor,1
+Apache Tomcat,1
+Работа с жалобами клиентов,1
+веб-анимация,1
+адаптивная верстка,1
+web-разработка,1
+BusyBox,1
+api bitrix,1
+Rect,1
+bem,1
+js,1
+XSLT,1
+Phaser,1
+Haxe,1
+Effector,1
+ECMA6/7,1
+solidity,1
+express.js,1
+a11y,1
+gamedev,1
+Game Programming,1
+Hooks,1
+React Hooks,1
+Svelte,1
+SASS / LESS,1
+Async / Await,1
+enzyme,1
+jest,1
+JS (es6),1
+reselect,1
+immutableJs,1
+GIMP,1
+Inkscape,1
+API BITRIX,1
+Фреймворк,1
+Socket IO,1
+NativeScript,1
+Native Script,1
+Владение JavaScript,1
+Опыт разработки на PHP,1
+Знакомство с реляционными базами данных,1
+Знание и опыт вёрстки HTML,1
+Дисциплинированность,1
+Способность быстрого погружения в различные предметные области,1
+Codelgniter Framework,1
+Internet Marketing,1
+ElasticSearch,1
+Zeplin,1
+Smarty,1
+InfluxDB,1
+Full stack,1
+Pug,1
+Материальная ответственность,1
+vanilla JS,1
+SQLite,1
+ci/cd,1
+React.Js,1
+SapUI,1
+ssr,1
+Оптимизация бизнес-процессов,1
+netcat,1
+NgRx,1
+Обучение и развитие,1
+"CSS, верстка сайтов и приложений",1
+Anagular2+,1
+ADO.NET,1
+NET Core,1
+ERP,1
+Reасt JS,1
+ionic,1
+JavaScript ES6,1
+Skype,1
+ECMAS6,1
+CMS Opencart,1
+backend,1
+битрикс24,1
+nestjs,1
+canvas,1
+pixi.js,1
+NestJS,1
+TeamCity,1
+Bitrix,1
+Корпоративная этика,1
+Angular Material,1
+Организация конференций,1
+Web разработка,1
+Flow.js,1
+Styled-components,1
+Redux-saga,1
+HTML5+,1
+CSS3+,1
+CSS3/SASS,1
+Frontend-разработка,1
+Kanban,1
+Blade,1
+Twig,1
+Система контроля верстки,1
+NodeJS (Express),1
+Angular JS,1
+Vue JS,1
+ExpressJs,1
+1C Bitrix,1
+ModX Revolution,1
+GitFlow,1
+увлеченность программированием,1
+желание обучаться,1
+JavaScript(Jquery),1
+EntityFramework,1
+MSSQL,1
+Paper js,1
+"HTML5, CSS3, jQuery, flex, БЭМ, Git, Gulp, SCSS, SASS, JavaScript, пиксель перфект;",1
+Программирование,1
+BPWin,1
+Организация семинаров,1
+Grunt/Gulp,1
+Reviewing,1
+Точность и внимательность к деталям,1
+CMS,1
+Web extension,1
+Асинхронное программирование,1
+Openshift,1
+Go,1
+php7,1
+Проведение опросов,1
+Организаторские навыки,1
+socket.io,1
+React-Native,1
+websocket,1
+Webapi,1
+Bitrix Framework,1
+Русский — C1 — Продвинутый,1
+Nuxtjs,1
+Android SDK,1
+NGRX,1
+Websocket,1
+Tailwind,1
+WP Codex,1
+Сomposer,1
+Symfony3,1
+PSR-4,1
+PSR-2,1
+PSR-1,1
+Планирование,1
+React js,1
+Angular 2/4,1
+MODx Revolution,1
+Оперативность,1
+userscript,1
+Node Package Manager,1
+.net Core,1
+MS Visio,1
+"Linux, Apache, Nginx, Laravel, VueJS, OOP",1
+"MySQL,",1
+"PHP7,",1
+"php, mysql, javascript, html5, css3",1
+Е2Е,1
+Unit-тестирования,1
+Lua,1
+Subversion,1
+React/Redux,1
+"Javascript/Typescript (ReactJS, Redux), HTML5, CSS3",1
+Adobe InDesign,1
+Angular 7,1
+Angular 6,1
+Websokets,1
+Quasar,1
+Tilda,1
+Video Streaming,1
+RTMP,1
+HLS,1
+Django,1
+Разработка сайтов,1
+Socket.io,1
+TypeScipt,1
+Leaflet,1
+Bitbucket pipelines,1
+Turbo Pascal,1
+Selenium,1
+Adobe Experience Manager,1
+MS PowerPoint,1
+es5,1
